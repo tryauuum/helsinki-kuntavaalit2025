@@ -1,0 +1,215 @@
+{
+  "id": 1874,
+  "first_name": "Oona",
+  "last_name": "Hagman",
+  "election_number": 619,
+  "party_id": 8,
+  "image": "kuvat/akv2025/1874/83d911de-f675-47e3-914f-5e21995fab9f",
+  "constituency_id": 25,
+  "video": "1-73834587",
+  "video_aspect": "1:1",
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 45,
+      "background_info_id": 10,
+      "name_fi": "En vasemmalle enkä oikealle",
+      "name_sv": "Varken vänster eller höger",
+      "name_en": "Neither to the right or the left",
+      "name_ru": "Ни слева, ни справа",
+      "name_sme": "In gurut inge olgeš guvlui",
+      "name_ara": "لا إلى اليسار ولا إلى اليمين",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "KAUPUNKIYMPÄRISTÖ JA KULTTUURI \n\nKulttuurin kuuluu iskeä – ei leikkurin. Tuetaan kulttuurialaa ja luovia toimijoita, jotta myös tulevat sukupolvet voivat kokea monipuolisia elämyksiä ja olla osa elinvoimaista kaupunkikulttuuria. Kestävää ja viihtyisää Helsinkiä rakennetaan ympäristöä kunnioittaen.\n",
+      "se": "STADSMILJÖ OCH KULTUR\n\nKulturen skapar tillväxt – inte nedskärningar. Vi måste stödja kultursektorn och kreativa aktörer för att även kommande generationer ska få uppleva en mångsidig och levande stadskultur. Vi bygger ett hållbart och trivsamt Helsingfors med respekt för miljön. ",
+      "en": "URBAN ENVIRONMENT AND CULTURE\n\nCulture strikes – not as a target for cuts. We strengthen culture and communities by supporting the cultural sector and creative industries, ensuring that future generations can experience and contribute to a thriving urban culture. Let’s build a more sustainable and vibrant city, with a genuine respect for the environment.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1982,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      }
+    ],
+    "education": {
+      "id": 54,
+      "background_info_id": 16,
+      "name_fi": "joku muu",
+      "name_sv": "någon annan examen",
+      "name_en": "Other",
+      "name_ru": "другое",
+      "name_sme": "muhtin eará",
+      "name_ara": "مستوى دراسي آخر",
+      "target_value": 6,
+      "name_ukr": "інше",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Oikeudenmukaisuus – jokainen ansaitsee reilun kohtelun ja yhdenvertaiset mahdollisuudet. \nVastuullisuus – oman toiminnan seurausten kantaminen ja kestävien valintojen tekeminen. \nPerhe ja läheiset ihmissuhteet – luottamus, empatia ja yhteenkuuluvuus. \nLuovuus ja innovaatio – uusien ajatusten ja ratkaisujen kehittäminen. \nRohkeus – valmius kohdata haasteita ja puolustaa omia arvoja. ",
+      "se": "Rättvisa – var och en förtjänar rättvis behandling och lika möjligheter. \nAnsvar – att ta ansvar för konsekvenserna av sina handlingar och fatta hållbara beslut. \nFamilj och nära relationer – tillit, empati och samhörighet. \nKreativitet och innovation – att utveckla nya idéer och lösningar. \nMod – förmågan att möta utmaningar och stå upp för sina värderingar. ",
+      "en": "Justice – everyone deserves fair treatment and equal opportunities. \nResponsibility – taking ownership of one's actions and making sustainable choices. \nFamily and close relationships – trust, empathy, and a sense of belonging. \nCreativity and innovation – developing new ideas and solutions. \nCourage – willingness to face challenges and stand up for one's values. ",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "PERHEET JA NUORET\n\nLasten ja nuorten hyvinvointi on kaupungin tärkein investointi. Varmistetaan kaikille nuorille laadukas koulutus ja turvallinen kasvuympäristö.",
+      "se": "FAMILJER OCH UNGA\n\nBarns och ungas välbefinnande är stadens viktigaste investering. Vi ska säkerställa att alla unga får en högkvalitativ utbildning och en trygg uppväxtmiljö.",
+      "en": "FAMILIES AND YOUTH\n\nThe well-being of children and youth is the city's most important investment. We must ensure access to quality education and provide a safe environment for them to grow up in.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 23,
+      "background_info_id": 8,
+      "name_fi": "ruotsi",
+      "name_sv": "Svenska",
+      "name_en": "Swedish",
+      "name_ru": "шведский",
+      "name_sme": "ruoŧagiella",
+      "name_ara": "السويدية",
+      "target_value": null,
+      "name_ukr": "шведська",
+      "name_som": "af-Iswiidhish"
+    },
+    "homepage_url": "https://oonahagman.com/",
+    "facebook_url": "https://www.facebook.com/oona.hagman/",
+    "instagram_url": "https://www.instagram.com/oonahagman/",
+    "X_url": null,
+    "municipality_fix": {
+      "fi": "Ei kauniita korulauseita, vaan konkreettisia ratkaisuja. Rakennetaan toimivaa ja viihtyisää kaupunkia yhdessä – tillsammans! Lue ratkaisuista sivustollani: oonahagman.com",
+      "se": "Inga floskler, utan konkreta lösningar. Låt oss bygga en funktionell och trivsam stad – tillsammans! Läs om lösningarna på min webbplats: oonahagman.com",
+      "en": "No platitudes, only concrete solutions. Let’s build a functional and vibrant city – together! Read about the solutions on my website: oonahagman.com",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Helsingin kaupungin varavaltuutettu ja valtuustoryhmän jäsen, Helsingin sosiaali-, terveys- ja pelastuslautakunnan varajäsen, Helsingin kulttuuri- ja vapaa-aikalautakunnan varajäsen, Helsingin digitalisaatiotoimikunnan jäsen sekä RKP:n piirihallituksen ja kulttuuripoliittisen työryhmän jäsen",
+      "se": "Suppleant i Helsingfors stadsfullmäktige, medlem i SFP:s fullmäktigegrupp, suppleant i social-, hälso- och räddningsnämnden, suppleant i Helsingfors stads kultur- och fritidsnämnd, ordinarie medlem i Helsingfors stads digitaliseringskommitté samt ledamot i SFP:s kretsstyrelse och kulturpolitiska arbetsgrupp",
+      "en": "Deputy Council Member of the Helsinki City Council and a member of the Swedish People's Party Council Group. Deputy member of the Helsinki City Social Services, Health Care and Rescue Services Committee; the Culture and Leisure Committee; the Digitalisation Committee; as well as the Swedish People's Party District Board and the Cultural Policy Working Group",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": "suomi",
+      "se": "finska",
+      "en": "Finnish ",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": "YRITTÄJYYS JA TYÖELÄMÄ\n\nYrittäjät luovat kaupungin elinvoiman. Kannustetaan yrittäjyyttä, sujuvoitetaan byrokratiaa ja edistetään innovaatioita sekä erityisesti pienten yritysten kasvua. Helsingin kaupungin tulee tarjota turvallinen alusta yrittäjyydelle.",
+      "se": "FÖRETAGANDE OCH ARBETSLIV\n\nFöretagare skapar stadens livskraft. Vi ska uppmuntra företagande, förenkla byråkratin och främja innovationer samt särskilt små företags tillväxt. Helsingfors stad ska erbjuda en trygg grund för företagande.",
+      "en": "ENTREPRENEURSHIP\n\nEntrepreneurs create the city's vitality. We need to encourage entrepreneurship, streamline bureaucracy, and promote innovation—especially the growth of small businesses. The City of Helsinki must provide a stable and secure foundation for entrepreneurship.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Helsingin kaupungin varavaltuutettu ja valtuustoryhmän jäsen, Helsingin sosiaali-, terveys- ja pelastuslautakunnan varajäsen, Helsingin kulttuuri- ja vapaa-aikalautakunnan varajäsen, Helsingin digitalisaatiotoimikunnan jäsen sekä RKP:n piirihallituksen ja kulttuuripoliittisen työryhmän jäsen",
+      "se": "Suppleant i Helsingfors stadsfullmäktige, medlem i SFP:s fullmäktigegrupp, suppleant i social-, hälso- och räddningsnämnden, suppleant i Helsingfors stads kultur- och fritidsnämnd, ordinarie medlem i Helsingfors stads digitaliseringskommitté samt ledamot i SFP:s kretsstyrelse och kulturpolitiska arbetsgrupp",
+      "en": "Deputy Council Member of the Helsinki City Council and a member of the Swedish People's Party Council Group. Deputy member of the Helsinki City Social Services, Health Care and Rescue Services Committee; the Culture and Leisure Committee; the Digitalisation Committee; as well as the Swedish People's Party District Board and the Cultural Policy Working Group",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

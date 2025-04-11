@@ -1,0 +1,186 @@
+{
+  "id": 4344,
+  "first_name": "Sirpa",
+  "last_name": "Puhakka",
+  "election_number": 170,
+  "party_id": 7,
+  "image": "kuvat/akv2025/4344/edeb1f76-aa33-49bd-b617-385ed13aee0e",
+  "constituency_id": 25,
+  "video": "1-73820578",
+  "video_aspect": "1:1",
+  "video_description_fi": "Haluan puolustaa oikeutta turvalliseen ja yhdenvertaiseen elämään. Se tarkoittaa arkisia asioita, kuten että terveyskeskukseen pääsee maksutta ja jonottamatta. Omaishoitajat voivat pitää vapaapäivänsä ja ja heidän palkkioitaan nostetaan. Yksikään vanhus ei jää yksin ja yksinäisenä kotiin vailla hoitoa. Eikä yksikään ihminen joudu arpomaan, riittävätkö rahat ruokaan vai lääkkeisiin. Juokkoliikenteen pitää olla esteetön. Rannoilla metsissä tulee päästä kulkemaan vapaasti - esteettömästi.",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 43,
+      "background_info_id": 10,
+      "name_fi": "Vasemmalle",
+      "name_sv": "Till vänster",
+      "name_en": "On the left",
+      "name_ru": "Слева",
+      "name_sme": "Gurut guvlui",
+      "name_ara": "اليسار",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Kaupungin työntekijöiden arvostus tulee näkyä palkoissa. Kaupungin on jatkettava palkkaohjelmaa ja korotettava pienipalkkaisten kaupungin työntekijöiden palkkoja, esimerkiksi päiväkotien, esikoulun, opettajien, vanhushoivan ja terveydenhuollon työntekijöiden palkkoja. Omaishoitajien raskasta työtä tulee arvostaa. Palkkioita tulee nostaa ja vapaapäiviksi varmistaa sijaishoito. Omaishoitajien vapaapäiviä tulisi lisätä neljään päivään per kuukausi. \n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1956,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Yhdenvertaisuus: Kaikilla ihmisillä tulee olla yhdenvertaiset mahdollisuudet elää hyvää elämää Helsingissä iästä, sukupuolesta, etnisestä taustasta tai asuinalueesta riippumatta. Työttömille tämä tarkoittaa työttömyysturvaa. Vammaisille ihmisille vammaispalvelulain mukaisia palveluja. Lapsille ja nuorille oppimis- ja harrastusmahdollisuuksia.\nTasa-arvo: Sukupuolten tasa-arvo ei ole edelleenkään toteutunut. Erot näkyvät arvostuksessa ja palkoissa.\nVälittäminen: Yksikään vanhus ei saa jäädä oman onnensa nojaan yksinäisenä kotiinsa. \nSolidaarisuus: Verotuksella tulee tasata tuloeroja. Sosiaaliturva on pidettävä kunnossa. Yksikään ihminen ei saa joutua arpomaan rahojen riittämistä lääkkeiden ja ruuan välillä. Tai joutua leipäjonoon tai asunnottomaksi.\nElämisen ja liikkumisen ilo: Helsingissä tulee voida liikkua esteettömästi – myös lähiluonnossa ja rannoilla. Kulttuurin harrastaminen eri muodoissa on merkittävä osa elämää. \nTyön arvostaminen: Työntekijöiden arvostus tulee näkyä palkoissa. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "\nHaluan vaikuttaa valtuustossa, jotta Helsingissä pääsee terveyskeskukseen jonottamatta ja jatkossakin maksutta. Kannatan lämpimästi omalääkärimallia. Tiimiin mukaan myös sairaanhoitoa, fysiatriaa, geriatriaa, mielenterveyspalveluja ja päihdeosaamista. Kiireettömään hoitoon lääkärille tulee päästä kahdessa viikossa, nyt tavoiteaika on maksimissaan 30 päivää.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "facebook_url": "https://www.facebook.com/sirpa.puhakka.7",
+    "municipality_fix": {
+      "fi": "Aivan aluksi tällä vaalikoneella kysyttiin vaalilupauksia. Omat vaalilupaukseni ovat pääosin hyvin konkreettisia, joihin voin vaikuttaa esimerkiksi tekemällä valtuustoaloitteita. \nKaikkein vaikuttavinta on tehdä yhteistyötä oman valtuustoryhmän ja muiden valtuutettujen kanssa. Yksin asioiden kuntoon laittaminen ei onnistu.\nAsumisen hinta ja kohtuuhintaisten asuntojen tarjonta on tärkeä koko valtuuston hanke. Asunnottomuuden vähentäminen uhkaa karata käsistä. \nPienituloisten toimeentulon turvaamista pitää helpottaa harkinnanvaraisella toimeentulotuella ja poistamalla sotemaksut heiltä. Nyt leipä- ja ulosottojonot kasvavat.\nKaupungin on tuettava työpaikkojen luontia. Työllistyminen edesauttaa kaupungin veropohjan kasvattamista. Esteetöntä joukkoliikennettä, jalankulkua ja pyöräilyä on tuettava.\nKoulupudokkuus tulee estää. Päivähoidon ryhmäkoot tulee pitää lapsille ja työntekijöille inhimillisinä.  \nIlmastonmuutoksen torjunta on oltava läpäisyperiaatteella mukana päätöksenteossa.\n ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Helsingin vammaisneuvoston puheenjohtaja. Omaishoitojärjestön hallituksen varapuheenjohtaja, tuettuja lomia tuottavan järjestön hallituksen jäsen ja pienen teatterin hallituksen jäsen.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Haluan puolustaa oikeutta turvalliseen ja yhdenvertaiseen elämään. Helsingissä on paljon hyvää, mutta paljon riittää korjattavaa. Muutos parempaan on tehtävä. Helsinkiläiset ansaitsevat turvallisen asuinympäristön ja hyvät palvelut. Kaupungin on torjuttava ilmastonmuutosta ja pidettävä kiinni luonnon monimuotoisuudesta. Kaupunkilaisen yhdenvertaisuutta, esteettömyyttä ja palvelujen saavutettavuutta on edistettävä. Kaupungin pitää olla kaikille turvallinen liikkua, asua, elää ja harrastaa kulttuuria.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Pitkäaikainen kuntavaikuttaja, vahva soteosaaja. Toiminut aikaisemmin Helsingin valtuustossa, kaupunginhallituksessa, Helenin hallituksessa ja useissa lautakunnissa (esim. sosiaali- ja terveyslautakunnissa), yhteensä lähes 30 vuotta.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

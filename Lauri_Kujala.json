@@ -1,0 +1,188 @@
+{
+  "id": 6996,
+  "first_name": "Lauri",
+  "last_name": "Kujala",
+  "election_number": 881,
+  "party_id": 4,
+  "image": "kuvat/akv2025/6996/69fe44cd-224a-463f-8152-16220fabdf1e",
+  "constituency_id": 25,
+  "video": "1-73817212",
+  "video_aspect": "1:1",
+  "video_description_fi": "Täällä elinkustannukset ovat korkeammat kuin muualla maassa, mutta julkisen sektorin palveluille on silti samanlainen tarve – ja julkisen sektorin työntekijät ovat usein itsekin pienituloisia. Kaupunki voi omilla toimillaan helpottaa julkisen sektorin työntekijöiden tilannetta jatkamalla palkkaohjelmaa ja pitämällä huolen kohtuuhintaisten asuntojen riittävyydestä. \n\nJotta kaupunki olisi houkutteleva työnantaja eikä asukkaidemme tarvitsisi kärsiä seurauksista siitä, ettei julkisella sektorilla ole riittävästi työntekijöitä, tärkeimmät tavoitteeni ensi valtuustokaudella on kaupungin palkkaohjelman jatkaminen ja kohtuuhintaisen asumisen tukeminen.\n",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 43,
+      "background_info_id": 10,
+      "name_fi": "Vasemmalle",
+      "name_sv": "Till vänster",
+      "name_en": "On the left",
+      "name_ru": "Слева",
+      "name_sme": "Gurut guvlui",
+      "name_ara": "اليسار",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Osaavat työntekijät sosiaali-, terveys- ja pelastuspalveluissa ovat kriittinen osa huoltovarmuutta. Kun hätä on suurin käännytään sotepe-palveluihin. Niiden pitää toimia riippumatta maailman myllerryksestä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1997,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 51,
+      "background_info_id": 16,
+      "name_fi": "ylioppilas",
+      "name_sv": "student",
+      "name_en": "High school graduate",
+      "name_ru": "выпускник лицея",
+      "name_sme": "studeanta",
+      "name_ara": "شهادة البكالوريا",
+      "target_value": 3,
+      "name_ukr": "випускник ліцею",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Rehellisyys, luotettavuus, toisten arvostaminen, luonto, demokratia",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Helsinki on iso työnantaja- päätöksiä tehdessä se pitää muistaa. Kun puhutaan kaupungin talousarviosta ja henkilöstäkuluista, puhutaan ihmisistä ja näytetään muille kaupungeille mallia. Helsingin pitää toimia hyvänä esimerkkinä muille.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.sdp.fi/ehdokkaat-kuntavaalit/kujala-lauri/",
+    "facebook_url": "https://www.facebook.com/profile.php?id=61572859268840",
+    "instagram_url": "https://www.instagram.com/laurihkujala?utm_source=qr&igsh=MTd0M3pqNjFmbGJzbw==",
+    "municipality_fix": {
+      "fi": "Sosiaali- ja terveydenhuollon sekä pelastustoimen työntekijöiden palkkaus pitää olla linjassa työn vaativuuden kanssa. Lisäksi täällä pitää olla enemmän kohtuuhintaisia asuntoja.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "YTHS:n valtuuskunnan jäsen\nYTHS itäiseen johtokunnan jäsen\nNUS ry:n johtokunnan varajäsen\nSTTK-opiskelijoiden puheenjohtaja\nNyyti ry hallituksen varapuheenjohtaja\nKOAS:n hallituksen jäsen\nKeski-Suomen sairaanhoitajien hallituksen varajäsen\nJyväskylän ammattikorkeakoulun opiskelijakunta JAMKOn edustajiston jäsen",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Minulle on tärkeää, että Helsingissä on riittävästi osaajia sosiaali- ja terveydenhuollossa sekä pelastuspalveluissa. Määrä vaikuttaa myös saatavuuteen ja laatuun. Osaajien määrään voidaan vaikuttaa muun muassa hyvillä työoloilla ja riittävällä palkkauksella.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Toiminut paikallisella tasolla opiskelijajärjestöissä ja ammattiosastossa sekä valtakunnallisen opiskelijajärjestön puheenjohtajana",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

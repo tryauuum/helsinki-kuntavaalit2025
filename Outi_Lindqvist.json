@@ -1,0 +1,197 @@
+{
+  "id": 13830,
+  "first_name": "Outi",
+  "last_name": "Lindqvist",
+  "election_number": 759,
+  "party_id": 6,
+  "image": "kuvat/akv2025/13830/18920d91-6622-404b-9e84-5e71a0a54eed",
+  "constituency_id": 25,
+  "video": "1-73822004",
+  "video_aspect": "1:1",
+  "video_description_fi": "Helsingissä rakennetaan tosi paljon. Lähdin aikoinaan politiikkaan mukaan, koska pelkäsin, että oma lähiluontoni tuhoutuu. Haluan, että Helsingissä rakennetaan mahdollisimman paljon jo rakennetuille alueille, kuten esimerkiksi vanhoille teollisuusalueille tai toimistorakennusten tilalle. Niitä kun ei nykymaailmassa enää niin paljoa tarvita. Haluan, että jokaisella säilyy kodin lähellä se oma pieni metsä, koska jokainen pieni metsä on jollekin se taikametsä. Ne ovat meille tärkeitä, ja niistä on pidettävä huolta. ",
+  "video_description_sv": "Det byggs mycket i Helsingfors. Jag gick med i politiken en gång i tiden eftersom jag var rädd att min egen närnatur skulle förstöras. Jag vill att det byggs så mycket som möjligt på redan bebyggda områden i Helsingfors, till exempel på gamla industriområden eller istället för kontorsbyggnader. De behövs inte lika mycket i dagens värld. Jag vill att alla ska ha kvar sin egen lilla skog nära hemmet, eftersom varje liten skog är en magisk skog för någon. De är viktiga för oss och vi måste ta hand om dem.",
+  "video_description_en": "There is a lot of construction in Helsinki. I originally got involved in politics because I was afraid that my local nature would be destroyed. I want as much construction as possible to take place in already built-up areas in Helsinki, such as old industrial areas or in place of office buildings. These are not as needed in today's world. I want everyone to keep their own little forest close to home, because every little forest is a magical forest for someone. They are important to us, and we must take care of them.",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 45,
+      "background_info_id": 10,
+      "name_fi": "En vasemmalle enkä oikealle",
+      "name_sv": "Varken vänster eller höger",
+      "name_en": "Neither to the right or the left",
+      "name_ru": "Ни слева, ни справа",
+      "name_sme": "In gurut inge olgeš guvlui",
+      "name_ara": "لا إلى اليسار ولا إلى اليمين",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Julkisista palveluista on huolehdittava. Haluan huolehtia siitä, että jokaisella helsinkiläisellä on halutessaan mahdollisuus höydyntään laadukkaita julkisia palveluita. Tämä sisältää myös julkisen liikenteen, jonka haluan olevan jokaiselle helsinkiläiselle oivallinen ja kustannuksiltaan sopiva vaihtoehto liikkumiseen.",
+      "se": "Jag vill se till att varje Helsingforsbo har möjlighet att använda sig av högkvalitativa offentliga tjänster om de så önskar. Detta inkluderar även kollektivtrafiken, som jag vill ska vara ett utmärkt och kostnadseffektivt alternativ för alla Helsingforsbor att resa med",
+      "en": "I want to ensure that every resident of Helsinki has the opportunity to utilize high-quality public services if they so wish. This also includes public transportation, which I want to be an excellent and cost-effective option for all residents of Helsinki to use.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1975,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Yhdenvertaisuus, vapaus, rohkeus, rakkaus, välittäminen.",
+      "se": "Jämlikhet, frihet, mod, kärlek, omtanke.",
+      "en": "Equality, freedom, courage, love, care.\n",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Haluan huolehtia siitä, että alueiden omaleimaisuudesta huolehditaan ja että se säilyy myös kaupunkia rakennettaessa.",
+      "se": "Jag vill se till att områdenas särprägel bevaras och att den upprätthålls även när staden byggs.",
+      "en": "I want to ensure that the uniqueness of the areas is preserved and maintained even when the city is being built.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://vaalit.vihreat.fi/embed/ehdokas/?kieli=fi&vaali=kuntavaalit-2025&kunta=k091&ehdokas=lindqvist-outi-6618",
+    "facebook_url": "https://www.facebook.com/outilindqvistvihreat",
+    "instagram_url": "https://www.instagram.com/olindq/",
+    "X_url": null,
+    "municipality_fix": {
+      "fi": "On monia asioita, joita voisi pistää kuntoon. Tässä vain muutamia: Lähiluonnon säilyttäminen on minulle oikeasti tärkeä asia. Haluaisin, että kaavoitusta muutettaisiin niin, että vanhoja teolllisuudelle ja toimistoille kaavoitettuja alueita voitaisiin tulevaisuudessa hyödyntää asuntorakentamiseen paljon nykyistä enemmän. Tällaisille rakennuksille ei nykyään ole enää niin paljon tarvetta kuin ennen, mutta asuntojen tarve on todellinen ja lisääntyy väestön lisääntyessä. Ilmastonmuutokseen tulee myös valmistautua muokkaamalla kaupunkia niin, että rankkasateet eivät aiheuta niin paljoa tulvia. Rakentamisessa tulee huomioida jäähdyttävän ilmastoinnin tarve lisääntyvien helteiden myötä. Puita ja vehreyttä tulee olla paljon enemmän pitämässä kaupunkialueen viileämpänä nyt kun kesät muuttuvat kuumemmiksi. On jollain tapaa tehtävä työtä lähikuntien kanssa niin, että saadaan Vantaanjokea ja merta kuormittavia päästöjä vähennettyä roimasti.",
+      "se": "Det finns många saker som kan förbättras. Här är bara några: Att bevara närnaturen är verkligen viktigt för mig. Jag skulle vilja att planeringen ändras så att gamla områden som är planerade för industri och kontor i framtiden kan användas mycket mer för bostadsbyggande. Sådana byggnader behövs inte lika mycket idag som tidigare, men behovet av bostäder är verkligt och ökar med den växande befolkningen. Klimatförändringen måste också förberedas genom att anpassa staden så att skyfall inte orsakar så mycket översvämningar. Byggandet måste ta hänsyn till behovet av kylning med luftkonditionering på grund av ökande värmeböljor. Det måste finnas mycket fler träd och grönska för att hålla stadsområdet svalare nu när somrarna blir varmare. Det måste på något sätt samarbetas med närliggande kommuner för att kraftigt minska utsläppen som belastar Vanda å och havet",
+      "en": "There are many things that could be improved. Here are just a few: Preserving local nature is really important to me. I would like the planning to be changed so that old areas planned for industry and offices can be used much more for residential construction in the future. Such buildings are not as needed today as they were before, but the need for housing is real and increasing with the growing population. Climate change must also be prepared for by modifying the city so that heavy rains do not cause so much flooding. Construction must take into account the need for cooling air conditioning due to increasing heatwaves. There must be much more trees and greenery to keep the urban area cooler now that summers are getting hotter. Work must somehow be done with neighboring municipalities to significantly reduce the emissions that burden the Vantaa River and the sea.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Olen vihreiden puoluevaltuuston varajäsen.",
+      "se": "Jag är suppleant i De Grönas partifullmäktige.",
+      "en": "I am a deputy member of the Green Party Council.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Haluan huolehtia siitä, että jokaisella helsinkiläisellä on luontoa ihan oman kodin lähellä. Huolehdin siitä, että lähiluontoa ei vähennetä ja että sitä jopa lisätään. Pidetään vihreys lähelläsi.",
+      "se": "Jag vill se till att varje Helsingforsbo har naturen nära sitt hem. Jag ser till att närnaturen inte minskas och att den till och med ökas. Låt oss hålla grönskan nära dig.",
+      "en": "I want to ensure that every resident of Helsinki has nature close to their home. I will make sure that the amount of nature in Helsinki is not reduced and that it is even increased. Let's keep the greenery close to you.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Olen toiminut vihreiden yhdistysten hallituksissa ja puheenjohtajana, muun muassa Helsingin piirin puheenjohtajana. Olen puoluevaltuuston varajäsen.",
+      "se": "Jag har varit styrelsemedlem och ordförande i De Grönas föreningar, bland annat som ordförande för Helsingfors distrikt.",
+      "en": "I have served on the boards of Green Party associations and as a chairperson, including as the chairperson of the Helsinki district.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

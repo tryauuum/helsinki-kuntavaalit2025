@@ -1,0 +1,195 @@
+{
+  "id": 6592,
+  "first_name": "Jenna",
+  "last_name": "Wahlsten",
+  "election_number": 550,
+  "party_id": 5,
+  "image": "kuvat/akv2025/6592/595be505-887c-4aeb-b907-6005e928b31f",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": false,
+  "info": {
+    "left_right_axis": {
+      "id": 46,
+      "background_info_id": 10,
+      "name_fi": "Hieman oikealle",
+      "name_sv": "Lite till Till högerhöger",
+      "name_en": "SlightTo the rightly to the right",
+      "name_ru": "Немного справа",
+      "name_sme": "Vehá olgeš guvlui",
+      "name_ara": "أميل إلى اليمين",
+      "target_value": 1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Läpinäkyvä ja asukaslähtöinen päätöksenteko – Helsinkiä on kehitettävä kaupunkilaisten ehdoilla. Kaupungin on kuunneltava asukkaitaan ja tehtävä päätökset paikallisten tarpeiden pohjalta, oli kyse sitten luonnosta, asumisesta tai palveluista.",
+      "se": null,
+      "en": "Transparent and resident-oriented decision-making - Helsinki must be developed on the terms of the citizens. The city must listen to its residents and make decisions based on local needs, be it nature, housing or services.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 2000,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 50,
+      "background_info_id": 16,
+      "name_fi": "ammattitutkinto",
+      "name_sv": "yrkesexamen",
+      "name_en": "Vocational degree",
+      "name_ru": "профессиональное училище",
+      "name_sme": "ámmátdutkkus",
+      "name_ara": "دبلوم مهني",
+      "target_value": 2,
+      "name_ukr": "професійне училище",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Ihmisoikeudet ja tasa-arvo\nYhteisvastuu ja oikeudenmukaisuus\nVastuullinen talous ja koulutuspanostukset\nTurvallisuus ja vakaus\nKoko maan elinvoima ja aluepolitiikka",
+      "se": null,
+      "en": "Human rights and equality\nJoint responsibility and justice\nResponsible economy and education investments\nSafety and stability\nVitality and regional politics of the entire country",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lupaan edistää Helsinkiä, jossa jokainen perhe, oli se millainen tahansa, saa tarvitsemansa palvelut ja tuntee kuuluvansa joukkoon. Kaupunkisuunnittelussa, asumisratkaisuissa, sosiaali- ja terveyspalveluissa sekä kohtaavassa työssä on huomioitava moninaiset perheet ja yhteisöasumisen muodot. Helsinki on perhemyönteinen kaupunki vain silloin, kun se huomioi kaikkien perheiden arjen ja tarpeet.",
+      "se": null,
+      "en": "I promise to build a Helsinki where every family type gets the services they need and feels like they belong. Urban planning, housing solutions, social and health services, and face-to-face work must take diverse families and forms of community living into account. Helsinki is a family-friendly city only when it takes into account the everyday life and needs of all families.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "municipality_fix": {
+      "fi": "Mielenterveyden tuki ei saa hukkua byrokratiaan. Helsinki tarvitsee helposti saavutettavia, matalan kynnyksen kohtaamispaikkoja, joissa kenen tahansa on helppo piipahtaa – ilman ajanvarausta tai monimutkaista prosessia.\n\nVoimme hyödyntää vajaakäyttöisiä tiloja, kuten kirjastoja ja nuorisotiloja, ja ottaa käyttöön kasvavan vapaaehtoistyön potentiaalin. Koulutetut vapaaehtoiset voivat tarjota kuuntelevaa läsnäoloa ja perustason tukea, ja rinnalla on aina selkeä polku ammattiavun pariin, jos tarvetta ilmenee.",
+      "se": null,
+      "en": "Mental health support must not be lost in bureaucracy. Helsinki needs easily accessible, low-threshold meeting places, where anyone can easily stop by - without making an appointment or a complicated process.\n\nWe can make use of underutilized spaces such as libraries and youth spaces and tap into the growing potential of volunteering. Trained volunteers can provide a listening presence and basic support, and there is always a clear path to professional help if the need arises.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Toimin nuorten mielenterveysjärjestön puheenjohtajana, ihmisoikeus- ja sosiaalijärjestö Seta ry:n varapuheenjohtajana sekä gynekologisten sairauksien potilasliiton hallituksessa. Nämä ovat yhdistystoiminnan johtotehtäviä, eivätkä suoraan poliittisia luottamustehtäviä",
+      "se": null,
+      "en": "I am the chairman of the mental health organization for youth, the vice-chairman of the human rights organization Seta, and the board of the patient association for gynecological diseases. These are management positions in association activities, and not directly political positions",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": "0",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": "Lupaan edistää mielenterveyspalveluiden saatavuutta Helsingissä niin, että jokainen saa apua ajoissa ja ilman turhaa byrokratiaa. Matalan kynnyksen palvelut, nopea ensikontakti ja järjestöjen sekä ammattilaisten yhteistyö takaavat, ettei kukaan jää yksin. Mielenterveys kuuluu kaikille – varmistetaan, että Helsinki toimii sen eteen.",
+      "se": null,
+      "en": "I promise to promote the availability of mental health services in Helsinki so that everyone gets help on time and without unnecessary bureaucracy. Low-threshold services, quick first contact and cooperation between organizations and professionals guarantee that no one is left alone. Mental health belongs to everyone - we will make sure that Helsinki works for it.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Kokemus on vankasti ihmisoikeus-, sosiaali- ja terveysjärjestöissä. Toimin nuorten mielenterveysjärjestön puheenjohtajana, edistäen nuorten mielenterveyttä. Seta ry:n varapuheenjohtajana työskentelen seksuaali- ja sukupuolivähemmistöjen oikeuksien puolesta Suomessa ja kansainvälisesti. Gynekologisten sairauksien potilasliiton hallituksessa vaikutan hoidon saavutettavuuteen ja laadun varmistamiseen. Puolueen mielenterveysryhmän jäsenenä ja sihteerinä olen mukana rakentamassa puolueen linjaa mielenterveyspolitiikkaan sekä tulevaisuuden ohjelmia ja tavoitteita.",
+      "se": null,
+      "en": "My experience is in human rights organizations and social and health organizations. I'm the chairman of the mental health organization for youth. As the vice president of a human rights organization, I work for the rights of sexual and gender minorities in Finland and internationally. In the board of the patient association for gynecological diseases, I influence the accessibility of treatment and ensuring quality. As a member and secretary of the party's mental health group, I'm involved in building the party's mental health policy and future goals.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

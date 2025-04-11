@@ -1,0 +1,208 @@
+{
+  "id": 9730,
+  "first_name": "Raphael",
+  "last_name": "Tsanga",
+  "election_number": 27,
+  "party_id": 10,
+  "image": "kuvat/akv2025/9730/3a5d3457-0f81-4166-bb1b-26b490164dd9",
+  "constituency_id": 25,
+  "video": "1-73818176",
+  "video_aspect": "1:1",
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 45,
+      "background_info_id": 10,
+      "name_fi": "En vasemmalle enkä oikealle",
+      "name_sv": "Varken vänster eller höger",
+      "name_en": "Neither to the right or the left",
+      "name_ru": "Ни слева, ни справа",
+      "name_sme": "In gurut inge olgeš guvlui",
+      "name_ara": "لا إلى اليسار ولا إلى اليمين",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "3. Kohtuuhintaisia vuokra-asuntoja tarvitaan enemmän\n-isoja asuntoja tarvitaan isoille perheille\n-yksiöitä nuorille\n-asuntoja rakennettava eri puolille Helsinkiä\n ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1973,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "ranska",
+        "se": "franska",
+        "en": "French",
+        "ru": "французский",
+        "sme": "fránskkagiella",
+        "ara": "الفرنسية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Vapaus \nTasa-arvo\nLähimmäiset\nTerveys\nTyönteko",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "2. Vanhuksille lisää hoivapalveluja\nVanhusten määrä lisääntyy ja mikäli hoivapalveluja (kotihoitoa, palveluasumista, perhehoitoa)\nei järjestetä lisää:\n- terveydenhuolto kuormittuu entisestään\n- hoidon laatu heikkenee\n- omaisten kuormitus kasvaa\n ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 25,
+      "background_info_id": 8,
+      "name_fi": "jokin muu",
+      "name_sv": "något annat",
+      "name_en": "Other",
+      "name_ru": "другой",
+      "name_sme": "eará",
+      "name_ara": "لغة أخرى",
+      "target_value": null,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "homepage_url": null,
+    "facebook_url": "https://www.facebook.com/raphaeltsanga",
+    "instagram_url": "https://instagram.com//raphaeltsanga",
+    "X_url": "https://x.com/@raphaeltsanga2",
+    "tiktok_url": "https://tiktok.com/@raphaeltsanga",
+    "municipality_fix": {
+      "fi": "Nuorten ja vanhusten asiat sekä asunto-asiat",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Olen Lautamiehena Helsingin käräjäoikeudessa ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 5,
+      "background_info_id": 2,
+      "name_fi": "Hieman konservatiivi",
+      "name_sv": "Ganska konservativ",
+      "name_en": "Slightly conservative",
+      "name_ru": "Слегка консерватор",
+      "name_sme": "Vehá konservatiiva",
+      "name_ara": "أميل إلى المحافظة",
+      "target_value": 1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": "Ranska ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": "\n \n1. Nuorten asiat kuntoon Helsingissä\nHelsingin kaupungin tulee tukea nuorten harrastuksia mm.\n-antamalla ilmaiset vuorot kaupungin kuntosaleihin ja uimahalleihin.\n-lisää oleskelutiloja nuorille\n-antaa tukea urheiluseuroille jäsenmaksujen pienentämiseksi\n-rakentaa lisää koripallokenttiä",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Ei ole",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

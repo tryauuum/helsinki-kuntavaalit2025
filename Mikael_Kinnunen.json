@@ -1,0 +1,194 @@
+{
+  "id": 3694,
+  "first_name": "Mikael",
+  "last_name": "Kinnunen",
+  "election_number": 501,
+  "party_id": 5,
+  "image": "kuvat/akv2025/3694/04d276f6-97f8-43f5-b10e-0f3f509bf935",
+  "constituency_id": 25,
+  "video": "1-73813890",
+  "video_aspect": "1:1",
+  "video_description_fi": "Haluan parantaa kaupungin viihtyisyyttä. \n\nPanostetaan liikuntapaikkojen ylläpitoon ja turvataan kaupunkilaisille pääsy lähiluontoon.\n\nKehitetään joukkoliikennettä määrätietoisesti siten, että se olisi kannustavin vaihtoehto kaupunkilaisille.\n\nHaluan, että Helsingin kaupunginosien kehittämiseen panostetaan tasa-arvoisesti ja segregaatiokehitys pysäytetään.\n\nHaluan olla rakentamassa entistä parempaa kaupunkia meille kaikille!",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 46,
+      "background_info_id": 10,
+      "name_fi": "Hieman oikealle",
+      "name_sv": "Lite till Till högerhöger",
+      "name_en": "SlightTo the rightly to the right",
+      "name_ru": "Немного справа",
+      "name_sme": "Vehá olgeš guvlui",
+      "name_ara": "أميل إلى اليمين",
+      "target_value": 1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Helsingin alueita kehitettävä tasa-arvoisesti!\n\nTavoitteena on kaupunki, jossa lähipalvelut ovat kävelymatkan päässä kotoa. Alueiden tasapuolinen kehittäminen vähentää myös segregaatiota.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 2000,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Oikeudenmukaisuus, tasa-arvo, lähimmäisenrakkaus, isänmaallisuus ja vastuullisuus.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Joukkoliikenteestä kannustavin vaihtoehto!\n\nHelsingissä on Suomen paras julkinen liikenne. Kehitettävää kuitenkin löytyy. Joukkoliikennettä tulee kehittää määrätietoisesti siten, että Helsingin jokaisessa kaupunginosassa voi elää ilman omaa autoa. Tämän lisäksi metron pitäisi mielestäni kulkea myös alkuyöstä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "instagram_url": "https://www.instagram.com/mikaelkinnunenn/",
+    "municipality_fix": {
+      "fi": "Monikin asia, mutta esimerkiksi koulujen ja alueiden eriytymisen kierre pitäisi saada katkaistua. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Olen Helsingin Keskustanuorten piirihallituksen jäsen.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Luonto ja liikuntapaikat lähellä kaupunkilaisia!\n\nKaupunkilaisilla on oikeus lähiluontoon - turvataan Helsingin luontoalueet. Panostetaan liikuntapaikkoihin ja tehdään ulkoliikunnasta kannustavaa helsinkiläisille.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Työskentelen eduskunnassa kansanedustajan avustajana. Toimin vuonna 2023 Rovaniemen seurakunnan kirkkovaltuuston varavaltuutettuna ja kasvatustyön johtokunnan jäsenenä. Seurakunnan luottamustehtävät jätin muutettuani Helsinkiin. Lisäksi toimin vuoden 2023 Lapin Keskustanuorten varapuheenjohtajana.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

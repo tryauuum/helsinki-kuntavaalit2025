@@ -1,0 +1,220 @@
+{
+  "id": 15817,
+  "first_name": "Iiris",
+  "last_name": "Suomela",
+  "election_number": 806,
+  "party_id": 6,
+  "image": "kuvat/akv2025/15817/78c06c9e-1a26-41f3-8741-0a4fc6cc3891",
+  "constituency_id": 25,
+  "video": "1-73825516",
+  "video_aspect": "1:1",
+  "video_description_fi": "Olen Iiris Suomela, entinen tamperelainen kansanedustaja ja valtuutettu; nykyinen 4-vuotiaan lapsen äiti ja edunvalvonnan päällikkö Kalliosta. Jatkan politiikassa, koska nyt jos koskaan on puolustettava ilmastoa, luontoa ja yhdenvertaisuutta. Kaupunkien on noustava vastavoimaksi hallituksen kylmälle linjalle.\n\nJokaiselle lapselle on taattava paras mahdollinen alku päiväkoti- ja koulupolulle. Panostetaan koulutukseen, pienennetään ryhmäkokoja ja puututaan tiukasti syrjintään ja kiusaamiseen. Varmistetaan riittävä tuki jokaiselle oppijalle.\n\nSamalla yhdenvertaisuutta ja köyhyyttä on torjuttava Helsingissä kaikin mahdollisin keinoin. Rahapulan ei pidä estää yhtäkään helsinkiläistä saamasta tarvitsemiaan palveluita, kuten bussilippua, terveydenhuoltoa tai lapsille mieluisia harrastuksia. Lasketaan joukkoliikenteen lippujen hintoja. Tehdään Helsingistä hyvä koti kaikille: rakennetaan kohtuuhintaista asumista, vaalitaan lähiluontoa ja panostetaan kulttuuriin sekä kirjastoihin.\n",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 42,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti vasemmalle",
+      "name_sv": "Långt till vänster",
+      "name_en": "Strongly on the left",
+      "name_ru": "С самого левого края",
+      "name_sme": "Nannosit gurut guvlui",
+      "name_ara": "أقصى اليسار",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Taataan jokaiselle lapselle paras mahdollinen alku päiväkoti- ja koulupolulle. Panostetaan koulutukseen, pienennetään ryhmäkokoja ja puututaan tiukasti syrjintään ja kiusaamiseen. Varmistetaan riittävä tuki jokaiselle oppijalle. Tämä kaikki onnistuu vain, jos päiväkotien ja koulujen henkilöstöä on riittävästi ja he voivat hyvin työssään. Tehdään Helsingistä Suomen paras paikka kasvattaa ja opettaa lapsia.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1994,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      },
+      {
+        "fi": "ranska",
+        "se": "franska",
+        "en": "French",
+        "ru": "французский",
+        "sme": "fránskkagiella",
+        "ara": "الفرنسية"
+      }
+    ],
+    "education": {
+      "id": 51,
+      "background_info_id": 16,
+      "name_fi": "ylioppilas",
+      "name_sv": "student",
+      "name_en": "High school graduate",
+      "name_ru": "выпускник лицея",
+      "name_sme": "studeanta",
+      "name_ara": "شهادة البكالوريا",
+      "target_value": 3,
+      "name_ukr": "випускник ліцею",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Yhdenvertaisuus, oikeudenmukaisuus, kestävyys, ilo ja vapaus.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Edistetään yhdenvertaisuutta ja torjutaan köyhyyttä kaikin mahdollisin keinoin. Rahapulan ei pidä estää yhtäkään helsinkiläistä saamasta tarvitsemiaan palveluita, kuten bussilippua, terveydenhuoltoa tai lapsille mieluisia harrastuksia. Lasketaan joukkoliikenteen lippujen hintoja. Tehdään Helsingistä hyvä koti kaikille: rakennetaan kohtuuhintaista asumista, vaalitaan lähiluontoa ja panostetaan kulttuuriin sekä kirjastoihin.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "http://iirissuomela.fi/",
+    "facebook_url": "https://www.facebook.com/iirisssuomela",
+    "instagram_url": "https://www.instagram.com/iirissuomela/",
+    "municipality_fix": {
+      "fi": "Olen melko tuore helsinkiläinen - entinen tamperelainen kansanedustaja ja valtuutettu, nykyinen 4-vuotiaan lapsen äiti ja kulttuurialan edunvalvontapäällikkö Kalliosta. Olen ehdolla, koska nyt jos koskaan on puolustettava ilmastoa, luontoa ja yhdenvertaisuutta. Kaupunkien on noustava vastavoimaksi hallituksen kylmälle linjalle.\n\nJokaiselle lapselle on taattava paras mahdollinen alku päiväkoti- ja koulupolulle. Panostetaan koulutukseen, pienennetään ryhmäkokoja ja puututaan tiukasti syrjintään ja kiusaamiseen. Varmistetaan riittävä tuki jokaiselle oppijalle.\n\nSamalla yhdenvertaisuutta on edistettävä ja köyhyyttä torjuttava kaikin mahdollisin tavoin. Rahapulan ei pidä estää ketään saamasta tarvitsemiaan palveluita, kuten bussilippua, terveydenhuoltoa tai lapsille mieluisia harrastuksia. Lasketaan joukkoliikenteen lippujen hintoja. Tehdään Helsingistä hyvä koti kaikille: rakennetaan kohtuuhintaista asumista, vaalitaan lähiluontoa ja panostetaan kulttuuriin sekä kirjastoihin.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Toimin kunnanvaltuutettuna ja aluevaltuutettuna Tampereella ja Pirkanmaalla, kunnes jouduin Helsinkiin muuton takia luopumaan näistä tehtävistä viime vuoden lopulla.\n\nOlen myös Vihreiden puoluevaltuuston varapuheenjohtaja ja entinen kansanedustaja.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Jatketaan kunnianhimoista ilmastotyötä, jotta Helsinki on hiilineutraali viimeistään vuonna 2030. Panostetaan pyöräilyn ja joukkoliikenteen kehittämiseen sekä ekologisesti kestävään kaupunkisuunnitteluun. Tiivis kaupunki on elävä kaupunki! Edistetään samalla luonnon monimuotoisuutta, perustetaan lisää luonnonsuojelualueita ja turvataan jokaisen pääsy lähiluontoon.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "kunnanvaltuutettu",
+        "se": "ledamot i kommunfullmäktige",
+        "en": "municipal councillor",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      },
+      {
+        "fi": "aluevaltuutettu",
+        "se": "ledamot i välfärdsområdesfullmäktige",
+        "en": "county councillor",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Olen toiminut kaupunginvaltuutettuna Tampereella vuodesta 2017. Viime kauden olin eduskunnassa ja toimin siinä ohessa Vihreiden varapuheenjohtajana. Politiikkaa olen tehnyt nyt yli 10 vuotta. Ammatti siitä tuli minulle, kun toimin Vihreiden nuorten puheenjohtajana vuosina 2017-2018. Tätä ennen olin aktiivinen opiskelijapolitiikassa sekä ympäristö- ja ihmisoikeusjärjestöissä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

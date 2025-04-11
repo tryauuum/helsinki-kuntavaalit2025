@@ -1,0 +1,185 @@
+{
+  "id": 5285,
+  "first_name": "Joel",
+  "last_name": "Sundström",
+  "election_number": 681,
+  "party_id": 8,
+  "image": "kuvat/akv2025/5285/9e91e583-8da5-4022-8335-73753a8dda9b",
+  "constituency_id": 25,
+  "video": "1-73834767",
+  "video_aspect": "1:1",
+  "video_description_fi": "Mukavamman kaupungin puolesta!",
+  "video_description_sv": "För en trevligare stad!",
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 45,
+      "background_info_id": 10,
+      "name_fi": "En vasemmalle enkä oikealle",
+      "name_sv": "Varken vänster eller höger",
+      "name_en": "Neither to the right or the left",
+      "name_ru": "Ни слева, ни справа",
+      "name_sme": "In gurut inge olgeš guvlui",
+      "name_ara": "لا إلى اليسار ولا إلى اليمين",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Kansainvälinen ja solidaarinen kaupunki! Helsingin on oltava avoin ja vastaanottavainen kaupunki, jossa jokainen tuntee olonsa kotoisaksi. Meidän on panostettava sekä kansainvälisen yhteistyön vahvistamiseen että sosiaaliseen yhteenkuuluvuuteen. Helsingistä on tehtävä kaupunki, jossa innovaatio, monimuotoisuus ja solidaarisuus luovat perustan vahvalle taloudelle.",
+      "se": "En internationell och solidarisk stad! Helsingfors ska vara en öppen och välkomnande stad där alla känner sig hemma. Vi måste satsa på att stärka både internationella samarbeten och social sammanhållning. Helsingfors ska vara en stad där innovation, mångfald och solidaritet bygger grunden för en stark ekonomi!",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1995,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Kohtaan ihmiset rehellisesti ja aidosti.\nPidän hauskaa ja nautin elämästä.\nOlen oma itseni.\nAnnan itselleni luvan epäonnistua.\nYmmärrys muita kohtaan on taito, jota pitää oppia ja ylläpitää.",
+      "se": "Jag möter människor ärligt och genuint.\nJag har roligt och njuter av livet.\nJag är mig själv.\nJag tillåter mig själv att misslyckas.\nFörmågan att förstå andra är en färdighet som man måste lära sig och upprätthålla.",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Helsingillä on kunnianhimoiset ilmastotavoitteet ja nyt ne on toteutettava! Kannamme vastuun tavoitteiden saavuttamisesta konkreettisilla toimilla, kuten kestävillä investoinneilla joukkoliikenteeseen ja fossiilittomaan energiaan. Helsingin on näytettävä suuntaa kohti kestävää tulevaisuutta.",
+      "se": "Helsingfors har ambitiösa klimatmål och nu måste vi förverkliga dem! Vi tar ansvar för att nå våra klimatmål genom konkreta åtgärder såsom hållbara investeringar i kollektivtrafik och fossilfri energi. Helsingfors ska visa vägen för en hållbar framtid.",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 23,
+      "background_info_id": 8,
+      "name_fi": "ruotsi",
+      "name_sv": "Svenska",
+      "name_en": "Swedish",
+      "name_ru": "шведский",
+      "name_sme": "ruoŧagiella",
+      "name_ara": "السويدية",
+      "target_value": null,
+      "name_ukr": "шведська",
+      "name_som": "af-Iswiidhish"
+    },
+    "homepage_url": "https://val.sfp.fi/kommunalval/fi/ehdokkaat/joel-sundstrom/",
+    "instagram_url": "https://www.instagram.com/joel_sundstrom/",
+    "municipality_fix": {
+      "fi": "Helsingin merellistä luonnetta on vaalittava. Tämä tarkoittaa lisää uimapaikkoja, saunoja, venepaikkoja ja muita mahdollisuuksia nauttia merestä.",
+      "se": "Helsingfors måste värna om sin havsnära identitet. Det betyder fler badplatser, bastur, båtplatser och andra möjligheter att njuta av havet.",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Enemmän saunoja ja parempia julkisia tiloja, tehdään Helsingistä elävämpi! Helsingin on oltava kaupunki, jossa voimme todella nauttia ympäristöstämme. Meidän on panostettava useampiin julkisiin merisaunoihin, viihtyisiin kohtaamispaikkoihin sekä hyviin mahdollisuuksiin harrastaa liikuntaa ja kulttuuria.",
+      "se": "Fler bastur och bättre offentliga rum. Dags att göra Helsingfors mer levande! Helsingfors ska bli en stad där vi verkligen kan njuta av vår omgivning. Vi satsar på fler offentliga bastur vid havet, trivsamma mötesplatser och goda möjligheter till fritidsaktiviteter genom sport och kultur och mindre regler!",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Toimin RKP:n poliittisena asiantuntijana",
+      "se": "Jag jobbar som politiskt sakkunnig för SFP",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "id": 9368,
+  "first_name": "Anu",
+  "last_name": "Västi",
+  "election_number": 548,
+  "party_id": 5,
+  "image": "kuvat/akv2025/9368/aabf433f-04c9-4059-965d-a216dd024b03",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 46,
+      "background_info_id": 10,
+      "name_fi": "Hieman oikealle",
+      "name_sv": "Lite till Till högerhöger",
+      "name_en": "SlightTo the rightly to the right",
+      "name_ru": "Немного справа",
+      "name_sme": "Vehá olgeš guvlui",
+      "name_ara": "أميل إلى اليمين",
+      "target_value": 1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Kaupungin maankäyttö oikeudenmukaiseksi",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1969,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "ranska",
+        "se": "franska",
+        "en": "French",
+        "ru": "французский",
+        "sme": "fránskkagiella",
+        "ara": "الفرنسية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "oikeudenmukaisuus, tasa-arvo, terveys, turvallisuus, yhteistyö",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lasten ja nuorten hyvinvointi turvattava. Vammaispalvelut ja vanhusten asiat kuntoon.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "municipality_fix": {
+      "fi": "Lasten ja nuorten palvelut turvattava. Laadukas vanhuudenhoiva ja kehitysvammaisten palvelut. Kaupungin maankäyttö järkevämmäksi, siirtolapuutarhat säilytettävä kohtuuhintaisina. Lisättävä Helsingin keskustan elinvoimaisuutta ja säilytettävä saavutettavuus myös autolla. Turvalliset lähiöt, resursseja ennaltaehkäisyyn.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Ei tällä hetkellä mitään",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 5,
+      "background_info_id": 2,
+      "name_fi": "Hieman konservatiivi",
+      "name_sv": "Ganska konservativ",
+      "name_en": "Slightly conservative",
+      "name_ru": "Слегка консерватор",
+      "name_sme": "Vehá konservatiiva",
+      "name_ara": "أميل إلى المحافظة",
+      "target_value": 1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": "ruotsi vahva",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": "Terveyspalvelut kuntoon, vähemmän hallintoa, enemmän palvelua",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

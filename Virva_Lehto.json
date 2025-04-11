@@ -1,0 +1,203 @@
+{
+  "id": 10755,
+  "first_name": "Virva",
+  "last_name": "Lehto",
+  "election_number": 512,
+  "party_id": 5,
+  "image": "kuvat/akv2025/10755/f22cd5a8-4489-4887-a9ec-5a4b1f11a82b",
+  "constituency_id": 25,
+  "video": "1-73896176",
+  "video_aspect": "1:1",
+  "video_description_fi": "🍀 Minun tärkein teema on yrittäjyys. Toivon, että Helsingissä olisi parempi yrittää. Kaupungin on kohdeltava kaikki yrityksiä hyvin. Byrokratiaa on pienennettävä ja kaupungin tulee huolehtia suuryritysten ohella myös pienistä yrityksistä. Mikro- ja pienyrittäjiä tulisi kuunnella kaupungin päätöksenteossa.\nLisäksi teemojani ovat:\n🍀 Hyvinvointi, ennaltaehkäisy ja lähipalvelut ovat tärkeitä asioita meille kaikille.\n🍀 Luonto & hyvinvointi – Viheralueet ja lähiluonto asukkaiden hyväksi.",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 46,
+      "background_info_id": 10,
+      "name_fi": "Hieman oikealle",
+      "name_sv": "Lite till Till högerhöger",
+      "name_en": "SlightTo the rightly to the right",
+      "name_ru": "Немного справа",
+      "name_sme": "Vehá olgeš guvlui",
+      "name_ara": "أميل إلى اليمين",
+      "target_value": 1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "🍀 Luonto ja hyvinvointi – Viheralueet ja lähiluonto asukkaiden hyväksi. Kaikkea vihreää ja luontoa ei pidä tuhota.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1980,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      },
+      {
+        "fi": "espanja",
+        "se": "spanska",
+        "en": "Spanish",
+        "ru": "испанский",
+        "sme": "spánskkagiella",
+        "ara": "الإسبانية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Luonnon kunnioittaminen – Ympäristön ja luonnon arvostus sekä sen suojelu tulevia sukupolvia varten.\nYhteisöllisyys – Yhdessä tekeminen, toisten tukeminen ja yhteiskunnallinen vaikuttaminen.\nOikeudenmukaisuus – Reiluus, tasa-arvo ja kestävä päätöksenteko, jossa kaupunkilaisten ääntä kuunnellaan.\nHyvinvointi – Fyysisen ja henkisen terveyden vaaliminen sekä arjen sujuvuuden edistäminen.\nYritteliäisyys – Paikallisen elinvoiman ja itsenäisen tekemisen arvostaminen sekä kestävän yrittäjyyden tukeminen.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "🍀 Hyvinvoinnin parantaminen ja mahdollistaminen, ennaltaehkäisyä lisättävä sekä lähipalveluiden säilyttäminen.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://virva.net",
+    "facebook_url": "https://www.facebook.com/virvalehto",
+    "instagram_url": "https://www.instagram.com/virvalehto ",
+    "tiktok_url": "https://www.tiktok.com/@virvalehto",
+    "municipality_fix": {
+      "fi": "Luonnon kunnioittaminen – Vihreitä alueita on suojeltava ja roskaamista vähennettävä. Rakentamisessa on huomioitava ympäristön säilyttäminen.\nYhteisöllisyys – Asukkaiden ääntä on kuultava paremmin, ja lähipalveluiden, kuten kirjastojen ja nuorisotilojen, on säilyttävä.\nOikeudenmukaisuus – Kohtuuhintaista asumista ja sujuvia sosiaali- ja terveyspalveluita on edistettävä.\nHyvinvointi – Liikuntapaikkoja ja kevyen liikenteen väyliä on parannettava. Mielenterveyspalveluiden saatavuutta on helpotettava.\nYritteliäisyys – Pienyrittäjyyttä on tuettava, byrokratiaa kevennettävä ja kestävää liiketoimintaa edistettävä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Helsingin kaupunginyhtiön varapuheenjohta, Keskustan Helsingin piirin varapuheenjohtaja, Pohjois-Helsingin Keskustan puheenjohtaja",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 3,
+      "background_info_id": 2,
+      "name_fi": "Hieman liberaali",
+      "name_sv": "Ganska liberal",
+      "name_en": "Slightly liberal",
+      "name_ru": "Слегка либерал",
+      "name_sme": "Vehá liberála",
+      "name_ara": "أميل إلى الليبرالية",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "🍀 Yrittäjyyden edellytyksiä pitää parantaa Helsingissä. Mikro- ja pienyrittäjiä on kohdeltava hyvin. Byrokratiaa on vähennettävä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

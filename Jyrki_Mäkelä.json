@@ -1,0 +1,198 @@
+{
+  "id": 14890,
+  "first_name": "Jyrki",
+  "last_name": "Mäkelä",
+  "election_number": 19,
+  "party_id": 10,
+  "image": "kuvat/akv2025/14890/a17b5499-c2ee-435c-9230-dc04e235ff20",
+  "constituency_id": 25,
+  "video": "1-73824337",
+  "video_aspect": "1:1",
+  "video_description_fi": "Arvoisat Helsingin asukkaat. Meidän kaupungissa on paljon haasteita. Etenkin terveydenhuollossa on paljon työtä tehtävänä. Hoitopalvelujen saatavuus täytyy ehdottomasti saada nykyistä huomattavasti paremmaksi ja palvelujen laatu korkeammaksi. Merkittävä ongelma terveydenhuollossa on väärä henkilöstön resurssointi. Operatiivinen, eli hoitotyötä tekevien ammattilaisten siivu henkilöstöstä on liian alhainen verrattuna hallintoon. Tämä on ehdottomasti saatava korjattua. ",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 47,
+      "background_info_id": 10,
+      "name_fi": "Oikealle",
+      "name_sv": "Till höger",
+      "name_en": "To the right",
+      "name_ru": "Справа",
+      "name_sme": "Olgeš guvlui",
+      "name_ara": "اليمين",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan tehdä parhaani jotta kaupungin asukkaiden elämä olisi sujuvampaa ja asiointi julkisten palvelujen parissa olisi jouhevampaa. ",
+      "se": null,
+      "en": "I promise to do my best to make life smoother for the city's residents and to ensure that dealing with public services is more seamless.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": "Обіцяю зробити все можливе, щоб життя мешканців міста стало простішим, а взаємодія з державними послугами – більш зручною.",
+      "som": null
+    },
+    "age": 1974,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 50,
+      "background_info_id": 16,
+      "name_fi": "ammattitutkinto",
+      "name_sv": "yrkesexamen",
+      "name_en": "Vocational degree",
+      "name_ru": "профессиональное училище",
+      "name_sme": "ámmátdutkkus",
+      "name_ara": "دبلوم مهني",
+      "target_value": 2,
+      "name_ukr": "професійне училище",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "1. Kohdella muita ihmisiä kuin haluaisin heidän kohtelevan itseäni.\n2. Kun olen aikanaan kolkuttelemassa kuoleman porteilla ja katson elämääni taaksepäin, voin sanoa rintarottingilla, että oli hyvä homma.\n3. Mitä ikinä teenkin ja mihin ryhdyn, tulee sen olla eettistä. \n4. Ihmisten auttaminen niillä avuilla, jotka minulla on.\n5. Ehdoista riippumaton rakkaus lähimmäisiäni ja kanssaihmisiä kohtaan. ",
+      "se": null,
+      "en": "Treat others as I would want them to treat me.\nWhen I one day stand at death’s door and look back on my life, I want to be able to say with pride that it was a good ride.\nWhatever I do and whatever I undertake must be ethical.\nHelping people with the abilities I have.\nUnconditional love for my loved ones and fellow human beings.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Hyvinvointialueen organisaatiota tulee uudistaa siten, että resursseja siirretään ylisuuresta hallinnosta hoitaja- ja lääkäripuolelle. Tällä hetkellä henkilöstöpyramidi on päälaellaan. Toimintaa pitää organisoida siten, että mennään pätevyys- ja osaaminen edellä. ",
+      "se": null,
+      "en": "The organization of the well-being services county must be reformed by reallocating resources from an oversized administration to nurses and doctors. Currently, the staffing hierarchy is upside down. Operations should be organized with a focus on competence and expertise first.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": "Доступ до медичних послуг для мешканців Гельсінкі має бути значно покращений шляхом реформування організації та запровадження професійного керівництва. Нинішня кадрова структура є перевернутою з ніг на голову. Ресурси повинні бути спрямовані на медичну допомогу (лікарі, медсестри), а не на надмірну кількість адміністраторів.",
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://migreeniklinikka.fi/",
+    "facebook_url": "https://www.facebook.com/profile.php?id=61559415428807",
+    "tiktok_url": "https://tiktok.com/@jyrkiamakela.liikenyt",
+    "municipality_fix": {
+      "fi": "Helsinkiläisten pääsy terveydenhuollon palveluihin tulee saattaa huomattavasti nykyistä paremmalla tasalle uudistamalla organisaatiota ja tuomalla ammattimaista johtajuutta. Henkilöstöpyramidi on tällä hetkellä nurinperin. Resurssit tulee kohdistaa hoitavalle puolelle (lääkärit, hoitajat) eikä kaiken karvaisille johtajille. \nEsim. lääkäreiltä ja hoitajilta sihteereiden tehtävät pois, se on pois hoitotyöstä. \n\nOmalääkärimalli ehdottomasti käyttöön. Näin nostetaan hoitamisen tasoa ja vähennetään myös kustannuksia. \n\nHelsingin kaupungin liikennesuunnittelu tulee järkevöittää pois ideologiasta ja mennä asukkaiden ja yritysten hyvinvointi edellä. Helsingin ydinkeskusta ja sen lähialueet autioituvat kovaa vauhtia. Tähän on osaltaan syyllinen kaupungin luokattoman huono liikennesuunnittelu.\n\n\n\n",
+      "se": null,
+      "en": "Access to healthcare services for Helsinki residents must be significantly improved by reforming the organization and introducing professional leadership. The current staffing hierarchy is upside down. Resources should be directed toward the caregiving side (doctors, nurses) rather than an overabundance of administrators.\n\nFor example, doctors and nurses should not be burdened with secretarial tasks—every minute spent on paperwork is a minute taken away from patient care.\n\nThe personal doctor model must be implemented without hesitation. This will improve the quality of care while also reducing costs.\n\nHelsinki's urban traffic planning needs to shift away from ideological decision-making and prioritize the well-being of residents and businesses. The city center and surrounding areas are rapidly becoming deserted, and a major contributing factor is the city's disastrously poor traffic planning.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": "Доступ мешканців Гельсінкі до медичних послуг має бути значно покращений шляхом реформування організації та впровадження професійного керівництва. Наразі кадрова структура перевернута з ніг на голову. Ресурси повинні бути спрямовані на сферу медичної допомоги (лікарі, медсестри), а не на численних керівників усіх рівнів.\n\nНаприклад, лікарі та медсестри не повинні виконувати обов’язки секретарів – це відбирає час від догляду за пацієнтами.\n\nМодель персонального лікаря необхідно впровадити без зволікань. Це підвищить якість медичної допомоги та одночасно зменшить витрати.\n\nТранспортне планування Гельсінкі має бути позбавлене ідеологічного підходу та орієнтоване на добробут мешканців і підприємств. Центр міста та його околиці швидко занепадають, і однією з основних причин цього є вкрай невдале транспортне планування міста.",
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Ei luottamustehtäviä. ",
+      "se": null,
+      "en": "No positions of trust.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 5,
+      "background_info_id": 2,
+      "name_fi": "Hieman konservatiivi",
+      "name_sv": "Ganska konservativ",
+      "name_en": "Slightly conservative",
+      "name_ru": "Слегка консерватор",
+      "name_sme": "Vehá konservatiiva",
+      "name_ara": "أميل إلى المحافظة",
+      "target_value": 1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": null,
+      "se": null,
+      "en": "Englanti. ",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": "Helsingin tulee ottaa käyttöön omalääkärimalli osana terveydenhuollon tason parantamista ja muuttaa lääkäreiden palkkausta tulospalkkauksen suuntaan, joka ohjaa lääkäreitä hoitotyön pariin, johon he kuuluvat. ",
+      "se": null,
+      "en": "Helsinki should implement a personal doctor model as part of improving healthcare quality and adjust doctors' salaries toward performance-based compensation, encouraging them to focus on patient care, where they belong.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": "Модель персонального лікаря повинна бути впроваджена без зволікань. Це покращить якість медичної допомоги та зменшить витрати.",
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Olen ollut nuoruudessani, alle 20-vuotiaana paikallisyhdistyksen toiminnassa mukana.",
+      "se": null,
+      "en": "In my youth, before the age of 20, I was involved in the activities of a local association.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": "У молодості, до 20 років, я брав участь у діяльності місцевої асоціації.",
+      "som": null
+    }
+  }
+}

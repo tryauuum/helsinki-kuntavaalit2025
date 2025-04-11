@@ -1,0 +1,177 @@
+{
+  "id": 10462,
+  "first_name": "Christa",
+  "last_name": "Pessi",
+  "election_number": 911,
+  "party_id": 4,
+  "image": "kuvat/akv2025/10462/9b82ce16-56a5-4a74-b0d5-768c16ed9953",
+  "constituency_id": 25,
+  "video": "1-73823171",
+  "video_aspect": "1:1",
+  "video_description_fi": "Tärkein tavoitteeni on vähentää eriarvoisuutta ja varmistaa hyvä elämä kaikille. Terveydehuollosta ei tule leikata, vaan hoitoon tulee päästä silloin kun on tarvetta. \nLapsissa ja nuorissa on meidän tulevaisuutemme, heihin tulee panostaa.\nPalvelualan ammattilaisena olen huolissani pienituloisten pärjäämisestä tässä ajassa. Perheet ovat tiukilla ja meidän tulee tukea heitä. Vuorotyötä tekevien palvelut tulee myös varmistaa. Julkinen liikenne, jotta töihin on helppo päästä sekä terveydenhoito erilaisina vuorokauden- ja viikonpäivinä.",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 43,
+      "background_info_id": 10,
+      "name_fi": "Vasemmalle",
+      "name_sv": "Till vänster",
+      "name_en": "On the left",
+      "name_ru": "Слева",
+      "name_sme": "Gurut guvlui",
+      "name_ara": "اليسار",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Pienituloisia tulee tukea ja varmistaa kohtuuhintainen asuminen ja terveyspalvelut kaikille. Vuorotyöläisiä ajatellen tulee varmistaa sairaudenhoito, vuoropäiväkodit sekä julkinen liikenne, mikä palvelee kaikkia. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1974,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Yhdenvertaisuus ja tasa-arvo kuuluu kaikille. \nToisen ihmisen arvostus ja auttaminen.\nRehellisyys ja ratkaisukeskeisyys asioissa.\nLuonnon ja ympäristön kunnoitus. \nTeot merkitsevät enemmän, kuin puheet. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Haluan vaikuttaa nuorten ja lasten asioihin. Jokaisella tulee olla mahdollisuus koulutukseen sekä harrastuksiin perheen tauloudellisesta tilanteesta huolimatta. Helsingissä lasten ja nuorten hyvinvointi tulee olla korkealla prioriteetilla päätöksissä. Heissä on meidän tulevaisuutemme. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "facebook_url": "https://www.facebook.com/profile.php?id=61573032303765",
+    "instagram_url": "https://www.instagram.com/christa_ehdolla_kuntavaaleissa/?igsh=MWMxOTAyb2toMHdubw%3D%3D&utm_source=qr#",
+    "municipality_fix": {
+      "fi": "Nuoriin ja lapsiin tulee panostaa. Kaikilla tulee olla mahdollisuudet hyvään koulutukseen ja harrastuksiin. Lapsille tulee taata turvallinen lapsuus. \nTerveydehuollon piriin tulee päästä kaikkien sitä tarvitsevien. Terveydenhuollon ei ole tarkoitus tuottaa voittoa vaan tulee päästä hoitoon lääkärille, ilman turhia viivytyksiä. \nKohtuuhintainen asuminen tulee varmistaa. \nPalvelualojen ammattilaiset sekä muut vuorotyötä tekevät ihmiset tarvitsevat perheineen vuoropäiväkoteja, jotta perheen arki sujuu. \n\nJulkisen liikenteen tulee palvella myös vuorotyötä tekeviä työntekijöitä. \nLuontoa tulee myös suojella ja varmistaa lähiluonto kaikille Helsingin asukkaille. \n\nTyöttömiä työnhakijoita tulee kannustaa sekä auttaa työnhaussa. Tutkimusten mukaan suurimmassa osassa tilanteista on kyseessä terveydelliset haasteet tai osaamisen vaje. Uskon itse enemmän kannustamiseen, kuin rangaistuksiin. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Päätyösuojeluvaltuutettu kaupan alalla\nPAM:in ammattiosaston puheenjohtaja kaupan alalla (Helsingin Kauppatyöntekijät ry)\nPAM:in Valtuuston 1. varapuheenjohtaja \nOsuuskaupan edustajiston jäsen \nPAM:in Tasa-arvo- ja yhdenvertaisuusvaliokunnan jäsen ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 4,
+      "background_info_id": 2,
+      "name_fi": "En liberaali enkä konservatiivi",
+      "name_sv": "Varken liberal eller konservativ",
+      "name_en": "Neither liberal or conservative",
+      "name_ru": "Ни либерал, ни консерватор",
+      "name_sme": "In liberála inge konservatiiva",
+      "name_ara": "لا ليبرالي ولا متحفظ",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Haluan varmistaa, että kaikilla on mahdollisuudet hyvään elämään. Polarisoitumisen kasvaminen huolestuttaa itseäni tällä hetkellä. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

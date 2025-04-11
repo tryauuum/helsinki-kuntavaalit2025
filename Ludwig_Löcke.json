@@ -1,0 +1,185 @@
+{
+  "id": 8524,
+  "first_name": "Ludwig",
+  "last_name": "Löcke",
+  "election_number": 148,
+  "party_id": 7,
+  "image": "kuvat/akv2025/8524/534fa2b2-cb73-4386-b278-70078e573c8d",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 42,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti vasemmalle",
+      "name_sv": "Långt till vänster",
+      "name_en": "Strongly on the left",
+      "name_ru": "С самого левого края",
+      "name_sme": "Nannosit gurut guvlui",
+      "name_ara": "أقصى اليسار",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lähi(ö)palvelut asukkaiden ulottuville.\n\nHaluan varmistaa:\n\nEttä kunnalliset palvelut, kuten terveyskeskukset, kirjastot ja kulttuuripalvelut, sijaitsevat siellä missä asukkaansakin, eivätkä keskity ydinkeskustaan pitkien matkojen päähän helsinkiläisten kodeista.\n\nPalveluiden sijoittamisen ja suunnittelun niin, että ne ovat helposti saavutettavissa myös heille, joilla on liikkumisen haasteita. \n\nPalveluiden sijoittamisen niin, että ne ovat saavutettavia ilman kallista ja hankalaa joukkoliikennematkustamista.",
+      "se": "Närservice inom räckhåll för invånarna\n\nJag vill säkerställa:\n\nAtt kommunala tjänster som hälsocentraler, bibliotek och kulturtjänster finns där invånarna bor och inte enbart i centrum, långt från helsingforsarnas hem.\n\nAtt tjänster placeras och planeras så att de är lättillgängliga även för dem som har rörelseutmaningar.\n\nAtt tjänster är tillgängliga utan dyra och krångliga kollektivtrafikresor.",
+      "en": "Local services within residents' reach\n\nI want to ensure:\n\nThat municipal services such as health centers, libraries, and cultural services are located where residents live, not just concentrated in the city center far from Helsinki residents’ homes.\n\nThat services are placed and designed to be easily accessible for those with mobility challenges.\n\nThat services are accessible without expensive and complicated public transport journeys.",
+      "ru": null,
+      "sme": null,
+      "ara": "الخدمات المحلية في متناول السكان\n\nأريد أن أضمن:\n\nأن تكون الخدمات البلدية مثل المراكز الصحية والمكتبات والخدمات الثقافية متوفرة حيث يسكن المواطنون، وليس فقط في وسط المدينة بعيدًا \nعن منازل سكان هلسنكي.\n\nأن يتم توزيع وتصميم الخدمات بحيث تكون سهلة الوصول للأشخاص الذين يواجهون صعوبات في التنقل.\n\nأن تكون الخدمات متاحة بدون الحاجة إلى استخدام وسائل نقل عام باهظة الثمن ومعقدة.",
+      "ukr": "Місцеві послуги у доступності для мешканців\n\nЯ хочу забезпечити:\n\nЩоб муніципальні послуги, такі як медичні центри, бібліотеки та культурні послуги, розташовувалися там, де живуть мешканці, а не лише в центрі міста далеко від їхніх домівок.\n\nЩоб розташування та планування послуг враховувало потреби людей з обмеженою мобільністю.\n\nЩоб послуги були доступні без дорогих і складних поїздок у громадському транспорті.",
+      "som": null
+    },
+    "age": 1988,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      }
+    ],
+    "education": {
+      "id": 49,
+      "background_info_id": 16,
+      "name_fi": "peruskoulu",
+      "name_sv": "grundskola",
+      "name_en": "Primary school",
+      "name_ru": "средняя школа",
+      "name_sme": "vuođđoskuvla",
+      "name_ara": "المستوى الابتدائي",
+      "target_value": 1,
+      "name_ukr": "середня школа",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Yhdenvertaisuus\nSyrjimättömyys\nYhteisöllisyys\nAnteeksianto\nKestävä kehitys\n\nYhdenvertaisuus ja syrjimättömyys ovat perusarvojani – jokaisella on oikeus tulla kohdelluksi tasavertaisesti riippumatta taustastaan. Yhteisöllisyys on hyvinvoivan yhteiskunnan perusta, jossa ketään ei jätetä yksin. Uskon myös anteeksiantoon ja siihen, että ihmisillä on mahdollisuus oppia ja kehittyä. Kestävä kehitys ohjaa valintojani niin ympäristön kuin sosiaalisen oikeudenmukaisuuden kautta, jotta voin osaltani mahdollistaa kaikille reilun tulevaisuuden.",
+      "se": "Jämlikhet\nIcke-diskriminering\nGemenskap\nFörlåtelse\nHållbar utveckling\n\nJämlikhet och icke-diskriminering är mina grundläggande värderingar – alla har rätt att bli behandlade lika, oavsett bakgrund. Gemenskap är grunden för ett välmående samhälle där ingen lämnas ensam. Jag tror också på förlåtelse och på att människor har möjlighet att lära och utvecklas. Hållbar utveckling styr mina val genom både miljöhänsyn och social rättvisa, så att jag kan bidra till en rättvis framtid för alla.",
+      "en": "Equality\nNon-discrimination\nCommunity\nForgiveness\nSustainable development\n\nEquality and non-discrimination are my core values – everyone has the right to be treated equally, regardless of their background. Community is the foundation of a well-functioning society where no one is left behind. I also believe in forgiveness and in people’s ability to learn and grow. Sustainable development guides my choices through both environmental responsibility and social justice, so that I can do my part in ensuring a fair future for all.",
+      "ru": null,
+      "sme": null,
+      "ara": "المساواة \nعدم التمييز \nالمجتمع \nالتسامح \nالتنمية المستدامة\n\n\nالمساواة وعدم التمييز هما من القيم الأساسية لدي – يحق للجميع أن يُعاملوا على قدم المساواة بغض النظر عن خلفيتهم. المجتمع هو أساس المجتمع المزدهر حيث لا يُترك أحد بمفرده. أؤمن أيضًا بالتسامح وبأن لدى الناس القدرة على التعلم والتطور. التنمية المستدامة توجه خياراتي من خلال كل من المسؤولية البيئية والعدالة الاجتماعية، حتى أتمكن من المساهمة في تحقيق مستقبل عادل للجميع. ",
+      "ukr": "Рівність \nНедискримінація \nСпільнота \nПрощення \nСталий розвиток \n\nРівність і недискримінація – це мої основні цінності, адже кожен має право на рівне ставлення незалежно від свого походження. Спільнота – це основа здорового суспільства, в якому нікого не залишають осторонь. Я також вірю у прощення та здатність людей навчатися і розвиватися. Сталий розвиток визначає мої вибори через екологічну відповідальність і соціальну справедливість, щоб я міг зробити свій внесок у справедливе майбутнє для всіх.",
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Monipuoliset koulutusmahdollisuudet kaikille.\n\nTavoittelen:\n\nAlanvaihtajien ja aikuisopiskelijoiden tukemista kaupungin toimesta.\n\nAmmattioppilaitosten resurssien vahvistamista, jotta nuoret saavat laadukasta opetusta.\n\nElämisen kustannusten, kuten matkalippujen ja muiden peruspalveluiden hintojen, pitämistä kohtuullisina, jotta opiskelijat voivat keskittyä opintoihinsa.",
+      "se": "Mångsidiga utbildningsmöjligheter för alla\n\nJag arbetar för:\n\nStöd till karriärbytare och vuxenstuderande från stadens sida.\n\nStärkta resurser för yrkesskolor, så att unga får en högkvalitativ utbildning.\n\nRimliga levnadskostnader, såsom biljettpriser och andra grundläggande tjänster, så att studerande kan fokusera på sina studier.",
+      "en": "Diverse educational opportunities for all\n\nI strive for:\n\nSupport for career changers and adult learners from the city.\n\nStrengthening resources for vocational schools to ensure high-quality education for young people.\n\nKeeping living costs, such as ticket prices and basic services, reasonable so that students can focus on their studies.",
+      "ru": null,
+      "sme": null,
+      "ara": "فرص تعليمية متنوعة للجميع\n\nأسعى إلى:\n\nدعم مغيري المهن والطلاب البالغين من قبل المدينة.\n\nتعزيز موارد المعاهد المهنية لضمان تعليم عالي الجودة للشباب.\n\nالحفاظ على تكاليف المعيشة، مثل أسعار التذاكر والخدمات الأساسية، ضمن حدود معقولة حتى يتمكن الطلاب من التركيز على دراستهم.",
+      "ukr": "Різноманітні освітні можливості для всіх\n\nЯ прагну до:\n\nПідтримки міста для тих, хто змінює професію, і дорослих студентів.\n\nПосилення ресурсів професійних училищ, щоб молодь отримувала якісну освіту.\n\nЗбереження доступних витрат на життя, таких як ціни на квитки та базові послуги, щоб студенти могли зосередитися на навчанні.",
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://ludwiglocke.wordpress.com/",
+    "instagram_url": "https://www.instagram.com/ludwiglocke/",
+    "municipality_fix": {
+      "fi": "Helsingissä on kehitettävä peruspalveluita ja joukkoliikennettä, ja asumisen hintaan on puututtava. \n\nJoukkoliikenteen liput ovat liian kalliita – niiden hinnat on saatava kohtuullisemmiksi, jotta kaikilla on varaa liikkua. Lisäksi poikittais- ja raideliikennettä on kehitettävä.\n\nLähipalveluiden, kuten terveyskeskusten ja kirjastojen, on sijaittava siellä, missä asukkaatkin. Koulujen ja varhaiskasvatuksen resursseja on vahvistettava, jotta jokainen lapsi ja nuori saa laadukasta opetusta.\n\nAsumisen hinta on Helsingissä liian korkea. Kaupungin on lisättävä kohtuuhintaista asuntotuotantoa ja varmistettava, että kaupunginosat kehittyvät monipuolisesti, jotta alueellinen eriytyminen ei lisäänny.\n\nJokaisella helsinkiläisellä on oltava mahdollisuus hyvään arkeen riippumatta tulotasosta tai asuinalueesta.",
+      "se": "Helsingfors måste utveckla basservicen och kollektivtrafiken samt hantera boendekostnaderna.\n\nBiljettpriserna för kollektivtrafiken är för höga – de måste sänkas så att alla har råd att resa. Dessutom bör tvärförbindelser och spårtrafik utvecklas.\n\nNärservice, såsom hälsocentraler och bibliotek, ska finnas där invånarna bor. Resurserna för skolor och småbarnspedagogik måste stärkas för att alla barn och unga ska få en högkvalitativ utbildning.\n\nBoendekostnaderna i Helsingfors är för höga. Staden måste öka produktionen av prisvärda bostäder och säkerställa en mångsidig utveckling av stadsdelarna för att förhindra segregation.\n\nVarje Helsingforsbo ska ha möjlighet till en god vardag oavsett inkomst eller bostadsområde.",
+      "en": "Helsinki must develop basic services and public transport and address housing costs.\n\nPublic transport tickets are too expensive – prices must be lowered so that everyone can afford to travel. Additionally, cross-city and rail transport should be improved.\n\nLocal services, such as health centers and libraries, must be located where residents live. Resources for schools and early childhood education must be strengthened to ensure all children and young people receive quality education.\n\nThe cost of housing in Helsinki is too high. The city must increase affordable housing production and ensure diverse neighborhood development to prevent segregation.\n\nEvery Helsinki resident should have the opportunity for a good everyday life, regardless of income or residential area.",
+      "ru": null,
+      "sme": null,
+      "ara": "يجب على هلسنكي تطوير الخدمات الأساسية ووسائل النقل العام والتعامل مع تكاليف السكن.\n\nأسعار تذاكر النقل العام مرتفعة جدًا – يجب تخفيضها بحيث يمكن للجميع تحمل تكاليف التنقل. بالإضافة إلى ذلك، يجب تحسين النقل العرضي والسككي.\n\nيجب أن تكون الخدمات المحلية، مثل المراكز الصحية والمكتبات، متاحة حيث يعيش السكان. يجب تعزيز موارد المدارس والتعليم المبكر لضمان حصول جميع الأطفال والشباب على تعليم عالي الجودة.\n\nتكاليف السكن في هلسنكي مرتفعة للغاية. يجب على المدينة زيادة إنتاج المساكن بأسعار معقولة وضمان تطوير الأحياء بشكل متنوع لمنع التمييز السكني.\n\nيجب أن تتاح لكل مقيم في هلسنكي فرصة لحياة يومية جيدة بغض النظر عن الدخل أو المنطقة السكنية.",
+      "ukr": "Гельсінкі має розвивати базові послуги та громадський транспорт, а також вирішувати питання вартості житла.\n\nКвитки на громадський транспорт занадто дорогі – ціни необхідно знизити, щоб кожен міг дозволити собі пересуватися. Також слід покращувати поперечні транспортні сполучення та залізничний транспорт.\n\nМісцеві послуги, такі як медичні центри та бібліотеки, мають бути розташовані там, де живуть мешканці. Ресурси для шкіл та дошкільної освіти потрібно посилити, щоб кожна дитина та молодь отримували якісну освіту.\n\nВартість житла у Гельсінкі занадто висока. Місто повинно збільшити будівництво доступного житла та забезпечити різноманітний розвиток районів, щоб уникнути сегрегації.\n\nКожен мешканець Гельсінкі повинен мати можливість на гідне повсякденне життя незалежно від доходу чи місця проживання.",
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Paikallisosasto Malminseudun Työväenyhdistys ry:n puheenjohtaja.\n\nVasemmistoliiton rasisminvastaisen työryhmän jäsen.\n\nHelsingin Käräjäoikeuden lautamies.\n\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Saavutettava ja kohtuuhintainen joukkoliikenne.\n\nHaluan varmistaa, että:\n\nMatkalippujen hinnat ovat kohtuulliset, jotta kaikilla on mahdollisuus liikkua.\n\nEsteettömyys huomioidaan kaikessa liikennesuunnittelussa.\n\nPoikittais- ja raideliikennettä kehitetään vastaamaan kasvavan kaupungin tarpeita.",
+      "se": "Tillgänglig och prisvärd kollektivtrafik\n\nJag vill säkerställa att:\n\nBiljettpriserna är rimliga så att alla har möjlighet att resa.\n\nTillgänglighet beaktas i all trafikplanering.\n\nTvärgående kollektivtrafik och spårtrafik utvecklas för att möta behoven i en växande stad.",
+      "en": "Accessible and affordable public transport\n\nI want to ensure that:\n\nTicket prices remain reasonable so that everyone has the opportunity to travel.\n\nAccessibility is considered in all transportation planning.\n\nCross-city and rail transport are developed to meet the needs of a growing city.",
+      "ru": null,
+      "sme": null,
+      "ara": "نقل عام ميسر ومتاح للجميع\n\nأريد أن أضمن:\n\nأن تكون أسعار التذاكر معقولة بحيث يتمكن الجميع من التنقل.\n\nمراعاة إمكانية الوصول في جميع تخطيطات النقل.\n\nتطوير النقل العرضي والسككي لتلبية احتياجات المدينة المتنامية.",
+      "ukr": "Доступний і недорогий громадський транспорт\n\nЯ хочу забезпечити, щоб:\n\nВартість квитків залишалася розумною, щоб усі мали можливість пересуватися.\n\nДоступність враховувалася у всьому транспортному плануванні.\n\nПоперечні маршрути та рейковий транспорт розвивалися відповідно до потреб зростаючого міста.",
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

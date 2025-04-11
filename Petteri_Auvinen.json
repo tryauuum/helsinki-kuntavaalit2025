@@ -1,0 +1,179 @@
+{
+  "id": 6776,
+  "first_name": "Petteri",
+  "last_name": "Auvinen",
+  "election_number": 835,
+  "party_id": 4,
+  "image": "kuvat/akv2025/6776/98cd770e-cf60-41b1-8e14-233fac788e96",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 43,
+      "background_info_id": 10,
+      "name_fi": "Vasemmalle",
+      "name_sv": "Till vänster",
+      "name_en": "On the left",
+      "name_ru": "Слева",
+      "name_sme": "Gurut guvlui",
+      "name_ara": "اليسار",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Edistän reilumpaa työelämää kaikille! Yhdenvertaisuuden, tasa-arvon ja oikeudenmukaisuuden puolesta.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1970,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 51,
+      "background_info_id": 16,
+      "name_fi": "ylioppilas",
+      "name_sv": "student",
+      "name_en": "High school graduate",
+      "name_ru": "выпускник лицея",
+      "name_sme": "studeanta",
+      "name_ara": "شهادة البكالوريا",
+      "target_value": 3,
+      "name_ukr": "випускник ліцею",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Oikeudenmukaisuus, tasa-arvo, yhdenvertaisuus, onnellisuus, hyväntahtoisuus",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Teen kaikkeni terveydenhoidon, erityisesti paremmin saavutettavien mielenterveyspalveluiden ja kaikenikäisille suunnattujen harrastuspalveluiden ylläpidon puolesta. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "http://www.petteriauvinen.fi",
+    "facebook_url": "https://www.facebook.com/PoliitikkoPetteriAuvinen",
+    "X_url": "https://twitter.com/PetteriAuvinen",
+    "tiktok_url": "https://www.tiktok.com/@petteriauvinen",
+    "municipality_fix": {
+      "fi": "Kohtuuhintaista vuokra- ja omistusasumista, edullinen ja sujuva joukkoliikenne, turvallisuus kaduilla ja kouluissa, sujuvat terveyspalvelut, vanhustenhoito.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Luottamusmies ja työsuojeluvaltuutettu, HSL:n tarkastuslautakunnan jäsen, Ammattiliitto Pron edustajiston jäsen sekä Pääkaupunkiseudun ja Länsi-Uudenmaan aluejohtokunnan puheenjohtaja, Helsingin yhteisen kirkkoneuvoston ja kirkkovaltuuston jäsen, Kannelmäen seurakuntaneuvoston varapuheenjohtaja, Kaarelan Sosialidemokraatit ry puheenjohtaja, Kaarela seuran hallituksen jäsen, ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Edistän asiaa että Helsingin kaupungin on rakennettava asukkailleen kohtuullisia vuokra- ja omistus-asuntoja. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

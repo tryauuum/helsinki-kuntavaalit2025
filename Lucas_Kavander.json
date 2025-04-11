@@ -1,0 +1,182 @@
+{
+  "id": 4291,
+  "first_name": "Lucas",
+  "last_name": "Kavander",
+  "election_number": 633,
+  "party_id": 8,
+  "image": "kuvat/akv2025/4291/04f0b908-d223-40ba-91cd-abf7d5d26892",
+  "constituency_id": 25,
+  "video": "1-73817645",
+  "video_aspect": "1:1",
+  "video_description_fi": "Haluan varmistaa, että kaikille helsinkiläisille, katsomatta ikää tai taustaa, olisi saatavilla laadukkaat ja etenkin yhtenäiset vapaa-ajan harrastukset. Täten tuomme kaupunkimme asukkaat yhteen heidän omien intohimojen ja hupien kautta. Varmistamme näillä toimilla, että niin harva kuin mahdollista jäisi Helsingissä jatkossa yksinäiseksi vapaa-ajallaan. ",
+  "video_description_sv": "Jag vill se till att alla helsingforsare, oavsett ålder eller bakgrund, skulle ha tillgång till roliga och speciellt gemensamma fritidsaktiviteter. Via dem kan vi föra stadens folk samman, så att så få som möjligt skulle behöva bli ensamma i framtiden. ",
+  "video_description_en": "I want to ensure that all of us here in Helsinki have equal access to activities in their free time. By bringing people together in their free time, in accordance with their own interests, we also ensure that as fewer and fewer people get left alone in our city. Together, not alone, we build a better future for our city. ",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 44,
+      "background_info_id": 10,
+      "name_fi": "Hieman vasemmalle",
+      "name_sv": "Lite till vänster",
+      "name_en": "Slightly to the left",
+      "name_ru": "Немного слева",
+      "name_sme": "Vehá gurut guvlui",
+      "name_ara": "أميل إلى اليسار",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan edistää perheiden ja nuorten arjen sujuvuutta kaupungissamme. Helsingin tulee toimia edelläkävijänä kustannustehokkaassa ja sujuvassa perhe-elämässä sekä opiskelijaelämässä. Tämä tarkoittaa muun muassa panostamista julkiseen liikenteeseen siten, että kaikkien perheenjäsenten liikkuvuus paranee entisestään. Nuorten kannalta on tärkeää tarjota esimerkiksi koulujen kautta enemmän mahdollisuuksia yrittäjyyden ja kulttuurielämän kokeilemiseen, jotta aikuiselämä olisi mahdollisimman sujuvaa ja ennakoitavissa olevaa.",
+      "se": "Jag lovar att främja smidigheten av både familjernas och de ungas vardag i Helsingfors. Vår stad ska vara en föregångare i möjligheterna för ett kostnadseffektivt och funktionellt liv i alla sina mångsidiga aspekt. Vi kunde bland annat investera mer i kollektivtrafiken, så att alla familjemedlemmarnas rörlighet skulle förbättras i staden. För de unga skulle jag gärna ordna fler möjligheter till att pröva på t.ex. företagsamhet, idrott och kulturverksamhet, så att alla skulle få en så jämlik möjlighet som möjligt till att bygga ett eget lyckligt liv och eventuellt en karriär av ens egna intressen. ",
+      "en": "I promise to promote the smoothness of everyday life for both families and young people in Helsinki. Our city should be a leader in enabling a cost-effective and functional life in all its diverse aspects.\n\nAmong other things, we could invest more in public transportation to improve mobility for all family members within the city. For young people, I would gladly create more opportunities to explore, for example, entrepreneurship, sports, and cultural activities—ensuring that everyone has as equal a chance as possible to build their own happy life and potentially a career based on their personal interests.",
+      "ru": null,
+      "sme": "Mun hástalun ovddidit bearrašii ja nuoraid árgabeaivvi leagideami Helssegis. Min gávpot galgá leat jođiheaddji mii addá vejolašvuođaid divrrasvahku ja doaibmanan eallima buot su mieldeárvvideamiid.\n\nMii sáhttet lasihit dainna ovddas maiddái stuorra ruhtadeami álgoálbmoga johtolágaide, vai buot bearraša oasseváldit sáhttet buoremusat liikot gávpoga siste. Nuoraide mun háliidan ordnet eanet vejolašvuođaid geahččalit, ovdamearkka, eará válljejuvvon fitnodaga, valáštallama ja kultuvrravirkkejuvvon doaibmabijuid. Dasa lassin sáhttá nuorat oažžut veahkehit ovtta álbmot vejolašvuođa ráhkadit iežas eadni áigodaga ja vejolaččat maiddái bargobihtá mas lea sihkkarastan iežaset sierra beroštupmiid.",
+      "ara": "أعدُ بأن أُسهّل الحياة اليومية لكلٍّ من العائلات والشباب في هلسنكي. يجب أن تكون مدينتنا رائدةً في توفير حياةٍ فعالةٍ من حيث التكلفة وعمليةٍ في جميع جوانبها المتنوعة.\n\nيمكننا، من بين أمور أخرى، الاستثمار أكثر في وسائل النقل العام، بحيث تتحسن إمكانية تنقل جميع أفراد الأسرة داخل المدينة. أما بالنسبة للشباب، فسأسعى إلى توفير المزيد من الفرص لهم لتجربة مجالات مثل ريادة الأعمال والرياضة والأنشطة الثقافية، مما يضمن حصول الجميع على فرصةٍ متساويةٍ قدر الإمكان لبناء حياةٍ سعيدةٍ خاصةٍ بهم وربما حتى مهنةٍ تتماشى مع اهتماماتهم الشخصية.",
+      "ukr": "Я обіцяю сприяти покращенню повсякденного життя як сімей, так і молоді в Гельсінкі. Наше місто має бути лідером у забезпеченні доступного та зручного життя у всіх його різноманітних аспектах.\n\nЗокрема, ми могли б більше інвестувати в громадський транспорт, щоб покращити мобільність для всіх членів сім’ї в місті. Для молоді я із задоволенням створив би більше можливостей для спроб, наприклад, у підприємництві, спорті та культурній діяльності, щоб кожен мав якомога рівніші шанси будувати власне щасливе життя та, можливо, навіть кар’єру відповідно до своїх інтересів.",
+      "som": "Waxaan ballan qaadayaa in aan fududeeyo nolol-maalmeedka qoysaska iyo dhalinyarada Helsinki. Magaaladeenna waa in ay hormuud u noqotaa abuuridda nolol qiimo-jaban oo si hufan u shaqaynaysa dhamaan dhinacyadeeda kala duwan.\n\nWaxaan sidoo kale maalgelin dheeraad ah ku sameyn karnaa gaadiidka dadweynaha si kor loogu qaado awoodda dhaqdhaqaaqa dhammaan xubnaha qoysaska ee magaalada gudaheeda. Dhallinyarada, waxaan jeclaan lahaa in aan abuuro fursado badan oo ay ku tijaabin karaan ganacsiga, cayaaraha iyo dhaqanka, si qof walba u helo fursad loo siman yahay oo uu nolol farxad leh ku dhisan karo, xitaa inuu mustaqbalka ka dhisto xirfad ku saleysan waxyaabaha uu xiiseynayo."
+    },
+    "age": 2006,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "espanja",
+        "se": "spanska",
+        "en": "Spanish",
+        "ru": "испанский",
+        "sme": "spánskkagiella",
+        "ara": "الإسبانية"
+      }
+    ],
+    "education": {
+      "id": 49,
+      "background_info_id": 16,
+      "name_fi": "peruskoulu",
+      "name_sv": "grundskola",
+      "name_en": "Primary school",
+      "name_ru": "средняя школа",
+      "name_sme": "vuođđoskuvla",
+      "name_ara": "المستوى الابتدائي",
+      "target_value": 1,
+      "name_ukr": "середня школа",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Viisi tärkeintä elämänarvoani ovat:\n\nYhteisöllisyys – Kaikki on hauskempaa yhdessä tehtynä, ja yksinäisyys tuntuu harvoin pitkän päälle hyvältä.\n\nInnovaatio ja kekseliäisyys – Arvostan kykyä löytää ratkaisuja tilanteissa, joissa muut vain näkevät ongelmia.\n\nKohtuus – Kasvatukseni on opettanut minulle, että aina ei tarvita suurinta tai hienointa, vaan myös elämän pienet ilot ovat arvokkaita.\n\nTasa-arvo – Kaikki ihmiset ovat yhtä arvokkaita ja ansaitsevat tulla kohdelluiksi sen mukaisesti.\n\nInhimillisyys – Toisten huomioiminen ja kunnioittaminen on toimivan yhteiskunnan perusta.",
+      "se": "Mina fem viktigaste livsvärderingar är:\n\nGemenskap – Allting blir roligare när det görs tillsammans, och ensamhet är sällan givande i längden. Vi är så att säga alla \"i samma båt\". \n\nInnovation och uppfinningsrikedom – Jag uppskattar förmågan att se lösningar där andra ser problem.\n\nMåttlighet – Min uppväxt har lärt mig att man inte alltid behöver det största eller finaste, utan att även små glädjeämnen är värdefulla.\n\nJämlikhet – Alla människor är lika värda och bör behandlas därefter.\n\nMedmänsklighet – Att visa omtanke och respekt för andra är grunden för ett fungerande samhälle.",
+      "en": "My five most important life values are:\n\nCommunity – Everything is more enjoyable when done together, and loneliness rarely feels good for long.\n\nInnovation and ingenuity – I appreciate the ability to find solutions where others may only see problems.\n\nModeration – My upbringing has taught me that you don’t always need the biggest or the best; even life’s small joys are valuable.\n\nEquality – All people are equally valuable and deserve to be treated accordingly.\n\nHumanity – Caring for and respecting others is the foundation of a well-functioning society.\n",
+      "ru": "Мои пять самых важных жизненных ценностей:\n\nОбщественность – Всё становится веселее, когда делается вместе, а одиночество редко бывает приятным в течение долгого времени.\n\nИнновации и изобретательность – Я ценю способность находить решения там, где другие видят только проблемы.\n\nУмеренность – Моё воспитание научило меня тому, что не всегда нужно самое большое или самое лучшее; даже небольшие радости в жизни имеют огромную ценность.\n\nРавенство – Все люди одинаково ценны и должны быть рассмотрены соответствующим образом.\n\nЧеловечность – Забота о других и уважение к ним являются основой хорошо функционирующего общества.",
+      "sme": "Vihtta dehálašima elámáárvvuin mu birra:\n\nSápmelašvuohta ja oktavuohta – Buot lea somá go dahkkojuvvo oktan, ja oktočuovgat ii leat šat hui buorre eret áiggi.\n\nNysuhttin ja jurddašmeahttunvuohta – Mun árvaluvvan vejolašvuođa gávdnat vástádusaid go eará oinniit dušše váttisvuođa.\n\nVuollegasvuohta – Mu bajásšaddan lea oahpahuvvan mu ahte ii dárbbaš fas dat stuorámus dahje buoremus, dat unnimus iluidges sáhttet leahkit mas dat árvvus.\n\nOvttasvuohta ja dássážatvuohta – Buot olbmot leat seammá árvvosaš ja galgabaš addojuvvot seammá árvvus.\n\nOlbmobiergu ja buresbirgen – Eará birgejupmi ja árbeduhttin lea buori servodaga vuođđu.",
+      "ara": "أهم خمس قيم في حياتي:\n\nالمجتمع والتواصل – كل شيء يصبح أكثر متعة عند القيام به مع الآخرين، ونادرًا ما يكون الشعور بالوحدة ممتعًا لفترة طويلة.\nالابتكار والإبداع – أقدّر القدرة على إيجاد الحلول حيث يرى الآخرون المشاكل فقط.\nالاعتدال – لقد علّمني نشأتي أن الإنسان لا يحتاج دائمًا إلى الأفضل أو الأكبر، بل حتى أبسط الأفراح في الحياة قد تكون ذات قيمة عظيمة.\nالمساواة – جميع الناس متساوون في القيمة ويجب أن يُعامَلوا على هذا الأساس.\nالإنسانية – العناية بالآخرين واحترامهم هو أساس أي مجتمع ناجح.",
+      "ukr": "П’ять найважливіших життєвих цінностей для мене:\n\nСпільнота та єдність – Все стає приємнішим, коли робиться разом, і самотність рідко буває комфортною протягом тривалого часу.\n\nІнновації та винахідливість – Я ціную здатність знаходити рішення там, де інші бачать лише проблеми.\n\nПоміркованість – Моє виховання навчило мене, що не завжди потрібно мати найбільше або найкраще, адже навіть найменші радощі в житті можуть бути безцінними.\n\nРівність – Усі люди є рівними за своєю цінністю і повинні сприйматися відповідним чином.\n\nЛюдяність – Піклування про інших та повага до них є основою добре функціонуючого суспільства.",
+      "som": "Shanta qiyam ee ugu muhiimsan nolosheyda:\n\nBulshanimada iyo wadajirka – Wax walba waxay noqdaan kuwo xiiso badan marka la wada sameeyo, kelinimaduna waxay dhif tahay inay waqti dheer farxad keento.\n\nHal-abuurka iyo wax-ka-hirgelinta – Aad baan u qiimeeyaa kartida lagu xalliyo dhibaatooyinka halka kuwa kale ay u arkaan kaliya caqabado.\n\nDhexdhexaadnimada – Koritaankeygu wuxuu i baray inaysan mar walba lagama maarmaan ahayn in la yeesho waxyaabaha ugu waaweyn ama ugu qaalisan, balse xitaa farxadaha yar-yar ee nolosha ay yihiin kuwo qaali ah.\n\nSinnaanta – Dhamaan dadka waa isku qiimo, waana in loola dhaqmaa si isku mid ah.\n\nBani'aadannimada – Daryeelka iyo ixtiraamka dadka kale waa aasaaska bulsho si wanaagsan u shaqeyneysa."
+    },
+    "election_promise_2": {
+      "fi": "Lupaan varmistaa, että Helsinki on hyvin valmistautunut tulevaisuuden haasteisiin, kuten ilmastonmuutoksen tuomiin vaikutuksiin. Meidän on huolehdittava siitä, että kaupunkilaiset voivat elää merkityksellistä ja terveellistä elämää riippumatta siitä, mitä maailmassa tai maassamme tapahtuu. Tämä tarkoittaa, että kaupunkisuunnittelussa hyödynnetään innovatiivisia ratkaisuja ja lisätään vihreyttä, jotta ilmastonmuutoksen haasteet otetaan huomioon kaupungissamme. Olipa kyse helleaalloista tai ankarista talvista, olemme valmiita.",
+      "se": "Jag lovar att säkerställa att Helsingfors är väl förberett för framtidens utmaningar, såsom de som klimatförändringen medför. Vi måste se till att stadens invånare kan leva ett meningsfullt och hälsosamt liv, oavsett vad som händer i världen eller här hemma hos oss. Det innebär att stadsplaneringen ska utnyttja innovativa lösningar och i allt högre grad främja grönska, så att klimatförändringens utmaningar beaktas i vår stad. Oavsett om det handlar om värmeböljor eller stränga vintrar ska vi vara förberedda.",
+      "en": "I promise to ensure that Helsinki is well prepared for the challenges of the future, including those brought by climate change. We must make sure that the city’s residents can lead meaningful and healthy lives, regardless of what happens globally or here at home. This means that urban planning must utilize innovative solutions and increasingly incorporate greenery so that the challenges of climate change are properly addressed in our city. Whether facing heatwaves or harsh winters, we will be ready.",
+      "ru": null,
+      "sme": "Mun liikun dahkat duohta ahte Helsset lea bures vuođđuduvvon boahtteáiggi hástalusaide, nugo dálkkádatrievdamiid buktá. Mii fertejit dahkat duohta ahte gávpogii olbmot sáhttet eallit máŋggalmas ja dearvvašvuođalaš eallima, vaikko maid dáhpáhuvvá máilmmi dálus dahje min ruovttus. Dat mearkkaša ahte gávpogaplánementan ferte geavahit ođđa ovttastusaid ja viidodat eanet ruonáldagaid, vai dálkkádatrievdamiid hástalusat leat vuhtii váldojuvvon min gávpogis. Leatgo seamma báikkálaš báhkatbearrašat dahje buozagis dálvit, mii leat huvkkehuvvan.",
+      "ara": "أعدُ بضمان أن تكون هلسنكي مستعدة جيدًا لمواجهة تحديات المستقبل، بما في ذلك التحديات التي يجلبها التغير المناخي. يجب أن نضمن أن يتمكن سكان المدينة من عيش حياة صحية وذات معنى، بغض النظر عما يحدث في العالم أو هنا في وطننا. وهذا يعني أن التخطيط الحضري يجب أن يستفيد من الحلول المبتكرة ويعزز المساحات الخضراء بشكل متزايد، بحيث يتم أخذ تحديات التغير المناخي في الاعتبار في مدينتنا. سواء تعلق الأمر بموجات الحر أو فصول الشتاء القاسية، سنكون مستعدين.",
+      "ukr": "Я обіцяю забезпечити, щоб Гельсінкі був добре підготовлений до викликів майбутнього, зокрема тих, які несе зміна клімату. Ми повинні гарантувати, що мешканці міста можуть вести повноцінне та здорове життя, незалежно від того, що відбувається у світі чи в нашій країні. Це означає, що міське планування має використовувати інноваційні рішення та все більше сприяти озелененню, щоб виклики зміни клімату були належним чином враховані в нашому місті. Чи то спека, чи суворі зими — ми будемо готові.",
+      "som": "Waxaan ballan qaadayaa in aan xaqiijiyo in Helsinki ay si wanaagsan ugu diyaargarowdo caqabadaha mustaqbalka, oo ay ku jiraan kuwa isbeddelka cimiladu keenayo. Waa in aan hubinnaa in dadka magaalada ku nool ay nolol macno leh oo caafimaad leh ku noolaadaan, iyada oo aan loo eegin waxa ka dhaca dunida ama gudaha dalka. Taasi waxay ka dhigan tahay in qorsheynta magaalada la adeegsanayo xalal cusub iyo in la kordhiyo cagaarinta deegaanka, si caqabadaha la xiriira isbeddelka cimilada loo xalliyo. Haddii ay noqoto hirarka kulaylka ama jiilaalka qabowga daran, waxaan u diyaargarownay."
+    },
+    "language": {
+      "id": 23,
+      "background_info_id": 8,
+      "name_fi": "ruotsi",
+      "name_sv": "Svenska",
+      "name_en": "Swedish",
+      "name_ru": "шведский",
+      "name_sme": "ruoŧagiella",
+      "name_ara": "السويدية",
+      "target_value": null,
+      "name_ukr": "шведська",
+      "name_som": "af-Iswiidhish"
+    },
+    "tiktok_url": "https://www.tiktok.com/@lucas.kavander",
+    "municipality_fix": {
+      "fi": "Helsingissä pitäisi varmistaa, että saamme yksinäisyyden ja eriytymisen lisääntymisen pysäytettyä, ja pitkällä aikavälillä myös molempia vähennettyä. Uskon, että työ tämän eteen tulisi myös aloittaa jo nuoresta pitäen, joten lasten ja nuorten harrastuksiin ja koulutukseen tulee ehdottomasti panostaa lisää resurseja. \n\nMeidän pitää myös varmistaa, että kaupunkimme on varustettu kestämään laskelmoidun väestönkasvun. Meidän on aktiivisesti kaavoitettava lisää asuinalueita, mutta samalla on myös muistettava ottaa niiden toimivuus huomioon. Lisäksi asukkaiden tarpeet, esimerkiksi liikunnan kannalta, tulee jatkossa ottaa paremmin huomioon kaupunkisuunnitelussa. ",
+      "se": "Helsingfors måste säkerställa att vi lägger stopp för den ökande ensamheten och splittringen i vårt samhälle. Helsingfors är som starkast, då dess invånare håller samman och så få som möjligt blir ensamma. Dessutom kan splittringen och ensamheten ha katastrofala följder för trivsamheten och funktionaliteten av vår stad, som enligt beräkningar kommer att växa stort under de kommande årtionden. \n\nKonkret måste vi satsa på att alla stadsbor redan från ung ålder ges en rättvis möjlighet till att ta del av diverse fritidsaktiviteter, tillsammans med andra barn och unga. För dem i vuxen ålder kunde man helt enkelt minska på bland annat den ekonomiska men också tidsmässiga tröskeln till att ta del av någon hobby med de andra i staden. Ifall vi inte agerar mot den växande ensamheten och splittringen kan det ha katastrofala följder på trivsamheten, men också funktionaliteten av vår stad. ",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Lupaan ensisijaisesti edistää kaikkien ikäryhmien mahdollisuuksia harrastaa vapaa-ajalla, erityisesti liikuntaa ja urheilua. Tavoitteenani on madaltaa taloudellisia esteitä, jotta yhä useammat voivat osallistua esimerkiksi joukkueurheiluun. Käytännössä tämä tarkoittaa muun muassa tilojen ja kenttien vuokrien pienentämistä, jotta jokaisella olisi varaa harrastaa itselleen mieleistä lajia. Lisäksi meidän on varmistettava, että kaupunkisuunnittelussa ja kaavoituksessa otetaan huomioon kaupunkilaisten liikunnaliset tarpeet. ",
+      "se": "Jag vill främja alla åldersgruppers möjligheter att ägna sig åt meningsfulla fritidsaktiviteter och hobbyer, särskilt inom träning och idrott. Mitt mål är att sänka de ekonomiska trösklarna så att fler har råd att utöva en hobby som verkligen engagerar och berikar dem. Ett konkret steg vore att Helsingfors stad minskar avgifterna för att hyra lokaler och planer, vilket många hobbyverksamheter idag påverkas av. Dessutom måste vi säkerställa att stadsplaneringen aktivt stödjer invånarnas möjligheter till rörelse och motion.",
+      "en": "I want to promote opportunities for people of all ages to engage in meaningful leisure activities and hobbies, especially in sports and physical exercise. My goal is to lower financial barriers so that more people can afford to pursue a hobby that truly interests and fulfills them. A concrete step would be for the City of Helsinki to reduce rental fees for sports facilities and fields, which currently pose a challenge for many hobby groups. Additionally, we must ensure that urban planning actively supports residents' opportunities for movement and exercise.",
+      "ru": null,
+      "sme": "\"Mun áiggun ráhkadit vejolašvuođaid buot áiggiidlohkuide dahkat hirbmat mieldekeahtes ja ávkkálaš sáhttadusaid ja hárjánanassiid, erenoamážit fápmu- ja sprottahárjánanassiin. Mu miellahttohallan lea unnitit ekonomalaš gáhppuid, vai eanet olbmot sáhttet háhkat hárjánanassii mii duođaštusat daid geahččalit ja geavahit ilus. Okta konkretalaš doaimmaš lea unnitit sprottatelaid ja gámppiide vuoruhuvvonmaksu Helssegis, danne go alla máksit hehtet máŋgaid válljet háhkat. Lassin lea dehálaš, ahte gávpotdoaimmat galget doaibmat aktijuvdnasiid mas ásahusat sáhttet leat liikoliikus ja fíttalaš fuobmemehámmas.",
+      "ara": "أسعى إلى توفير الفرص للأشخاص من جميع الأعمار لممارسة أنشطة وهوايات ترفيهية مفيدة وذات معنى، خاصة في مجال الرياضة والنشاط البدني. هدفي هو تقليل الحواجز المالية بحيث يتمكن أكبر عدد ممكن من الأشخاص من متابعة هواية تثير اهتمامهم وتجلب لهم السعادة. ومن الخطوات العملية لتحقيق ذلك تخفيض رسوم تأجير المرافق والصالات الرياضية في هلسنكي، حيث تمنع التكاليف المرتفعة حاليًا الكثيرين من ممارسة أنشطتهم المفضلة. بالإضافة إلى ذلك، من المهم أن يدعم التخطيط الحضري بشكل فعال فرص السكان لممارسة الحركة والنشاط البدني.",
+      "ukr": "Я прагну створити можливості для людей усіх вікових груп займатися змістовними та корисними дозвіллєвими заняттями й хобі, особливо у сфері спорту та фізичної активності. Моя мета — зменшити фінансові бар’єри, щоб якнайбільше людей могли дозволити собі займатися тим, що їх дійсно цікавить і приносить радість. Конкретним кроком могло б стати зниження орендної плати за спортивні зали та майданчики в Гельсінкі, оскільки високі ціни зараз заважають багатьом займатися улюбленими активностями. Крім того, важливо, щоб міське планування активно підтримувало можливості мешканців для руху та фізичної активності.",
+      "som": "Waxaan rabaa in aan abuuro fursado loogu talagalay dadka da’ kasta leh si ay ugu howlgalaan waqtiyo firaaqo oo macno leh iyo hiwaayado faa'iido leh, gaar ahaan dhanka isboortiga iyo firfircoonida jirka. Hadafkaygu waa in aan yareeyo caqabadaha dhaqaale si dad badan ay u awoodaan inay sameeyaan waxyaabaha ay dhab ahaantii xiiseynayaan oo farxad u keenaya. Tallaabo gaar ah oo tan lagu gaari karo waa in la yareeyo qiimaha kirada goobaha isboortiga iyo xarumaha ciyaaraha ee Helsinki, maadaama qiimaha sare ee hadda jira ay caqabad ku yihiin dad badan. Intaa waxaa dheer, waa muhiim in qorsheynta magaalooyinka ay si firfircoon u taageerto fursadaha ay dadka deegaanka u haystaan dhaqdhaqaaqa iyo firfircoonida jirka."
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,226 @@
+{
+  "id": 5295,
+  "first_name": "Ida",
+  "last_name": "Slöör",
+  "election_number": 676,
+  "party_id": 8,
+  "image": "kuvat/akv2025/5295/392361d4-e508-4314-8ba0-cf1c6bb146ec",
+  "constituency_id": 25,
+  "video": "1-73824596",
+  "video_aspect": "1:1",
+  "video_description_fi": "Tärkein tavoitteeni seuraavalla vaalikaudella on tehdä Helsingistä kaupunki, joka on kaksikielinen, missä nuoret voivat hyvin ja missä urheilu on kaikkien saatavilla.\n\n\n\n\n\n\n\n",
+  "video_description_sv": "Mitt viktigaste mål under nästa mandatperiod är att göra Helsingfors till en stad där svenska språket är starkt, unga mår bra och idrott är tillgängligt för alla.",
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 44,
+      "background_info_id": 10,
+      "name_fi": "Hieman vasemmalle",
+      "name_sv": "Lite till vänster",
+      "name_en": "Slightly to the left",
+      "name_ru": "Немного слева",
+      "name_sme": "Vehá gurut guvlui",
+      "name_ara": "أميل إلى اليسار",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan työskennellä sen puolesta, että Helsingissä jokaisella on mahdollisuus harrastaa liikuntaa, iästä ja taloudellisesta tilanteesta riippumatta.\n\nLiikunnan tulee olla kaikkien saatavilla, riippumatta taloudellisesta tilanteesta. Haluan nähdä enemmän liikuntapaikkoja, kuntoreittejä ja ulkokuntosaleja. Lisäksi meidän tulee panostaa tuettuihin harrastusmaksuihin ja tarjota maksutonta liikuntaa vähävaraisista perheistä tuleville lapsille ja nuorille.",
+      "se": "Jag lovar att jobba för ett Helsingfors där alla kan idrotta, oavsett ålder och ekonomisk situation. \n\nIdrott ska vara tillgängligt för alla, oavsett ekonomi. Jag vill se fler idrottsanläggningar, motionsspår och utomhusgym. Dessutom ska vi satsa på subventionerade avgifter och gratis idrott för barn och unga från låginkomstfamiljer.",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 2001,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "joku muu",
+        "se": "något annat",
+        "en": "Other",
+        "ru": "другой",
+        "sme": "muhtin eará",
+        "ara": "لغة أخرى"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Oikeudenmukaisuus – Kaikkia ihmisiä tulee kohdella tasavertaisesti ja heille on annettava samat mahdollisuudet taustasta riippumatta.\n\nTieto & Kehitys – Pyrkimys jatkuvaan oppimiseen, maailman parempaan ymmärtämiseen ja muiden auttamiseen samassa tavoitteessa.\n\nKestävyys – Ympäristön ja tulevien sukupolvien huomioiminen fiksuilla ja pitkän aikavälin ratkaisuilla.\n\nEmpatia & Inhimillisyys – Toisten tunteiden, tarpeiden ja elämäntilanteiden ymmärtäminen ja kunnioittaminen.\n\nVapaus & Vastuu – Jokaisella on oikeus tehdä omia päätöksiään, mutta myös vastuu niiden seurauksista.",
+      "se": "Rättvisa – Alla människor ska behandlas jämlikt och ges samma möjligheter oavsett bakgrund.\n\nKunskap & Utveckling – Strävan efter kontinuerligt lärande, en bättre förståelse av världen och att hjälpa andra med samma mål.\n\nHållbarhet – Att ta hänsyn till miljön och framtida generationer genom smarta och långsiktiga lösningar.\n\nEmpati & Humanitet – Att förstå och respektera andras känslor, behov och livssituationer.\n\nFrihet & Ansvar – Alla har rätt att fatta egna beslut, men också ansvar för konsekvenserna av dem.",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lupaan työskennellä sen puolesta, että Helsingissä panostetaan nuorten hyvinvointiin.\n\nNuorten psyykkinen ja fyysinen hyvinvointi on asetettava etusijalle. Haluan lisää matalan kynnyksen palveluja, lyhyemmät jonotusajat ja paremman opiskelijaterveydenhuollon. Tarvitsemme enemmän opiskelija-asuntoja – ja alle 25-vuotiaille ilmaisten ehkäisyvälineiden tulee olla itsestäänselvyys!",
+      "se": "Jag lovar att jobba för ett Helsingfors som satsar på ungas välmående. \n\nUngas psykiska och fysiska välmående måste prioriteras. Jag vill ha fler lågtröskelmottagningar, kortare väntetider och bättre elevhälsa. Vi behöver fler studentbostäder – och gratis preventivmedel för unga under 25 ska vara en självklarhet!",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 23,
+      "background_info_id": 8,
+      "name_fi": "ruotsi",
+      "name_sv": "Svenska",
+      "name_en": "Swedish",
+      "name_ru": "шведский",
+      "name_sme": "ruoŧagiella",
+      "name_ara": "السويدية",
+      "target_value": null,
+      "name_ukr": "шведська",
+      "name_som": "af-Iswiidhish"
+    },
+    "homepage_url": "https://idasloor.wordpress.com",
+    "facebook_url": "https://www.facebook.com/profile.php?id=100008101306266&locale=fi_FI",
+    "instagram_url": "https://www.instagram.com/idasloor/",
+    "X_url": "https://x.com/idasloor",
+    "tiktok_url": "https://tiktok.com/@ida_sloor ",
+    "language_some_other": {
+      "fi": "Tanska",
+      "se": "Danska ",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "municipality_fix": {
+      "fi": "Helsingissä on paljon hyvää, mutta on myös useita asioita, joita pitää parantaa. Ruotsin kieltä on vahvistettava sekä palveluissa että koulutuksessa, jotta kaupungin kaksikielisyys toimii käytännössä. Koulujen resurssit on turvattava, jotta opetuksen laatu pysyy korkeana ja oppilaiden hyvinvointia voidaan tukea paremmin. Nuorten mielenterveys on asetettava etusijalle parantamalla pääsyä mielenterveyspalveluihin, ja terveydenhuollon jonot on saatava lyhyemmiksi. Liikunnan tulee olla kaikkien saatavilla taustasta tai taloudellisesta tilanteesta riippumatta, ja opiskelijoiden viihtyvyyttä on parannettava lisäämällä asuntoja ja tarjoamalla enemmän tukea arjessa. Helsingin tulee olla kaupunki, jossa jokainen voi voida hyvin, kehittyä ja viihtyä.",
+      "se": "Helsingfors är en fantastisk stad, men det finns alltid saker att förbättra. Jag vill se en starkare satsning på det svenska språket i service och utbildning, så att Helsingfors verkligen är en tvåspråkig stad i praktiken. Skolorna behöver mer resurser för att garantera hög kvalitet i undervisningen och bättre stöd för elevernas välmående. Ungas psykiska hälsa måste prioriteras genom bättre tillgång till mentala hälsotjänster, och vårdköerna inom hälsovården måste kortas. Unga ska ha tillgång till meningsfulla fritidsaktiviteter. Idrott ska vara tillgängligt för alla, oavsett bakgrund eller ekonomiska förutsättningar. Dessutom vill jag att Helsingfors förblir en stad där studerande trivs. Vi behöver förbättra trivseln för studenter genom fler bostäder, bättre studiemiljöer och mer stöd i vardagen. Helsingfors ska vara en stad där alla kan må bra, utvecklas och trivas.",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": null,
+      "se": "Ordförande för Svensk Ungdoms högskolepolitiska utskott. \nMedlem i Soc&Koms styrelse. \nMedlem i Soc&Koms vänners styrelse. \n",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": null,
+      "se": "Danska ",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": "Lupaan työskennellä sen puolesta, että Helsingissä ruotsin kieli kuuluu ja näkyy.\n\nHaluan vahvistaa ruotsin kieltä koko Helsingissä! Tämä tarkoittaa lisää panostuksia ruotsinkielisiin kouluihin, päiväkoteihin ja palveluihin. Lisäksi tarvitsemme enemmän kulttuuritapahtumia ja aloitteita, jotka tuovat ruotsin kieltä esiin ja vahvistavat sen asemaa kaupungissamme.",
+      "se": "Jag lovar att jobba för ett Helsingfors där svenskan hörs och syns. \n\nJag vill stärka svenska språket i hela Helsingfors! Det innebär fler satsningar på svenskspråkiga skolor, daghem och tjänster. Dessutom ska vi ha fler kulturevenemang och initiativ som lyfter och stärker svenskan i vår stad.",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Olen ollut aktiivinen RKP:n nuorisojärjestössä Svensk Ungdomissa ja toimin tällä hetkellä Svensk Ungdomin korkeakoulupoliittisen jaoston puheenjohtajana. Opintojeni aikana olen ollut aktiivinen myös opiskelijajärjestö StudOrgissa, jossa toimin hallituksessa kahden vuoden ajan, joista yhden vuoden puheenjohtajana. Näiden kokemusten myötä minulla on vahva tausta ja laaja kokemus opiskelijapolitiikasta.",
+      "se": "Jag har varit aktiv inom SFP:s ungdomsförbund Svensk ungdom och sitter för tillfället som ordförande för Svensk Ungdoms högskolepolitiska utskott. Under studietiden har jag varit aktiv inom studentföreningen StudOrg, där jag suttit i styrelsen två år, ett år som ordförande. Därmed har jag mycket erfarenhet inom studentpolitiken. ",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

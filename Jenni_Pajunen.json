@@ -1,0 +1,229 @@
+{
+  "id": 398,
+  "first_name": "Jenni",
+  "last_name": "Pajunen",
+  "election_number": 298,
+  "party_id": 19,
+  "image": "kuvat/akv2025/398/06e4f173-3982-4d04-930c-c15dac4e7ddf",
+  "constituency_id": 25,
+  "video": "1-73818292",
+  "video_aspect": "1:1",
+  "video_description_fi": "Minä olen huolissani helsinkiläisten aivoista. Meidän lapsista ja nuorista noin joka viidennellä on ongelmia mielenterveyden kanssa. Ahdistuneisuushäiriöt ovat suurin poissaolon syy meidän työpaikolla. Meidän ikäihmisistä jo 200 000 Suomessa sairastaa muistisairautta. \n\nTämän takia tärkein tavoitteeni seuraavalla valtuustokaudella on edistää helsinkiläisten aivoterveyttä. Työni kautta Aivosäätiössä tiedän, että monia näistä ongelmista voidaan ennaltaehkäistä tai siirtää eteenpäin. \n\nMinä haluan, että otamme aivoterveyden huomioon kaikessa päätöksenteossa päiväkodeissa, kouluissa, liikennesuunnittelussa, rakentamisessa ja terveyspalveluissa. \n\nTämä tarkoittaa toimivampaa arkea, kulttuuri-ja liikuntamahdollisuuksia, hyvää unta, ruokavaliota ja vähemmän stressiä. Tää on myös hyväksi meidän taloudellemme pidemmällä aikavälillä. Pidetään huolta helsinkiläisten aivoista! \n",
+  "video_description_sv": "Jag är orolig för helsingforsbornas hjärnor. Ungefär var femte av våra barn och unga har psykiska problem. Ångestsyndrom är den största orsaken till frånvaro på vår arbetsplats. Redan 200 000 av våra äldre i Finland lider av minnesstörningar. \n\nDärför är mitt viktigaste mål under nästa fullmäktigeperiod att främja helsingforsbornas hjärnhälsa. Genom mitt arbete på Hjärnfonden vet jag att många av dessa problem kan förebyggas eller skjutas upp. \n\nJag vill att vi tar hänsyn till hjärnans hälsa i allt beslutsfattande inom daghem, skolor, trafikplanering, byggande och hälso- och sjukvård. \n\nDet innebär en mer fungerande vardag, kultur- och träningsmöjligheter, god sömn, kost och mindre stress. Detta är också bra för vår ekonomi på lång sikt. Låt oss ta hand om helsingforsbornas hjärnor!",
+  "video_description_en": "I am concerned about the brains of Helsinki residents. About one in five of our children and young people have mental health problems. Anxiety disorders are the biggest reason for absence from work. Already 200,000 of our elderly people in Finland suffer from memory disorders. \n\nThat is why my main goal in the next council term is to promote the brain health of Helsinki residents. Through my work at the Finnish Brain Foundation, I know that many of these problems can be prevented or postponed. \n\nI want us to take brain health into account in all decision-making in daycare centers, schools, traffic planning, construction and health services. \n\nThis means a more functional everyday life, cultural and sports opportunities, good sleep, diet and less stress. This is also good for our economy in the long term. Let's take care of the brains of Helsinki residents!",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 47,
+      "background_info_id": 10,
+      "name_fi": "Oikealle",
+      "name_sv": "Till höger",
+      "name_en": "To the right",
+      "name_ru": "Справа",
+      "name_sme": "Olgeš guvlui",
+      "name_ara": "اليمين",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Pidän huolta Helsingin terveestä taloudesta. Kannustamme työtekoon, yrittäjyyteen ja Helsingin talouden kestävään kasvuun. Näin voimme varmistaa toimivan arjen ja Helsingin laadukkaat palvelut asukkailleen. Ajan aktiivisesti sitä, että emme nosta veroja.\n",
+      "se": "Jag tar hand om Helsingfors sunda ekonomi. Vi uppmuntrar arbete, entreprenörskap och hållbar tillväxt i Helsingfors ekonomi. På så sätt kan vi säkerställa en smidig vardag och högkvalitativa tjänster för Helsingfors invånare. Jag driver aktivt för att vi inte ska höja skatterna.",
+      "en": "I take care of Helsinki's healthy economy. We encourage work, entrepreneurship and sustainable growth of Helsinki's economy. This way we can ensure a functioning everyday life and high-quality services for Helsinki's residents. I actively ensure that we do not raise taxes.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1980,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "ranska",
+        "se": "franska",
+        "en": "French",
+        "ru": "французский",
+        "sme": "fránskkagiella",
+        "ara": "الفرنسية"
+      },
+      {
+        "fi": "espanja",
+        "se": "spanska",
+        "en": "Spanish",
+        "ru": "испанский",
+        "sme": "spánskkagiella",
+        "ara": "الإسبانية"
+      },
+      {
+        "fi": "joku muu",
+        "se": "något annat",
+        "en": "Other",
+        "ru": "другой",
+        "sme": "muhtin eará",
+        "ara": "لغة أخرى"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Rakkaus, yhdenvertaisuus, oikeudenmukaisuus, empatia, demokratia ",
+      "se": "Kärlek, jämlikhet, rättvisa, empati, demokrati",
+      "en": "Love, equality, justice, empathy, democracy",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Tulen aktiivisesti torjumaan alueiden eriytymistä kaikessa päätöksenteossa. Helsingin tavoitteena on oltava, että jokainen alue on hyvä alue ja jokaisella alueella on hyvä päiväkoti ja koulu. Jokaiselta alueelta löytyy luontoa ja harrastusmahdollisuuksia. Näin varmistamme toimivan ja turvallisen arjen eri puolilla kaupunkia sekä edesautamme, että kaikki tuntevat olevansa kotonaan Helsingissä.",
+      "se": "Jag kommer aktivt att bekämpa regional segregation i allt beslutsfattande. Helsingfors mål måste vara att varje område är ett bra område och att varje område har en bra dagis och skola. Varje område erbjuder natur- och rekreationsmöjligheter. På så sätt förebygger vi problem och hjälper alla att känna sig hemma i Helsingfors.",
+      "en": "I will actively combat regional segregation in all decision-making. Helsinki's goal must be that every neighborhood is a good neighborhood and that every neighborhood has a good daycare center and school. Every neighborhood has nature and recreational opportunities. This will prevent problems and help everyone feel at home in Helsinki.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://jennipajunen.fi/",
+    "facebook_url": "https://www.facebook.com/pajunenjenni",
+    "instagram_url": "https://www.instagram.com/jeepajunen/",
+    "X_url": "https://x.com/JenniPajunen",
+    "language_some_other": {
+      "fi": "Portugali",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "municipality_fix": {
+      "fi": "1. Aivoterveyden huomioiminen päätöksenteossa\n2. Alueiden ja koulujen eriytymisen pysäyttäminen\n3. Laadukkaat terveyspalvelut niitä tarvitseville\n4. Rakentamisen ja luonnonsuojelun välinen tasapaino\n5. Talouden kasvun ja kestävyyden varmistaminen\n6. Hallinnon kehittäminen asukas- ja työtekijäystävällisemmäksi\n7. Liikenne ja katutyöt\n8. Lisää elämää Helsingin keskustaan\n",
+      "se": "\n\n1. Att ta hänsyn till hjärnans hälsa vid beslutsfattande\n2. Stoppa regional och skolsegregation\n3. Hälsotjänster av hög kvalitet för dem som behöver dem\n4. Balans mellan byggande och naturvård\n5. Säkerställa ekonomisk tillväxt och hållbarhet\n6. Utveckla administrationen för att bli mer invånar- och medarbetarvänlig\n7. Trafik och gatuarbeten\n8. Lägg liv i Helsingfors centrum",
+      "en": "1. Taking brain health into account in all decision-making\n2. Stopping the segregation of different areas and schools\n3. High-quality health services for those who need them\n4. A balance between construction and nature conservation\n5. Ensuring economic growth and sustainability\n6. Developing administration to be more resident and employee-friendly\n7. Traffic and street works\n8. Adding life to the center of Helsinki",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Helsingin kaupunginvaltuutettu 2017-\nKokoomuksen valtuustoryhmän varapuheenjohtaja 2021-\nHelsingin kaupunkiympäristölautakunnan ja konsernijaoston jäsen 2021-\nHelsingin kaupunginhallituksen varajäsen 2017-\nHelsingin ja Uudenmaan sairaanhoitopiirin valtuuston jäsen 2021-22\nHelsingin kulttuuri- ja kirjastojaoston varapuheenjohtaja, elinkeinojaoston jäsen 2017-21\n",
+      "se": "Helsingfors stadsfullmäktige 2017-\nVice ordförande i Samlingspartiets fullmäktigegrupp 2021-\nLedamot i Helsingfors stadsmiljönämnd och koncernavdelning 2021-\nSuppleant i Helsingfors stadsfullmäktige 2017-\nLedamot i Helsingfors och Nylands sjukhusdistriktsråd 2021-22\nVice ordförande i Helsingfors kultur- och biblioteksavdelning, ledamot av ekonomiavdelningen 2017-21",
+      "en": "Helsinki City Councilor 2017-\nVice-Chairman of the Coalition Party City Council Group 2021-\nMember of the Helsinki Urban Environment Committee and City Group Division 2021-\nDeputy member of the Helsinki City Board 2017-\nMember of the Helsinki and Uusimaa Hospital District Council 2021-22\nVice-Chairman of the Helsinki Culture and Library Division, Member of the Economic Affairs Division 2017-21",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Pidämme parempaa huolta helsinkiläisten aivoista. Tällä hetkellä monet nuoret ovat ahdistuneita, työikäiset uupuneita ja ikäihmisillä on kasvava määrä muistisairauksia. Työni kautta Aivosäätiössä kautta tiedän, että monia näistä ongelmista voidaan ennaltaehkäistä. Huomioin aivoterveyden kaikessa päätöksenteossa päiväkodeista ja kouluista kaupunkisuunnitteluun ja terveyspalveluihin.",
+      "se": "Vi tar bättre hand om helsingforsbornas hjärnor. För närvarande är unga människor oroliga, många människor i arbetsför ålder är utmattade och äldre upplever ett växande antal minnesstörningar. Genom mitt arbete på Hjärnfonden vet jag att många av dessa problem kan förebyggas. Jag tar hänsyn till hjärnans hälsa i allt beslutsfattande, från skolor till stadsplanering och hälsovård.",
+      "en": "We take better care of the brains of Helsinki residents. Currently, young people are anxious, many working-age people are exhausted, and the elderly have a growing number of memory disorders. Through my work at the Finnish Brain Foundation, I know that many of these problems can be prevented. I consider brain health in all decision-making, from schools to urban planning and health services.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "kunnanvaltuutettu",
+        "se": "ledamot i kommunfullmäktige",
+        "en": "municipal councillor",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      },
+      {
+        "fi": "aluevaltuutettu",
+        "se": "ledamot i välfärdsområdesfullmäktige",
+        "en": "county councillor",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,167 @@
+{
+  "id": 6496,
+  "first_name": "Mila",
+  "last_name": "Nikkanen",
+  "election_number": 164,
+  "party_id": 7,
+  "image": "kuvat/akv2025/6496/f20ad823-1e31-47d7-9556-475bc28f5f53",
+  "constituency_id": 25,
+  "video": "1-73771147",
+  "video_aspect": "1:1",
+  "video_description_fi": "Moi, olen Mila ja olen ehdolla, jotta yksikään nuori ei jäisi yksin. Sen takia tärkein tavoitteeni valtuustokaudella on parantaa nuorten hyvinvointia. Tässä ovat tavat, miten se mielestäni tehdään. Yksi tapa on se, että koulutukseen panostetaan ja lisätään resursseja. Kouluissa jokaisen oppilaan on saatava se tuki, jota hän tarvitsee. Toinen tapa on parempi terveydenhuolto, jossa myös mielenterveyden haasteet otetaan tosissaan. Kolmas tapa on, se että jokaisella lapsella ja nuorella on turvallinen aikuinen. Äänestä minua, jos sinäkään et halua, että yksikään nuori ei jää yksin!",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 42,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti vasemmalle",
+      "name_sv": "Långt till vänster",
+      "name_en": "Strongly on the left",
+      "name_ru": "С самого левого края",
+      "name_sme": "Nannosit gurut guvlui",
+      "name_ara": "أقصى اليسار",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Kaikille mahdollisuus työelämään - Myös osa- ja täsmätyökykyisille!",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 2002,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 49,
+      "background_info_id": 16,
+      "name_fi": "peruskoulu",
+      "name_sv": "grundskola",
+      "name_en": "Primary school",
+      "name_ru": "средняя школа",
+      "name_sme": "vuođđoskuvla",
+      "name_ara": "المستوى الابتدائي",
+      "target_value": 1,
+      "name_ukr": "середня школа",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Yhteisöllisyys, yhdenvertaisuus, terveys, oikeudenmukaisuus ja tasa-arvo.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Terveydenhuolto, jossa jokainen saa hoitoa oikea-aikaisesti - Mielenterveydenhaasteet on otettava tosissaan!",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "instagram_url": "https://www.instagram.com/m1l4777",
+    "tiktok_url": "https://www.tiktok.com/@milanikkanen",
+    "municipality_fix": {
+      "fi": "Terveydenhuoltoa ja koulutusta pitäisi parantaa. Terveydenhuollon odotusajat ovat kohtuuttoman pitkät ja resurssipulat huutavat niin perusterveydenhuollossa kuin monella erikoissairaanhoidon poliklinikalla. Tämä näkyy erityisesti psykiatrisessa erikoissairaanhoidossa niin aikuisten kuin nuorten puolella. Niin perusterveydenhuollon kuin erikoissairaanhoidon resursseja on lisättävä, jotta jokainen hoitoa tarvitseva myös saa sitä.\n\nKouluissa on turvattava jokaisen oppilaan mahdollisuus saada itselleen räätälöityjä tukitoimia, jotka aidosti tekevät oppilaalle opiskelusta saavutettavaa ja mahdollista. Tukea tarvitsevat oppilaat eivät saa jäädä ilman tarvitsemiaan tukitoimia resurssipulan takia ja toimien on toteuduttava konkreettisesti arjessa, eikä vain paperilla. Ymmärrystä erilaisista toimintakyvyistä ja terveydellisistä haasteista on lisättävä henkilökunnan keskuudessa, jotta erilaisissa tilanteissa olevia oppilaita voidaan tukea paremmin.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Kaikille yhdenvertainen mahdollisuus opiskeluun - Yksikään nuori tai lapsi ei saa jäädä ilman tarvitsemaansa tukea!",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

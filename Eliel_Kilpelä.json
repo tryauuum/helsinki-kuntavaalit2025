@@ -1,0 +1,232 @@
+{
+  "id": 9266,
+  "first_name": "Eliel",
+  "last_name": "Kilpelä",
+  "election_number": 123,
+  "party_id": 7,
+  "image": "kuvat/akv2025/9266/4c52bb94-b24f-44c1-8885-3b7cf5e748fd",
+  "constituency_id": 25,
+  "video": "1-73820292",
+  "video_aspect": "1:1",
+  "video_description_fi": "Mun tärkein tavoitteeni ens kaudelle on, että Helsinki rahoittaisi kouluja ja päiväkoteja tarpeiden mukaan eikä tehokkuusvaatimusten mukaan. Ajattelen myös, että maailmassa joka tuntui turvattomammalta ja jossa pimeys tihenee Helsinki voi olla paikka jossa me pidetään huolta toisistamme ja jossa voidaan tuntea olevamme tervetulleita ja turvassa.",
+  "video_description_sv": "Jag tänker att mitt viktigaste mål för nästa mandatperiod är att Helsingfors finansierar skolor och daghem i den mån de behöver och inte utgående från effektivitetsmål. Och sen tänker jag att i värld som känns otryggare och mörkret sluter kring oss, att vi Helsingfors skapar en plats där vi tar hand om varandra och staden och alla invånare kan känna sig trygga och välkomna.",
+  "video_description_en": "My most important goal is that Helsinki puts money in to schools and kindergartens according to their need and not according to standards of efficiency. And then I want Helsinki to be a place that we as citizens care for and where we care for each other. I want Helsinki to be a place where everybody can feel safe and welcome.",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 42,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti vasemmalle",
+      "name_sv": "Långt till vänster",
+      "name_en": "Strongly on the left",
+      "name_ru": "С самого левого края",
+      "name_sme": "Nannosit gurut guvlui",
+      "name_ara": "أقصى اليسار",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan tehdä osani sellaisen Helsingin puolesta, jossa jokainen kaupunkilainen riippumatta taloudellisesta tilanteestaan, iästään, vammastaan, taustastaan, sukupuolestaan tai seksuaalisuudestaan, voi tuntea olonsa turvalliseksi ja tervetulleeksi.",
+      "se": "Jag lovar jobba för ett Helsingfors, där alla stadsbor oberoende av ekonomisk situation, kön, ålder, läggning, etnicitet, funktionsvarians eller andra faktorer får känna sig som en trygg och välkommen del av staden.",
+      "en": "I promise to do my part for a Helsinki where every city-dweller regardless of economic situation, age, gender, sexuality, disability or ethnicity, can feel safe and welcome.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1985,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      },
+      {
+        "fi": "ranska",
+        "se": "franska",
+        "en": "French",
+        "ru": "французский",
+        "sme": "fránskkagiella",
+        "ara": "الفرنسية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Tasa-arvo, hyväntahtoisuus, rehellisyys itseä ja muita kohtaan, solidaarisuus, autonomia.\n\nArvoni perustuvat käsitykseen siitä, että ihmiset ovat keskenään samanarvoisia ja että olentoina olemme niin itsenäisyyttä kuin yhteyttä kaipaavia – tahdomme huolehtia toisistamme ja toivomme tulevamme huoltapidetyiksi. Tapa, jolla rakennamme yhteiskuntaa tulisi mielestäni heijastella näitä toiveita olla sekä yksilöitä että laumaeläimiä. Lyhyesti: toteuttaa lajityypillistä käyttäytymistä.",
+      "se": "Jämlikhet, välvilja, ärlighet mot sig själv och andra, solidaritet, autonomi. \n\nMina värderingar är baserade på att vi människor alla är likvärdig och att vi både är självständiga varelser som längtar efter frihet men också varelser som söker sig mot andra för ta hand om och bli omhändertagna. I mitt tycke är det viktigt sättet vi avspeglar dessa värden och möjliggör för oss en existens både som individer och flockdjur.",
+      "en": "Equality, benevolence, honesty towards oneself and others, autonomy.\n\nMy values are based on the conviction that we are all equal and that we are both indivivuals longing for freedom and parts of a community yearning after connection and care-taking with others. I think our societies should mirror these species-specific characteristics and enable our existence as both individuals and parts of a herd.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lupaan puolustaa kaupunkia osana luontoa ja tehdä osani, jotta kaupunkilaisille ja monimuotoisuudelle tärkeät lähimetsät, kuten Stansvik, suojellaan.",
+      "se": "Jag lovar att försvara staden som en del av naturen och göra mitt för att närskogar viktiga för biodiversitet och människor, t.ex. Stansvik, skyddas.",
+      "en": "I promise to defend the city as a part of nature and do my part so that neighbourhood forests, like Stansvik, important both for biodiversity and inhabitants will be protected.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 23,
+      "background_info_id": 8,
+      "name_fi": "ruotsi",
+      "name_sv": "Svenska",
+      "name_en": "Swedish",
+      "name_ru": "шведский",
+      "name_sme": "ruoŧagiella",
+      "name_ara": "السويدية",
+      "target_value": null,
+      "name_ukr": "шведська",
+      "name_som": "af-Iswiidhish"
+    },
+    "homepage_url": null,
+    "facebook_url": "https://www.facebook.com/politicalkilpela",
+    "instagram_url": "https://www.instagram.com/elielkilpela",
+    "language_some_other": {
+      "fi": "Minulla on perustaidot latinassa, venäjässä, jiddishissä ja espanjassa.",
+      "se": "Har grundläggande kunskaper i latin, ryska, jiddisch och spanska.",
+      "en": "I have basic knowledge of Latin, Russian, Yiddish and Spanish.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "municipality_fix": {
+      "fi": "Helsinki on joka vuosi ylijäämäinen, mutta siitä huolimatta kouluja ja päiväkoteja ei ole rahoitettu tarpeen mukaan vaan ylijäämää on mm. käytetty veronalennuksiin. Sen on muututtava. Ekokriisit tulevat tulevaisuudessa osumaan yhä rankemmin myös meihin – kaupungin on valmistauduttava tähän paremmin ja pidettävä huolta kaupunkiluonnosta, joka myös suojelee meitä. On myös selvää, että nykyiseen kulutukseen ja kauppakeskuksiin perustuva kulttuuri ei voi jatkua – meidän tulisi kaupunkina pohtia enemmän miltä ihan konkreettisesti näyttää kestävämpi elämäntapa.",
+      "se": "Helsingfors har ständigt ett överskott men det till trots finansieras dagis och skola inte i den mån de skulle behöva istället har vi sett sänkt kommunalskattesats – det måste ändra. I framtiden kommer ekokriserna att drabba allt hårdare även oss – staden måste bli bättre på att ta smällarna och värna om stadsnaturen som skyddar oss. En livsstil som baserar sig på överkonsumtion och nya köpcenter är inte heller hållbar – som stad måste vi börja tänka på hur hållbar livsstil kunde se rent konkret ut för framtiden.",
+      "en": "We need to use the surplus the city generates for schools and kindergartens, not tax reductions. The city must also become better at protecting its nature as it protects us from coming extreme weather. Our culture of consumption with malls are coming to an end – we need to figure out how a city could promote are more sustainable lifestyle.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Olen kasvatus- ja koulutuslautakunnan ruotsinkielisen jaoston jäsen.",
+      "se": "Jag är medlem av svenska sektionen vid nämnden för fostran och utbildning.",
+      "en": "I'm a member of the Swedish Sub-Committee at the Committee of Education",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": "Olen vahvasti kaksikielinen ja äidinkielen käsite on siksi minulle hieman hankala.",
+      "se": "Konceptet modersmål är lite knepigt för en tvåspråkig person; finska är mitt andra starka språk.",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": "Lupaan tehdä parhaimpani, jotta koulut ja päiväkodit saisivat Helsingissä tarvitsemansa resurssit.",
+      "se": "Jag lovar att göra mitt yttersta för att skola och daghem i Helsingfors får de resurser de behöver.",
+      "en": "I promise to do my utmost that schools and kindergartens will get the resources they need in Helsinki.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Olen ollut kasvatus- ja koulutuslautakunnan ruotsinkielisen jaoston jäsen koko kuluneen vaalikauden.",
+      "se": "Har varit medlem i svenska sektionen för fostran och utbildning under pågående mandatperiod",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "id": 872,
+  "first_name": "Ted",
+  "last_name": "Apter",
+  "election_number": 225,
+  "party_id": 19,
+  "image": "kuvat/akv2025/872/237e8168-4863-40a8-95bb-9eecda954da2",
+  "constituency_id": 25,
+  "video": "1-73816976",
+  "video_aspect": "1:1",
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 47,
+      "background_info_id": 10,
+      "name_fi": "Oikealle",
+      "name_sv": "Till höger",
+      "name_en": "To the right",
+      "name_ru": "Справа",
+      "name_sme": "Olgeš guvlui",
+      "name_ara": "اليمين",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Työtä, yrittäjyyttä ja toimeentuloa: lisää elinvoimaa",
+      "se": "Arbete, entreprenörskap och försörjning: ökad livskraft",
+      "en": "Work, entrepreneurship and livelihood: increase attraction and vitality of Helsinki",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1986,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "ranska",
+        "se": "franska",
+        "en": "French",
+        "ru": "французский",
+        "sme": "fránskkagiella",
+        "ara": "الفرنسية"
+      },
+      {
+        "fi": "joku muu",
+        "se": "något annat",
+        "en": "Other",
+        "ru": "другой",
+        "sme": "muhtin eará",
+        "ara": "لغة أخرى"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Merkityksellisyys, eettisyys, toivo, empatia ja oikeudenmukaisuus.",
+      "se": "Meningsfullhet, etik, hopp, empati och rättvisa.",
+      "en": "\nMeaningfulness, ethics, hope, empathy and justice.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Helsingissä on varaa asua",
+      "se": "Du har råd att bo i Helsingfors",
+      "en": "You can afford to find suitable housing in Helsinki",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 23,
+      "background_info_id": 8,
+      "name_fi": "ruotsi",
+      "name_sv": "Svenska",
+      "name_en": "Swedish",
+      "name_ru": "шведский",
+      "name_sme": "ruoŧagiella",
+      "name_ara": "السويدية",
+      "target_value": null,
+      "name_ukr": "шведська",
+      "name_som": "af-Iswiidhish"
+    },
+    "homepage_url": "https://tedapter.fi/",
+    "facebook_url": "https://www.facebook.com/ApterTed",
+    "instagram_url": "http://instagram.com/TedApter",
+    "X_url": "https://x.com/TedApter",
+    "tiktok_url": "https://www.tiktok.com/@tedapter",
+    "language_some_other": {
+      "fi": "Heprea",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "municipality_fix": {
+      "fi": "1. Lisätään Helsingin elinvoimaa\n2. Lisätään helsinkiläisten ostovoimaa ja elämänlaatua\n3. Ratkotaan varhaiskasvatusalan ongelmat kestävällä tavalla",
+      "se": "1. Låt oss öka Helsingfors livskraft\n2. Vi ska öka köpkraften och livskvaliteten för helsingforsborna\n3. Låt oss lösa problemen inom småbarnspedagogiken på ett hållbart sätt",
+      "en": "1. We will increase Helsinki's vitality\n2. We will increase the purchasing power and quality of life of Helsinki residents\n3. Let's solve the problems of the early childhood education sector in a sustainable way",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Olen toiminut Helsingissä kaupunginvaltuuston valtuutettuna tai varavaltuutettuna vuodesta 2012 alkaen. Tämän lisäksi toimin parhaillaan kasvatuksen ja koulutuksen toimialalautakunnan sekä sen ruotsinkielisen jaoston jäsenenä. \n\nOlen Folktingetin kansankäräjien valtuuston jäsen ja HUS:in kansalliskielilautakunnan varajäsen.",
+      "se": "Jag har arbetat i Helsingfors som fullmäktige eller vicefullmäktige medlem sedan året 2012. Utöver detta sitter jag för närvarande som ledamot i nämnden för fostran och utbildning och dess svenskspråkiga sektion. \n\nJag är ledamot i Folktingets session samt ersättare i HUS nationalspråksnämnd.",
+      "en": "I have worked in Helsinki as a city councilor or deputy councilor since 2012. In addition to this, I am currently serving as a member of the Board of Education and its Swedish-speaking section. \n\nI am a member of the Folktinget council and a deputy member of the HUS's national language board.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Helsingissä on varaa elää",
+      "se": "Du har råd att leva i Helsingfors",
+      "en": "You can afford to live in Helsinki",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Olen toiminut mm. Uudenmaan liiton maakuntavaltuutettuna, HSL:n hallituksen varajäsenenä sekä Etelä-Helsingin Kokoomuksen puheenjohtajana.",
+      "se": "Jag har agerat t.ex. som representant för Nylands förbunds fullmäktige, som suppleant i HRT:s styrelse och som ordförande för Samligspartiets lokalavdelning i södra Helsingfors.",
+      "en": " I have worked e.g. as a representative in the Uusimaa region council, as a deputy member of the HSL board and as the chairman of the South Helsinki Kokoomus local association.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

@@ -1,0 +1,215 @@
+{
+  "id": 3068,
+  "first_name": "Nasima",
+  "last_name": "Razmyar",
+  "election_number": 919,
+  "party_id": 4,
+  "image": "kuvat/akv2025/3068/05c41543-f469-4332-bb8c-513fc5282501",
+  "constituency_id": 25,
+  "video": "1-73811753",
+  "video_aspect": "1:1",
+  "video_description_fi": "Tavoitteenani on, että Helsingissä huolehditaan tulevalla valtuustokaudella hyvinvointiyhteiskunnan keskeisistä palveluista, pidetään kiinni ilmastotavoitteista ja panostetaan kaupungin elinvoimaan.",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 43,
+      "background_info_id": 10,
+      "name_fi": "Vasemmalle",
+      "name_sv": "Till vänster",
+      "name_en": "On the left",
+      "name_ru": "Слева",
+      "name_sme": "Gurut guvlui",
+      "name_ara": "اليسار",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan tehdä parhaan kykyni mukaan kestäviä päätöksiä. Ilmastonmuutoksen torjunta ja luontokadon pysäyttäminen vaativat systemaattista työtä ja isoja investointeja niin poliitikoilta kuin yrityksiltä. Kaupungit ja Helsinki voivat olla vihreän siirtymän edelläkävijöitä, joiden kädenjälki on kokoaan suurempi koko planeetan elinkelpoisuuden turvaamisessa. Kestävä tulevaisuus edellyttää taloudellisen, sosiaalisen ja ekologisen kestävyyden tasapainoa.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1984,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Tasa-arvo ja yhdenvertaisuus; empatia ja inhimillisyys; avoimuus ja kansainvälisyys.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lupaan työssäni tukea Helsingin asukkaiden ja yritysten menestymisen mahdollisuuksia. Tarvitsemme lisää työpaikkoja ja elinvoimaisia yrityksiä, jotka luovat hyvinvointia ja mahdollisuuksia kaikille. Positiivisuuden kierre vahvistuu, kun panostamme kulttuuriin ja kestävään kaupunkikehitykseen. Helsingin tulee olla kaupunki, jossa ihmiset viihtyvät, voivat hyvin ja pystyvät toteuttamaan itseään. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "http://www.nasima.fi",
+    "facebook_url": "https://facebook.com/razmyarnasima",
+    "instagram_url": "https://instagram.com/nasimarazmyar/",
+    "X_url": "https://www.x.com/nasimarazmyar/",
+    "language_some_other": {
+      "fi": "Dari",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "municipality_fix": {
+      "fi": "Helsingissä on työskennelty pitkään segregaation torjumiseksi - tätä työtä tulee jatkaa myös tulevalla valtuustokaudella.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Toimin SDP:n 1.varapuheenjohtajana.\n\nToimin lisäksi lukuisissa muissa luottamustehtävissä mm.: Sosialistisen Internationaalin varapuheenjohtajana, Stadion säätiön hallituksen puheenjohtaja, Suomen Musiikinedistämissäätiön (MES) hallituksen puheenjohtaja ja Plan International hallituksen jäsenenä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": "Dari",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": "Lupaan tehdä töitä sen eteen, että jokaiselle lapselle turvataan laadukas opinpolku. Jokaisella lapsella on oikeus laadukkaaseen, turvalliseen ja tasa-arvoiseen opin polkuun - aina varhaiskasvatuksesta toiselle asteelle. Kotia lähellä sijaitsevat päiväkoti ja koulu sujuvoittavat perheiden arkea ja vahvistavat koulutuksen tasa-arvoa. Koulutus on tärkein keino turvata jokaiselle hyvät eväät elämään. Jokainen ansaitsee mahdollisuuden elää elämäänsä parhaiden kykyjensä mukaisesti ja voida hyvin. Koulutus ja osaaminen ovat hyvinvointiyhteiskunnan peruskivi.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "kansanedustaja",
+        "se": "riksdagsledamot",
+        "en": "MP",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      },
+      {
+        "fi": "kunnanvaltuutettu",
+        "se": "ledamot i kommunfullmäktige",
+        "en": "municipal councillor",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,187 @@
+{
+  "id": 13053,
+  "first_name": "Paula",
+  "last_name": "Kangas",
+  "election_number": 253,
+  "party_id": 19,
+  "image": "kuvat/akv2025/13053/22fb8866-da3b-490d-9ba4-a30102f69cd3",
+  "constituency_id": 25,
+  "video": "1-73820044",
+  "video_aspect": "1:1",
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 45,
+      "background_info_id": 10,
+      "name_fi": "En vasemmalle enkä oikealle",
+      "name_sv": "Varken vänster eller höger",
+      "name_en": "Neither to the right or the left",
+      "name_ru": "Ни слева, ни справа",
+      "name_sme": "In gurut inge olgeš guvlui",
+      "name_ara": "لا إلى اليسار ولا إلى اليمين",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan olla energinen, aktiivinen, toiset huomioonottava, kannustava valtuutettu. \nLupaan osallistua kaikin mahdollisin tavoin ja olla tavoitettavissa. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1955,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 54,
+      "background_info_id": 16,
+      "name_fi": "joku muu",
+      "name_sv": "någon annan examen",
+      "name_en": "Other",
+      "name_ru": "другое",
+      "name_sme": "muhtin eará",
+      "name_ara": "مستوى دراسي آخر",
+      "target_value": 6,
+      "name_ukr": "інше",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "perhe on tärkein\ntyö, jotta kokee olevansa hyödyllinen\ntasa-arvo kaikkien kesken \ntoisten auttaminen pyyteettömästi\nluottamus kanssaihmisiin",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lupaan, että ketään ei unohdeta. On sitten kysymys vastasyntyneestä, lapsesta, nuoresta, opiskelijasta, aikuisesta tai vanhuksesta. Koulutusta, työtä ja huolenpitoa on oltava tarjolla. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "facebook_url": "https://www.facebook.com/share/1EhQdpDdYd/?mibextid=wwXIfr",
+    "instagram_url": "https://www.instagram.com/paula_anneli_kangas?igsh=MXNnd3RmcDkwY2RkZQ%3D%3D&utm_source=qr",
+    "X_url": "https://x.com/kangas57077?s=21",
+    "tiktok_url": null,
+    "municipality_fix": {
+      "fi": "Helsingin keskusta saatava eläväiseksi. Koulut takaisin kouluiksi ja oppilaat innostumaan koulunkäynnistä. Päihdevalistus kouluihin! Koulua käydään elämää ei koulua varten. Peruskoulun päättyessä on alettava miettimään jatko-opintovaihtoja niin, että oppilas on tajunnut omat heikot ja vahvat kohtansa. Ja tietää, mikä ala voisi olla  oikea ala? Kun lähdetään opiskelemaan, pitää vahvistaa tätä vaihetta, jotta nuori pääsee opiskelun vauhtiin. Työnhakuvaihetta opetettava. Samoin jos haluaa yrittäjäksi, on oltava lyhyitä valmennuskursseja. Ennen työelämän loppumista saatava valmennus eläkkeelle siirtymiseen. On paljon yksinäisiä ihmisiä, jotka putoavat täyteen tyhjyyteen.Maahanmuuttajien integrointiin panostettava. Vanhusten huolto oltava terävässä iskussa. Ketään ei saa jättää yksin missään vaiheessa. Kulkuyhteydet, auto, julkiset ja pyöräily oltava kohtuuhintaista ja ketterää. Asunnottomuus poistettava. Kaikilla täytyy olla koti.Mielenterveys hoito oltava helposti saatavilla. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "vain taloyhtiön hallituksen jäsenyys",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 3,
+      "background_info_id": 2,
+      "name_fi": "Hieman liberaali",
+      "name_sv": "Ganska liberal",
+      "name_en": "Slightly liberal",
+      "name_ru": "Слегка либерал",
+      "name_sme": "Vehá liberála",
+      "name_ara": "أميل إلى الليبرالية",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Lupaan, että Helsinki kasvaa positiivisesti ja keskusta elävöityy. Kulkuyhteyksien on oltava hyvät joko autolla, julkisilla tai pyörällä. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

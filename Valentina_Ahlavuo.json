@@ -1,0 +1,216 @@
+{
+  "id": 2072,
+  "first_name": "Valentina",
+  "last_name": "Ahlavuo",
+  "election_number": 592,
+  "party_id": 8,
+  "image": "kuvat/akv2025/2072/eaab7dcd-5011-4ea0-a226-67201f95c4a3",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 47,
+      "background_info_id": 10,
+      "name_fi": "Oikealle",
+      "name_sv": "Till höger",
+      "name_en": "To the right",
+      "name_ru": "Справа",
+      "name_sme": "Olgeš guvlui",
+      "name_ara": "اليمين",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": " Helsingin henkilöautoliikenteen sujuvuuden tehostamisen puolesta. Katuremonttien järjestelmällinen organisointi ja rakennustyömaiden tehokas suorittaminen.   ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1973,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "ranska",
+        "se": "franska",
+        "en": "French",
+        "ru": "французский",
+        "sme": "fránskkagiella",
+        "ara": "الفرنسية"
+      },
+      {
+        "fi": "venäjä",
+        "se": "ryska",
+        "en": "Russian",
+        "ru": "русский",
+        "sme": "ruoššagiella",
+        "ara": "الروسية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Inhimillisyys. Lojaalisuus. Usko ihmisiin. Avoimuus. Kehitys.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Monikulttuuristen Helsingin yrittäjien puolesta. Oikeusturva yrittäjille. Yritysympäristön kohottaminen. Helsingin kivijalkakeskustan kauppallisen toiminnan elvyttämisen puolesta. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 25,
+      "background_info_id": 8,
+      "name_fi": "jokin muu",
+      "name_sv": "något annat",
+      "name_en": "Other",
+      "name_ru": "другой",
+      "name_sme": "eará",
+      "name_ara": "لغة أخرى",
+      "target_value": null,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "homepage_url": "https://www.automediat.com",
+    "facebook_url": "https://facebook.com/valentinaahlavuo",
+    "instagram_url": "http://instagram.com/ahlavuo",
+    "X_url": null,
+    "tiktok_url": "http://tiktok.com/@automediatrvkuutiset",
+    "municipality_fix": {
+      "fi": "Helsingin katukuvan turvallisuus. Helsingin puhtaanapito ja siivous. Helsingin julkisen liikenteen turvallisuus ja sujuvuus. Nuorten ja lapsiperheiden turvallisen elinympäristön kehittäminen ja ylläpitäminen. Helsinkiläisten pienyrittjäjien ja PK-yritysten hyvinvointi ja turvallisen työn edellytysten takaaminen.  ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Olen yrittäjä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": "Venäjä",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": "Turvallisen Helsingin puolesta. Kevyeen liikenteen turvallisuuden puolesta. Pelastustyöntekijöiden turvallisen työn puolesta. Huumeet pois kaupungilta. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Kunnallisvaaliehdokkaana 2012, 2017, 2021. Eduskuntavaaliehdokkaana 2015. Helsingin Taidemuseon johtokunta 2012-2017. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

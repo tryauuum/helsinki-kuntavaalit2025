@@ -1,0 +1,200 @@
+{
+  "id": 10646,
+  "first_name": "Juho",
+  "last_name": "Lehto",
+  "election_number": 139,
+  "party_id": 7,
+  "image": "kuvat/akv2025/10646/50a56867-af79-4a66-90b3-076d9f59d647",
+  "constituency_id": 25,
+  "video": "1-73816657",
+  "video_aspect": "1:1",
+  "video_description_fi": "Luontoarvot, kulttuuri ja koulutus kunniaan! Helsinki voi olla ylpeä kasvattajistaan ja opettajistaan, lähiluonnostaan ja merestä sekä upeista teattereistaan, museoistaan ja lukemattomista muista kulttuurinkokemispaikoistaan. Mikään näistä ei ole kuitenkaan itsestäänselvyys, vaan ne tarvitsevat vastalahjaksi huolenpitoa ja resursseja. Maailman onnellisimman valtion paras ja kaunein kaupunki voi pitää kaikkien puolta Sijoitukset hyvinvointiin, koulutukseen, luontoon ja kulttuuriin maksavat itsensä takaisin, eikä kaikkea edes voi mitata rahassa. Liikenteeseen ja asuntorakentamiseen on löydettävissä malleja, jotka kunnioittavat luontoarvoja lähimetsissä ja Itämerellä. Lisäksi, vaikka kulttuuria ei valtakunnan tasolla arvostetakaan, Helsinki voi näyttää erilaista esimerkkiä. Pieniä ja suuria teatteriryhmiä, museoita, elävää musiikkia ja muita taiteenlajeja voidaan tukea paikallisesti. Kaupunki tunnetaan juuri sen kulttuuristaan ja siitä miten se asukkaitaan sekä vieraitaan kohtelee. Hyvä sana leviää maailmalla ja tuo osaajia kaukaakin. Hyvä ja turvallinen ilmapiiri luodaan myös moninaisuuden hyväksymisellä ja avoimuudella sekä keskustelevalla otteella, ei vihapuheella tai pelkoa lietsomalla. Reilu Helsinki kaikille - ei harvoille.\n",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 43,
+      "background_info_id": 10,
+      "name_fi": "Vasemmalle",
+      "name_sv": "Till vänster",
+      "name_en": "On the left",
+      "name_ru": "Слева",
+      "name_sme": "Gurut guvlui",
+      "name_ara": "اليسار",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Helsingin tulee tukea omia upeita kulttuurintekijöitään, vaikka valtakunnan tasolla ei oltaisi yhtä viisaita. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1971,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      },
+      {
+        "fi": "espanja",
+        "se": "spanska",
+        "en": "Spanish",
+        "ru": "испанский",
+        "sme": "spánskkagiella",
+        "ara": "الإسبانية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Rakkaus, lapset, lempeys, oikeudenmukaisuus ja luonto.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Helsingistä ei saa tuhota enää yhtään arvokasta lähiluontokohdetta: rakentamiselle on riittävästi tilaa jo nyt järkevällä suunnittelulla. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "instagram_url": "https://www.instagram.com/lehto_juho",
+    "municipality_fix": {
+      "fi": "Helsingissä on paljon asioita vallan mainiosti. Mutta tällaisina omituisina aikoina ei saa luovuttaa, vaan pitää panostaa ihmiselämän arvokkaaksi tekeviin asioihin. Lähiluontoon pitää päästä jatkossakin vaivattomasti. Helsinkiläisiä kulttuurin tekijöitä ja -laitoksia pitää tukea. La iikenteessä on suosittava ratkaisuja, jotka tukevat hiilineutraaliustavoitetta. Turvalliset, toimivat ja ikorkealaatuiset varhaiskasvatus ja perus- sekä ylempien asteiden koulutus tarjoavat veto- ja pitovoimaa kansainvälisille ja suomalaisille huippuosaajille. jotka tuovat innovaationsa sekä veronsa Helsinkiin. Suomi ja Helsinki ovat maailmalla hyvässä maineessa toimivat suunnannäyttäjinä kokoaan suuremmassa roolissa monissa asioissa.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Olen Vuosaaren Urheiluhalli Oy:n hallituksen jäsen ja HOAY:n varaluottamusmies.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Lupaan pitää kasvatuksen ja koulutuksen puolta: Suomi on monessa mielessä edelleen koulutuksen mallimaa ja Helsinki sen näyteikkuna.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

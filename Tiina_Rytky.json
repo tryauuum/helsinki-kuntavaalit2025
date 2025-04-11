@@ -1,0 +1,203 @@
+{
+  "id": 2427,
+  "first_name": "Tiina",
+  "last_name": "Rytky",
+  "election_number": 924,
+  "party_id": 4,
+  "image": "kuvat/akv2025/2427/e069c1db-e104-497f-92d8-ad75d0f3b62c",
+  "constituency_id": 25,
+  "video": "1-73825210",
+  "video_aspect": "1:1",
+  "video_description_fi": "Olen Tiina Rytky Helsingin Oulunkylästä ja mä olen ehdolla Helsingin kaupunginvaltuustoon.\n\nLupaan tehdä töitä sen eteen, että helsingistä tulee hiilineutraali, että täällä on paljon työpaikkoja, kaikilla varaa asua, sekä runsaasti hyvää kaupunkielämää. \n\nHaluan, että helsinkiläisten palvelut toimii vauvasta vaariin ja että arki rullaa. \n\nNämä ovat toiset kuntavaalini. Tällä kaudella mä olen toiminut energiayhtiö Helenin hallituksessa. Siellä mä olen saanut olla tekemässä päätöksiä, joiden ansiosta kivihiilen polttaminen loppuu Helsingissä huhtikuun alussa.\n",
+  "video_description_sv": null,
+  "video_description_en": "I'm Tiina Rytky from Oulunkylä, Helsinki, and I'm running for the Helsinki City Council.  \n\nI promise to work towards making Helsinki carbon neutral, creating plenty of jobs, ensuring that everyone can afford to live here, and fostering a vibrant urban life.  \n\nI want Helsinki’s services to function smoothly for everyone, from infants to seniors, and to make everyday life easier for all residents.  \n\nThis is my second municipal election. During this term, I have served on the board of the energy company Helen, where I’ve had the opportunity to make decisions that will bring an end to coal burning in Helsinki at the beginning of April.",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 44,
+      "background_info_id": 10,
+      "name_fi": "Hieman vasemmalle",
+      "name_sv": "Lite till vänster",
+      "name_en": "Slightly to the left",
+      "name_ru": "Немного слева",
+      "name_sme": "Vehá gurut guvlui",
+      "name_ara": "أميل إلى اليسار",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "\nTehdään Helsinki, jossa on hyvä hengittää. Lupaan edistää ilmastotyötä. Helsinki voi kasvavana suurkaupunkina vaikuttaa koko Suomen ilmastotavoitteiden toteutumiseen - siitäkin huolimatta, että maan hallitus ei siihen riittävästi panosta.",
+      "se": null,
+      "en": "Let’s create a Helsinki where it is good to breathe. I promise to promote climate action. As a growing metropolis, Helsinki can contribute to Finland’s climate goals—even if the national government is not doing enough.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1982,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "ranska",
+        "se": "franska",
+        "en": "French",
+        "ru": "французский",
+        "sme": "fránskkagiella",
+        "ara": "الفرنسية"
+      },
+      {
+        "fi": "venäjä",
+        "se": "ryska",
+        "en": "Russian",
+        "ru": "русский",
+        "sme": "ruoššagiella",
+        "ara": "الروسية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Oikeudenmukaisuus, vapaus, myötätunto, uteliaisuus, vastuullisuus ",
+      "se": null,
+      "en": "Justice, Freedom, Compassion, Curiosity, Responsibility\n",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Tehdään Helsinki, joka on hyvä elää, tehdä töitä ja opiskella. Lisää kulttuuria, urheilua ja talviuintia. Lähiluontoa ja kahviloita. Lisäksi tarvitsemme uusia investointeja, jotka luovat työpaikkoja ja uutta vetovoimaa. Me kilpailemme muiden eurooppalaisten pääkaupunkien kanssa parhaasta meiningistä.",
+      "se": null,
+      "en": "Let’s create a Helsinki that is a great place to live, work, and study. More culture, sports, and winter swimming. More local nature and cafés. We also need new investments that create jobs and increase the city's appeal. We are competing with other European capitals for the best atmosphere.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.tiinarytky.fi/",
+    "facebook_url": null,
+    "instagram_url": "https://www.instagram.com/tiinarytky/",
+    "X_url": "https://x.com/TiinaRytky",
+    "municipality_fix": {
+      "fi": "Kaupungin tärkein tehtävä on turvata asukkailleen hyvä arki. Hoitoon pitää päästä korkeintaan kahdessa viikossa, ja tästä on pidettävä Helsingissä kiinni siitä huolimatta, että hallitus romutti hoitotakuun. Helsingissä on myös valtava puute kohtuuhintaisista asunnoista. Meidän pitää varmistaa, että myös pienituloisten on mahdollista asua Helsingissä.",
+      "se": null,
+      "en": "The city's most important task is to ensure a good daily life for its residents. Healthcare access must be guaranteed within two weeks in Helsinki, even though the government has dismantled the care guarantee. Helsinki also has a severe shortage of affordable housing. We must ensure that even low-income residents can afford to live in the city.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Helen oy:n hallituksen varapuheenjohtaja",
+      "se": null,
+      "en": "Vice Chair of the Board of Helen Ltd., (energy company fully owned by the city of Helsinki)\n\n\n\n\n",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 3,
+      "background_info_id": 2,
+      "name_fi": "Hieman liberaali",
+      "name_sv": "Ganska liberal",
+      "name_en": "Slightly liberal",
+      "name_ru": "Слегка либерал",
+      "name_sme": "Vehá liberála",
+      "name_ara": "أميل إلى الليبرالية",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Tehdään Helsinki, joka on hyvä asua. Tekisin työtä sen eteen, että kaikilla on hyvä koti. Jokaisella pitäisi olla mahdollisuus kohtuuhintaiseen asumiseen, myös Helsingissä. Asuntopolitiikka on erityisen tärkeää kasvavissa kaupungeissa. \n",
+      "se": null,
+      "en": "Let’s create a Helsinki that is a great place to live. I will work to ensure that everyone has a good home. Everyone should have access to affordable housing, even in Helsinki. Housing policy is particularly important in growing cities.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

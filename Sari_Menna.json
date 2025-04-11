@@ -1,0 +1,185 @@
+{
+  "id": 14362,
+  "first_name": "Sari",
+  "last_name": "Menna",
+  "election_number": 280,
+  "party_id": 19,
+  "image": "kuvat/akv2025/14362/009c0d41-9d60-4569-af91-fcddd3e0f80f",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 44,
+      "background_info_id": 10,
+      "name_fi": "Hieman vasemmalle",
+      "name_sv": "Lite till vänster",
+      "name_en": "Slightly to the left",
+      "name_ru": "Немного слева",
+      "name_sme": "Vehá gurut guvlui",
+      "name_ara": "أميل إلى اليسار",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Viikinmäki-Pihlajisto alueena viihtyisämmäksi sekä turvallisemmaksi.\nPihlajiston ostoskeskuksen alueen kehittäminen viihtyisämmäksi, liiketiloihin kaikkia palvelevia toimintoja, sekä senioripalveluita. Kesällä jäätelökioski ja istutuksia. Kun asukkaat viihtyvät ja on kaikkia palvelevia palveluita, yleinen turvallisuus paranee. Pikaraitiovaunu pysähtyy Viikinmäkeen, tehdään alueesta yhteinen turvallinen ja viihtyisä alue.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1982,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "espanja",
+        "se": "spanska",
+        "en": "Spanish",
+        "ru": "испанский",
+        "sme": "spánskkagiella",
+        "ara": "الإسبانية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "1. Perhe ja lapset\n2. Terveys ja elämänlaatu\n3. Ura ja työelämä\n4. Koulutus\n5. Vapaa-aika ja ystävät",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Varhaiskasvatuksessa erityislapsien tukeminen. \nKaupungin tulee varata tarvittavat resurssit varhaiskasvatukseen erityislapsien osalta. Tukimuodot saataville, avustaja sekä muut resurssit. \nErityislapset ovat osa varhaiskasvatuksen ryhmässä, ja heille tulee saada tarvittavat resurssit jotta työntekijät jaksavat ja lapset saavat tarvittavan tuen. Näin heistä kasvaa tasapainoisia koululaisia, osa yhteiskuntaamme sekä meidän yhteistä kaupunkia. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.sarimenna.fi",
+    "facebook_url": "https://www.facebook.com/sari.menna",
+    "municipality_fix": {
+      "fi": "Mahdollistaa nuorien ja opiskelijoiden työllisyys tarjoten työllistävälle yritykselle tähän tuki, kehittää erityislasten varhaiskasvatuksen tukea päivähoidossa niin työntekijöille kun lapselle, mahdollistaa paikalliset palvelut asuinalueittain ja kehittää näitä. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Hallituksen puheenjohtaja Kuulovammaisten lasten tuki Ry\n\nRahastonhoitaja Käpylän Pallo Ry / FC12-13",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 6,
+      "background_info_id": 2,
+      "name_fi": "Konservatiivi",
+      "name_sv": "Konservativ",
+      "name_en": "Conservative",
+      "name_ru": "Консерватор",
+      "name_sme": "Konservatiiva",
+      "name_ara": "محافظ",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Lisää työpaikkoja nuorille.\nOpiskelija rahoittaa opintojen aikaisen elannon opintotuen ja mahdollisen asumistuen tukemana, ja jos nämä eivät riitä vuokraan, seuraava tuki on opintolainan takaus. Sen sijaan, että opiskelija ottaa lainaa elinkustannuksia varten, mahdollistetaan heidän työllistyminen! Helsinki voisi tukea yrityksiä Helsinki - lisällä palkatessa opiskelijan tai alle 20 vuotiaan työsuhteeseen, näin nuoret työllistyisivät, eikä opiskelijalle olisi lainan nosto ehdoton, ja myös yleinen hyvinvointi nuorisolla paranisi.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

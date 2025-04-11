@@ -1,0 +1,177 @@
+{
+  "id": 10005,
+  "first_name": "Janne",
+  "last_name": "Leivo",
+  "election_number": 15,
+  "party_id": 10,
+  "image": "kuvat/akv2025/10005/077829a1-f916-4dc9-8c36-8124d1bb80f5",
+  "constituency_id": 25,
+  "video": "1-73820566",
+  "video_aspect": "1:1",
+  "video_description_fi": "Kolme tavoitetta 1) Työnteon vastaanottamista on helpotettava, olen työskennellyt maahanmuuttajien parissa ja nähnyt mitä haasteita heillä on löytää sopivaa työtä/päästä palveluihin 2) Liikuntaa on lisättävä kaikissa muodoissaan, jokaiselle helsinkiläiselle on löydettävä sopivat liikunnan muodot 3) Vahva talous on edellytys onnistuneelle kaupungille.",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 47,
+      "background_info_id": 10,
+      "name_fi": "Oikealle",
+      "name_sv": "Till höger",
+      "name_en": "To the right",
+      "name_ru": "Справа",
+      "name_sme": "Olgeš guvlui",
+      "name_ara": "اليمين",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Turvallisuus: Kaikilla on oltava turvallinen olo kotikaupungissa. On puututtava tehokkaasti maahanmuuton ongelmiin ja vältettävä katujengien syntymistä. Maanpuolustusta tulee tehostaa, Naton jäsenmaana turvallisuutemme perusta on oma uskottava maanpuolustuksemme.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1985,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Yhdenmukaisuus, hyväntahtoisuus, turvallisuus, oppiminen, perhe.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Vapaus: Jokaisella on oltava oikeus olla juuri semmoinen kuin on. Yksilönvapaudet ja yhdenvertaisuus on keskeinen osa yhteiskuntaa. Yhteiskunnan on tarjottava avaimet jokaiselle yksikölle olla semmoinen kuin on. Kaikista on pidettävä huolta.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 23,
+      "background_info_id": 8,
+      "name_fi": "ruotsi",
+      "name_sv": "Svenska",
+      "name_en": "Swedish",
+      "name_ru": "шведский",
+      "name_sme": "ruoŧagiella",
+      "name_ara": "السويدية",
+      "target_value": null,
+      "name_ukr": "шведська",
+      "name_som": "af-Iswiidhish"
+    },
+    "homepage_url": "https://puheenvuoro.uusisuomi.fi/janneleivo",
+    "facebook_url": "https://www.facebook.com/janneleivo",
+    "instagram_url": "https://instagram.com/jannielark",
+    "X_url": "https://twitter.com/janneleivo",
+    "municipality_fix": {
+      "fi": "Meidän tulee laittaa Helsingin talous kuntoon, tämän lisäksi on pidettävä huolta, että jokaisen työikäisen ja -kykyisen tulee tehdä työtä. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 4,
+      "background_info_id": 2,
+      "name_fi": "En liberaali enkä konservatiivi",
+      "name_sv": "Varken liberal eller konservativ",
+      "name_en": "Neither liberal or conservative",
+      "name_ru": "Ни либерал, ни консерватор",
+      "name_sme": "In liberála inge konservatiiva",
+      "name_ara": "لا ليبرالي ولا متحفظ",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Talous: Vahva talous on hyvinvoinnin kulmakivi. Meidän on tehtävä kaikkemme, että velaksi eläminen loppuu ja yritykset alkava investoida. Suomi on nostettava esiin kunnolla ja laitettava kasvamaan. Jokaisen, jolla on lähtökohtaisesti mahdollisuus työntekoon, tulee tehdä työtä ja näin edesauttaa maamme hyvinvointiyhteiskuntaa.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

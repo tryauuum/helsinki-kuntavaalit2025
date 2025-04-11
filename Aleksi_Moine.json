@@ -1,0 +1,247 @@
+{
+  "id": 591,
+  "first_name": "Aleksi",
+  "last_name": "Moine",
+  "election_number": 157,
+  "party_id": 7,
+  "image": "kuvat/akv2025/591/7e2be43c-f40a-4453-8221-1aa132fd8339",
+  "constituency_id": 25,
+  "video": "1-73821818",
+  "video_aspect": "4:3",
+  "video_description_fi": "Elämme ympäristökriisin keskellä, ja Helsingin kaupungin strategisena tavoitteena on saavuttaa hiilineutraalius vuoteen 2030 mennessä. Se tarkoittaa, että meillä on viisi vuotta aikaa tehdä kunnianhimoista ympäristöpolitiikkaa, joka perustuu tutkittuun tietoon ja on samalla sosiaalisesti oikeudenmukaista. Siksi tärkein tavoitteeni ensi valtuustokaudella onkin varmistaa, että ympäristökysymykset ovat kaiken päätöksenteon keskiössä. Kaupungin tasolla voi tehdä paljon. Voi esimerkiksi kehittää julkista joukkoliikennettä, ja tehdä kaupungista sellaisen, jossa on helppo kävellä ja pyöräillä, koska peruspalvelut ovat lähellä kotia. Ihminen elää vuorovaikutuksessa ympäristönsä ja muiden muunlajisten eläinten ja kasvien kanssa. Siksi on tärkeää ottaa huomioon ympäristön hyvinvointi, sillä se parantaa myös ihmisten hyvinvointia. ",
+  "video_description_sv": null,
+  "video_description_en": "We are living in the midst of the environmental crisis, and the City of Helsinki's strategic goal is to achieve carbon neutrality by 2030. This means that we have five years to make ambitious environmental policies that are based on scientific evidence and are socially just at the same time. That is why my main objective for the next council term is to ensure that environmental issues are at the heart of all decision-making. Much can be done at city level. For example, public transport can be developed, and the city should be made a place where it is easy to walk and cycle, because basic services are close to home. Humans interact with their environment and other animals and plants. It is therefore important to take into account the well-being of the environment, as this also improves human well-being. ",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 42,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti vasemmalle",
+      "name_sv": "Långt till vänster",
+      "name_en": "Strongly on the left",
+      "name_ru": "С самого левого края",
+      "name_sme": "Nannosit gurut guvlui",
+      "name_ara": "أقصى اليسار",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan ottaa selvää asioista ja tehdä politiikkaa, joka perustuu tutkittuun tietoon ja etiikkaan.",
+      "se": null,
+      "en": "I pledge to learn about the issues and to make policy based on research and ethics. ",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1991,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      },
+      {
+        "fi": "ranska",
+        "se": "franska",
+        "en": "French",
+        "ru": "французский",
+        "sme": "fránskkagiella",
+        "ara": "الفرنسية"
+      },
+      {
+        "fi": "venäjä",
+        "se": "ryska",
+        "en": "Russian",
+        "ru": "русский",
+        "sme": "ruoššagiella",
+        "ara": "الروسية"
+      },
+      {
+        "fi": "viro",
+        "se": "estniska",
+        "en": "Estonian",
+        "ru": "эстонский",
+        "sme": "esttegiella",
+        "ara": "الإستونية"
+      },
+      {
+        "fi": "joku muu",
+        "se": "något annat",
+        "en": "Other",
+        "ru": "другой",
+        "sme": "muhtin eará",
+        "ara": "لغة أخرى"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 20,
+      "background_info_id": 6,
+      "name_fi": "muu",
+      "name_sv": "annat alternativ",
+      "name_en": "other",
+      "name_ru": "Другой",
+      "name_sme": "eará",
+      "name_ara": "آخر",
+      "target_value": null,
+      "name_ukr": "Інша",
+      "name_som": "wax kale"
+    },
+    "lifevalues": {
+      "fi": "Elämääni ohjaavat monet toisiinsa nivoutuvat arvot. Etiikalla on vahva rooli kaikessa omassa toiminnassani, ja pyrin tavoittelemaan hyvää elämää. Maailma on monimutkainen, eikä kaikkiin ongelmiin ole helppoja ratkaisuja, vaan eettisiä kysymyksiä on pohdittava monesta näkökulmasta. \n\nMinulle tärkeä arvo on elämän kunnioittaminen. Kaikki elämä on arvokasta, niin ihmisten kuin muidenkin elollisten, ja sitä täytyy vaalia. Siksi näen myös, että hierarkioiden purkaminen ja tasa-arvon tavoittelu on olennaista poliittisessa toiminnassa. Ihmiset elävät vuorovaikutuksessa toistensa kanssa, ja myös muunlajisten elollisten kanssa. Solidaarisuus ja yhteisöllisyys ovat elämän perusta: on tärkeää auttaa heitä, jotka sitä tarvitsevat. Demokraattisten, kollektiivisten päätösten tulee pohjautua laajaan ymmärrykseen maailmasta. Siksi haluan puolustaa myös sivistystä. \n",
+      "se": null,
+      "en": "My life is guided by many intertwined values. Ethics play a strong role in everything I do, and I strive to live a good life. The world is complex and there are no easy solutions to all problems, but ethical issues need to be considered from many angles.\n\nRespect for life is an important value for me. All life is precious, both human and non-human, and must be cherished. That is why I also see the dismantling of hierarchies and the pursuit of equality as essential to political action. Humans live in interaction with each other, and also with other species in ecosystems. Solidarity and community are the basis of life: it is important to help those who need it. Democratic, collective decisions must be based on a broad understanding of the world. That is why I also want to defend culture and education.\n",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lupaan kuunnella helsinkiläisiä ja tehdä kaikkeni kehittääkseni paikallisdemokratiaa kaupungissa. ",
+      "se": null,
+      "en": "I promise to listen to the people of Helsinki and to do everything I can to develop local democracy in the city.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "http://www.aleksimoine.fi/",
+    "facebook_url": "https://www.facebook.com/profile.php?id=61569878956763",
+    "instagram_url": "https://www.instagram.com/aleksi_moine/",
+    "tiktok_url": "https://www.tiktok.com/@reginavontotenschmurz",
+    "language_some_other": {
+      "fi": "Islanti. ",
+      "se": null,
+      "en": "Icelandic. ",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "municipality_fix": {
+      "fi": "Monet asiat toimivat Helsingissä jo hyvin, mutta parannettavaakin löytyy. Ekokatastrofin aikana on tärkeää, että Helsinki tekee kaikkensa ilmastonmuutoksen ja luontokadon torjumiseksi. Esimerkiksi joukkoliikenteen käyttöä täytyy tukea alentamalla lippujen hintoja ja rajoittamalla henkilöautoilua. \n\nOikeistohallituksen leikkaukset heikentävät monen ihmisten arkea. Pääkaupungissa asuminen on kallista, ja asuntojen hintoja tulisi laskea. Toimivia lähipalveluja täytyy olla ympäri kaupunkia, myös lähiöissä, ja kaupungin tulee tukea kulttuuria ja koulutusta, sillä sivistys on demokratian kulmakivi. \n\nPaikallisdemokratiaa on kehitettävä siten, että kaikilla Helsingin asukkailla on oikeasti mahdollisuus osallistua esimerkiksi omaa asuinaluettaan koskeviin päätöksiin. \n",
+      "se": null,
+      "en": "Many things already work well in Helsinki, but there is room for improvement. We live in the middle of a global environmental crisis, so it is important that Helsinki does all it can to combat climate change and biodiversity loss. For example, public transport must be supported by reducing ticket prices and limiting car use.\n\nThe right-wing government's cuts will undermine the daily lives of many people. Housing in the capital is expensive and house prices should be reduced. There must be good local services throughout the city, including the suburbs, and the city must support culture and education, because education is the cornerstone of democracy.\n\nLocal democracy must be developed so that all Helsinki residents have a real opportunity to participate in decisions concerning, for example, their own neighbourhood.\n\n",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Olen puolueosastoni Vasemmistolinkin puheenjohtaja ja Helsingin Vasemmistoliiton piirihallituksen jäsen. ",
+      "se": null,
+      "en": "I am the chairperson of my local chapter of the Left Alliance, Vasemmistolinkki, as well as a board member of the Helsinki district of the Left Alliance. ",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": "Ranska on toinen äidinkieleni.",
+      "se": null,
+      "en": "French is my second mother tongue. ",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": "Lupaan ottaa huomioon ympäristökriisin vaikutukset kaikessa päätöksenteossa. ",
+      "se": null,
+      "en": "I pledge to take the environmental crisis into account in all my decision-making.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

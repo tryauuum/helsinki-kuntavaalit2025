@@ -1,0 +1,221 @@
+{
+  "id": 2495,
+  "first_name": "Wille",
+  "last_name": "Rydman",
+  "election_number": 440,
+  "party_id": 3,
+  "image": "kuvat/akv2025/2495/86af812c-e5fd-4e0c-9fd4-4eaa59c60586",
+  "constituency_id": 25,
+  "video": "1-73768967",
+  "video_aspect": "1:1",
+  "video_description_fi": "Helsinki tarvitsee uuden suunnan. Ei voi olla niin, että kaupungin työntekijät eivät saa palkkojaan ajoissa. Ei voi myöskään olla niin, että koululaisten vanhemmat eivät voi luottaa Helsingin järjestelmien tietoturvaan. Ei saa olla niin, että Helsingin keskustan elinvoima tärvellään vihreällä ideologisella liikennesuunnittelulla. Eikä saa olla niin, että lähiömme rakennetaan niin täyteen, etteivät niissä enää suomalaiset viihdy.\n\nHelsinki ei saa katsoa ohi sen, miten kaupungin turvallisuus on alkanut horjua. Ruotsin tie ei saa olla meidän tiemme.\n\nOlen ehdolla Helsingin pormestariksi. Tehdään Helsingistä jälleen elämisen arvoinen kaupunki.",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 47,
+      "background_info_id": 10,
+      "name_fi": "Oikealle",
+      "name_sv": "Till höger",
+      "name_en": "To the right",
+      "name_ru": "Справа",
+      "name_sme": "Olgeš guvlui",
+      "name_ara": "اليمين",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Kadut vapaiksi jengeistä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1986,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      },
+      {
+        "fi": "joku muu",
+        "se": "något annat",
+        "en": "Other",
+        "ru": "другой",
+        "sme": "muhtin eará",
+        "ara": "لغة أخرى"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Isänmaallisuus, perhekeskeisyys, velvollisuudentunto, sivistys, kristinusko.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Helsinkiä ei saa rakentaa tukkoon.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.willerydman.fi/",
+    "facebook_url": "https://www.facebook.com/RydmanWille/",
+    "instagram_url": "https://www.instagram.com/wille.rydman/",
+    "X_url": "https://x.com/willerydman",
+    "language_some_other": {
+      "fi": "Ymmärrän hyvin myös norjaa, tyydyttävästi tanskaa ja auttavasti latinaa.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "municipality_fix": {
+      "fi": "Helsinki tekee nykyisin kaupungissa liikkumisesta mahdollisimman vaikeaa. Kaistoja otetaan pois käytöstä ja kadunvarsipysäköintiä supistetaan. Pyöräilysiltojen rakentamiselle sen sijaan on annettu veronmaksajien avoin šekki.\n\nHelsingistä on sen nykyisten valtapuolueiden johdolla tullut myös ahneiden rakennusliikkeiden paratiisi. Jokainen väljä kohta rakennetaan täyteen. Viihtyisät asuinympäristöt muuttuvat tunkkaisiksi betoniviidakoiksi.\n\nOn aika kääntää suunta. Helsinkiä on rakennettava helsinkiläisten ehdolla, ei tänne ehkä joskus tulevaisuudessa pyrkivien tarpeita varten.\n\nHelsingissä on ajateltu, että maahanmuuttajilla on vain oikeuksia ja suomalaisella velvollisuuksia. On käännettävä asia toisin päin: suomalaisilla on oikeus suomalaiseen Suomeen ja maahanmuuttajilla velvollisuus kunnioittaa sitä.\n\nKouluista on tehtävä jälleen paikkoja, joissa opitaan. Vieraiden kulttuurien aiheuttaman kaaoksen sietämisen sijasta on alettava vaatia suomalaiseen järjestelmään kasvamista.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 6,
+      "background_info_id": 2,
+      "name_fi": "Konservatiivi",
+      "name_sv": "Konservativ",
+      "name_en": "Conservative",
+      "name_ru": "Консерватор",
+      "name_sme": "Konservatiiva",
+      "name_ara": "محافظ",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Sinnemäen sumpuista sujuvaan liikenteeseen.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "kansanedustaja",
+        "se": "riksdagsledamot",
+        "en": "MP",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      },
+      {
+        "fi": "kunnanvaltuutettu",
+        "se": "ledamot i kommunfullmäktige",
+        "en": "municipal councillor",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Kymmenen vuotta kansanedustajana ja 17 vuotta kuntapolitiikassa.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

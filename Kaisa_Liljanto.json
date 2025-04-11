@@ -1,0 +1,202 @@
+{
+  "id": 10390,
+  "first_name": "Kaisa",
+  "last_name": "Liljanto",
+  "election_number": 140,
+  "party_id": 7,
+  "image": "kuvat/akv2025/10390/a867bcd7-7d5c-4920-a59e-e7f35d291920",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 42,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti vasemmalle",
+      "name_sv": "Långt till vänster",
+      "name_en": "Strongly on the left",
+      "name_ru": "С самого левого края",
+      "name_sme": "Nannosit gurut guvlui",
+      "name_ara": "أقصى اليسار",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Hallitusksen tekemät leikkaukset sote-alan järjestöiltä on kompensoitava. Väkivallan vastaiseen työhön on panostettava. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1992,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      }
+    ],
+    "education": {
+      "id": 50,
+      "background_info_id": 16,
+      "name_fi": "ammattitutkinto",
+      "name_sv": "yrkesexamen",
+      "name_en": "Vocational degree",
+      "name_ru": "профессиональное училище",
+      "name_sme": "ámmátdutkkus",
+      "name_ara": "دبلوم مهني",
+      "target_value": 2,
+      "name_ukr": "професійне училище",
+      "name_som": null
+    },
+    "gender": {
+      "id": 21,
+      "background_info_id": 6,
+      "name_fi": "en halua kertoa",
+      "name_sv": "jag vill inte uppge",
+      "name_en": "rather not say",
+      "name_ru": "Не хочу сообщать",
+      "name_sme": "In hálit muitalit",
+      "name_ara": "أُفضِّل عدم الاجابة",
+      "target_value": null,
+      "name_ukr": "Не хочу відповідати",
+      "name_som": "Ma rabo inaan sheego"
+    },
+    "lifevalues": {
+      "fi": "Oikeudenmukaisuus, solidaarisuus, yhdenvertaisuus, luonnon monimuotoisuus, yhteisöllisyys",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Kuuden tunnin työpäivän kokeilu aloitettava esim. hoitoalalta. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "instagram_url": "https://www.instagram.com/kaisaliljanto/",
+    "municipality_fix": {
+      "fi": "Julkisen liikenteen lippujen hinnat pitää saada edullisemmiksi. \nMaksuton joukkoliikenne alle 25-vuotiaille helsinkiläisille. \nAlueellinen eriytyminen (segregaatio) on pysäytettävä kaavoituksella, palvelujen kohdentamisella sekä koulujen ja päiväkotien sijoittelulla. \nAsumisen hinta on oltava kaikille kohtuullista ja asunto pitäisi olla kaikilla.\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "- JHL:n pääluottamusmies Helsingin kaupunkiympäristön toimialalla\n- ammattiosaston JHL 872 ry:n hallituksen varajäsen",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Segregaation (alueellisen eriytymisen) torjuminen\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Vasemmistonuorten hallitus 2017-2019, Helsingin vasemmistonuorten puheenjohtaja ja hallituksen jäsen 2016-2018",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

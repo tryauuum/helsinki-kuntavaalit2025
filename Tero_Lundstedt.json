@@ -1,0 +1,219 @@
+{
+  "id": 885,
+  "first_name": "Tero",
+  "last_name": "Lundstedt",
+  "election_number": 276,
+  "party_id": 19,
+  "image": "kuvat/akv2025/885/26bdd1d7-e9c2-4b53-9d14-b872498c596b",
+  "constituency_id": 25,
+  "video": "1-73814014",
+  "video_aspect": "1:1",
+  "video_description_fi": "Liberaali talousoikeisto on hyvin aliedustettuna politiikassa. Tärkein tavoitteeni on olla koko kaupunginvaltuuston liberaalein ehdokas ja edistää yksilöiden asiaa kaikessa toiminnassani valtuutettuna.",
+  "video_description_sv": "Den liberala högern är kraftigt underrepresenterad i politiken. Mitt viktigaste mål är att vara den mest liberala kandidaten i hela stadsfullmäktige och främja individens sak i allt mitt arbete som vald representant.",
+  "video_description_en": "Right-wing liberaks are highly underrepresented in politics. My main goal is to be the most liberal candidate in the entire Helsinki city council and promote liberalism and rights of individuals in all of my actions as a councillor.",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 48,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti oikealle",
+      "name_sv": "Långt till höger",
+      "name_en": "Strongly to the right",
+      "name_ru": "С самого правого края",
+      "name_sme": "Nannosit olgeš guvlui",
+      "name_ara": "أقصى اليمين",
+      "target_value": 3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan ajaa merkittävää alennusta helsinkiläisten kunnallisveroon, mikä parantaa Helsingin vetovoimaa osaajille ja tekee asumisesta saavutettavampaa myös pieni- ja keskituloisille.",
+      "se": "Jag lovar att driva en betydande sänkning av Helsingfors invånarskatt, vilket förbättrar Helsingfors attraktionskraft för kompetenta personer och gör boendet mer tillgängligt även för låg- och medelinkomsttagare",
+      "en": "I promise to push for a significant reduction in Helsinki municipal tax, which will improve Helsinki's attractiveness for skilled people and make housing more accessible even for low- and middle-income earners.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1985,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      },
+      {
+        "fi": "ranska",
+        "se": "franska",
+        "en": "French",
+        "ru": "французский",
+        "sme": "fránskkagiella",
+        "ara": "الفرنسية"
+      },
+      {
+        "fi": "venäjä",
+        "se": "ryska",
+        "en": "Russian",
+        "ru": "русский",
+        "sme": "ruoššagiella",
+        "ara": "الروسية"
+      },
+      {
+        "fi": "espanja",
+        "se": "spanska",
+        "en": "Spanish",
+        "ru": "испанский",
+        "sme": "spánskkagiella",
+        "ara": "الإسبانية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Vapaus, rationaalisuus, yksilöllisyys, yhdenvertaisuus, sekä optimistinen usko jatkuvaan edistykseen ",
+      "se": "Frihet, rationalitet, individualism, jämlikhet och en optimistisk tro på ständig framsteg",
+      "en": "Freedom, rationality, individualism, equality and an optimistic belief in constant progress",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lupaan palauttaa ratikkalipun ja pidentää metron kulkuaikoja, jotta kasvavan pääkaupungin keskusta on helposti ja kohtuuhintaisesti saavutettavissa kaikkialta.",
+      "se": "Jag lovar att återinföra spårvagnsbiljetten och förlänga metrons turtider, så att centrum i den växande huvudstaden är lätt och prisvärt tillgängligt från alla håll",
+      "en": "I promise to reintroduce tram ticket and extend metro travel times, so that the center of the growing capital is easily and affordably accessible from all directions.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.terolundstedt.fi",
+    "facebook_url": "https://www.facebook.com/tero.lundstedt/",
+    "instagram_url": "https://www.instagram.com/tepateee/",
+    "X_url": "https://x.com/LundstedtTero",
+    "municipality_fix": {
+      "fi": "Helsinki tarvitsee Pohjoismaisen pääkaupungin tasoista kunnianhimoa kasvuun. Valtuutettuna edistäisin muun muassa kaavoituksen vapauttamista, parantaisin joukkoliikenteen toimivuutta, ja houkuttelisin osaajia perheineen Helsinkiin kompensoimalla kallista asumista Suomen alimmalla kunnallisveroprosentilla.",
+      "se": "Helsingfors behöver den nordiska huvudstadens ambition för att växa.\n\nBostadspriserna är mycket höga eftersom det har byggts för lite stad i Helsingfors. Vi måste möta efterfrågan genom att bygga mer, och det kan göras bland annat genom att frigöra mark för planering.\n\nHelsingfors kollektivtrafik fungerar inte tillfredsställande: borttagningen av spårvagnsbiljetten (2019) var ett misstag som inte skulle ha gjorts om coronakrisen hade kunnat förutses. Antalet besökare i centrum och fyllnadsgraderna på spårvagnarna har inte återgått till den \"guldåldern\". Spårvagnsbiljetten bör återinföras så snart som möjligt, och vi bör också gradvis övergå till längre metrotjänsttider, som i andra storstäder.\n\nHelsingfors bör sträva efter att attrahera kompetenta personer genom att sänka kommunalskatten, vilket både ger en konkurrensfördel och gör boendet mer tillgängligt för låg- och medelinkomsttagare.",
+      "en": "Helsinki´s growth needs the ambition level of the Nordic capital.\n\nHousing prices are very high because there has been insufficient amount of building. We need to meet demand by building more, and this can be done, among other things, by freeing up land for planning.\n\nHelsinki's public transport needs improving: the removal of the tram ticket (2019) was a mistake that would not have been made if the corona crisis had been foreseen. The number of visitors to the city centre and the occupancy rates of the trams have not returned to that \"golden age\". The tram ticket should be reintroduced as soon as possible, and we should also gradually switch to longer metro service times, like in other large cities.\n\nHelsinki needs to attract skilled people through taxation, as competition for them between cities is intensifying. The municipal tax rate should be reduced to a competitive advantage, making at the same time living in Helsinki more accessible for low- and middle-income earners.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Lupaan valtuutettuna edistää keskustan elinvoiman palautusta ja tehdä kaupungista mahdollistajan, joka kuuntelee ja etsii ratkaisuja yhdessä paikallisten yrittäjien kanssa.",
+      "se": "Jag lovar som fullmäktig att främja återupplivandet av centrum och göra staden till en möjliggörare som lyssnar och söker lösningar tillsammans med de lokala företagarna",
+      "en": "As a city councillor, I promise to promote the revitalization of the city center and make the city an enabler that listens and seeks solutions together with local entrepreneurs.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Ajatuspaja Liberan kautta olen ollut vuodesta 2021 eteenpäin aktiivinen politiikan kommentaattori ja tehnyt paljon yhteistyötä eri puolueiden ja kansanedustajien kanssa.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

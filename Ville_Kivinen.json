@@ -1,0 +1,177 @@
+{
+  "id": 21044,
+  "first_name": "Ville",
+  "last_name": "Kivinen",
+  "election_number": 567,
+  "party_id": 2,
+  "image": "kuvat/akv2025/21044/80c82c87-994e-44cf-b9f5-17de981abbb1",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 47,
+      "background_info_id": 10,
+      "name_fi": "Oikealle",
+      "name_sv": "Till höger",
+      "name_en": "To the right",
+      "name_ru": "Справа",
+      "name_sme": "Olgeš guvlui",
+      "name_ara": "اليمين",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan tehdä parhaani saadakseni Helsingin asumisen hinnan laskemaan lähemmäs Tampereen ja Turun tasoa.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1993,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 51,
+      "background_info_id": 16,
+      "name_fi": "ylioppilas",
+      "name_sv": "student",
+      "name_en": "High school graduate",
+      "name_ru": "выпускник лицея",
+      "name_sme": "studeanta",
+      "name_ara": "شهادة البكالوريا",
+      "target_value": 3,
+      "name_ukr": "випускник ліцею",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Vapaus, tasa-arvo, oikeudenmukaisuus, rehellisyys ja rohkeus.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lupaan tehdä parhaani parantaakseni joukkoliikennettä, jotta se olisi yhä useammalle paras keino kulkea arjen matkat. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://puheenvuoro.uusisuomi.fi/author/villekivinen/",
+    "X_url": "https://x.com/kivinen_ville",
+    "municipality_fix": {
+      "fi": "Tärkein asia näissä, ja seuraavissa, kuntavaaleissa on ajaa Helsinkiin lisää asuntorakentamista jotta asumisen hinta saataisiin edes jollain aikavälillä painettua jonnekin Turun ja Tampereen hintojen tuntumaan.\n\nAsumisen hintakriisi on myös vähän kaiken kriisi, hoitajia ei saada töihin kun palkalla ei kalliin asumisen jälkeen tule kivasti toimeen, ihmisillä ei ole varaa käydä ravintoloissa, baareissa, teattereissa ja kaupoissa, pitkät työmatkat kaukaa vievät voimat eikä jaksa enää harrastaa liikuntaa tai tavata kavereita, nuorilla ei ole varaa sellaiseen asuntoon johon voisi hankkia lapsia ja kasvavat palkat katoavat veroprogressioon ja kasvaviin asumiskuluihin.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Lupaan tehdä parhaani tiiviimmän, korkeamman ja urbaanimman Helsingin eteen.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Olen yksi Liberaalipuolueen, alkujaan Viskipuolueen, perustajista ja olen ollut puolueessa mukana siitä lähtien Helsingin piirissä, puoluevaltuustossa ja puolueen hallituksessa.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

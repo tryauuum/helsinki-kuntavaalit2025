@@ -1,0 +1,204 @@
+{
+  "id": 13933,
+  "first_name": "Mika",
+  "last_name": "Ebeling",
+  "election_number": 34,
+  "party_id": 9,
+  "image": "kuvat/akv2025/13933/2e079379-9829-48e8-92b6-857e8090b0bc",
+  "constituency_id": 25,
+  "video": "1-73823401",
+  "video_aspect": "1:1",
+  "video_description_fi": "Tehdään Helsingistä jälleen upea!\n\nHelsingillä on varaa kaikkeen, mitä tarvitsemme, kun emme tuhlaa.\n\nYhteistä omaisuutta on hoidettava samalla huolella kuin henkilökohtaista omaisuutta.\n\nHelsinki, jossa kunnioitetaan vanhempia, opettajia ja esivaltaa, on turvallisempi Helsinki.\n\nHelsinki, joka ensi sijassa pitää huolta nykyisten helsinkiläisten tulevaisuudesta, on parempi paikka kuin se, joka unohtaa nykyiset asukkaansa.\n\nHelsinki, joka arvostaa lahjakkuutta ja palkitsee ahkeruuden ja yritteliäisyyden on parempi Helsinki.\n\nHelsinki, jossa rehellisyys kannattaa, on parempi kuin Helsinki, jossa epärehellisyyteen suhtaudutaan leväperäisesti.\n\nHelsinki, jossa kaikkia kohdallaan tasa-arvoisesti, on parempi kuin Helsinki, jossa joitakin suosittaisiin heidän syntyperänsä, sukupuolensa tai muun ominaisuuden perusteella.\n\nOn aika tehdä Helsingistä jälleen upea!",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 46,
+      "background_info_id": 10,
+      "name_fi": "Hieman oikealle",
+      "name_sv": "Lite till Till högerhöger",
+      "name_en": "SlightTo the rightly to the right",
+      "name_ru": "Немного справа",
+      "name_sme": "Vehá olgeš guvlui",
+      "name_ara": "أميل إلى اليمين",
+      "target_value": 1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Jos tulen valituksi, pyrin ensisijaisesti parantamaan nykyisten helsinkiläisten elämää.\n\nMeillä on varaa kaikkeen siihen, mitä tarvitsemme, jos emme tuhlaa rahoja.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1964,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "1. Kristillinen ihmiskäsitys\n2. Jokaisen ihmisen valtava arvo\n3. Totuusperustaisuus\n4. Yhteisen hyvän edistäminen\n5. Rohkeus",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Jos tulen valituksi, pyrin toimimaan niin, että seuraavan pandemian aikana toimimme paremmin kuin Koronaviruspandemian aikana.\n\nKoronapandemia väritti voimakkaasti edellisen valtuustokauden loppua ja tämän valtuustokauden alkua. Koronapandemian vaikutus tavallisen helsinkiläisen elämään oli valtava kaikkine sulkutoimineen, maskeineen, rokotuksineen ym. Meillä on oltava rohkeutta tarkastella tehtyjä toimia ja kysyä, mitä teimme oikein ja mitä väärin. Nyt on kulunut sen verran aikaa varsinaisesta pandemian ajasta, että muistamme vielä varsin hyvin, mitä tapahtui, mutta aikaa on kuitenkin kulunut sen verran, kun merkittävät rajoitteet ovat jääneet taakse. Nyt on aika kiihkottomasti tarkastella myös niiden asiantuntijoiden väitteitä, jotka kritisoivat tuolloin tehtyjä toimenpiteitä ja on uskallettava myös kysyä, toimiko Ruotsi sittenkin meitä viisaammin.\n\nOlen tekemässä asiasta valtuustoaloitteen vielä tämän vaalikauden aikana.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://mikaebeling.fi",
+    "facebook_url": "https://www.facebook.com/mikaebeling/",
+    "instagram_url": null,
+    "municipality_fix": {
+      "fi": "Perheiden ja vanhempien arvostus pitää palauttaa oli sitten kysymys lasten kotihoidontuen Helsinki-lisän palauttamisesta, tai kouluopetuksesta. Vanhempien auktoriteettia on kunnioitettava. Opetuksen tulee olla korkeatasoista ja lasten tulee saada opetusta, joka vastaa lahjakkuutta. Lapsia tulee kasvattaa rehellisyyteen.\n\nKaupunkia tulee ensi sijassa rakentaa kaupungin nykyisten asukkaiden hyvinvointia silmällä pitäen. Uudetkin asukkaat ovat tervetulleita, mutta asukasluvun jatkuva kasvu ei ole itsetarkoitus, eikä kaupunki saa muuttua turvattomaksi.\n\nHyvä ja tehokas joukkoliikenne parantaa hyvinvointia, mutta henkilöautoliikenteenkin tulee olla mahdollisuuksien mukaan sujuvaa.\n\nLapsille tulee antaa kasvurauha. Ketään ei saa kiusata, eikä rahaa saa tuhlata siihen, että ulkopuolinen taho opettaa lapsia kyseenalaistamaan todellisen sukupuolensa. Tyttöjen ja naisten oikeus turvallisiin pukuhuoneisiin ja urheiluun on palautettava.\n\nTuhlaus on lopettava.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Olen Kasvatuksen ja koulutuksen suomenkielisen jaoksen jäsen, KD:n puoluevaltuuston jäsen, Sanan- ja uskonnonvapaus ry:n varapuheenjohtaja.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 6,
+      "background_info_id": 2,
+      "name_fi": "Konservatiivi",
+      "name_sv": "Konservativ",
+      "name_en": "Conservative",
+      "name_ru": "Консерватор",
+      "name_sme": "Konservatiiva",
+      "name_ara": "محافظ",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Jos tulen valituksi, pyrin toimimaan rohkeasti kristillisen arvomaailman mukaisesti.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "kunnanvaltuutettu",
+        "se": "ledamot i kommunfullmäktige",
+        "en": "municipal councillor",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Suomen Kristillisen Liiton (nykyinen KD) 3. puheenjohtaja 1995-2001, Helsingin joukkoliikennelautakunnan jäsen 1993-2013, Varhaiskasvatuslautakunnan jäsen 2013-2017, Kulttuuri- ja vapaa-aikalautakunnan jäsen 2017-2021",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

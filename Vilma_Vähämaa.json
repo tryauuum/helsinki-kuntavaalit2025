@@ -1,0 +1,168 @@
+{
+  "id": 18587,
+  "first_name": "Vilma",
+  "last_name": "Vähämaa",
+  "election_number": 951,
+  "party_id": 4,
+  "image": "kuvat/akv2025/18587/7c85b80e-3b07-41e9-910a-ed7af0b044c0",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 43,
+      "background_info_id": 10,
+      "name_fi": "Vasemmalle",
+      "name_sv": "Till vänster",
+      "name_en": "On the left",
+      "name_ru": "Слева",
+      "name_sme": "Gurut guvlui",
+      "name_ara": "اليسار",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Tietoon perustuva, osallistava päätöksenteko\n\nLupaan tehdä töitä sen edistämiseksi, että päätöksenteko on avointa ja se perustuu luotettavaan, ajankohtaiseen tietoon Helsingin asukkaita osallistaen. \n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1993,
+    "language_skills": [
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "1. Luonto ja ympäristön suojeleminen: Luonto on elämän perusta, olemme osa luontoa; luontoa suojelemalla suojelemme itseämme.\n2. Uteliaisuus ja oppiminen: Uteliaisuus avaa ovia uusille näkökulmille ja kokemuksille. Tärkeää henkilökohtaiselle kehittymiselle ja yhteiskunnan edistymiselle. Oppiminen on elinikäinen prosessi, joka parantaa kykyä ymmärtää maailmaa.\n3. Vapaus: Elämän peruslähtökohta, joka antaa mahdollisuuden tehdä omat valinnat ja elää omien arvojensa mukaisesti. Vapaus ei ole vain oikeus, vaan myös vastuullinen kyky elää tasapainossa muiden ja ympäristön kanssa.\n4. Oikeudenmukaisuus: Varmistaa, että kaikilla on mahdollisuus elää hyvää elämää. Tarkoittaa mm. reiluutta ja tasa-arvoa. Luo turvallisuutta yhteiskuntaan.\n5. Rohkeus: Rohkeus on kykyä kohdata pelot ja epävarmuus, uskallusta toimia oikeudenmukaisuuden ja omien periaatteidensa puolesta vaikeina aikoina. Se ei tarkoita pelottomuutta, vaan sitä, että uskaltaa astua eteenpäin, vaikka ei tiedä, mitä tulee vastaan.\n\n\n\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lähiluonto\n\nLupaan tehdä töitä sen edistämiseksi, että Helsingissä jatketaan viheralueiden ja puistojen kehittämistä asuinalueiden keskelle, jotta kaupunki pysyy elinvoimaisena ja ihmiset voivat nauttia luonnosta asuinpaikastaan huolimatta, ja että täydennysrakentaminen suunnitellaan niin, että luontoa ei tuhota. \n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.sdp.fi/ehdokkaat-kuntavaalit/vahamaa-vilma/",
+    "municipality_fix": {
+      "fi": "Helsingissä pitäisi laittaa kuntoon erityisesti peruspalvelujen saatavuus ja laatu. Varhaiskasvatus ja peruskoulu tarvitsevat riittävästi resursseja, jotta opettajat ja ammattilaiset voivat keskittyä perustehtäväänsä, opettamiseen. Inkluusio ei ole ollut onnistunutta ja avoimista oppisympäristöistä tulee luopua. Opettajien auktoriteetti ja arvostus on palautettava. \nLähiluontoa on suojeltava ja varmistettava sen saatavuus kaupungin asukkaille. Helsingissä tulee jatkaa viheralueiden ja puistojen kehittämistä asuinalueiden keskelle, jotta asukkaat voivat nauttia luonnosta elinympäristönsä lähialueilla. Samalla on tärkeää huolehtia täydennysrakentamisen suunnittelusta siten, ettei luontoa tuhota. Keskuspuisto tulee jättää rauhaan.\nPäätöksenteon tulee olla entistäkin avoimempaa ja perustua ajankohtaiseen, luotettavaan tietoon. Helsinkiläisten pitää olla aktiivisesti mukana päätöksenteossa, jotta voidaan varmistaa, että kaupungin kehitys palvelee kaikkien asukkaiden tarpeita ja arvoja.\n\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "SOS-lapsikylä ry:n hallituksen jäsen\nLSKL:n lapsi- ja perhepolitiikan neuvottelukunnan jäsen",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Lapsi- ja perhepolitiikka\n\nLupaan tehdä töitä sen edistämiseksi, että varhaiskasvatuksessa ja perusopetuksessa opettajilla ja varhaiskasvatuksen ammattilaisilla on riittävästi aikaa, resursseja ja keinoja keskittyä perustehtäväänsä.\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

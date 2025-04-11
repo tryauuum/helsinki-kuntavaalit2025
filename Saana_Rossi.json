@@ -1,0 +1,186 @@
+{
+  "id": 8983,
+  "first_name": "Saana",
+  "last_name": "Rossi",
+  "election_number": 788,
+  "party_id": 6,
+  "image": "kuvat/akv2025/8983/0bb0f204-ccee-4826-9a34-cd608d05800c",
+  "constituency_id": 25,
+  "video": "1-73816949",
+  "video_aspect": "1:1",
+  "video_description_fi": "Tärkein tavoitteeni on varmistaa, että ensi kaudella saamme aikaan perustavanlaatuisen muutoksen rakentamisen tapoihin Helsingissä. \n\nMonessa ympäristöasiassa on otettu tärkeitä edistysaskelia, mutta rakennusala on edelleen iso päästöjen lähde, ja lisäksi nykyinen tapa tehdä purkavaa uudisrakentamista tai rakentaa luontoalueille herättää asukkaissa syystäkin paljon vastustusta.\n \nEnsi kaudella pitää varmistaa, että kaupunki mahdollistaa painopisteen siirtymisen purkavasta uudisrakentamisesta ja kohti olemassa olevien rakennusten korjaamista ja kehittämistä uusiin käyttötarkoituksiin. \n\nAion työskennellä sen eteen, että kaupunki tarjoaa palveluita ja tietoa rakentamisen kiertotalouden kehittämiseen ja esimerkiksi materiaalien uusiokäyttöön, ja toisaalta pyrkii kaavoituksella ohjaamaan pois purkamisesta aina kun mahdollista. \n\nLisäksi kaupungin pitää luopua niistä hankkeista, joissa rakentaminen tulisi luontoalueille tai puistoon. Samalla viherrakentamista ja luontoa kunnioittavia rakennustapoja tulee vahvistaa, jotta hankkeet parantavat monimuotoisuutta ja elinoloja kaikille lajeille.",
+  "video_description_sv": null,
+  "video_description_en": "My most important goal is to ensure that we make fundamental changes in construction in Helsinki.\n\nWe have taken steps in many environmental issues, but the building industry is still a major source of emissions, and the citizens have been very critical towards current practices of demolishing and reconstructing or building in green areas. \n\nIn the next council term we must make sure that the city facilitates the transfer from demolition and new construction towards the renovation and redevelopment into new functions. \n\nI will work to ensure that the city provides services, tools and knowledge to enhance circular economy of building materials, and that we reduce the incentives for demolition in zoning decisions. \n\nFinally, the city must stop building in forests and parks. We must improve green construction and building methods that respect nature so that construction projects improve biodiversity and living environments for all other species. ",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 43,
+      "background_info_id": 10,
+      "name_fi": "Vasemmalle",
+      "name_sv": "Till vänster",
+      "name_en": "On the left",
+      "name_ru": "Слева",
+      "name_sme": "Gurut guvlui",
+      "name_ara": "اليسار",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan edistää tutkittuun tietoon ja asukkaiden palautteeseen pohjaten kauniin ja kestävän kaupungin rakentamista. Lupaan edistää arvokkaan arkkitehtuurin suojelua sekä rakennusten korjaamista purkamisen ja uudisrakentamisen sijaan. Lupaan vahvistaa kestävämpiä rakennustapoja ja rakentamisen kiertotaloutta.",
+      "se": null,
+      "en": "I promise to advocate for a more beautiful and sustainable city based on research and participatory feedback. I will work for the conservation of valuable architecture and the renovation rather than demolition of old buildings. I promise to contribute to the adoption of more sustainable building methods and to strengthen circular economy in construction. ",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1992,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Kunnioitus elämää ja kanssaihmisiä kohtaan, solidaarisuus, kestävyys, avoimuus, rohkeus",
+      "se": "Respekt för livet och medmänniskor, solidaritet, hållbarhet, öppenhet, mod\n",
+      "en": "Respect for life and our fellow humans, solidarity, sustainability, openness, bravery",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lupaan tehdä väsymättömästi töitä monimuotoisen elämän suojelemiseksi kaupungissa. Valtuutettuna puolustaisin väkevästi luonnon, vesistöjen ja lähiviheralueiden suojelua ja vahvistamista. Lisäksi työskentelisin sen eteen, että ihmisten yhteisöllisyys ja kulttuurielämä kaupungissa kukoistavat luonnon rinnalla. ",
+      "se": null,
+      "en": "I promise to work diligently for the protection of diverse lifeforms and livelihood in Helsinki. As a councilmember I would strongly advocate for the conservation of nature, sea and rivers, and local green areas. Additionally, I would work to ensure that human communities and cultural life can flourish alongside nature in the city. ",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://saanarossi.fi/",
+    "facebook_url": "https://www.facebook.com/RossiSaana/",
+    "instagram_url": "https://www.instagram.com/saana.rossi/",
+    "municipality_fix": {
+      "fi": "Helsingissä pitää panostaa siihen, että jokaisella on toimivat peruspalvelut: terveyskeskukseen pitää päästä, päiväkodin ja koulun löytyä kävelymatkan päästä, vanhuksille olla hoitopaikkoja, ja julkisen liikenteen olla kohtuuhintaista. Meillä on varaa tähän, jos valitsemme priorisoida kehityksessä tavallisten ihmisten arkea.  \n\nLisäksi meidän täytyy huolehtia, että liikkuminen on turvallista. Lasten tulee voida taittaa koulumatkat jalan tai pyörällä ilman pelkoa siitä, että autot eivät hidasta suojatiellä. Pyöräilyreittejä ja opastusta pitää parantaa niin, että oikeat ajoreitit ja väistäminen on helppoa kaikille kulkijoille, oli ajokorttia tai ei. \n\nMyös rakentamisen tavat pitää muuttaa kestävämmiksi. Kaupungin tulee kannustaa toimijoita laajemmin kiertotalouteen, materiaalien ja tyhjillään olevien rakennusten uudelleenkäyttöön sen sijaan, että puramme ja rakennamme tilalle uutta. Rakentaminen ei saa ylettyä luontoon tai puistoihin, ja sen yhteydessä tulee parantaa viherympäristöä. ",
+      "se": null,
+      "en": "We have to make sure that everyone in Helsinki has access to services: healthcare, school and daycare on walking distance, enough care homes for elderly folks, and affordable public transit. We can afford this, if we choose to prioritize the everyday life of citizens. \n\nAdditionally, moving in the city must be safe. Kids should be able to go to school on foot or by bike without a worry of whether cars slow down in a crossing. Bike paths and signage should be improbed to make it easy to ride in the right place and give way as necessary, with or without a driver's licence. \t\n\nWe also need to make construction more sustainable. The city should support circular economy of both building materials and currently vacant buildings, rather than making it easy to demolish and rebuild when functions evolve. Construction cannot be done in the nature or in parks, and alongside projects, natural and recreational values should always be enhanced. ",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Olen helsinkiläinen varavaltuutettu, Kaupunkiympäristölautakunnan ympäristö- ja lupajaoston puheenjohtaja, sekä varajäsen Kaupunkiympäristölautakunnassa. \n\nOlen myös Aalto-yliopiston akateemisen komitean varajäsen. ",
+      "se": "Jag är ersättare i fullmäktige i Helsinfors, ordförande för miljö- och tillståndssektionen, och ersättare i stadsmiljönämnden.",
+      "en": "I am a deputy city council member, the chairperson of the Helsinki Environment and Permits Sub-committee, and a deputy member of the Urban Environment committee.\n\nI am also a deputy member in the Aalto University academic committee. ",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Lupaan työskennellä ahkerasti sen eteen, että jokaisella helsinkiläisillä olisi toimivat peruspalvelut kävelymatkan päässä. Lupaan vaikuttaa sen puolesta, ettei kouluja, päiväkoteja ja terveyskeskuksia enää keskitettäisi, ja että joukkoliikenteen lippujen hintoja saataisiin merkittävästi alennettua, ja että kävely- ja pyöräily-ympäristöä kehitetään viihtyisämmäksi ja turvallisemmaksi. ",
+      "se": null,
+      "en": "I promise to work tirelessly for every Helsinki citizen to have working public services on walking distance from home. I will try to ensure that we no longer centralize schools, daycare centers and healthcare centers into larger units. I promise to advocate for cheaper public transportation and for the improvement of the safety and attractiveness of walking and bicycle paths. ",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "kunnanvaltuutettu",
+        "se": "ledamot i kommunfullmäktige",
+        "en": "municipal councillor",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

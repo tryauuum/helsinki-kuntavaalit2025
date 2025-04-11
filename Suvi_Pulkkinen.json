@@ -1,0 +1,205 @@
+{
+  "id": 8204,
+  "first_name": "Suvi",
+  "last_name": "Pulkkinen",
+  "election_number": 784,
+  "party_id": 6,
+  "image": "kuvat/akv2025/8204/528b7b43-9217-45ce-a80d-9eb9312ff990",
+  "constituency_id": 25,
+  "video": "1-73815022",
+  "video_aspect": "1:1",
+  "video_description_fi": "Tavoitteenani on hyvä kaupunki kasvaa. Sellainen, jossa kouluissa on rauha oppia ja päiväkodeissa riittävästi aikuisia. Tarvitsemme myös kunnianhimoa Helsingin kasvupolitiikkaan.",
+  "video_description_sv": "En stor stad växer. Jag vill att barn ska ha en lugn lärandemiljö i skolorna, med tillräckligt med omsorgspersonal och lärare på förskolorna. Jag vill också att Helsingfors ska växa genom internationalisering.",
+  "video_description_en": "A great city grows. I want children to have a peaceful learning environment in schools, with enough caregivers and teachers in kindergartens. I also want Helsinki to grow through internationalization.",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 45,
+      "background_info_id": 10,
+      "name_fi": "En vasemmalle enkä oikealle",
+      "name_sv": "Varken vänster eller höger",
+      "name_en": "Neither to the right or the left",
+      "name_ru": "Ни слева, ни справа",
+      "name_sme": "In gurut inge olgeš guvlui",
+      "name_ara": "لا إلى اليسار ولا إلى اليمين",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Helsingistä kansainvälisen kasvun kaupinki! Sellainen, jossa työssä oppimiseen panostetaan,  innovaatioita korkeakoulujen kanssa vauhditetaan ja kansainväliset osaajat pääsevät osaksi työmarkkinoita. Loppu rasismin hyysäilylle! Lisäksi lupaan vaatia lisää palveluhenkisyyttä ja joustavuutta tonttipolitiikkaan, jotta Helsinki olisi pohjoismaiden ykköskohde liiketoiminnalle. ",
+      "se": "\"Helsingfors – en stad med internationell tillväxt! En stad som satsar på lärande i arbetslivet, driver på innovation i samarbete med universiteten och öppnar arbetsmarknaden för internationella talanger. Inget mer rasistiskt bashing! Jag lovar också att arbeta för bättre service och mer flexibilitet i markpolitiken för att göra Helsingfors till Nordens främsta affärsdestination.\"",
+      "en": "Let’s make Helsinki a city of international growth! A city that invests in learning at work, accelerates innovation in collaboration with universities, and opens the labor market to international talent. No more racist attacks! I also pledge to push for better services and greater flexibility in land policy to make Helsinki the leading business destination in the Nordic countries.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1988,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Inhimillisyys, oikeudenmukaisuus, vastuullisuus, eteenpäinkatsovuus sekä halu oppia ja kehittyä",
+      "se": "Medmänsklighet, rättvisa, ansvarstagande, framåtanda, vilja att lära och utvecklas",
+      "en": "Humanity, fairness, responsibility, forward-thinking, willingness to learn and develop",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Helsingistä urbaani ja vehreä suurkaupunki, jossa kulttuuri kukoistaa. Lupaan edistää sitä, että Töölönlahdelle rakennetaan elämysleikkipuisto, Etelä-Helsinkiin saadaan puistokonsertteja ja ravintola-aukioita, ja saaristo otetaan paremmin matkailu- ja retkeilykäyttöön. ",
+      "se": "Att göra Helsingfors till en grön och urban metropol där kulturen blomstrar. Jag lovar att verka för en lekplats vid Tölöviken, att främja parkkonserter och restaurangtorg i södra Helsingfors samt att göra skärgården mer tillgänglig för turism och friluftsliv.",
+      "en": "Let’s make Helsinki a green and urban metropolis where culture thrives. I pledge to support the creation of a playground in Töölönlahti, to promote park concerts and restaurant hubs in South Helsinki, and to make the archipelago more accessible for tourism and outdoor activities.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.suvipulkkinen.fi/",
+    "facebook_url": "https://www.facebook.com/pulkkinensuvi",
+    "instagram_url": "https://www.instagram.com/suvi_pulkkinen/",
+    "X_url": "https://x.com/suvi_pulkkinen",
+    "municipality_fix": {
+      "fi": "Helsingissä pitää laittaa kuntoon kansainvälisen kasvun ja kiinnostavan kaupunkilkulttuurin edellytykset, jotta kaupunki houkuttelee osaajia, menestyviä yrityksiä, matkailijoita ja maailmanluokan tapahtumia.  Lisäksi lasten kasvulle on luotava paremmat puitteet: lisää pysyviä aikuisia päiväkoteihin ja oppimisrauhaa.",
+      "se": "Helsingfors behöver skapa förutsättningar för internationell tillväxt och en attraktiv stadskultur för att locka talanger, framgångsrika företag, turister och världsklassiga evenemang. Vi måste också skapa en bättre uppväxtmiljö för barn: fler trygga vuxna på dagis och arbetsro för lärande.",
+      "en": "Helsinki needs to create the conditions for international growth and an attractive urban culture to attract talent, successful companies, tourists, and world-class events. We also need to foster a better environment for children to grow up: more stable adults in kindergartens and a peaceful atmosphere for learning in schools.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Varavaltuutettu (Helsinki)\nKaupunginhallitusryhmän jäsen\nElinkeinojaoston varapuheenjohtaja\nTyöllisyysliikelaitoksen johtokunnan varajäsen",
+      "se": " Ersättare i stadsfullmäktige\nLedamot i stadsstyrelsegruppen\nVice ordförande för ekonomiavdelningen\nSuppleant i styrelsen för arbetsförmedlingen",
+      "en": "Deputy Member of the Helsinki City Council\nMember of the City Board Group\nVice Chair of the Economic Subcommittee",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Helsingistä paras kaupunki kasvaa lapsille! Sellainen, jossa on tilaa lasten leikeille, riittävästi pysyviä aikuisia päiväkodeissa ja kouluissa rauha oppia. Lupaan edistää varhaiskasvatuksen ja opetusalan palkkaohjelmaa, suojella leikkipuistoja ja vaatia pienempiä ryhmiä kouluihin.",
+      "se": "Helsingfors är den bästa staden för barn att växa upp i! En stad där det finns utrymme för lek, tillräckligt med trygga vuxna på dagis och en lugn miljö för lärande i skolorna. Jag lovar att arbeta för ett löneprogram för småbarnspedagogik och undervisning, att skydda lekplatser och att kräva mindre grupper i skolorna.",
+      "en": "Let's make Helsinki the best city for children to grow up in! A place where there's room for children to play, enough stable and qualified adults in kindergartens, and a calm environment for learning in schools. I pledge to advocate for better pay in early childhood education and teaching, to protect playgrounds, and to push for smaller class sizes in schools.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Olen ollut ennen nykyistä työtehtävääni töissä neljä vuotta Vihreässä eduskuntaryhmässä poliittisena asiantuntijana ja olen toiminut myös Helsingin vihreiden varapuheenjohtajana. Lisäksi olen Vihreiden talouspoliittisen työryhmän jäsen.",
+      "se": "Före mitt nuvarande jobb arbetade jag i fyra år som politisk expert i den gröna riksdagsgruppen och har också varit vice ordförande för De grönas Helsingforsavdelning. Jag är dessutom medlem i De grönas arbetsgrupp för ekonomisk politik.",
+      "en": "Before my current job, I worked for four years as a policy advisor in the Green Parliamentary Group, and I have also served as Vice-Chair of the Helsinki Greens. I am also a member of the Greens' Economic Policy Working Group",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

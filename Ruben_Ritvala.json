@@ -1,0 +1,184 @@
+{
+  "id": 13810,
+  "first_name": "Ruben",
+  "last_name": "Ritvala",
+  "election_number": 662,
+  "party_id": 8,
+  "image": "kuvat/akv2025/13810/c1548310-5ac9-4734-b6ad-9396f5fbb0cf",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 45,
+      "background_info_id": 10,
+      "name_fi": "En vasemmalle enkä oikealle",
+      "name_sv": "Varken vänster eller höger",
+      "name_en": "Neither to the right or the left",
+      "name_ru": "Ни слева, ни справа",
+      "name_sme": "In gurut inge olgeš guvlui",
+      "name_ara": "لا إلى اليسار ولا إلى اليمين",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Segregaation ehkäisy ja yhteisöllisyyden vahvistaminen",
+      "se": "Motverka segregation och stärka gemenskap",
+      "en": "Prevent segregation",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1997,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 51,
+      "background_info_id": 16,
+      "name_fi": "ylioppilas",
+      "name_sv": "student",
+      "name_en": "High school graduate",
+      "name_ru": "выпускник лицея",
+      "name_sme": "studeanta",
+      "name_ara": "شهادة البكالوريا",
+      "target_value": 3,
+      "name_ukr": "випускник ліцею",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Vapaus, yhteisöllisyys, tasapaino, vastuu ja kunnioitus",
+      "se": "Frihet, gemenskap, balans, ansvar och respekt ",
+      "en": "Freedom, community, balance, responsibility and respect",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Kestävä ja tasapainoinen kaavoitus",
+      "se": " Hållbar och balanserad stadsplanering",
+      "en": "Sustainable and balanced urban planning",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 23,
+      "background_info_id": 8,
+      "name_fi": "ruotsi",
+      "name_sv": "Svenska",
+      "name_en": "Swedish",
+      "name_ru": "шведский",
+      "name_sme": "ruoŧagiella",
+      "name_ara": "السويدية",
+      "target_value": null,
+      "name_ukr": "шведська",
+      "name_som": "af-Iswiidhish"
+    },
+    "homepage_url": "https://val.sfp.fi/kommunalval/fi/ehdokkaat/ruben-ritvala/",
+    "municipality_fix": {
+      "fi": "Panostaa kestävään kaavoitukseen, rakentamiseen ja suunnitteluun, jotka tukevat ympäristöä, pitkän aikavälin kehitystä ja elinkeinoelämän kasvua. Monipuolisella kaavoituksella voidaan ehkäistä segregaatiota ja edistää yhteisöllisyyttä. Lisäksi hyvä liikennesuunnittelu takaa sujuvan ja turvallisen liikkumisen kaikille.",
+      "se": "Satsa på hållbar planering, byggande och utveckling som stöder miljön, långsiktig tillväxt och näringslivet. Genom mångsidig planering kan segregation motverkas och gemenskap stärkas. Dessutom säkerställer god trafikplanering smidig och säker rörlighet för alla.",
+      "en": "Invest in sustainable zoning, building and planning that support the environment, long-term development, and economic growth. Diverse urban planning can help prevent segregation and foster a sense of community. Additionally, good traffic planning ensures that everyone can travel smoothly and safely.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": "Suomi ",
+      "se": "Finska",
+      "en": "Finnish ",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": " Sujuva ja toimiva liikennejärjestelmä",
+      "se": "Smidig och fungerande trafikplanering",
+      "en": "Efficient and well-functioning traffic planning",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

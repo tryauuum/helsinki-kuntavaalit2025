@@ -1,0 +1,185 @@
+{
+  "id": 13713,
+  "first_name": "Emma",
+  "last_name": "Puro",
+  "election_number": 311,
+  "party_id": 19,
+  "image": "kuvat/akv2025/13713/6c52e78f-6db1-417a-a403-c58754ba1edf",
+  "constituency_id": 25,
+  "video": "1-73823871",
+  "video_aspect": "1:1",
+  "video_description_fi": "Minun vaalilupaukseni on, että Helsingin kaupunki suhtautuu riittävällä vakavuudella helsinkiläisten katuturvallisuuteen, jotta jokainen helsinkiläinen kokee asuinympäristönsä turvalliseksi kaupungin asuinalueesta riippumatta. Turvallisuus kattaa mielestäni myös digitaalisen turvallisuuden, joka tarkoittaa, että kaupungin digitaalisissa palveluissa on turvallista asioida ilman pelkoa tietomurroista ja omien henkilötietojen menetyksestä. Toinen vaalilupaukseni on, että lasten ja nuorten koulurauhaan panostetaan, painostusluokat säilytetään ja ilmaisen sekä matalan kynnyksen harrastustoimintaan suunnataan resursseja syrjäytymisen ehkäisemiseksi.",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 46,
+      "background_info_id": 10,
+      "name_fi": "Hieman oikealle",
+      "name_sv": "Lite till Till högerhöger",
+      "name_en": "SlightTo the rightly to the right",
+      "name_ru": "Немного справа",
+      "name_sme": "Vehá olgeš guvlui",
+      "name_ara": "أميل إلى اليمين",
+      "target_value": 1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Varmistetaan Helsingin elinvoimaisuutta lisäämällä kaupunkiin kulttuuritapahtumia, erilaisia puistoalueita ja pidetään huolta ikimetsien suojelusta, lisätään ulkoliikunta- ja avantouintipaikkoja. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1990,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Turvallisuus, oikeudenmukaisuus, ahkeruus, rehellisyys, empaattisuus",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Varmistetaan koulurauha ja hyvän oppimisen edellytykset lapsille ja nuorille: tarjotaan laadukasta opetusta, pidetään eri aineisiin keskittyviä painotusluokkia, jonne lapset voivat hakeutua halutessaan sekä tuetaan ilmaista, matalan kynnyksen harrastustoimintaa koulun vastapainoksi vapaa-ajalle syrjäytymisen ehkäisemiseksi.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://emmapuro.nettisivut.fi",
+    "instagram_url": "https://www.instagram.com/puroemm/",
+    "municipality_fix": {
+      "fi": "Helsingissä tulee suhtautua riittävällä vakavuudella katujengi- ja nuorisorikollisuuden kehitykseen ja sen ennaltaehkäisyyn. Helsingin kaupungin digipalvelujen tulisi olla tarpeeksi tietoturvallisia ja henkilötiedot eivät saisi vaarantua tietomurtoyritysten seurauksena. Helsingin taloutta tarkastellessa olisi syytä huomioida erityisesti lasten ja nuorten asema: nuorten ilmainen ja matalan kynnyksen harrastus- ja kulttuuritoiminta tulee turvata, jotta lapset ja nuoret eivät syrjäänny. Helsingin olisi hyvä panostaa yhä enemmän elinvoimaisuuden parantamiseen lisäämällä kulttuuritapahtumia, ulkoliikunta- ja avantouintipaikkoja sekä elävöittää erityisesti keskustan palveluita. Joukkoliikenteen maksuja tulisi kohtuullistaa vyöhykekohtaisesti. Asuinalueiden kasvavaa segregaatiota tulisi hidastaa parantamalla asumismuotoja eri kaupunginosien välillä sekä varmistamalla koulurauha jokaiselle lapselle ja nuorelle.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "International Federation of Business and Professional Women Suomen jäsenyhdistyksen edustaja YK:n pysyvässä komiteassa.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 3,
+      "background_info_id": 2,
+      "name_fi": "Hieman liberaali",
+      "name_sv": "Ganska liberal",
+      "name_en": "Slightly liberal",
+      "name_ru": "Слегка либерал",
+      "name_sme": "Vehá liberála",
+      "name_ara": "أميل إلى الليبرالية",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Pidetään huolta Helsingin katuturvallisuudesta, jotta jokainen asukas kokee turvallisuutta kaupunginosasta tai kellonajasta riippumatta kulkiessaan Helsingissä. Turvallisuus koskee myös digitaalista turvallisuutta kuten sähköistä asiointia Helsingin kaupungin digipalveluissa sekä niihin liittyvää tietoturvaa.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

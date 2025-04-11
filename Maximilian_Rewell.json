@@ -1,0 +1,177 @@
+{
+  "id": 6313,
+  "first_name": "Maximilian",
+  "last_name": "Rewell",
+  "election_number": 317,
+  "party_id": 19,
+  "image": "kuvat/akv2025/6313/8aad90cd-1ab0-465a-a2ba-34251bc110a1",
+  "constituency_id": 25,
+  "video": "1-73824333",
+  "video_aspect": "1:1",
+  "video_description_fi": "Minun tärkein tavoitteeni ensi valtuustokaudella on lisätä Helsingin kaupunginvaltuuston yhteistyökykyä. Tämä on asia, mikä on puuttunut viimeisen neljän vuoden aikana ja on ehdoton edellytys myönteiselle kaupunkikehitykselle. ",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 47,
+      "background_info_id": 10,
+      "name_fi": "Oikealle",
+      "name_sv": "Till höger",
+      "name_en": "To the right",
+      "name_ru": "Справа",
+      "name_sme": "Olgeš guvlui",
+      "name_ara": "اليمين",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan tehdä töitä sen eteen, että Helsingin talous pysyy vahvana. Lisäksi haluan edistää kaupungin merkittävien investointien ja hankkeiden suunnittelun, toteutuksen ja budjetoinnin läpinäkyvyyttä. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1994,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Vapaus, perhe, kunnioitus, mahdollisuuksien tasa-arvo, isänmaallisuus",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lupaan tehdä töitä lasten ja nuorten koulutuksen, liikunnan ja henkisen hyvinvoinnin eteen. Entisenä kilpaurheilijana teen parhaani, jotta nuorten koulumenestys ja kilpaurheilu voivat kulkea käsi kädessä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 23,
+      "background_info_id": 8,
+      "name_fi": "ruotsi",
+      "name_sv": "Svenska",
+      "name_en": "Swedish",
+      "name_ru": "шведский",
+      "name_sme": "ruoŧagiella",
+      "name_ara": "السويدية",
+      "target_value": null,
+      "name_ukr": "шведська",
+      "name_som": "af-Iswiidhish"
+    },
+    "homepage_url": "https://www.maximilianrewell.fi/",
+    "facebook_url": "https://www.facebook.com/profile.php?id=61571744533636",
+    "instagram_url": "https://www.instagram.com/maximilianrewell/",
+    "tiktok_url": "https://www.tiktok.com/@maximilianrewell",
+    "municipality_fix": {
+      "fi": "Helsingin poliittinen päätösprosessi on tällä hetkellä hidas ja tehoton. Asioista ei päästä yhteisymmärrykseen ja kompromisseihin harvoin kyetään. Tämä koskee kaikkia puolueita, mukaan lukien omaani. Tähän tulee saada muutos ja lähteä siitä lähtökohdasta, että Helsingin tulevaisuus on meidän kaikkien yhteinen asia. Toki eriäviä mielipiteitä ja kiihkeää keskustelua tulee aina olemaan ja hyvä niin, mutta nykyinen ilmapiiri ei ole kenenkään etu. Vaikka minulla on myös omat arvoni ja tavoitteeni Helsingin kehityksen suhteen, haluan kyetä yhteistyöhön ja asioita edistäviin ratkaisuihin. Toimiva, dynaaminen ja tilannetajua käyttävä kaupunginvaltuusto luo edellytykset myönteiselle kehitykselle. Itse priorisoisin ydinkeskustan ja kantakaupungin elävöittämistä, koulujen segregaation ehkäisemistä, lasten ja nuorten fyysistä ja henkistä hyvinvointia, asukkaiden ulkoilu- ja liikkumismahdollisuuksia, ennalta ehkäisevää hoitoa sekä investointien ja verovarojen käytön läpinäkyvyyttä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 5,
+      "background_info_id": 2,
+      "name_fi": "Hieman konservatiivi",
+      "name_sv": "Ganska konservativ",
+      "name_en": "Slightly conservative",
+      "name_ru": "Слегка консерватор",
+      "name_sme": "Vehá konservatiiva",
+      "name_ara": "أميل إلى المحافظة",
+      "target_value": 1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Lupaan pitää kiinni arvoistani, kuunnella ja kunnioittaa muita eriävistä mielipiteistä huolimatta. Minulta löytyy vaadittava määrätietoisuus ja periksiantamattomuus saada asioita edistettyä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

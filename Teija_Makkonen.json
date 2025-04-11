@@ -1,0 +1,206 @@
+{
+  "id": 3542,
+  "first_name": "Teija",
+  "last_name": "Makkonen",
+  "election_number": 402,
+  "party_id": 3,
+  "image": "kuvat/akv2025/3542/f977900b-47e0-4022-967f-bb681dd8c266",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 47,
+      "background_info_id": 10,
+      "name_fi": "Oikealle",
+      "name_sv": "Till höger",
+      "name_en": "To the right",
+      "name_ru": "Справа",
+      "name_sme": "Olgeš guvlui",
+      "name_ara": "اليمين",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Koulurauha: Oppilaille ja opettajille on taattava turvallinen ja häiriötön oppimisympäristö.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1983,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Turvallisuus, rehellisyys, oikeudenmukaisuus, perhekeskeisyys, vastuullisuus",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Turvallisuus: Katu- ja jengiväkivalta sekä yleinen turvattomuus on kitkettävä määrätietoisesti.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.teijamakkonen.fi",
+    "facebook_url": "https://www.facebook.com/teijamakkonenfi/",
+    "instagram_url": "https://instagram.com/teijamakkonenfi",
+    "X_url": "https://twitter.com/teijamakkonenfi",
+    "tiktok_url": "https://www.tiktok.com/@teijamakkonen",
+    "municipality_fix": {
+      "fi": "\nTärkeimpiä kysymyksiä ovat turvallisuus, koulurauha, ja elinvoimainen kaupunki. Helsingin on panostettava katuväkivallan ja turvattomuuden ehkäisyyn, laadukkaaseen opetukseen ja kaupunkilaisten palveluihin. Ongelmiin on puututtava varhaisessa vaiheessa. Helsingin kaupunkiympäristön politiikka tarvitsee myös suunnanmuutosta. Turhat ja kalliit ideologiset projektit on lopetettava, ja investointien on tuettava kaupunkilaisten arkea konkreettisesti. Helsingin keskustan ja lähiöiden on oltava helposti saavutettavissa kaikilla liikennevälineillä - myös autolla.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "HOK-Elanto, Edustajiston jäsen\nHelsinki, Kulttuuri- ja vapaa-aikalautakunnan jäsen \nUudenmaan liitto, Maakuntavaltuutettu \nMaanpuolustustiedotuksen suunnittelukunta, Jäsen\nVarakansanedustaja Helsinki\nHelsingin Satama Oy, Hallituksen jäsen\nHSL, Helsingin seudun liikenne, Hallituksen varajäsen\nMaatullin peruskoulu, Johtokunnan jäsen\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 6,
+      "background_info_id": 2,
+      "name_fi": "Konservatiivi",
+      "name_sv": "Konservativ",
+      "name_en": "Conservative",
+      "name_ru": "Консерватор",
+      "name_sme": "Konservatiiva",
+      "name_ara": "محافظ",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Vastuullinen talous: Kaupungin varat on käytettävä harkiten, turhat hankkeet on karsittava ja peruspalvelut asetettava etusijalle.\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "kunnanvaltuutettu",
+        "se": "ledamot i kommunfullmäktige",
+        "en": "municipal councillor",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Oikeusministerin sekä ulkomaankauppa- ja kehitysministerin valtiosihteeri",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

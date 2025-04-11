@@ -1,0 +1,175 @@
+{
+  "id": 1643,
+  "first_name": "Annemari",
+  "last_name": "Mikkonen",
+  "election_number": 897,
+  "party_id": 4,
+  "image": "kuvat/akv2025/1643/2c741e66-eb01-4d62-80ce-12616c16da33",
+  "constituency_id": 25,
+  "video": "1-73814579",
+  "video_aspect": "1:1",
+  "video_description_fi": "Mun tavoite ensi valtuustokaudella on mahdollistaa Helsingin kasvu. Se tehdään rakentamalla kohtuullisen hintaisia vuokra-asuntoja, panostamalla nuorten hyvinvointiin harrastuksien kautta ja kehittämällä lähiöitä ympäri kaupungin. Länsi-Helsingistä ei ole ollut ehdokasta valtuustossa pitkään aikaan, nyt on aika äänestää Kantsun oma Ansku valtuustoon!",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 43,
+      "background_info_id": 10,
+      "name_fi": "Vasemmalle",
+      "name_sv": "Till vänster",
+      "name_en": "On the left",
+      "name_ru": "Слева",
+      "name_sme": "Gurut guvlui",
+      "name_ara": "اليسار",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lähiöiden jatkuvat parannukset",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1991,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Tasa-arvo, rehellisyys, muiden auttaminen, yrittäjähenkisyys ja rohkeus.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Jokaiselle lapselle oma harrastus",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "instagram_url": "https://www.instagram.com/annemari.mikkonen/",
+    "tiktok_url": "https://www.tiktok.com/@annemari.mikkonen",
+    "municipality_fix": {
+      "fi": "1. Helsingin kaupungin tärkein tehtävä seuraavien vuosien aikana on estää lähiöiden segregaatio eli alueellinen eriytyminen. \n2. Kaupungin tulee rakentaa kohtuullisen hintaista vuokra-asumista ympäri Helsinkiä. \n3. Helsingissä tulee säilyttää 2 viikon hoitotakuu terveysasemilla, eikä vastaanotolla käynnistä tule veloittaa maksua potilaalta. \n4. Kaupungin tulisi tarjota mahdollisuuksia lapsille niin liikunnan kuin muidenkin harrastusten parissa – esimerkiksi taiteen, musiikin tai käsitöiden osalta.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Kaikilla tulee olla varaa asua Helsingissä",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

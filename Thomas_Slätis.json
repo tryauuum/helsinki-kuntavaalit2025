@@ -1,0 +1,213 @@
+{
+  "id": 3809,
+  "first_name": "Thomas",
+  "last_name": "Slätis",
+  "election_number": 189,
+  "party_id": 7,
+  "image": "kuvat/akv2025/3809/d6234c20-d8ee-43e9-8bcc-e11fcccf7508",
+  "constituency_id": 25,
+  "video": "1-73823109",
+  "video_aspect": "3:4",
+  "video_description_fi": "Hei! Minä olen Thomas Slätis.\nOlen tehnyt kansalaisvaikuttamisen avulla politiikkaa jo kahden valtuustokauden ajan. Olen muun muuassa aktivistina puolustanut Lapinlahden alueen kulttuuriperintöä, mielenterveyttä tukevaa toimintaa ja vapaaehtoistyönä luotua kaupunkikulttuuria.\n\nTärkein tavoitteeni valtuustossa on vahvistaa keinoja kuulla helsinkiläisiä kaupungin päätöksenteossa. Tämä tarkoittaa lähidemokratian toteuttamista nykyistä huomattavasti kunniahimoisemmin. Sille on jo laissa ja kaupungin hallintosäännössä olemassa hyvät lähtökohdat. Nyt pitää saada nämä kaupunkilaisten kuulemisen työkalut laajempaan ja varsinkin painokkaampaan käyttöön! Helsingin tulee olla asukkaidensa näköinen kaupunki!\n\nMin viktigaste målsättning under kommande fullmäktigeperiod är att tydligare höra invånarnas röster  i beslutsfattandet. Verktygen för detta finns ren men de ska användas mångsidigare och framförallt väga betydligt tyngre då det är dags för beslut!",
+  "video_description_sv": "Hei! Minä olen Thomas Slätis.\nOlen tehnyt kansalaisvaikuttamisen avulla politiikkaa jo kahden valtuustokauden ajan. Olen muun muuassa aktivistina puolustanut Lapinlahden alueen kulttuuriperintöä, mielenterveyttä tukevaa toimintaa ja vapaaehtoistyönä luotua kaupunkikulttuuria.\n\nTärkein tavoitteeni valtuustossa on vahvistaa keinoja kuulla helsinkiläisiä kaupungin päätöksenteossa. Tämä tarkoittaa lähidemokratian toteuttamista nykyistä huomattavasti kunniahimoisemmin. Sille on jo laissa ja kaupungin hallintosäännössä olemassa hyvät lähtökohdat. Nyt pitää saada nämä kaupunkilaisten kuulemisen työkalut laajempaan ja varsinkin painokkaampaan käyttöön! Helsingin tulee olla asukkaidensa näköinen kaupunki!\n\nMin viktigaste målsättning under kommande fullmäktigeperiod är att tydligare höra invånarnas röster  i beslutsfattandet. Verktygen för detta finns ren men de ska användas mångsidigare och framförallt väga betydligt tyngre då det är dags för beslut!",
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 43,
+      "background_info_id": 10,
+      "name_fi": "Vasemmalle",
+      "name_sv": "Till vänster",
+      "name_en": "On the left",
+      "name_ru": "Слева",
+      "name_sme": "Gurut guvlui",
+      "name_ara": "اليسار",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan arvioida kokonaisvaltaisesti päätösten vaikutuksia ihmisten, muiden eläinten ja muun luonnon hyvinvointiin. Mielen hyvinvointiin voidaan vaikuttaa, kun päätetään esimerkiksi lähiluonnosta, kaavoituksesta, työllisyyspalveluista ja liikkumisesta.",
+      "se": "Jag lovar att göra en helhetsbedömning av följderna på beslut beträffande välbefinnandet av människor, övriga djur och naturen. Man kan påverka mentalt välbefinnande t.ex. då man beslutar om grönområden, detaljplaner, arbetsrådgivning och mobilitet.",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1970,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "ranska",
+        "se": "franska",
+        "en": "French",
+        "ru": "французский",
+        "sme": "fránskkagiella",
+        "ara": "الفرنسية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Yhdenvertaisuus. Empatia. Ilo. Rehellisyys. Oikeudenmukaisuus.",
+      "se": "Jämlikhet. Empati. Glädje. Ärlighet. Rättvisa.",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lupaan perehtyä asioihin ja muodostaa mielipiteeni tutkitun ja kattavan tiedon perusteella. Päätöksiä ei saa tehdä oletusten ja mielikuvien perusteella.",
+      "se": "Jag lovar fördjupa mig i ärenden och bilda en åsikt på basen av täckande, faktabaserad information. Beslut får inte fattas utgående från antagande och förutfattade meningar.",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 23,
+      "background_info_id": 8,
+      "name_fi": "ruotsi",
+      "name_sv": "Svenska",
+      "name_en": "Swedish",
+      "name_ru": "шведский",
+      "name_sme": "ruoŧagiella",
+      "name_ara": "السويدية",
+      "target_value": null,
+      "name_ukr": "шведська",
+      "name_som": "af-Iswiidhish"
+    },
+    "homepage_url": "https://2025.slat.is",
+    "facebook_url": null,
+    "language_some_other": {
+      "fi": "hollanti, vietnam",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "municipality_fix": {
+      "fi": "* Keinoja kaupunkilaisten kuulemiselle ja osallistavalle päätöksenteolle pitää vahvistaa.\n\n* Helsingin identiteetti muodostuu pitkälti kaupungin kulttuuriperinnöstä. Helsingin pitää pystyä säilyttämään aineellinen ja aineeton kulttuuriperintö tuleville sukupolville.\n\n* Työllisyyspalveluihin pitää panostaa, jotta vaikeasti työllistyvät voivat päästä työelämään ja saada merkityksellisyyden, osallisuuden, onnistumisen ja yhteenkuuluvuuden kokemuksia. Samalla kaupunki hyötyy verotuloista ja pienemmistä työttömyysturvamenoista.\n\n* Rakentamisen tulee olla maltillista, jotta viheralueita säilyy jokaisessa kaupunginosassa. Kaupunkia ei tule kehittää tiiviisti lähiluonnon kustannuksella.\n\n* Kaupungin on kannettava vastuuta helsinkiläisten mielenterveyteen vaikuttavista tekijöistä kokonaisvaltaisesti. Mielenterveyttä voidaan tukea esimerkiksi kaupunkitilan suunnittelussa ja arkiliikkumisessa.",
+      "se": "* Metoderna för invånare att få sin röst hörd och kunna delta i beslutsfattandet måste stärkas.\n\n* Helsingfors identitet formas i mycket av stadens kulturarv. Helsingfors måste kunna bevara sitt materiella och immateriella kulturarv för kommande generationer.\n\n* Arbetsrådgivningen måste bli bättre så att de som har svårt att få jobb kan delta i arbetslivet och uppleva meningsfullhet, delaktighet, framgång och tillhörighet. Samtidigt får staden mer skatteintäkter och har mindre kostnader för arbetslöshetsersättning.\n\n* Byggandet ska vara måttligt så att grönområden bevaras i varje stadsdel. Staden ska inte utvecklas genom tätare stadsstruktur på bekostnad av närnaturen.\n\n* Staden måste ta ett helhetsansvar för faktorer som påverkar invånarnas mentala hälsa. Mental hälsa kan befrämjas t.ex. vid planering av stadsrummet och genom mobilitet i vardagen.",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Suomen Unesco-toimikunta (Opetus- ja kulttuuriministeriö), jäsen\nPro Lapinlahti mielenterveysseura ry, hallituksen jäsen\nPro Lapinlahden tuki Oy (yhteiskunnallinen yritys), hallituksen puheenjohtaja\nLapinlahti-säätiö sr, valtuuskunnan varajäsen\nToimittajat ilman rajoja – Suomi ry, varapuheenjohtaja\nAsOy Helsingin Alutar, hallituksen jäsen",
+      "se": "Finlands Unesco-kommission (Undervisnings- och kulturministeriet), medlem\nPro Lapinlahti rf, styrelsemedlem\nPro Lapinlahden tuki Oy (samhälleligt företag), styrelseordförande\nStiftelsen Lappviken sr, delegationens suppleant\nReportrar utan gränser – Finland rf, viceordförande\nBAb Helsingin Alutar, styrelsemedlem",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Lupaan tehdä työtä lähidemokratian vahvistamiseksi. Kuulemistyökalujen avulla saadut kaupunkilaisten näkemykset pitää ottaa nykyistä vahvemmin huomioon päätöksenteossa.",
+      "se": "Jag lovar att jobba för att stärka lokaldemokratin. Invånarnas synpunkter vid höranden ska tas noggrannare i beaktande i beslutsfattandet.",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Aktiivista vaikuttamistyötä kaupunkiympäristöön liittyen Helsingin Lapinlahdessa vuodesta 2018",
+      "se": "Aktivt påverkansarbete inom stadsmiljön beträffande Lappvikens område i Helsingfors sedan år 2018",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

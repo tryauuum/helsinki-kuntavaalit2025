@@ -1,0 +1,198 @@
+{
+  "id": 2278,
+  "first_name": "Marianne",
+  "last_name": "Taipale",
+  "election_number": 936,
+  "party_id": 4,
+  "image": "kuvat/akv2025/2278/5428dd3d-ac84-4ce8-a973-9b94d6adea53",
+  "constituency_id": 25,
+  "video": "1-73690448",
+  "video_aspect": "1:1",
+  "video_description_fi": "Ilmainen varhaiskasvatus kaikille helsinkiläisille! Puhdas sisäilma koulurakennuksiin! Edullista asumista Helsinkiin! Toimiva ja saavutettava joukkoliikenne! Rakennetaan kestävä, viihtyisä ja oikeudenmukainen Helsinki!",
+  "video_description_sv": "Avgiftsfri småbarnspedagogik för alla Helsingforsbor! Ren inomhusluft i skolbyggnader! \nFörmånligt  boende i Helsingfors! Fungerande och tillgänglig kollektivtrafik! \nLåt oss bygga ett hållbart, trivsamt och rättvist Helsingfors!",
+  "video_description_en": "Free early childhood education for all Helsinki residents! Clean indoor air in school buildings! \nAffordable housing in Helsinki! Efficient and accessible public transport! Let’s build a sustainable, cozy, and just Helsinki!",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 44,
+      "background_info_id": 10,
+      "name_fi": "Hieman vasemmalle",
+      "name_sv": "Lite till vänster",
+      "name_en": "Slightly to the left",
+      "name_ru": "Немного слева",
+      "name_sme": "Vehá gurut guvlui",
+      "name_ara": "أميل إلى اليسار",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Toimiva ja saavutettava joukkoliikenne!",
+      "se": "Fungerande och tillgänglig kollektivtrafik!",
+      "en": "Efficient and accessible public transport!",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1965,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Rehellisyys, oikeudenmukaisuus, vastuullisuus, kunnoitus ja  ystävällisyys ",
+      "se": " Ärlighet \nRättvisa\nAnsvarighet\nRespekt \nVänlighet",
+      "en": "Honesty,  Fairness, Responsibility,  Respect, Kindness",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Puhdas sisäilma koulurakennuksiin!",
+      "se": "Ren inomhusluft i skolbyggnader!",
+      "en": "Clean indoor air in school buildings!",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 23,
+      "background_info_id": 8,
+      "name_fi": "ruotsi",
+      "name_sv": "Svenska",
+      "name_en": "Swedish",
+      "name_ru": "шведский",
+      "name_sme": "ruoŧagiella",
+      "name_ara": "السويدية",
+      "target_value": null,
+      "name_ukr": "шведська",
+      "name_som": "af-Iswiidhish"
+    },
+    "homepage_url": "https://sites.google.com/view/mariannetaipale/",
+    "facebook_url": "https://www.facebook.com/marianne.taipale.2025",
+    "instagram_url": "https://www.instagram.com/ma.rianne1986/",
+    "X_url": null,
+    "tiktok_url": "https://www.tiktok.com/@marianne.tiktok",
+    "municipality_fix": {
+      "fi": "Ainakin:\n\nIlmainen varhaiskasvatus kaikille helsinkiläisille! \n\nPuhdas sisäilma koulurakennuksiin!\n\nEdullista asumista Helsinkiin!\n\nToimiva ja saavutettava joukkoliikenne!",
+      "se": "Åtminstone:\n\nAvgiftsfri småbarnspedagogik för alla Helsingforsbor!\n\nRen inomhusluft i skolbyggnader!\n\nFörmånligt  boende i Helsingfors!\n\nFungerande och tillgänglig kollektivtrafik!",
+      "en": "At least:\n\nFree early childhood education for all Helsinki residents!\n\nClean indoor air in school buildings!\n\nAffordable housing in Helsinki!\n\nEfficient and accessible public transport!\n",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Ei nyt mitään. Olen ollut Pohjan kunnassa (nyt Raasepori kunnanvaltuustossa ja eri luottamustoimissa). Olin varajäsen Helsingin kaupungin kasvatus- ja koulutuslautakunnan ruotsinkielisessä jaostossa",
+      "se": "Tidigare har jag fungerat som \n\nKommunfullmäktigeledamot och haft andra förtroendeuppdrag i Pojo kommun (nu Raseborg)\n\nJag har varit suppleant i Svenska sektionen vid nämnden för fostran och utbildning i Helsingfors stad.",
+      "en": "Previously\n\nI was a municipal councilor and held various positions of trust in the municipality of Pohja (now Raseborg)\n\nI have been deputy member of the Swedish-language division of the City of Helsinki’s Education and Training Committee.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Edullista asumista Helsinkiin!",
+      "se": "Förmånligt  boende i Helsingfors!",
+      "en": "Affordable housing in Helsinki!",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Aiemmin olen ollut kunnallisvaltuutettu ja muissa luottamustehtävissä Pohjan kunnassa (nyk. Raasepori),  Olin varajäsen Helsingin kaupungin kasvatus- ja koulutuslautakunnan ruotsinkielisessä jaostossa.",
+      "se": "Tidigare har jag fungerat som   Kommunfullmäktigeledamot och haft andra förtroendeuppdrag i Pojo kommun (nu Raseborg)  Jag har varit suppleant i Svenska sektionen vid nämnden för fostran och utbildning i Helsingfors stad.",
+      "en": "Previously  I was a municipal councilor and held various positions of trust in the municipality of Pohja (now Raseborg)  I have been deputy member of the Swedish-language division of the City of Helsinki’s Education and Training Committee.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

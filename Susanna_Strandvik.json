@@ -1,0 +1,265 @@
+{
+  "id": 14950,
+  "first_name": "Susanna",
+  "last_name": "Strandvik",
+  "election_number": 83,
+  "party_id": 15,
+  "image": "kuvat/akv2025/14950/5091190d-9ba6-4e9c-b6dc-1a938844fbf0",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 48,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti oikealle",
+      "name_sv": "Långt till höger",
+      "name_en": "Strongly to the right",
+      "name_ru": "С самого правого края",
+      "name_sme": "Nannosit olgeš guvlui",
+      "name_ara": "أقصى اليمين",
+      "target_value": 3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Sosiaali- ja terveyspalvelut – laadukasta ja saavutettavaa tukea\n\nHelsingin sosiaali- ja terveyspalvelut ovat monille asukkaille liian kankeita. Pitkät hoitojonot ja vaikea avun saanti luovat epävarmuutta ja kuormittavat paitsi yksilöitä myös yhteisöä. Kaupungin on varmistettava, että jokainen saa tarvitsemansa avun nopeasti ja laadukkaasti – erityisesti mielenterveyspalveluiden osalta, joissa tarve on valtava.  \n\nEnnaltaehkäisevät palvelut ja matalan kynnyksen tukimuodot ovat avainasemassa. Panostamalla ajoissa annettavaan tukeen Helsinki voi säästää resursseja ja samalla parantaa ihmisten elämänlaatua. Jokainen ansaitsee mahdollisuuden hyvään ja terveeseen elämään ilman ylimääräistä byrokratiaa tai taistelua.  ",
+      "se": "Social- och hälsovårdstjänster – tillgängligt stöd av hög kvalitet\n\nSocial- och hälsovården i Helsingfors är för många invånare för stel och otillgänglig. Långa vårdköer och svårigheter att få hjälp skapar osäkerhet och belastar både individer och samhället. Staden måste se till att alla får den hjälp de behöver snabbt och av god kvalitet – särskilt inom mentalvården, där behovet är enormt.  \n\nFörebyggande tjänster och lågtröskelstöd är avgörande. Genom att satsa på tidigt stöd kan Helsingfors spara resurser och samtidigt förbättra människornas livskvalitet. Alla förtjänar en chans till ett gott och hälsosamt liv utan onödig byråkrati eller kamp att få de tjänster som behövs.  ",
+      "en": "Social and Healthcare Services – Accessible, High-Quality Support\n\nHelsinki’s social and healthcare services are too rigid for many residents. Long waiting times and difficulty accessing help create uncertainty and strain both individuals and communities. The city must ensure that everyone receives the help they need quickly and with high quality – especially in mental health services, where the demand is immense.  \n\nPreventive services and low-threshold support are key. By investing in early intervention, Helsinki can save resources while improving people’s quality of life. Everyone deserves a chance for a good and healthy life without unnecessary bureaucracy or struggle.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1979,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      },
+      {
+        "fi": "venäjä",
+        "se": "ryska",
+        "en": "Russian",
+        "ru": "русский",
+        "sme": "ruoššagiella",
+        "ara": "الروسية"
+      },
+      {
+        "fi": "espanja",
+        "se": "spanska",
+        "en": "Spanish",
+        "ru": "испанский",
+        "sme": "spánskkagiella",
+        "ara": "الإسبانية"
+      },
+      {
+        "fi": "viro",
+        "se": "estniska",
+        "en": "Estonian",
+        "ru": "эстонский",
+        "sme": "esttegiella",
+        "ara": "الإستونية"
+      },
+      {
+        "fi": "viittomakieli",
+        "se": "teckenspråk",
+        "en": "Sign language",
+        "ru": "язык жестов",
+        "sme": "láhttagiella",
+        "ara": "لغة الإشارة"
+      },
+      {
+        "fi": "joku muu",
+        "se": "något annat",
+        "en": "Other",
+        "ru": "другой",
+        "sme": "muhtin eará",
+        "ara": "لغة أخرى"
+      }
+    ],
+    "education": {
+      "id": 49,
+      "background_info_id": 16,
+      "name_fi": "peruskoulu",
+      "name_sv": "grundskola",
+      "name_en": "Primary school",
+      "name_ru": "средняя школа",
+      "name_sme": "vuođđoskuvla",
+      "name_ara": "المستوى الابتدائي",
+      "target_value": 1,
+      "name_ukr": "середня школа",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": " Vapaus, perhe, isänmaallisuus, oikeudenmukaisuus ja yhteisöllisyys.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lasten ja nuorten hyvinvointi\n\nLastemme tulee saada kasvaa ja oppia ilman ideologista painostusta. Woke-sekoilun on loputtava, sillä sen vaikutukset sekoittavat lasten herkkiä kehitysvaiheita ja vievät koulutuksen fokuksen pois tärkeistä tiedoista ja taidoista. Koulujen on keskityttävä sivistykseen, kriittiseen ajatteluun ja elämän taitoihin – ei ideologisiin kokeiluihin, jotka eivät tue heidän tasapainoista kasvuaan. Woke-ilmiö on lisäksi muuttunut valtavaksi rahabisnekseksi, johon monet yritykset ovat lähteneet mukaan pelon tai hyödyn vuoksi. Meidän on palautettava järki ja vastuullisuus päätöksentekoon ja suojeltava lapsiamme tällaiselta sekamelskalta.",
+      "se": "Barns och ungas välmående\n\nVåra barn måste få växa upp och lära sig utan ideologisk påtryckning. Woke-galenskapen måste få ett slut, eftersom dess påverkan förvirrar barns känsliga utvecklingsstadier och för bort utbildningens fokus från viktiga kunskaper och färdigheter. Skolan måste koncentrera sig på bildning, kritiskt tänkande och livsfärdigheter – inte på ideologiska experiment som inte stödjer en balanserad utveckling. Woke-fenomenet har dessutom blivit en enorm affärsverksamhet, där många företag har gått med av rädsla eller för ekonomisk vinning. Vi måste återinföra förnuft och ansvar i beslutsfattandet och skydda våra barn från denna röra.",
+      "en": "Well-being of children and youth\n\nOur children must be allowed to grow and learn without ideological pressure. The woke madness must end, as its effects confuse children’s sensitive developmental stages and shift the focus of education away from essential knowledge and skills. Schools must focus on education, critical thinking, and life skills – not ideological experiments that do not support balanced development. Furthermore, the woke phenomenon has turned into a massive business, with many companies joining out of fear or for financial gain. We must restore reason and responsibility in decision-making and protect our children from this chaos.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 23,
+      "background_info_id": 8,
+      "name_fi": "ruotsi",
+      "name_sv": "Svenska",
+      "name_en": "Swedish",
+      "name_ru": "шведский",
+      "name_sme": "ruoŧagiella",
+      "name_ara": "السويدية",
+      "target_value": null,
+      "name_ukr": "шведська",
+      "name_som": "af-Iswiidhish"
+    },
+    "homepage_url": null,
+    "facebook_url": "https://www.facebook.com/susanna.strandvik ",
+    "X_url": "https://twitter.com/StrandvikS",
+    "tiktok_url": "https://www.tiktok.com/@susanna.strandvik",
+    "language_some_other": {
+      "fi": "Norja, tanska ja kreikka",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "municipality_fix": {
+      "fi": "   Asukaslähtöinen päätöksenteko. Terveydenhuolto, lähikoulut ja kohtuullinen asuminen.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Vapauden liiton puoluehallituksen jäsen sekä puolueen paikallisyhdistyksen jäsen. Olen myös hallituksen jäsen asuinalueeni seurassa joka edistää asukkaiden yhteistoimintaa ja toimii asukkaiden etujärjestönä.",
+      "se": "Ledamot i partistyrelsen för Frihetsalliansen och medlem i dess lokalföreningen. Jag är också styrelsemedlem i en föreningen, som främjar samarbete mellan invånarna i mitt bostadsområde och fungerar som en intresseorganisation för invånarna.",
+      "en": "Member of the party board of the Freedom Alliance and member of its local association. I am also a member of the board of an association that promotes cooperation between the residents of my residential area and acts as an interest organization for the residents.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 7,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti konservatiivi",
+      "name_sv": "Mycket konservativ",
+      "name_en": "Strongly conservative",
+      "name_ru": "В значительной степени консерватор",
+      "name_sme": "Nannosit konservatiiva",
+      "name_ara": "محافظ جدا",
+      "target_value": 3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": " ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": "Ikääntyvien ja erityisryhmien palvelut – arvokasta huolenpitoa kaikille\n\nHelsingissä on yhä enemmän ikääntyviä asukkaita, joille on turvattava arvokas vanhuus ja riittävät palvelut. Tämä tarkoittaa kattavaa kotihoitoa, laadukkaita asumispalveluita ja riittäviä hoitopaikkoja. Lisäksi omaishoitajia on tuettava paremmin, jotta he voivat tehdä arvokasta työtään ilman uupumista.  \n\nMyös erityisryhmien, kuten vammaisten ja pitkäaikaissairaiden, palveluiden saatavuutta ja tasavertaisuutta on parannettava. Jokaisen helsinkiläisen tulee voida elää täysipainoista elämää osana yhteisöä.",
+      "se": "Äldres och specialgruppers tjänster – värdig omsorg för alla\n\nAntalet äldre invånare i Helsingfors ökar, och de måste få en värdig ålderdom och tillräckliga tjänster. Detta innebär omfattande hemsjukvård, kvalitativa boendetjänster och tillräckligt med vårdplatser. Dessutom behöver anhörigvårdare bättre stöd för att kunna utföra sitt värdefulla arbete utan att gå under av bördan.  \n\nÄven specialgrupper, såsom personer med funktionsnedsättning och kroniska sjukdomar, behöver bättre tillgång till jämlika tjänster. Varje Helsingforsbo skall kunna leva ett fullvärdigt liv som en del av samhället.  ",
+      "en": "Services for Seniors and Special Groups – Dignified Care for All\n\nHelsinki’s growing elderly population needs a dignified old age and sufficient services. This includes comprehensive home care, high-quality housing services, and adequate care facilities. Caregivers must also receive better support to continue their invaluable work without burning out.  \n\nSpecial groups, such as people with disabilities and chronic illnesses, also require better access to equitable services. Every Helsinki resident should have the opportunity to live a full life as part of the community. ",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": " ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

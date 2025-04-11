@@ -1,0 +1,148 @@
+{
+  "id": 17771,
+  "first_name": "Dmitry",
+  "last_name": "Trubnikov",
+  "election_number": 77,
+  "party_id": 9,
+  "image": "kuvat/akv2025/17771/dd4b1275-79a2-4d70-ba8b-06b9ed6b9e09",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 45,
+      "background_info_id": 10,
+      "name_fi": "En vasemmalle enkä oikealle",
+      "name_sv": "Varken vänster eller höger",
+      "name_en": "Neither to the right or the left",
+      "name_ru": "Ни слева, ни справа",
+      "name_sme": "In gurut inge olgeš guvlui",
+      "name_ara": "لا إلى اليسار ولا إلى اليمين",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Mikäli yksityinen liikenne kielletään moottorikäyttöisiltä ajoneuvoilta meidän Helsingissä lisäämällä turhia liikennevaloja, vähentämällä kaistoja, sekä luomalla jatkuvia uusia kieltoja, tulisi korvauksena tästä vahingosta tarjota maksuton julkinen liikenne sillä ihmisille ei jää muuta vaihtoehtoa!",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 2004,
+    "education": {
+      "id": 51,
+      "background_info_id": 16,
+      "name_fi": "ylioppilas",
+      "name_sv": "student",
+      "name_en": "High school graduate",
+      "name_ru": "выпускник лицея",
+      "name_sme": "studeanta",
+      "name_ara": "شهادة البكالوريا",
+      "target_value": 3,
+      "name_ukr": "випускник ліцею",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "- Aitous\n- Rehellisyys\n- Muiden auttaminen\n- Avoimuus ja puheliaisuus\n- Toisiaan täydentävät elämän rutiinit\n- Eläminen hetkessä",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Tulen pyrkimään estämään laittoman liikehdinnän meidän pääkaupunkiin, mikäli sellaista tapahtuu. Tulisi pyrkiä välttämään kotouttamasta ketään humanitaarisin perustein meidän kaupungissa, voidakseen taata käytettävissä olevat varat, sekä resurssit täällä jo oleville henkilöille.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "tiktok_url": "https://www.tiktok.com/@dmitry_adept",
+    "municipality_fix": {
+      "fi": "Autokaistojen määrä ja liikenteen sujuvuus. Tarvitaan tunneli, mikäli he eivät kykene saamaan mitään aikaan maan päällä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 6,
+      "background_info_id": 2,
+      "name_fi": "Konservatiivi",
+      "name_sv": "Konservativ",
+      "name_en": "Conservative",
+      "name_ru": "Консерватор",
+      "name_sme": "Konservatiiva",
+      "name_ara": "محافظ",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Tulemme pyrkimään tuplaamaan käytettävissä olevien kaistojen määrää, sekä rakentamaan tunnelin keskustassa yksityiselle moottoriajoneuvoliikenteelle.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

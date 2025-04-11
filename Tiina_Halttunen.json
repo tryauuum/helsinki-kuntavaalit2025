@@ -1,0 +1,204 @@
+{
+  "id": 11229,
+  "first_name": "Tiina",
+  "last_name": "Halttunen",
+  "election_number": 480,
+  "party_id": 5,
+  "image": "kuvat/akv2025/11229/ef41679e-9fbb-4074-be9e-2cc0466faa34",
+  "constituency_id": 25,
+  "video": "1-73820860",
+  "video_aspect": "1:1",
+  "video_description_fi": "Hei, olen Tiina Halttunen Lauttasaaresta. Lähdin ehdokkaaksi, sillä mielestäni opettajien ääni on tärkeää saada kuuluviin kouluja koskevassa päätöksenteossa. Olen toiminut opettajana  36 vuoden ajan. Suomen PISA-huippuvuosi 2006 osuu juuri urani puoliväliin. PISA - menestystä seurasi, Valtioneuvoson päätöksellä,  suomalaisen kouluopetuksen tuotteistaminen ja myyminen maailmalle. Seuraukset koulutyölle Suomessa olivat osin haitalliset. Tuli yltiöpäistä digitalisaatiota, epäergonomisia kalusteita, oppimisen kannalta jopa haitallisia pedagogisia kokeiluja ja avokonttorikouluja,joiden rakentamisesta Helsingissä on nyt onneksi luovuttu. Mielestäni koulua tulee kehittää  harkitusti, tutkimustietoon perustuen, oppilaiden ja oppimisen etu edellä ja opettajien näkemyksiä kuunnellen. Aivan liikaa yhteistä rahaa on käytetty aivan turhiin hankkeisiin. Koulut on saatava nyt kuntoon.",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 45,
+      "background_info_id": 10,
+      "name_fi": "En vasemmalle enkä oikealle",
+      "name_sv": "Varken vänster eller höger",
+      "name_en": "Neither to the right or the left",
+      "name_ru": "Ни слева, ни справа",
+      "name_sme": "In gurut inge olgeš guvlui",
+      "name_ara": "لا إلى اليسار ولا إلى اليمين",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan työskennellä Helsingin lähipalvelujen puolesta. Rikkaalla Helsingillä täytyy olla varaa siihen, että palvelut ovat jokaiselle kaupunkilaiselle helposti saatavilla. Suurin osa julkisista palveluista on siirretty verkkoon, mistä johtuen valtakunnan tasolla yli miljoona suomalaista on vaarassa syrjäytyä digitaalisten taitojen ja välineiden puutteesta johtuen. Digisyrjäytyneistä helsinkiläisistä täytyy pitää huolta. Keskeiset peruspalveluiden ei-digitaalista saavutettavuutta täytyy parantaa.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1961,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Rakkaus, usko, toivo, yhteisöllisyys ja vastuullisuus",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lupaan työskennellä luonnonläheisen Helsingin puolesta. Harkitsemattomalla rakentamisella ei saa tuhota ainutkertaisen hienoa helsinkiläistä lähiluontoa. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": null,
+    "facebook_url": "https://www.facebook.com/profile.php?",
+    "instagram_url": "https://www.instagram.com/tiina_halttunen/",
+    "municipality_fix": {
+      "fi": "Opettajana olen sitä mieltä, että jättikoulujen ja - päiväkotien rakentaminen tulee lopettaa. Yhdenkään lapsen en pitäisi joutua opiskelemaan ja viettämään päiviään liian suurissa ja levottomissa lapsiryhmissä. Ala-asteen oppilailla tulee olla oma luokka ja oma pulpetti. Rakentaminen täytyy toteuttaa lähiluontoa kunnioittaen. Kaupungin viihtyisyyteen ja turvallisuuteen tulee panostaa, jotta Helsingin keskustan elinvoima palautuu. Sähköpotkulaudat aiheuttavat jatkuvasti liikenneturvallisuusongelmia ja niitä lojuu siellä täällä - asialle täytyy tehdä jotain jo ennen kesää 2025. Maahanmuuttajien kotoutumiseen, kielen oppimiseen ja työelämään pääsyyn on tärkeää panostaa, jotta muuttoliike tukee kaupungin elinvoimaa, eikä johda rinnakkaisyhteiskuntien syntymiseen. Kaupunginosien yhteisöllisyyttä tulee tukea. Helsinki, joka koostuu omaleimaisista, kotoisan yhteisöllisistä asuinalueista \"kylistä keskellä kaupunkia\" olisi ihanteellinen kaupunkirakenne.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Ympäristökasvatusjärjestö FEE Suomi ry:n hallituksen varapuheenjohtaja ja Vihreä lippu - toimikunnan puheenjohtaja.\n\nKeskustan Helsingin piirin varapuheenjohtaja\n\nLauttasaaren Keskustaseuran hallituksen jäsen\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 4,
+      "background_info_id": 2,
+      "name_fi": "En liberaali enkä konservatiivi",
+      "name_sv": "Varken liberal eller konservativ",
+      "name_en": "Neither liberal or conservative",
+      "name_ru": "Ни либерал, ни консерватор",
+      "name_sme": "In liberála inge konservatiiva",
+      "name_ara": "لا ليبرالي ولا متحفظ",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Lupaan tuoda rohkeasti opettajien äänen Helsingin kouluja koskevaan päätöksentekoon. Koulua tulee kehittää harkitusti, tutkimustietoon perustuen ja oppilaiden sekä oppimisen etu edellä. Turhista, opettajia ja koko koulutyötä kuormittavista hankkeista täytyy luopua. Opettajien autonomia - Suomen taannoisen PISA-menestyksen yksi kivijaloista - tulee palauttaa aikaisempaan asemaansa. Jättikoulujen ja - päiväkotien rakentaminen täytyy lopettaa. Kouluihin täytyy palauttaa työskentelyrauha. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Olin vuonna 2000 Lahdessa Kristillisdemokraattien kunnallisvaaliehdokkaana ja toimin Lahden ympäristölautakunnassa v. 2000-2001. Vuonna 2001 muutin Espooseen. Olin vuonna 2012 Espoossa Keskustan kunnallisvaaliehdokkaana ja toimin kaupunkisuunnittelulautakunnan varajäsenenä vuosina 2012 - 2014  ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

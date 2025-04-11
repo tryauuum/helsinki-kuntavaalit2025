@@ -1,0 +1,158 @@
+{
+  "id": 10497,
+  "first_name": "Isabella",
+  "last_name": "Lindberg",
+  "election_number": 141,
+  "party_id": 7,
+  "image": "kuvat/akv2025/10497/f2baa064-fece-4c34-adb3-f13556036c82",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 42,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti vasemmalle",
+      "name_sv": "Långt till vänster",
+      "name_en": "Strongly on the left",
+      "name_ru": "С самого левого края",
+      "name_sme": "Nannosit gurut guvlui",
+      "name_ara": "أقصى اليسار",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Yhdenvertainen mahdollisuus koulutukseen ja alanvaihtoon. Koulutukseen tulee jokaisella olla mahdollisuus hakea ja päästä yhdenvertaisesti. Myös alanvaihdon tulee olla mahdollista, vaikka tutkinto olisi jo suoritettu. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1992,
+    "education": {
+      "id": 50,
+      "background_info_id": 16,
+      "name_fi": "ammattitutkinto",
+      "name_sv": "yrkesexamen",
+      "name_en": "Vocational degree",
+      "name_ru": "профессиональное училище",
+      "name_sme": "ámmátdutkkus",
+      "name_ara": "دبلوم مهني",
+      "target_value": 2,
+      "name_ukr": "професійне училище",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Yhdenvertaisuus, tasa-arvo, ihmisarvo, toisista välittäminen, yhdenmukainen mahdollisuus hyvään elämään jokaiselle.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Kohtuuhintainen asuminen turvattava erityisesti pienituloisille. Asumisesta ei saa muodostua vain korkeampien tuloluokkien oikeus. Jokaisella tulee olla mahdollisuus asua ja elää kodissa ja alueella, joka on mieleinen. Asumiskustannusten ei tule viedä valtaosaa henkilön tuloista, vaan ne tulee kohtuullistaa siten, että jokaisella on mahdollisuus ihmisarvoiseen asumiseen ja elämään.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "instagram_url": null,
+    "municipality_fix": {
+      "fi": "Terveydenhuollon hoitoonpääsy nopeammaksi. Yhteydenottoon tulee vastata saman viikon aikana. Myös erikoissairaanhoidon resurssien tulee vastata kysyntää ja hoitoon tulee päästä tarpeen syntyessä mahdollisimman pian. Kontaktin tulee syntyä mahdollisimman pian.\n\nAsumisen kustannuksia tulee saada alaspäin, erityisesti Hekan ja Hason hintatason tulee olla kohtuullisella tasolla, sekä asunnon kunnon tulee vastata asumiskustannuksia, erityisesti vanhempien ja huonokuntoisempien kohteiden kohdalla.\n\nKoulutuksen ja koulutukseen pääsyn mahdollisuudet tulee olla kaikille yhdenvertaiset. Koulutukseen tulee olla jokaisella mahdollisuus hakea normaalin yhteishakujärjestelmän kautta ja selviytyä pääsykokeista alakohtaisella osaamisella.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Olen Helsingin Vasemmiston piirihallituksen varajäsen ja Kantakaupungin Vasemmiston hallituksen jäsen.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 3,
+      "background_info_id": 2,
+      "name_fi": "Hieman liberaali",
+      "name_sv": "Ganska liberal",
+      "name_en": "Slightly liberal",
+      "name_ru": "Слегка либерал",
+      "name_sme": "Vehá liberála",
+      "name_ara": "أميل إلى الليبرالية",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Terveydenhuollon kontakti saatava 7 päivän sisällä yhteydenotosta. Hoitoon pääsy ei saa venyä tarpeettoman pitkäksi. Sillä ennaltaehkäistään terveydentilan pahentumista ja laajempaa hoidon tarvetta.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

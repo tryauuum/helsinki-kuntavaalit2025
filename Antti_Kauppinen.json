@@ -1,0 +1,202 @@
+{
+  "id": 17116,
+  "first_name": "Antti",
+  "last_name": "Kauppinen",
+  "election_number": 122,
+  "party_id": 7,
+  "image": "kuvat/akv2025/17116/4763ea48-27ad-46e0-b5e8-394842c5f7f9",
+  "constituency_id": 25,
+  "video": "1-73904465",
+  "video_aspect": "1:1",
+  "video_description_fi": "Hei, olen Antti Kauppinen paljasjalkainen helsinkiläinen, matalalapalkkamaisteri, olen töissä taidemuseossa ja toimin työpaikallani pääluottamusmiehenä. Seuraavalla valtuustokaudella haluan työskennellä kulttuurille ja ympäristölle turvallisemman Helsingin puolesta. Kulttuurinen moninaisuus ja ihmisten erilaisuuden yksilöllinen kohtaaminen ovat minulle tärkeitä arvoja. Tämän tulee toteutua varsinkin hyvinä lähipalveluina. Pystymme rakentamaan maailman toimivimman kaupungin ympäristöarvoja tallomatta.",
+  "video_description_sv": "Hej, jag heter Antti Kauppinen, barfota Helsingfors, jag arbetar på ett konstmuseum. I nästa fullmäktigeperiod vill jag verka för ett Helsingfors som är tryggare för kultur och miljö. Kulturell mångfald och det individuella mötet med människors olikheter är viktiga värden för mig. Detta måste förverkligas särskilt i form av god lokal service. Vi kan bygga världens mest funktionella stad utan att trampa på miljövärden.",
+  "video_description_en": "Hi, I'm Antti Kauppinen, a barefoot Helsinki resident, I work in an art museum. In the next council term, I want to work for a Helsinki that is safer for culture and the environment. Cultural diversity and the individual encounter of people's differences are important values to me. This must be realized especially in the form of good local services. We can build the world's most functional city without trampling on environmental values.",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 42,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti vasemmalle",
+      "name_sv": "Långt till vänster",
+      "name_en": "Strongly on the left",
+      "name_ru": "С самого левого края",
+      "name_sme": "Nannosit gurut guvlui",
+      "name_ara": "أقصى اليسار",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lähipalvelujen Helsinki",
+      "se": "Stadstjänster nära dig i Helsingfors",
+      "en": "City services near you in Helsinki",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1977,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "venäjä",
+        "se": "ryska",
+        "en": "Russian",
+        "ru": "русский",
+        "sme": "ruoššagiella",
+        "ara": "الروسية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Turvallisempi tila, monikulttuurisuus, ympäristöradikalismi, queer, hauskuus",
+      "se": "Tryggare utrymme, mångkultur, miljöradikalism, queer, glädje",
+      "en": "Safer space, multiculturalism, environmental radicalism, queer, fun",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Ympäristölle hyvä Helsinki",
+      "se": "Miljövänligt Helsingfors",
+      "en": "Environmentally friendly Helsinki",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "instagram_url": "https://instagram.com/kauppinen.antti",
+    "municipality_fix": {
+      "fi": "Helsinki tarvitsee voimakkaasti vasemmistolaisempaa kunnallista päätöksentekoa. Ympäristön ja kulttuurin kannalta kestävät arvot on nostettava kaiken päätöksenteon keskiöön. Erilaiset ihmiset tulee kohdata kunnan palveluissa heidän tarvitsemallaan yksilöllisellä tavalla. Helsingin pitää olla kansainvälinen esimerkinnäyttäjä vihreässä siirtymässä ja ympäristöystävällisyydessä.",
+      "se": "Helsingfors behöver en mer vänsterorienterad kommunal politik. Miljömässigt och kulturellt hållbara värden måste stå i centrum för allt beslutsfattande. Olika människor ska mötas i kommunal service på det individuella sätt de behöver. Helsingfors ska vara en internationell förebild inom grön omställning och miljövänlighet.",
+      "en": "Helsinki needs a more left-wing municipal policies. Environmentally and culturally sustainable values ​​must be placed at the center of all decision-making. Different people must be met in municipal services in the individual way they need. Helsinki must be an international role model in green transition and environmental friendliness.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Helsingin taidemuseon pääluottamusmies",
+      "se": "Förtroendeman i Helsingfors konstmuseum",
+      "en": "Head union representative in Helsinki Art Museum",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Kulttuurista moninainen Helsinki",
+      "se": "Mångkulturellt Helsingfors",
+      "en": "Multicultural Helsinki\n",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Helsingin vasemmistoliiton puheenjohtaja 2020-2022",
+      "se": "Ordförande för Vänsterförbundet Helsingfors 2020-2022",
+      "en": "Chairman of the Helsinki Left Alliance 2020-2022",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

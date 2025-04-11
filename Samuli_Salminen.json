@@ -1,0 +1,149 @@
+{
+  "id": 13125,
+  "first_name": "Samuli",
+  "last_name": "Salminen",
+  "election_number": 442,
+  "party_id": 3,
+  "image": "kuvat/akv2025/13125/e3e298f5-145d-48bd-b1ac-01d081026c02",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 46,
+      "background_info_id": 10,
+      "name_fi": "Hieman oikealle",
+      "name_sv": "Lite till Till högerhöger",
+      "name_en": "SlightTo the rightly to the right",
+      "name_ru": "Немного справа",
+      "name_sme": "Vehá olgeš guvlui",
+      "name_ara": "أميل إلى اليمين",
+      "target_value": 1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Järjettömien ehdotusten ja hankkeiden vastustaminen.\n\n\nYksi esimerkki järjettömästä ehdotuksesta on vihreiden ehdotus kieltää polttomoottoriajoneuvoilla ajo Helsingin keskustassa. Ehdotus on järjetön jo ihan sen vuoksi, että keskustassa asuvat (erityisesti lapsiperheet, iäkkäämmät henkilöt) tarvitsevat omaa autoa jokapäiväisten asioiden hoidossa -- kuten sukulaisten luona vierailuun, isojen ruokaostosten, harrastusten yms. vuoksi.\n\nMyös keskustan yritysten kannalta tämä olisi varsinainen kuolemansuudelma (ainakin kuljetukset, yritysten saavutettavuus).\n\nHelsingin olisi tällaisten älyttömien rajoitusten sijaan parannettava liikenteen sujuvuutta.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1983,
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Vapaus, pelottomuus, luovuus, kunniallisuus ja tahdikkuus.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Koulurauha on palautettava kaikille. Keskitytään lukemisen ja laskemisen oppimiseen.\n\n\nOpettajien auktoriteetti on palautettava kouluihin. Koulurauha turvataan esimerkiksi \"inkluusiosta\" luopumalla. Kännykät pidetään pois kouluista, ja \"digin\" osuutta vähennetään. Opetus keskittyy erityisesti lukemisen ja laskemisen oppimiseen kirjoista.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.suomenperusta.fi/teema/muuttoliike/",
+    "X_url": "https://x.com/Samuli_Salminen",
+    "municipality_fix": {
+      "fi": "Houkutella suomalaisia lapsiperheitä ja hyviä veronmaksajia jäämään Helsinkiin, vähemmän heikosti pärjääviä maahanmuuttajia. \nEnemmän järkeviä päätöksiä, vähemmän järjettömiä päätöksiä ja hankkeita.\nKoulurauhan palautus sekä lukemisen ja laskemisen oppiminen kuntoon.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 5,
+      "background_info_id": 2,
+      "name_fi": "Hieman konservatiivi",
+      "name_sv": "Ganska konservativ",
+      "name_en": "Slightly conservative",
+      "name_ru": "Слегка консерватор",
+      "name_sme": "Vehá konservatiiva",
+      "name_ara": "أميل إلى المحافظة",
+      "target_value": 1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Enemmän suomalaisia lapsiperheitä ja korkeakoulutettuja Helsinkiin. Vähemmän keskimäärin heikosti pärjääviä maahanmuuttajia.\n\n\nHelsinki on viime vuosina menettänyt maan sisäisessä muuttoliikkeessä suomalaisia lapsiperheitä ja korkeakoulutettuja. Kaupungin pitäisi houkutella heitä jäämään Helsinkiin. Erityisesti olisi huolehdittava, että Helsingissä olisi saatavilla turvallisia, miellyttäviä ja rauhallisia kouluja ja asuinalueita.\n\nToisaalta Helsinkiin on muuttanut paljon keskimäärin heikosti pärjääviä maahanmuuttajia. Heidän muuttoaan Helsinkiin tulisi ehkäistä erityisesti kaavoitusratkaisuilla (ei halpoja kaupungin vuokra-asuntoja), viestimällä valtion suuntaan, että maahanmuuttopolitiikkaa on järkevöitettävä paljon valikoivammaksi sekä karsittava kaikki kaupungin kustantamat maahanmuuttajien erityispalvelut kuten oman kielen opetus.\nLisäksi ei anneta kuntapaikkoja Euroopan ulkopuolelta kotoisin oleville kiintiöpakolaisille tai turvapaikan saaneille (tosin tätä nykyä nämä henkilöt muuttavat muista kunnista erityisesti PK-seudulle muutaman vuoden sisällä muutenkin).",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "id": 14146,
+  "first_name": "Frans",
+  "last_name": "Frangén",
+  "election_number": 720,
+  "party_id": 6,
+  "image": "kuvat/akv2025/14146/3989b908-90b9-422f-ba79-2451ddb67b25",
+  "constituency_id": 25,
+  "video": "1-73822758",
+  "video_aspect": "1:1",
+  "video_description_fi": "Minun tärkein tavoitteeni ensi valtuustokaudella on tehdä Helsingistä kestävämpi, yhdenvertaisempi ja hauskempi. Se tarkoittaa, että aion turvata luontoarvon ja luonnon monimuotoisuuden ylläpitämisen kaikissa tilanteissa. Konkretiaa: Suojellaan Stansvik! \nSe tarkoittaa, että aion kehittää joukkoliikennettä kaikille saavutettavaksi ja toimivaksi. Konkretiaa: Lippujen hinnat alas!\nSe tarkoittaa, että aion tuoda meidän sukupuoli- ja seksuaalivähemmistöjen oikeudet esiin kaikessa päätöksenteossa. Konkretiaa: Lisää sukupuolineutraaleja tiloja kaupunkiin.",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 42,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti vasemmalle",
+      "name_sv": "Långt till vänster",
+      "name_en": "Strongly on the left",
+      "name_ru": "С самого левого края",
+      "name_sme": "Nannosit gurut guvlui",
+      "name_ara": "أقصى اليسار",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Queer-oikeudet. Aion varmistaa, että meitä sukupuoli- ja seksuaalivähemmistöihin kuuluvia ihmisiä kuunellaan kaikessa päätöksenteossa. Aion varmistaa, että joka ikiseen uuteen kaupungin tilaan tulee sukupuolineutraaleja tiloja, kuten pukuhuoneita ja vessoja. Aion myös etsiä ratkaisuja, miten nykyisiin kaupungin tiloihin saadaan lisättyä sukupuolineutraaleja tiloja.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 2006,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 49,
+      "background_info_id": 16,
+      "name_fi": "peruskoulu",
+      "name_sv": "grundskola",
+      "name_en": "Primary school",
+      "name_ru": "средняя школа",
+      "name_sme": "vuođđoskuvla",
+      "name_ara": "المستوى الابتدائي",
+      "target_value": 1,
+      "name_ukr": "середня школа",
+      "name_som": null
+    },
+    "gender": {
+      "id": 20,
+      "background_info_id": 6,
+      "name_fi": "muu",
+      "name_sv": "annat alternativ",
+      "name_en": "other",
+      "name_ru": "Другой",
+      "name_sme": "eará",
+      "name_ara": "آخر",
+      "target_value": null,
+      "name_ukr": "Інша",
+      "name_som": "wax kale"
+    },
+    "lifevalues": {
+      "fi": "Luonto, tasa-arvo, empatia, nauru ja rauha",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Helsinkiin maailman paras joukkoliikenne. Helsinkiin tulee saada kaikille saavutettava joukkoliikenne. Tämä tarkoittaa lippujen hintojen laskemista, alennusryhmien (kuten nuorisolippu alle 25-vuotiaille) lisäämistä sekä linjojen lisäämistä niin, että koko Helsingin alueella on aina kätevää matkustaa julkisilla.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.fransfrangen.fi/",
+    "facebook_url": "https://www.facebook.com/profile.php?id=61570591070399",
+    "instagram_url": "https://www.instagram.com/minihessu/",
+    "X_url": null,
+    "tiktok_url": "https://tiktok.com/@minihessu",
+    "language_some_other": {
+      "fi": "Olen opiskellut pitkään ranskaa ja ruotsia. Ne eivät ole kuitenkaan erityisen vahvoja, mutta pystyn jonkin verran keskustelemaan niillä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "municipality_fix": {
+      "fi": "Joukkoliikenne. Erityisesti sen hinnoittelu.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Olen 19-vuotias lukiolainen, joten varsinaisia luottamustehtäviä ei ole ehtinyt kertyä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Luontovarmuus. Aion turvata ja ylläpitää luontoarvon ja luonnon monimuotoisuuden säilymistä Helsingissä. Tämä tarkoittaa viheralueiden lisäämistä kaupunkiin sekä uusien luonnonsuojelualueiden perustamista. Erityisesti Stansvikin metsään tehdyn kevyen liikenteen mahdollistavan kaavan poistaminen ja alueen suojeleminen.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Laaja kokemus aktivismista erityisesti Elokapinassa. Olen ollut myös jo pitkään Vihreissä ja ollut esimerkiksi  Vihreiden ympäristöpoliittisen työryhmän jäsen.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

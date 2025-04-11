@@ -1,0 +1,189 @@
+{
+  "id": 2572,
+  "first_name": "Julia",
+  "last_name": "Liljegren",
+  "election_number": 756,
+  "party_id": 6,
+  "image": "kuvat/akv2025/2572/97cd4a1b-4214-4c60-9345-8d767fc84347",
+  "constituency_id": 25,
+  "video": "1-73699141",
+  "video_aspect": "1:1",
+  "video_description_fi": "Tärkeintä tulevalla valtuustokaudella on edistää vetovoimaista, feminististä ja kestävää Helsinkiä. Näiden arvojen tulisi näkyä kaikilla päätöksenteon tasoilla, jotta me pystymme kilpailemaan osaajista ja tulevaisuuden investoinneista muiden Euroopan suurten kaupunkien kesken. Mutta ennen kuin me pääsemme hyötymään kestävän kasvun hedelmistä, meidän tulee jo nyt pitää huolta meidän lapsista ja nuorista, jotta meillä on tulevaisuus, jonka päälle rakentaa. Meidän pitää laittaa mielenterveyspalvelut kuntoon, tarjota laaja maksuton ehkäisy kaikille alle 30-vuotiaille ja tehdä konkreettisia toimia nuorten huumekuolemien ehkäisemiseksi. ",
+  "video_description_sv": "Det viktigaste under den kommande fullmäktigeperioden är att främja ett attraktivt, feministiskt och hållbart Helsingfors. Dessa värderingar bör synas på alla beslutsnivåer så att vi kan konkurrera om kompetens och framtida investeringar med andra stora europeiska städer. Men innan vi kan dra nytta av den hållbara tillväxtens fördelar måste vi redan nu ta hand om våra barn och unga, så att vi har en framtid att bygga på. Vi måste stärka mentalvårdstjänsterna, erbjuda omfattande gratis preventivmedel till alla under 30 år och vidta konkreta åtgärder för att förebygga narkotikarelaterade dödsfall bland unga.",
+  "video_description_en": "The most important goal for the upcoming council term is to promote an attractive, feminist, and sustainable Helsinki. These values should be reflected at all levels of decision-making so that we can compete for talent and future investments alongside other major European cities. However, before we can reap the benefits of sustainable growth, we must already take care of our children and young people to ensure we have a future to build upon. We need to improve mental health services, provide comprehensive free contraception for everyone under 30, and take concrete action to prevent drug-related deaths among young people.",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 46,
+      "background_info_id": 10,
+      "name_fi": "Hieman oikealle",
+      "name_sv": "Lite till Till högerhöger",
+      "name_en": "SlightTo the rightly to the right",
+      "name_ru": "Немного справа",
+      "name_sme": "Vehá olgeš guvlui",
+      "name_ara": "أميل إلى اليمين",
+      "target_value": 1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan tehdä parhaani. Tutustun huolellisesti esityslistoihin, otan asioista selvää ja käyn vuoropuhelua sidosryhmien kanssa.",
+      "se": "Jag lovar att göra mitt bästa. Jag kommer att noggrant granska dagordningar, skaffa information och föra en dialog med intressenter.",
+      "en": "I promise to do my best. I will carefully review agendas, gather information, and engage in dialogue with stakeholders.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 2003,
+    "language_skills": [
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 51,
+      "background_info_id": 16,
+      "name_fi": "ylioppilas",
+      "name_sv": "student",
+      "name_en": "High school graduate",
+      "name_ru": "выпускник лицея",
+      "name_sme": "studeanta",
+      "name_ara": "شهادة البكالوريا",
+      "target_value": 3,
+      "name_ukr": "випускник ліцею",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Yhdenvertaisuus, rauha, empatia, ekologisuus ja demokratia",
+      "se": "Jämlikhet, fred, empati, ekologisk hållbarhet och demokrati.",
+      "en": "Equality, peace, empathy, sustainability, and democracy.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lupaan tehdä avointa politiikkaa ja olla yhteydessä äänestäjiin koko valtuustokauden ajan. ",
+      "se": "Jag lovar att föra en öppen politik och hålla kontakt med väljarna under hela mandatperioden.",
+      "en": "I promise to practice transparent politics and maintain close communication with voters throughout the entire council term.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://julialiljegren.fi",
+    "facebook_url": "https://www.facebook.com/julialiljegren.vihreat",
+    "instagram_url": "https://www.instagram.com/julialiljegreen/",
+    "tiktok_url": "https://www.tiktok.com/@julialiljegreen",
+    "municipality_fix": {
+      "fi": "Helsingin tulee laittaa mielenterveyspalvelut kuntoon, tarjota laaja maksuton ehkäisy kaikille alle 30-vuotiaille ja tehdä konkreettisia tekoja nuorten huumekuolemien ehkäisemiseksi.",
+      "se": "Helsingfors måste förbättra mentalvårdstjänsterna, erbjuda omfattande gratis preventivmedel för alla under 30 år och genomföra konkreta åtgärder för att motverka narkotika dödsfall bland unga.",
+      "en": "Helsinki must improve mental health services, provide comprehensive free contraception for everyone under 30, and take concrete actions to prevent drug-related deaths among young people.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Porissa/Satakunnassa alue- ja kaupunginvaltuutettu, sivistyslautakunnan jäsen.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Lupaan edistää ekologisesti, taloudellisesti ja sosiaalisesti kestävää politiikkaa.",
+      "se": "Jag lovar att främja en ekologiskt, ekonomiskt och socialt hållbar politik.",
+      "en": "I promise to implement environmentally, economically, and socially sustainable policies.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Vihreiden nuorten liittohallituksen talouspoliittinen vastaava, Vihreiden puoluevaltuuston varajäsen",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

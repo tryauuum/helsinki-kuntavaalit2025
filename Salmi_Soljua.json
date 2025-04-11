@@ -1,0 +1,193 @@
+{
+  "id": 9978,
+  "first_name": "Salmi",
+  "last_name": "Soljua",
+  "election_number": 804,
+  "party_id": 6,
+  "image": "kuvat/akv2025/9978/58df197b-ad1f-4f05-8efb-aac27f1cd49a",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 42,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti vasemmalle",
+      "name_sv": "Långt till vänster",
+      "name_en": "Strongly on the left",
+      "name_ru": "С самого левого края",
+      "name_sme": "Nannosit gurut guvlui",
+      "name_ara": "أقصى اليسار",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan edistää Helsingin hankintojen ja yritystoiminnan vastuullisuutta myös globaalisti. Helsingin tulee esimerkiksi lopettaa israelilaisten yritysten tuotteiden hankkiminen niin kauan kuin Israelin valtio toteuttaa apartheidia.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1994,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "espanja",
+        "se": "spanska",
+        "en": "Spanish",
+        "ru": "испанский",
+        "sme": "spánskkagiella",
+        "ara": "الإسبانية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 20,
+      "background_info_id": 6,
+      "name_fi": "muu",
+      "name_sv": "annat alternativ",
+      "name_en": "other",
+      "name_ru": "Другой",
+      "name_sme": "eará",
+      "name_ara": "آخر",
+      "target_value": null,
+      "name_ukr": "Інша",
+      "name_som": "wax kale"
+    },
+    "lifevalues": {
+      "fi": "Solidaarisuus, uteliaisuus ja tiedonjano, sosiaalinen vastuunkanto, ekologisuus ja lempeys.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lupaan puolustaa lähiluontoa ja Helsingin arvokkaita luontoalueita. Stansvik ja Kumpulanmäen vaahterametsä tulee suojella.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "http://salmisoljua.fi",
+    "instagram_url": "https://www.instagram.com/salmisoljuaaa/",
+    "municipality_fix": {
+      "fi": "Asunnottomuus täytyy poistaa ja kaikkien Helsingin asukkaiden osallisuus turvata ja erityisesti marginaaliin jäävien ryhmien (pienituloiset, asunnottomat, päihdeongelmaiset, vähemmistöt) ääni nostaa paremmin kuuluviin myös kaupungin päätöksenteossa. Joukkoliikenteen hintoja tulee madaltaa (tai tehdä siitä ilmaista), edullisten asuntojen rakentamista lisätä ja epäkaupallisia, kaikille avoimia kaupunkitiloja tarjota enemmän. HUSin asiakasmaksujen taso on nykyään kestämätön ja sitä on alennettava.\n\nLisäksi kaupungin ilmastotavoitteita täytyy edistää ja lähiluonnon suojelu nostaa prioriteeteissa korkeammalle - suojellaan Stansvik ja Kumpulanmäen vaahterametsä! Kaupungin ilmastotavoitteiden edistämisessä näppärä keino olisi esimerkiksi eläintuotteiden käytön puolittaminen kaupungin joukkoruokailuissa.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Helsingin Vihreät naiset ry:n hallituksen jäsen ja taloudenhoitaja.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Lupaan nostaa marginalisoitujen ihmisryhmien ja yhteisöjen ääniä Helsingin päätöksentekoon. Valtuustossa ajaisin kohtuuhintaisten asuntojen määrän lisäämistä, joukkoliikenteen maksuttomuutta ja asunnottomuuden poistamista.\n\nHelsingissä täytyy pystyä elämään antoisaa ja ihmisarvoista elämää tulotasosta ja taustasta riippumatta, ja tämän toteutuminen on kaupungin vastuulla erityisesti nykyisen hallituksen kurjistuspolitiikan aikana.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

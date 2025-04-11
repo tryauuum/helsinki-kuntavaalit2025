@@ -1,0 +1,170 @@
+{
+  "id": 340,
+  "first_name": "Antti",
+  "last_name": "Kääriälä",
+  "election_number": 885,
+  "party_id": 4,
+  "image": "kuvat/akv2025/340/dc90cf61-f52e-4702-b6df-217cf9077761",
+  "constituency_id": 25,
+  "video": "1-73768751",
+  "video_aspect": "1:1",
+  "video_description_fi": "Tärkein tavoitteeni on valtuustokaudella on, että käännämme nuorten pahoinvoinnin, ryöstelyn ja väkivaltaisen käyttäytymisen trendin laskuun. Helsingin tulee olla turvallinen kaupunki nuorille. \n\nOlen oikea henkilö tähän työhön, koska minulla on tutkija- ja asiantuntijatöideni kautta osaamista etsiä uskottavia, tietoon perustuvia ratkaisuja tähän ongelmaan. Olen tutkinut lasten ja perheiden hyvinvointia ja sosiaali- ja terveyspalveluita. Olen tutkinut nuorten mielenterveyttä, koulutusta, työllistymistä ja maahanmuuttoa. Tein väitöskirjan lastensuojelusta.\n\nNykyään työskentelen Rikosseuraamuslaitoksella tiedolla johtamisen tiiminvetäjänä. En pelkää tuoda vaikeitakaan aiheita keskusteluun.\n\nLupaan etsiä tietoon perustuvia uskottavia ratkaisuja nuorten pahoinvoinnin ja rikollisuuden trendin kääntämiseksi.\n\nLue lisää www.anttikaariala.fi",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 44,
+      "background_info_id": 10,
+      "name_fi": "Hieman vasemmalle",
+      "name_sv": "Lite till vänster",
+      "name_en": "Slightly to the left",
+      "name_ru": "Немного слева",
+      "name_sme": "Vehá gurut guvlui",
+      "name_ara": "أميل إلى اليسار",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan työskennellä helsinkiläisten koulujen laadun ja resurssien parantamiseksi.",
+      "se": "Jag lovar att arbeta för att förbättra kvaliteten och resurserna i Helsingfors skolor.",
+      "en": "I promise to work towards improving the quality and resources of Helsinki’s schools.",
+      "ru": "Я обещаю работать над улучшением качества и ресурсов школ Хельсинки.",
+      "sme": null,
+      "ara": "أعد بالعمل على تحسين جودة وموارد مدارس هلسنكي.",
+      "ukr": "Обіцяю працювати над покращенням якості та ресурсного забезпечення шкіл Гельсінкі.",
+      "som": "Waan ballanqaadayaa in aan ka shaqeeyo horumarinta tayada iyo kheyraadka dugsiyada Helsinki."
+    },
+    "age": 1985,
+    "language_skills": [
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 54,
+      "background_info_id": 16,
+      "name_fi": "joku muu",
+      "name_sv": "någon annan examen",
+      "name_en": "Other",
+      "name_ru": "другое",
+      "name_sme": "muhtin eará",
+      "name_ara": "مستوى دراسي آخر",
+      "target_value": 6,
+      "name_ukr": "інше",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "1. Perheeni ja lasteni hyvinvoinnista huolehtiminen\n2. Oman jaksamiseni varmistaminen\n3. Vastuullinen ja oikeudenmukainen toiminta\n4. Ihmissuhteet ja ystävyys\n5. Ilo, onnellisuus ja hauskanpito",
+      "se": "1. Ta hand om min familjs och barns välbefinnande\n2. Upprätthålla mitt eget välbefinnande\n3. Fullfölja mina ansvar, plikter och arbete\n4. Relationer och vänskap\n5. Glädje, lycka och att ha roligt",
+      "en": "1. Taking care of my family's and children's well-being\n2. Maintaining my own well-being\n3. Fulfilling my responsibilities, duties, and work\n4. Relationships and friendship\n5. Joy, happiness, and having fun",
+      "ru": "1. Забота о благополучии моей семьи и детей\n2. Поддержание моего собственного благополучия\n3. Выполнение моих обязанностей, ответственности и работы\n4. Отношения и дружба\n5. Радость, счастье и развлечение",
+      "sme": null,
+      "ara": "1. العناية برفاهية عائلتي وأطفالي\n2. الحفاظ على رفاهيتي الشخصية\n3. الوفاء بمسؤولياتي وواجباتي وأعمالي\n4. العلاقات والصداقة\n5. الفرح والسعادة والمتعة",
+      "ukr": "1. Забота про благополуччя моєї родини та дітей\n2. Підтримка власного благополуччя\n3. Виконання моїх обов'язків, зобов'язань та роботи\n4. Відносини та дружба\n5. Радість, щастя та розваги",
+      "som": "1. Daryeelka wanaagga qoyskeyga iyo carruurteyda\n2. Ilaalinta wanaaggayga gaarka ah\n3. Xakamaynta waajibaadkeyga, mas'uuliyadahayga, iyo shaqadayda\n4. Xiriirka iyo saaxiibtinimada\n5. Farxad, raynrayn, iyo madadaalo"
+    },
+    "election_promise_2": {
+      "fi": "Lupaan työskennellä nuorten pahoinvoinnin, väkivaltaisen käyttäytymisen ja rikollisuuden trendin kääntämiseksi.",
+      "se": "Jag lovar att arbeta för att vända trenden med ungas illamående, våldsamma beteende och kriminalitet.",
+      "en": "I promise to work towards reversing the trends of youth distress, violent behavior, and crime.",
+      "ru": "Я обещаю работать над изменением тенденции ухудшения самочувствия молодежи, насильственного поведения и преступности.",
+      "sme": null,
+      "ara": "أعد بالعمل على عكس اتجاه تدهور صحة الشباب، والسلوك العنيف، والجريمة.",
+      "ukr": "Обіцяю працювати над зміною тенденції погіршення добробуту молоді, насильницької поведінки та злочинності.",
+      "som": "Waan ballanqaadayaa in aan ka shaqeeyo sidii loo joojin lahaa kororka dhibaatooyinka dhalinyarada, dhaqanka rabshadaha iyo dambiyada."
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.anttikaariala.fi/",
+    "facebook_url": "https://www.facebook.com/profile.php?id=61572967672332",
+    "instagram_url": "https://www.instagram.com/antti_kaariala/",
+    "X_url": "https://x.com/AnttiKaariala",
+    "tiktok_url": "https://www.tiktok.com/@antti_kaariala",
+    "municipality_fix": {
+      "fi": "Omista tavoitteistani keskeisimmäksi olen nostanut nuorten pahoinvoinnin ja siihen liittyvän väkivallan sekä rikollisuuden trendin kääntämisen. On tärkeää, että Helsinki on turvallinen kaupunki kaikille nuorille ja kaupunkilaisille.\n\nToinen minulle tärkeä tavoite perheenisänä ja lasten ja nuorten hyvinvoinnin tutkijana on varmistaa, että Helsinki on perhemyönteinen kaupunki, jossa kaikilla on tasa-arvoiset mahdollisuudet kouluttautua ja harrastaa. Vaikeassa tilanteessa olevia perheitä tulee tukea.\n\nTiedolla johtamisen asiantuntijana kaikessa toiminnassani keskeistä on edistää tietoon ja tutkimukseen perustuvaa päätöksentekoa, joka on vaikuttavaa ja kustannustietoista. Kaupungin tulee olla tehokas toiminnassaan ja huolehtia työntekijöidensä hyvinvoinnista.\n\nTehdään Helsingistä entistä parempi ja viihtyisämpi kaupunki, jossa jokainen voi kokea tulevansa kuulluksi ja arvostetuksi!\n",
+      "se": null,
+      "en": "The most important of my goals is the need to reverse the trend of youth distress, along with the related violence and crime. It is important that Helsinki is a safe city for all young people and residents.\n\nAnother important goal for me as a father and researcher in child and youth well-being is to ensure that Helsinki is a family-friendly city where everyone has equal opportunities for education and recreation. Families in difficult situations should be supported.\n\nAs an expert in data-driven management, a key aspect of all my activities is to promote decision-making based on data and research, which is impactful and cost-conscious. The city must be efficient in its operations and take care of the well-being of its employees.\n\nLet’s make Helsinki an even better and more enjoyable city, where everyone can feel heard and valued!",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Lupaan muuttaa käsityksiäni, jos ne osoittautuvat uuden tiedon valossa vääriksi.",
+      "se": "Jag lovar att ändra mina uppfattningar om de visar sig vara fel i ljuset av ny information.",
+      "en": "I promise to change my views if they prove to be wrong in light of new information.",
+      "ru": "Я обещаю изменить свои взгляды, если они окажутся неверными в свете новой информации.",
+      "sme": null,
+      "ara": "أعد بتغيير قناعاتي إذا تبين أنها خاطئة في ضوء المعلومات الجديدة.",
+      "ukr": "Обіцяю змінити свої погляди, якщо нова інформація доведе їхню хибність.",
+      "som": "Waan ballanqaadayaa in aan beddelo aragtidayda haddii xog cusub ay muujiso in ay khaldan yihiin."
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

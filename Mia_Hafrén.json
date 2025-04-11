@@ -1,0 +1,186 @@
+{
+  "id": 6516,
+  "first_name": "Mia",
+  "last_name": "Hafrén",
+  "election_number": 618,
+  "party_id": 8,
+  "image": "kuvat/akv2025/6516/718042c5-4b24-4d55-89fd-218982d28b73",
+  "constituency_id": 25,
+  "video": "1-73812875",
+  "video_aspect": "1:1",
+  "video_description_fi": "Edistää ekologisia ja taloudellisia ratkaisuja, jotka vahvistavat hyvinvointia ja nuorten uskoa tulevaisuuteen, tehdä näkyväksi kulttuurin vaikutusta yhteiskuntaan ja demokratiaan ja tehdä töitä tasa-arvon puolesta. ",
+  "video_description_sv": "Jobba för ekologiska och ekonomiskt hållbara beslut som stärker välmående och ungas framtidstro. \nJag vill lyfta fram kulturens inverkan på samhället och demokratin. \nEtt starkt kulturfält erbjuder unika upplevelser och stärker gemenskapen. \nJag vill jobba för ett jämställt och rättvist samhälle. ",
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 44,
+      "background_info_id": 10,
+      "name_fi": "Hieman vasemmalle",
+      "name_sv": "Lite till vänster",
+      "name_en": "Slightly to the left",
+      "name_ru": "Немного слева",
+      "name_sme": "Vehá gurut guvlui",
+      "name_ara": "أميل إلى اليسار",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Haluan nostaa kulttuurin asemaa yhteiskunnassa. ",
+      "se": "Jag lovar att jobba för att lyfta kulturens ställning i samhället. ",
+      "en": "I promise to work to elevate the position of culture in society.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1974,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Myötätunto, oikeudenmukaisuus, luovuus, ihmissuhteet, luonto",
+      "se": "Medkänsla, rättvisa, kreativitet, relationer, natur",
+      "en": "Compassion, justice, creativity, relationships, nature",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Haluan edistää tasa-arvoa ja osallisuutta sekä tukea ennaltaehkäisevää ja korjaavaa toimintaa.\n",
+      "se": "Jag vill jobba för jämställdhet och inkludering, och för förebyggande och reparerande verksamhet.  ",
+      "en": "I want to work for equality and inclusion, and for preventive and restorative activities.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 23,
+      "background_info_id": 8,
+      "name_fi": "ruotsi",
+      "name_sv": "Svenska",
+      "name_en": "Swedish",
+      "name_ru": "шведский",
+      "name_sme": "ruoŧagiella",
+      "name_ara": "السويدية",
+      "target_value": null,
+      "name_ukr": "шведська",
+      "name_som": "af-Iswiidhish"
+    },
+    "homepage_url": "https://miahafren.fi/politik ",
+    "facebook_url": "https://www.facebook.com/profile.php?id=61573615621010",
+    "instagram_url": "https://www.instagram.com/miahafren/?hl=fi",
+    "municipality_fix": {
+      "fi": "Helsingin tulee tehdä kestäviä ekologisia ja taloudellisia päätöksiä, jotka vahvistavat uskoa tulevaisuuteen. Helsingin tulee jatkaa kulttuurin tukemista. Helsingin tulee suojella luontoalueita ja rakentaa ekologisesti. Kouluihin tarvitaan resursseja, jotta opettajat saavat keskittyä opettamiseen ja nuorille voidaan tarjota asianmukaista apua, kun he sitä tarvitsevat.\nHelsingin on jatkettava työtä tasa-arvon eteen.",
+      "se": "Helsingfors måste fatta hållbara ekologiska och ekonomiska beslut som stärker framtidstro. Helsingfors måste fortsätta att stödja kulturen. Helsingfors måste skydda naturområdena och bygga ekologiskt. Det behövs resurser i skolorna så att lärarna har möjlighet att fokusera på undervisningen och att unga kan ges lämplig hjälp när de behöver det.\nHelsingfors måste fortsätta att arbeta för jämställdhet.",
+      "en": "Helsinki must make sustainable ecological and economic decisions that strengthen faith in the future. Helsinki must continue to support culture. Helsinki must protect natural areas and build ecologically. Resources are needed in schools for teachers to have the time to teach and that young people can be offered appropriate help when they need it.\nHelsinki must continue to work for equality.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Olen Marthaförbundetin puheenjohtaja. ",
+      "se": "Jag är Marthaförbundets ordförande. ",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Haluan edistää kestäviä ekologisia ja taloudellisia päätöksiä. \n\n\n",
+      "se": "Jag vill jobba för hållbara ekologiska och ekonomiska beslut. Barn och unga ska ha tillgång till en fungerande utbildning och vård som stöder den mentala hälsan. ",
+      "en": "I want to work for sustainable ecological and economic decisions. Children and young people should have access to effective education and care that supports mental health.\n",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

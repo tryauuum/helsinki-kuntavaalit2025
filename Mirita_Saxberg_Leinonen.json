@@ -1,0 +1,198 @@
+{
+  "id": 7913,
+  "first_name": "Mirita",
+  "last_name": "Saxberg Leinonen",
+  "election_number": 326,
+  "party_id": 19,
+  "image": "kuvat/akv2025/7913/5ede7028-5255-412e-80a0-82c92b223f89",
+  "constituency_id": 25,
+  "video": "1-73816492",
+  "video_aspect": "1:1",
+  "video_description_fi": "Hei, olen Mirita Saxberg\n\nLähes 10 vuoden aikana kaupunginvaltuustossa on saatu paljon aikaan yhteisen hyvän puolesta, mutta paljon on vielä tekemättä. Tärkeimmät tavoitteeni seuraavalla valtuustokaudella ovat:\n\n1. Alueiden eriarvoisuuden vähentäminen — jokaisen lähikoulun ja päiväkodin on oltava hyvä.\n2. Ideologia pois päätöksenteosta — arvokasta lähiluontoa ei saa rakentaa betoniksi ja autolla on voitava liikkua kaikkialla Helsingissä.\n4. Peruspalveluihin, kuten terveydenhoitoon on jokaisen päästävä silloin, kuin sille on tarve.\n3. Helsingistä on tehtävä yrittäjäystävällinen kaupunki — ei enää hitaita lupaprosesseja ja pallottelua luukulta toiselle.\n\nKiitos aiempien vaalien tuhansille äänestäjille - äänesi ratkaisee taas näissä vaaleissa!",
+  "video_description_sv": "Hej, jag är Mirita Saxberg\n\nUnder nästan 10 år i stadsfullmäktige har mycket åstadkommits för det gemensamma bästa, men det finns fortfarande mycket att göra. Mina viktigaste mål under nästa fullmäktigeperiod är:\n\n1. Minska ojämlikheten mellan områden – varje närskola och daghem ska vara bra.\n2. Ta bort ideologin från beslutsfattandet – värdefull närnatur får inte byggas bort med betong, och biltrafik måste vara möjlig överallt i Helsingfors.\n3. Alla ska ha tillgång till grundläggande tjänster, som hälso- och sjukvård, när de behöver det.\n4. Helsingfors ska bli en mer företagarvänlig stad – inga fler långsamma tillståndsprocesser och byråkratiskt bollande mellan olika kontor.\n\nTack till alla tusentals väljare från tidigare val – din röst avgör även i detta val!",
+  "video_description_en": "Hi, I am Mirita Saxberg\n\nIn nearly 10 years in the city council, much has been accomplished for the common good, but there is still much to be done. My main goals for the next council term are:\n\n1. Reducing inequality between areas – every local school and daycare must be good.\n2. Removing ideology from decision-making – valuable local nature must not be turned into concrete, and cars must be able to move freely throughout Helsinki.\n3. Everyone must have access to basic services, such as healthcare, when they need it.\n4. Helsinki must become a more entrepreneur-friendly city – no more slow permit processes and bureaucratic bouncing between offices.\n\nThank you to the thousands of voters from previous elections – your vote will make a difference again in this election!",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 48,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti oikealle",
+      "name_sv": "Långt till höger",
+      "name_en": "Strongly to the right",
+      "name_ru": "С самого правого края",
+      "name_sme": "Nannosit olgeš guvlui",
+      "name_ara": "أقصى اليمين",
+      "target_value": 3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lähiluonto, sujuva autoliikenne ja terveydenhoito nopeasti jokaisen saatavilla. Äitinä minulle hyvinvointi on sitä, että arki toimii. Vihreä ideologia ei voi enää olla kaupunkisuunnittelun lähtökohta. On vastuullisen vallankumoksen aika!",
+      "se": "Närnatur, smidigt biltrafik och snabb tillgång till hälsovård för alla. Som mamma vet jag att välfärd betyder en fungerande vardag. Den gröna ideologin kan inte längre vara utgångspunkten för stadsplaneringen. Det är dags för en ansvarsfull revolution!",
+      "en": "City nature, smooth traffic flow, and quick access to healthcare for everyone. As a mom I know that wellbeing means a functioning everyday life. Green ideology can no longer be the foundation of urban planning, so it’s time for a responsible revolution!",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1982,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Lasten hyvinvointi, luottamus, rehellisyys, aitous, yhteisöllisyys.",
+      "se": "Barnens välmående, förtroende, ärlighet, äkthet, gemenskap.",
+      "en": "Children's well-being, trust, honesty, authenticity, community.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Olen asiantuntija koulutuksen ja elinkeinoelämän asialla — lastemme tulevaisuuden takia. Päiväkodit ja koulut: laatua lähellä. Tehdään työstä ja yrittämisestä kannattavaa, sillä elinkeinoelämä on kestävän kasvun edellytys.",
+      "se": "Jag är en expert inom utbildning och näringsliv och jobbar för våra barns framtid. Daghem och skolor: kvalitet nära. Jag jobbar också för att arbete och företagande ska vara mer lönsamt i Helsingfors, för näringslivet är en förutsättning för hållbar tillväxt.",
+      "en": "I am an expert in education and business – for the sake of our children's future. Daycares and schools: quality close to home. Let’s make work and entrepreneurship more profitable because a strong economy is the foundation of sustainable growth.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://mirita.fi",
+    "facebook_url": "https://www.facebook.com/MiritaSaxbergHelsinki/",
+    "instagram_url": "https://www.instagram.com/miritasaxberg/",
+    "X_url": "https://x.com/miritasaxberg",
+    "tiktok_url": "https://www.tiktok.com/@miritasaxberg",
+    "municipality_fix": {
+      "fi": "Tärkeimpinä\n1. Alueiden eriarvoisuus: jokaisen lähikoulun ja päiväkodin on oltava hyvä.\n2. Helsinki-vihreä ideologia pois päätöksenteosta: lähiluontoa ei saa rakentaa betoniksi ja autolla on voitava liikkua kaikkialla Helsingissä.\n3. Parempaa tukea yrittämiselle ja elinkeinoelämälle Helsingissä: ei enää hitaita lupaprosesseja ja pallottelua luukulta toiselle.\n4. Palvelut: nopea hoitoonpääsy ja laadukkaat terveyspalvelut jokaiselle.",
+      "se": "Viktigast\n1. Ojämlikhet mellan områden: Varje närskola och daghem måste vara bra.\n2. Bort med den Helsingforsgröna ideologin från beslutsfattandet: Närnaturen får inte byggas bort med betong, och biltrafik måste vara möjlig överallt i Helsingfors.\n3. Bättre stöd för företagande och näringslivet i Helsingfors: Inga fler långsamma tillståndsprocesser och byråkratiskt bollande mellan olika instanser.\n4. Service: Snabb tillgång till vård och högkvalitativa hälsovårdstjänster för alla.",
+      "en": "Most important\n1. Inequality between areas: Every local school and daycare must be of high quality.\n2. Remove the Helsinki-green ideology from decision-making: Local nature must not be turned into concrete, and cars must be able to move freely throughout Helsinki.\n3. Better support for entrepreneurship and business in Helsinki: No more slow permit processes and bureaucratic bouncing between offices.\n4. Services: Fast access to healthcare and high-quality medical services for everyone.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "• Helsingin kaupunginvaltuusto, jäsen;\n• Helsingin kasvatus ja koulutuslautakunta, jäsen;\n• Uudenmaan maakuntahallitus, jäsen;\n• Kaupunkitilat Oy, hallituksen varapuheenjohtaja;\n• Uudenmaan maakuntavaltuusto, jäsen;\n• CPMR political bureau, hallituksen varajäsen;\n• Helsingin Yrittäjät Itä-Helsinki, hallituksen jäsen",
+      "se": "• Helsingfors stadsfullmäktige, ledamot;\n• Helsingfors fostrans- och utbildningsnämnd, ledamot;\n• Nylands landskapsstyrelse, ledamot;\n• Kaupunkitilat Oy styrelse, vice ordförande;\n• Nylands landskapsfullmäktige, ledamot;\n• CPMR Political Bureau, suppleant i styrelsen;\n• Helsingfors Företagare Östra Helsingfors styrelse, ledamot",
+      "en": "• Helsinki City Council, Councillor;\n• Helsinki Education Committee, Member;\n• Helsinki-Uusimaa Regional Council, Board Member;\n• Kaupunkitilat Oy, Vice Chair of the Board;\n• Helsinki-Uusimaa Regional Council, Councillor;\n• CPMR Political Bureau, Deputy Board Member;\n• Helsinki Entrepreneurs association East Helsinki, Board Member ",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 5,
+      "background_info_id": 2,
+      "name_fi": "Hieman konservatiivi",
+      "name_sv": "Ganska konservativ",
+      "name_en": "Slightly conservative",
+      "name_ru": "Слегка консерватор",
+      "name_sme": "Vehá konservatiiva",
+      "name_ara": "أميل إلى المحافظة",
+      "target_value": 1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": "Ruotsi",
+      "se": "Svenska",
+      "en": "Swedish",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": "Kannan vastuun jokaisesta päätöksestä, jonka teen. Kuten olen tehnyt jo lähes kymmenen vuotta Helsingin kaupunginvaltuustossa ja kasvatus- ja koulutuslautakunnassa yhteensä yli 5 000 äänen luottamuksella. Opettajan arvoilla ja yrittäjän asenteella.",
+      "se": "Jag tar ansvar för varje beslut jag fattar – precis som jag har gjort i snart tio år i Helsingfors stadsfullmäktige och i fostrans- och utbildningsnämnden, med det förtroende som över 5 000 röster har gett mig. Med lärarens värderingar och entreprenörens inställning.",
+      "en": "I take responsibility for every decision I make—just as I have done for nearly ten years in the Helsinki City Council and the Education Committee, backed by the trust of over 5,000 votes. With the values of a teacher and the mindset of an entrepreneur.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "kunnanvaltuutettu",
+        "se": "ledamot i kommunfullmäktige",
+        "en": "municipal councillor",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

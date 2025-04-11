@@ -1,0 +1,224 @@
+{
+  "id": 20540,
+  "first_name": "Bhawna",
+  "last_name": "Sharma",
+  "election_number": 797,
+  "party_id": 6,
+  "image": "kuvat/akv2025/20540/e6521f4d-e6bb-449e-af3b-f481ca4363ce",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 43,
+      "background_info_id": 10,
+      "name_fi": "Vasemmalle",
+      "name_sv": "Till vänster",
+      "name_en": "On the left",
+      "name_ru": "Слева",
+      "name_sme": "Gurut guvlui",
+      "name_ara": "اليسار",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": " Parempi kotouttaminen ei ole vain ihanne – se on välttämättömyys. Ehdokkaana tulevissa kuntavaaleissa olen sitoutunut siihen, että jokainen maahanmuuttaja, erityisesti äidit ja perheet, tuntee olonsa todella kotoisaksi Suomessa.\n\nAion puolustaa vahvempia tukijärjestelmiä, parempaa pääsyä koulutukseen ja mielekkäitä työllistymismahdollisuuksia, jotka heijastavat monimuotoisten yhteisöjemme kykyjä ja taitoja. Kotoutuminen ei ole vain kielen oppimista – se on sitä, että tunnet itsensä nähdyksi, kuulluksi ja arvostetuksi tulee.\n\nMaahanmuuttajaäitien äänenä ymmärrän heidän kohtaamansa haasteet – kamppailun navigoida uudessa kulttuurissa, varmistaa, että heidän lapsensa saavat parhaan koulutuksen ja rakentaa elämää, jossa he tuntevat olevansa mukana ja voimaantuneita. Siksi aion ajaa perheystävällistä politiikkaa, parempia kieltenoppimisohjelmia ja maahanmuuttajien äänen parempaa edustusta päätöksenteossa. Aidosti osallistava Helsinki tarkoittaa, että yksikään äiti ei tunne olevansa yksinäinen, yksikään lapsi ei jää jälkeen, eikä yksikään lahjakkuus jää huomaamatta.",
+      "se": null,
+      "en": "Helsinki is a city of opportunities, but for too many immigrant families, those opportunities remain just out of reach. Better integration is not just an ideal—it is a necessity. As a candidate in the upcoming municipal elections, I am committed to ensuring that every immigrant, especially mothers and families, feels truly at home in Finland.\n\nI will advocate for stronger support systems, better access to education, and meaningful employment opportunities that reflect the talents and skills of our diverse communities. Integration is not just about learning the language—it is about feeling seen, heard, and valued.\n\nAs a voice for immigrant mothers, I understand the challenges they face—the struggle to navigate a new culture, to ensure their children receive the best education, and to build a life where they feel included and empowered. That is why I will push for family-friendly policies, improved language learning programs, and better representation of immigrant voices in decision-making.\n\nA truly inclusive Helsinki means that no mother feels alone, no child is left behind, and no talent goes unnoticed. Together, we can build a city where every family, regardless of their background, has the opportunity to thrive, contribute, and belong.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1982,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "ranska",
+        "se": "franska",
+        "en": "French",
+        "ru": "французский",
+        "sme": "fránskkagiella",
+        "ara": "الفرنسية"
+      },
+      {
+        "fi": "joku muu",
+        "se": "något annat",
+        "en": "Other",
+        "ru": "другой",
+        "sme": "muhtin eará",
+        "ara": "لغة أخرى"
+      }
+    ],
+    "education": {
+      "id": 51,
+      "background_info_id": 16,
+      "name_fi": "ylioppilas",
+      "name_sv": "student",
+      "name_en": "High school graduate",
+      "name_ru": "выпускник лицея",
+      "name_sme": "studeanta",
+      "name_ara": "شهادة البكالوريا",
+      "target_value": 3,
+      "name_ukr": "випускник ліцею",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Äitiys ja perhe ensin – Omistautuneena äitinä, tyttärenä ja sisarena oleminen on elämäni ytimessä. Perhe on perustamme, ja vahvojen.\nParaneminen ja hyvinvointi – Todellinen hyvinvointi syntyy tasapainosta – fyysisestä, emotionaalisesta ja kulttuurisesta. Uskon kokonaisvaltaiseen hoitoon, lasten, perheiden ja yhteisöjen tukemiseen heidän matkallaan kohti paranemista ja voimaa.\n\nKulttuuriyhteys ja yhteisön rakentaminen – Pyrin luomaan tiloja, joissa kulttuurit kohtaavat, perinteitä kunnioitetaan ja uusia yhteisöjä kasvaa. Kuromaan umpeen kuiluja rakennamme vahvempaa ja osallistavampaa yhteiskuntaa.\n\nMaahanmuuttajaäitien voimaannuttaminen – Maahanmuuttajaäitien äänenä ymmärrän heidän haasteensa ja toiveensa. Olen sitoutunut puolustamaan heidän tarpeitaan ja varmistamaan, että heidät nähdään, kuullaan ja tuetaan.\n\nModerni mutta juurtunut perinteeseen ",
+      "se": null,
+      "en": "Motherhood & Family First – Being a devoted mother, daughter, and sister is at the heart of my life,Healing & Wellness – True well-being comes from balance—physical, emotional, and cultural. I believe in holistic care, supporting children, families, and communities in their journey toward healing and strength.\n\nCultural Connection & Community Building – I strive to create spaces where cultures meet, traditions are honored, and new communities grow. By bridging gaps, we build a stronger, more inclusive society. Empowering Immigrant Mothers -I understand their challenges and aspirations. I am committed to advocating for their needs, ensuring they are seen, heard, and supported.  Modern Yet Rooted in Tradition ",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": " On vahvistaa lasten koulutusta, perheiden tukemista ja ympäristönsuojelua, kaikki vision puitteissa aidosti kestävästä yhteiskunnasta – sellaisesta, joka asettaa sekä ihmiset että planeetan tasapuolisesti etusijalle. Olen omistanut elämäni terveyden, ympäristön ja yhteisön väliselle herkälle tasapainolle, ja nyt tuon saman harmonian politiikkaan. Visioni Helsingistä on sellainen, jossa kokonaisvaltainen hyvinvointi ja edistyksellinen politiikka luovat yhdessä vihreämmän, terveellisemmän ja osallistavamman kaupungin kaikille. Samalla kun maailma on tekoälyn, älypuhelimien ja nopean innovaatiovauhdin kiehtoma, meidän on myös vaalittava hellävaraisempaa ja ihmiskeskeisempää lähestymistapaa. Ayurveda-periaatteiden innoittamana uskon tulevaisuuteen, jossa edistystä mitataan paitsi teknologian myös lastemme hyvinvoinnin, yhteisöjemme kestävyyden ja ympäristömme terveyden perusteella. Integroimalla kestävän kehityksen\n\nYhdistämällä kestävyyden, koulutuksen ja perheiden tuen pyrin rakentamaan kukoistavaa Helsinkiä, jossa jokaisella lapsella on pääsy laadukkaaseen koulutukseen, jokainen perhe tuntee saavansa tukea ja jokainen asukas voi hengittää puhdasta ilmaa, juoda puhdasta vettä ja menestyä kaupungissa, joka kunnioittaa ja suojelee luontoa.\n\nTämä on lupaukseni: tulevaisuus, jossa innovaatio ja perinteet, edistys ja hellyys, kasvu ja harmonia yhdistyvät kaikkien hyvinvoinniksi",
+      "se": null,
+      "en": "intelligent but also compassionate, balanced, and sustainable. My second election promise is to strengthen education for children, support for families, and environmental protection, all within a vision of a truly sustainable society—one that prioritizes both people and the planet equally.\n\nHaving dedicated my life to the delicate balance between health, environment, and community, I now bring the same harmony to politics. My vision for Helsinki is one where holistic well-being and progressive policies work together to create a greener, healthier, and more inclusive city for all.\n\nWhile the world is captivated by artificial intelligence, smartphones, and the rapid pace of innovation, we must also nurture a more tender, human-centered approach. Inspired by Ayurvedic principles, I believe in a future where progress is measured not only by technology but by the well-being of our children, the resilience of our communities, and the health of our environment.\n\nBy integrating sustainability, education, and family support, I will work to build a Helsinki that flourishes—where every child has access to quality education, every family feels supported, and every citizen can breathe clean air, drink pure water, and thrive in a city that respects and protects nature.\n\nThis is my promise: a future where innovation and tradition, progress and tenderness, growth and harmony come together for the well-being of all.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.linkedin.com/in/dr-bhawna-sharma-0952a715/",
+    "facebook_url": "https://www.facebook.com/share/12K878hYRoj/",
+    "instagram_url": "https://www.instagram.com/HIMA_HOLISTIC",
+    "language_some_other": {
+      "fi": "Hindia, Sanskrit",
+      "se": null,
+      "en": "Hindi, Sanskrit ",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "municipality_fix": {
+      "fi": "Kuntamme tarvitsee lisää puistoja ja viheralueita, jotka on suunniteltu erityisesti 10–15-vuotiaille lapsille. Tällä hetkellä useimmat puistot palvelevat joko hyvin pieniä lapsia tai vanhempia teini-ikäisiä, joten tällä ikäryhmällä on rajoitetut ulkoilumahdollisuudet. Meidän tulee luoda hyvin suunniteltuja, esteettömiä viheralueita, jotka kannustavat heitä olemaan yhteydessä luontoon, olemaan aktiivisia ja nauttimaan ulkotiloista. Tämä investointi edistää terveellisempiä elämäntapoja ja vahvempaa yhteisön sitoutumista nuorillemme",
+      "se": null,
+      "en": "Our municipality needs more parks and green spaces designed specifically for children aged 10 to 15. Right now, most parks cater to either very young kids or older teens, leaving this age group with limited outdoor options. We should create well-designed, accessible green areas that encourage them to connect with nature, be active, and enjoy outdoor spaces. This investment will promote healthier lifestyles and stronger community engagement for our youth",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "NA",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": "Englanti",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": "En seiso edessänne vain ehdokkaana, vaan henkilönä, joka on syvästi sitoutunut muuttamaan terveydenhuoltojärjestelmämme sellaiseksi, joka todella hoitaa sekä kehoa että mieltä. Kokonaisvaltaisena parantajana uskon terveydenhuollon lähestymistapaan, joka asettaa henkisen hyvinvoinnin etusijalle, vahvistaa terveyskeskuksiamme ja varmistaa, että jokainen lapsi kasvaa tukevassa, terveellisessä ympäristössä.\n\nLastemme terveys ja tulevaisuus ovat vaakalaudalla. Liiallisen ruutuajan lisääntyessä meidän on puolustettava tietoista teknologian käyttöä ja edistettävä henkistä kestävyyttä kokonaisvaltaisen hoidon avulla. Pyrin laajentamaan mielenterveyspalveluita, integroimaan vaihtoehtoisia parannusmenetelmiä ja luomaan hyvinvointiohjelmia, jotka antavat yksilöille mahdollisuuden elää tasapainoista ja tyydyttävää elämää.\n\nVisioni on selkeä: terveydenhuoltojärjestelmä, joka tarjoaa enemmän valinnanvaraa, paremman saavutettavuuden ja keskittyy vahvemmin ennaltaehkäisyyn ja hyvinvointiin. Yhdessä voimme rakentaa tulevaisuuden, jossa jokainen ihminen – nuori ja vanha – saa ansaitsemaansa hoitoa, tukea ja mahdollisuuksia.",
+      "se": null,
+      "en": "I stand before you not just as a candidate, but as someone deeply committed to transforming our healthcare system into one that truly nurtures both the body and mind. As a holistic healer, I believe in a healthcare approach that prioritizes mental well-being, strengthens our healthcare centers, and ensures that every child grows up in a supportive, healthy environment.\n\nOur children’s health and future are at stake. With the rise of excessive screen time, we must advocate for mindful technology use and promote mental resilience through holistic care. I will work to expand mental health services, integrate alternative healing methods, and create wellness programs that empower individuals to lead balanced, fulfilling lives.\n\nMy vision is clear: a healthcare system that provides more choices, greater accessibility, and a stronger focus on prevention and well-being. Together, we can build a future where every person—young and old—receives the care, support, and opportunities they deserve.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "kunnanvaltuutettu",
+        "se": "ledamot i kommunfullmäktige",
+        "en": "municipal councillor",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "NA",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

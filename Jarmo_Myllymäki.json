@@ -1,0 +1,212 @@
+{
+  "id": 11049,
+  "first_name": "Jarmo",
+  "last_name": "Myllymäki",
+  "election_number": 519,
+  "party_id": 5,
+  "image": "kuvat/akv2025/11049/ec2ae80f-c4ef-48f6-baeb-950c62f5dfa3",
+  "constituency_id": 25,
+  "video": "1-73816299",
+  "video_aspect": "1:1",
+  "video_description_fi": "Olla mukana luomassa turvallista Helsinkiä!",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 46,
+      "background_info_id": 10,
+      "name_fi": "Hieman oikealle",
+      "name_sv": "Lite till Till högerhöger",
+      "name_en": "SlightTo the rightly to the right",
+      "name_ru": "Немного справа",
+      "name_sme": "Vehá olgeš guvlui",
+      "name_ara": "أميل إلى اليمين",
+      "target_value": 1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Liikkuminen erilaisilla tavoin tulee olla hyväksyttyä, kaupunkiin kuuluvat toimiva julkinen liikenne, myös oman auton käyttö, sekä luonnollisesti kevytliikenne, kuten jalankulku, polkupyörät ja kaikenlainen kuntoliikunta. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1972,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Rehellisyys, turvallisuus, taloudellisuus, joustavuus ja kuunteleminen.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Helsinki hoitaa talouttaan hyvin ja mietitään miten asiat voidaan tehdä palvellen, mutta tehokkaasti.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "facebook_url": "https://www.facebook.com/jarmo.myllymaki.itse/",
+    "language_some_other": {
+      "fi": "Ei muita",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "municipality_fix": {
+      "fi": "Helsingin tulee nähdä mahdollisuutensa olla aidosti suurena kaupunkina yhdessä alueen muiden kaupunkien kanssa. Koko alueen tulee puhaltaa yhteen hiileen. Helsingin tulee taistella turvattomuutta vastaan eri keinoin, niin että kaikki alueella olevat ihmiset voivat elää pelkäämättä. Talouden hoitamista onnistuneesti on jatkettava, mutta huomioiva korjaustarpeet ja uuden rakentaminen silloin kun se on mahdollista.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Olen ollut pitkään kunnallisissa luottamustehtävisssä Raahessa. Viisi kautta kaupunginvaltuustossa, johtanut opetus- ja nuorisolautakuntia, ollut valtuuston varapuheenjohtaja ja tärkeimpänä kaupunginhallituksen puheenjohtaja noin seitsemän vuoden ajan.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 6,
+      "background_info_id": 2,
+      "name_fi": "Konservatiivi",
+      "name_sv": "Konservativ",
+      "name_en": "Conservative",
+      "name_ru": "Консерватор",
+      "name_sme": "Konservatiiva",
+      "name_ara": "محافظ",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Turvallinen Helsinki tehdään yhdessä, siihen tarvitaan asukkaat, kaupunki ja viranomaiset yhdessä.\n\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Yli 20 vuoden kokemus kaupunginvaltuuston jäsenä eli Olen ollut pitkään kunnallisissa luottamustehtävisssä Raahessa. Viisi kautta kaupunginvaltuustossa, johtanut opetus- ja nuorisolautakuntia, ollut valtuuston varapuheenjohtaja ja tärkeimpänä kaupunginhallituksen puheenjohtaja noin seitsemän vuoden ajan.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

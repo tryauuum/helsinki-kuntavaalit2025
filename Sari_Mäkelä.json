@@ -1,0 +1,197 @@
+{
+  "id": 13716,
+  "first_name": "Sari",
+  "last_name": "Mäkelä",
+  "election_number": 285,
+  "party_id": 19,
+  "image": "kuvat/akv2025/13716/43229205-1521-4d0c-a531-b4669ce4c071",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 47,
+      "background_info_id": 10,
+      "name_fi": "Oikealle",
+      "name_sv": "Till höger",
+      "name_en": "To the right",
+      "name_ru": "Справа",
+      "name_sme": "Olgeš guvlui",
+      "name_ara": "اليمين",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Elinvoimainen ja viihtyisä Helsinki\n- Helsinki kasvaa, mutta sen on tapahduttava viisaasti ja viihtyisästi.\n- Työ ja yrittäjyys luovat hyvinvointia – kaupungin ei pidä vaikeuttaa yrittämistä, vaan mahdollistaa kasvua. Keskustan elinvoimaisuutta lisättävä (parkkipaikat, liikenne, palvelut).\n- Liikkuminen on tehtävä sujuvaksi kaikille – autoilun, joukkoliikenteen ja pyöräilyn vastakkainasettelusta on päästävä eroon.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1968,
+    "language_skills": [
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "1. Ahkeruus: kukin tekee osaamisensa ja voimiensa mukaan, kantaa kortensa kekoon. \n2. Välittäminen: koen, että auttaminen ja välittäminen tuo hyvää myös antajalleen. Itsekkyydestä en pidä.\n3. Rehellisyys: valehtelua en siedä, rehellinen vuorovaikutus yleensä laajentaa näkökulmia ja tuo ymmärrystä.\n4. Vastuullisuus: olen pienestä pitäen jotenkin varautunut \"pahan päivän varalle\". Tämä näkyy siten etten elä yli varojen ja varaudun niihin asioihin jotka tuntuvat järkeviltä.\n5. Rohkeus: Koskaan ei tiedä mitä elämä tuo tullessaan, joten joskus kannattaa olla rohkea ja toimia. Minussa tämä näkyy erityisesti siinä, että jos koen vääryyttä, saatan rohkeastikin asettua puolustamaan ihmisiä tai asioita, jotka ovat minulle tärkeitä.\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Toimivat palvelut ja vastuullinen talous\n- Hoitoon on päästävä silloin, kun sitä tarvitsee. \n- Nuorten mielenterveyspalvelut etusijalle – Yhä useampi nuori tarvitsee tukea, ja palveluihin on panostettava\n- Ikäihmisten kotihoitoon ja palveluihin panostetaan, vanhuksia ei saa jättää heitteille.\n- Kaupungin rahankäytössä on oltava järkeä – veronkorotusten sijaan etsitään tehokkaita ratkaisuja.\n\nVastuullinen taloudenhoito ja hyvin suunnitellut hankinnat tuo varoja palveluista huolehtimiseen,",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.sarimakela.fi/",
+    "facebook_url": "https://www.facebook.com/SariMakelaHelsinki",
+    "language_some_other": {
+      "fi": "saksa ja espanja, mutta kovin ruosteessa niin en kehdannut mainita edellisessä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "municipality_fix": {
+      "fi": "* Arjen turvallisuus: kouluissa ja asuinympäristössä. Tähän liittyy myös väestönsuojien kunnostaminen.\n* Perusterveydenhuollon palvelut kuntoon: erityisesti nuorten mielenterveys sekä ikäihmisten hoivapalvelut. Vanhuksia ei saa jättää heitteille!\n* Liian tiheää rakentamista tulee välttää, viheralueita lisää.\n* Järkevä rahankäyttö: ideologisista hankkeista tulee luopua ja erityisesti IT-hankinnoissa tulee tehdä parempaa valmistelua jotta rahaa ei polteta taivaan tuuliin.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Tällä hetkellä ainoa virallinen luottamustehtävä on asunto-osakeyhtiön hallituksen jäsenyys. \nOlen toiminut satunnaisesti neuvonantajana muutamissa yrityksissä tai järjestöissä, mutta juuri nyt ei sellaisia ole.\n\nToimin vapaaehtoistyössä nuorten mielenterveystyön parissa. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 4,
+      "background_info_id": 2,
+      "name_fi": "En liberaali enkä konservatiivi",
+      "name_sv": "Varken liberal eller konservativ",
+      "name_en": "Neither liberal or conservative",
+      "name_ru": "Ни либерал, ни консерватор",
+      "name_sme": "In liberála inge konservatiiva",
+      "name_ara": "لا ليبرالي ولا متحفظ",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Turvallinen Helsinki – arjen perusta\nTurvallisuus on jokaisen oikeus – niin kouluissa, kaduilla kuin asuinalueilla.\n\n- Koulujen ja asuinalueiden turvallisuus taataan puuttumalla kiusaamiseen ja häiriökäyttäytymiseen ajoissa.\n- Asemanseutujen ja puistojen turvallisuutta parannetaan valaistuksella, valvonnalla ja nuorisotyöllä.\n- Liian tiivistä rakentamista tulee välttää. Monipuolinen asuntotuotanto vaikuttaa myös alueiden turvallisuuteen.\n- Väestönsuojien korjausta ja kehittämistä tulee tehdä lähivuosina.\n\nOlen asunut Helsingissä vuodesta 1996 ja mielestäni kaupunki on mennyt koko ajan turvattomampaan suuntaan. Kehitys on nyt pysäytettävä kun vielä voimme.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Ei ole. Olen siinä mielessä tuore, että liityin puolueeseen vasta 2023. Tuoretta näkemystä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

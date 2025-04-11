@@ -1,0 +1,180 @@
+{
+  "id": 9823,
+  "first_name": "Tuomas",
+  "last_name": "Harju",
+  "election_number": 849,
+  "party_id": 4,
+  "image": "kuvat/akv2025/9823/bb476986-7087-41fd-9dff-03b91df1b958",
+  "constituency_id": 25,
+  "video": "1-73815034",
+  "video_aspect": "1:1",
+  "video_description_fi": "Hei! Olen Tuomas Harju, 31-vuotias kaupunkitutkija, tiiminvetäjä ja yrittäjä Itä-Helsingistä. Olen ehdolla, koska haluan kotikaupunkini kasvavan kestävästi ja että täällä on vapaus yrittää ja toteuttaa itseään. Olen kaupunkitutkija, eli asiantuntija, jolla on ymmärrys kokonaiskuvasta miten Helsinkiä pitää kehittää. Mielestäni tällaista ymmärrystä Helsinki tarvitsee myös kaupunginvaltuustossa, jotta voimme saada parasta mahdollista kaupunkia sekä nykyisille että tuleville helsinkiläisille.\n\nTärkein tavoitteeni ensi valtuustokaudelle on edistää Helsingin kehitystä kaikissa kaupunginosissa, jotta kaupunginosien välinen eriytymiskehitys saadaan pysäytettyä. Kaikilla helsinkiläisillä pitää olla turvallinen pääsy lähipalveluihin riippumatta heidän asuinpaikastaan. Lähiöt tarvitsevat investointeja, jotta jokaisella, aivan erityisesti nuorilla, on mahdollisuus toteuttaa itseään asuinpaikasta riippumatta. Näiden ihmisten asiaa aion myös puolustaa.",
+  "video_description_sv": null,
+  "video_description_en": "Hello! I'm Tuomas Harju, a 31-year-old urban researcher, team leader and entrepreneur from eastern Helsinki. I'm running for city council because I want my hometown to grow sustainably and I want residents to have the freedom to express themselves and make things happen. I am an urban researcher, an expert with an understanding of the big picture of how Helsinki should be developed. I believe that Helsinki also needs this kind of expertise in the City Council, so that we can build the best possible city for both current and future Helsinki residents.\n\nMy main goal for the next council term is to promote the development of Helsinki in all neighbourhoods, in order to halt the trend towards segregation. All Helsinki residents must have safe access to local services, regardless of where they live. Neighbourhoods need investment so that everyone, especially the young, have the opportunity to fulfil themselves, regardless of where they live. I want to stand up for these people in the city council.",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 44,
+      "background_info_id": 10,
+      "name_fi": "Hieman vasemmalle",
+      "name_sv": "Lite till vänster",
+      "name_en": "Slightly to the left",
+      "name_ru": "Немного слева",
+      "name_sme": "Vehá gurut guvlui",
+      "name_ara": "أميل إلى اليسار",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Yrittäjät Helsingissä. Pien- ja yksinyrittäjät ovat ryhmä, jonka ääntä haluan tuoda kuuluviin Helsingissä ja tukea käytännössä. Olen itse sivutoiminen yrittäjä.",
+      "se": null,
+      "en": "Entrepreneurs in Helsinki. Small and self-employed entrepreneurs are a group whose voice I want to make heard in Helsinki and offer them support in practice. I am a part-time entrepreneur myself.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1994,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Tasa-arvoisuus, oikeudenmukaisuus, luottamus, avoimuus, vapaus.",
+      "se": null,
+      "en": "Equality, fairness, trust, openness, freedom.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Nuorten tasa-arvoiset mahdollisuudet. Helsingin pitää investoida lähiöihin: liikenneyhteyksiin, liikuntapaikkoihin ja nuorisopalveluihin. Näin kaikilla nuorilla on mahdollisuus toteuttaa itseään asuinpaikasta riippumatta.",
+      "se": null,
+      "en": "Equal opportunities for youth. Helsinki needs to invest in the suburbs: transport links, sports facilities and youth services. In this way, all young people will have the opportunity to fulfil themselves, regardless of where they live.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://tuomasharjusdp.fi",
+    "facebook_url": "https://www.facebook.com/share/1ADqrFz1jk/",
+    "instagram_url": "https://www.instagram.com/tuomasharju_sdp?",
+    "X_url": "https://x.com/tuoppi_fin",
+    "tiktok_url": "https://tiktok.com/@tuomasharju_sdp",
+    "municipality_fix": {
+      "fi": "Helsingissä pitää pysäyttää kaupunginosien välille kasvava kuilu ja eriytymiskehitys. Lähiöihin pitää investoida entistä enemmän ja kehittää niihin monipuolisia palveluja.",
+      "se": null,
+      "en": "In Helsinki, we need to stop the growing gap and segregation between neighbourhoods. We need to invest more in the outer suburbs and develop the wide range of services in them.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Ammattiliittoni (Specia) hallituksen jäsen, ammattiliittoni (Akavan Erityisalat) ammatinharjoittajien ja yrittäjien toimikunnan varapuheenjohtaja",
+      "se": null,
+      "en": "Member of the Board of my trade union (Specia), Vice-Chair of the Committee for Self-employed and Entrepreneurs of my trade union (Akavan Erityisalat)",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Kestävä ja kasvava kaupunki. Helsingin pitää kasvaa, mutta luonto- ja kulttuuriympäristön arvoista tinkimättä. Kaupunkisuunnittelun tulee perustua tutkittuun tietoon ja sekä nykyisten että tulevien helsinkiläisten parhaaksi.",
+      "se": null,
+      "en": "A sustainable and growing city. Helsinki must grow, but without compromising the values of the natural and cultural environment. Urban planning must be based on studied knowledge and be in the best interests of both current and future residents.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

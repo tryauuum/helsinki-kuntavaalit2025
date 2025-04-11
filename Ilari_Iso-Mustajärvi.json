@@ -1,0 +1,167 @@
+{
+  "id": 3006,
+  "first_name": "Ilari",
+  "last_name": "Iso-Mustajärvi",
+  "election_number": 249,
+  "party_id": 19,
+  "image": "kuvat/akv2025/3006/175e8790-c05d-4580-9063-631088f905f2",
+  "constituency_id": 25,
+  "video": "1-73813004",
+  "video_aspect": "1:1",
+  "video_description_fi": "Parannetaan Itä-Helsingin houkuttelevuutta. Aloitetaan laittamalla Itäkeskuksen linja-autoasema ja metroasema kuntoon.  Asun Puotilassa ja liikun paljon Itäkeskuksen alueella. Alue on tällä hetkellä niin huonossa tilassa, että se vaatii välitöntä huomiota. Tietenkin edistän asumisen ja yrittämisen asioita koko Helsingissä. Lisäksi haluan kaavoituksen ja kaupunkisuunnittelun keinoin ehkäistä alueiden eriytymistä koko Helsingin alueella.",
+  "video_description_sv": null,
+  "video_description_en": "Let’s start by fixing the Itäkeskus bus and metro stations. As a resident of Puotila who frequently moves around the Itäkeskus area, I see firsthand the poor condition of the area—it requires immediate attention.\n\nOf course, I support housing and entrepreneurship initiatives across all of Helsinki. A free market economy creates prosperity, innovation, and opportunities. Entrepreneurship and self-reliance are positive forces that drive economic and personal growth.",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 48,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti oikealle",
+      "name_sv": "Långt till höger",
+      "name_en": "Strongly to the right",
+      "name_ru": "С самого правого края",
+      "name_sme": "Nannosit olgeš guvlui",
+      "name_ara": "أقصى اليمين",
+      "target_value": 3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Parannetaan Itä-Helsingin houkuttelevuutta. Aloitetaan laittamalla Itäkeskuksen linja-autoasema ja metroasema kuntoon.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1993,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Yksilönvapaus – Jokaisella ihmisellä on oikeus elää haluamallaan tavalla, kunhan ei vahingoita toisia. \n\nVastuu ja itseohjautuvuus – Yksilön tulee kantaa vastuu omista valinnoistaan ja toimistaan. Vapauden rinnalla kulkee vastuu omasta elämästä, taloudesta ja yhteiskunnallisesta osallistumisesta.\n\nMarkkinatalous ja yrittäjyys – Vapaa markkinatalous luo hyvinvointia, innovaatioita ja mahdollisuuksia. Yrittäjyys ja omatoimisuus ovat positiivisia voimia, jotka edistävät taloudellista ja henkilökohtaista kasvua.\n\nOikeusvaltio ja sopimusyhteiskunta – Lait ja instituutiot takaavat reilun pelikentän, jossa yksilöt ja yritykset voivat toimia vapaasti, mutta ennustettavasti.\n\nPerinteiden ja edistyksen tasapaino – Vaikka yksilönvapaus ja uudistukset ovat tärkeitä, arvostan yhteiskunnallisia perinteitä ja kulttuuria.",
+      "se": null,
+      "en": "Individual Freedom – Every person has the right to live as they choose, as long as they do not harm others.\n\nResponsibility and Self-Governance – Individuals must take responsibility for their own choices and actions. With freedom comes the duty to manage one's own life, finances, and participation in society.\n\nMarket Economy and Entrepreneurship – A free market economy fosters prosperity, innovation, and opportunities. Entrepreneurship and self-reliance are positive forces that drive both economic and personal growth.\n\nRule of Law and Contract Society – Laws and institutions ensure a fair playing field where individuals and businesses can operate freely but predictably.\n\nBalance Between Tradition and Progress – While individual freedom and reforms are important, I also value societal traditions and culture.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Haluan auttaa mikroyrityksiä kasvamaan ja pärjäämään Helsingissä esimerkiksi tuomalla paremmin esiin kaupungin hankintoja ja urakoita, joihin yritykset voivat osallistua. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://ilariisomustajarvi.fi/",
+    "facebook_url": null,
+    "municipality_fix": {
+      "fi": "Parannetaan Itä-Helsingin houkuttelevuutta. Aloitetaan laittamalla Itäkeskuksen linja-autoasema ja metroasema kuntoon.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Ehkäistään alueiden eriytymistä kaavoittamalla omistusasuntoja omalle tontille alueille, joissa on syytä ehkäistä eriytymiskehitystä. Helsinki voisi myydä tonttejaan taloyhtiöille useammin. ",
+      "se": null,
+      "en": "Zoning and urban planning are the best ways to prevent the segregation of areas.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

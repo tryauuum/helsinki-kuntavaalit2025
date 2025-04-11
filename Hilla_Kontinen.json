@@ -1,0 +1,186 @@
+{
+  "id": 2646,
+  "first_name": "Hilla",
+  "last_name": "Kontinen",
+  "election_number": 740,
+  "party_id": 6,
+  "image": "kuvat/akv2025/2646/99075278-0a57-40d2-9126-a229c0500e6d",
+  "constituency_id": 25,
+  "video": "1-73768450",
+  "video_aspect": "1:1",
+  "video_description_fi": "\nTärkein tavoitteeni tulevalla valtuustokaudella on varmistaa, että Helsinki kestää maailman muuttuvissa olosuhteissa ja säilyttää elinkelpoisuutensa myös seuraaville sukupolville.\n\nTässä erityisen tärkeää on suojella meidän arvokasta luontoa ja myös lisätä kasvillisuutta joka puolelle kaupunkia. Haluan, että Helsingissä luonto ja kaupunkielämä kulkevat onnellisesti käsi kädessä. Valtuustossa aion ajaa myös rohkeita ilmastotekoja, jotta Helsinki turvaisi tulevien sukupolvien hyvän elämän edellytykset. Tämä tarkoittaa erityisesti julkien liikenteen kehittämistä entistä toimivammaksi ja halvemmaksi, jotta saastuttava yksityisautoilu olisi entistä harvemmalle joukkoliikennettä houkuttelevampi vaihtoehto. \n\nJotta Helsinki olisi tulevaisuudessa myös kaikille kaupunkilaisille tasa-arvoinen paikka elää ja kasvaa, niin aion kiinnittää valtuustossa erityistä huomiota myös alueelliseen tasa-arvoon. Jokaisen postinumeron tulee tarjota yhtä hyvät puitteet elämälle, ja jokaisen tulee voida tuntea olevansa osa yhteistä tarinaa.",
+  "video_description_sv": null,
+  "video_description_en": "My main goal for the upcoming municipal council term is to ensure that Helsinki remains resilient in a changing world and retains its livability for future generations.  \n\nA key part of this is protecting our valuable natural environment and increasing greenery throughout the city. I want nature and urban life in Helsinki to coexist harmoniously. In the city council, I will also advocate for brave climate actions to secure the conditions for a good life for future generations. This means particularly improving public transportation to make it more efficient and affordable, so that polluting private car use becomes a less attractive option compared to public transit.  \n\nTo ensure that Helsinki remains an equal place for all residents to live and grow, I will also focus on regional equality. Every postal code should offer equally good living conditions, and everyone should feel like they are part of a shared story.",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 43,
+      "background_info_id": 10,
+      "name_fi": "Vasemmalle",
+      "name_sv": "Till vänster",
+      "name_en": "On the left",
+      "name_ru": "Слева",
+      "name_sme": "Gurut guvlui",
+      "name_ara": "اليسار",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan edistää alueellista tasa-arvoa. Jokaisessa kaupunginosassa on oltava viihtyisää ja turvallista kaupunkitilaa, toimiva ja saavutettava joukkoliikenne sekä pääsy laadukkaan koulutuksen ja palvelujen piiriin. Tavoitteenani on rakentaa Helsinki, jossa jokainen postinumero tarjoaa yhtä hyvät puitteet elämälle ja jossa jokainen voi tuntea olevansa osa yhteistä tarinaa. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 2003,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Rakkaus, kestävyys, tasa-arvoisuus, sivistys sekä kokemukset materian sijaan. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lupaan edistää pienituloisten mahdollisuuksia elää hyvää elämää Helsingissä. Tässä erityisen tärkeää on kehittää joukkoliikennettä edullisemmaksi, lisätä kohtuuhintaista asumista sekä monipuolisia ja halpoja liikuntapalveluita. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "instagram_url": "https://www.instagram.com/hillaiina/ ",
+    "X_url": null,
+    "tiktok_url": "https://www.tiktok.com/@hillaiina",
+    "municipality_fix": {
+      "fi": "Helsingissä pitäisi laittaa kuntoon kaupunkisuunnittelun prioriteetit; Helsinkiä on rakennettu liian kauan autojen, ei ihmisten ehdoilla. Yksityisautoilun ja sen vaatiman infrastruktuurin tukemisen sijaan Helsingin on panostettava kohtuuhintaiseen joukkoliikenteeseen sekä toimiviin ja turvallisiin kävely- ja pyöräteihin. Näin voidaan vaikuttaa myös ilmastonmuutosta kiihdyttävien ja ihmisten terveyttä heikentävien päästöjen määrään.  \n\nLisäksi Helsingin tulee suojella lähiluontoa ja edistää kaupunkiluonnon monimuotoisuutta. Kasvillisuus on elintärkeää, sillä se viilentää kesähelteillä, sitoo katupölyä, vaimentaa melua ja tärinää, ehkäisee kaupunkitulvia ja tarjoaa elinympäristön monille lajeille. Lisäksi kasvillisuus parantaa kaupunkitilan viihtyisyyttä ja houkuttelee liikkumaan ulkona. Helsingin tulee myös kitkeä eriarvoisuutta ja alueiden eriytymistä, jotta jokaisella kaupunkilaisella olisi yhtäläiset mahdollisuudet menestyä taustastaan riippumatta. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Helsingin yliopiston ylioppilaskunnan edustajiston varsinainen jäsen.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Lupaan edistää kaupunkiluontoa ja sen monimuotoisuutta sekä rohkeita ilmastotekoja, jotta Helsinki kestäisi maailman muuttuvissa olosuhteissa ja säilyisi elinkelpoisena myös seuraaville sukupolville. Lähiluontoa on suojeltava ja kasvillisuudelle on löydettävä lisää tilaa luovilla keinoilla esimerkiksi muuttamalla turhia parkkipaikkoja ja tarpeettoman leveitä autoteitä osin viheralueiksi sekä lisäämällä viherraiteita ympäri kaupunkia. Ilmastonmuutoksen hillitsemiseksi lupaan edistää myös kestäviä liikkumismuotoja eli julkista liikennettä sekä kävelyn ja pyöräilyn toimivuutta ja turvallisuutta Helsingissä. Joukkoliikenteen tulee kehittyä yksityisautoilua taloudellisesti ja käytännöllisesti houkuttelevammaksi vaihtoehdoksi.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

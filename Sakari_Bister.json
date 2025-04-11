@@ -1,0 +1,215 @@
+{
+  "id": 667,
+  "first_name": "Sakari",
+  "last_name": "Bister",
+  "election_number": 96,
+  "party_id": 7,
+  "image": "kuvat/akv2025/667/6f5bd28e-1aa1-4678-8ed6-d5e7df59e090",
+  "constituency_id": 25,
+  "video": "1-73816157",
+  "video_aspect": "1:1",
+  "video_description_fi": "Mun tärkein tavoite tulevalla valtuustokaudella on tehdä asukaslähtöisempi kaupunki: saada asukkaiden ääni paremmin kuuluviin päätöksenteossa. Haluan tehdä kukoistavamman Helsingin ja tehdä sen asukaslähtöisesti:\n\nAsukkaiden ääni on saatava kuuluviin paremmin, aikaisemmin kuin vasta asukasilloissa. On sitten kyse uuden rakentamisesta tai kulttuuripalveluista, joukkoliikenteen maksuttomuudesta tai metsien hakkuista.\n\nKaikkeen tähän tarvitaan demokratian laajentamista: on luotava uusia asukasfoorumeja ja elimiä, jotka lähtevät pohtimaan näitä asioita ja parempaa kaupunkia. \nVoisi siis sanoa että tärkein tavoitteeni on se mikä kamppanjassakin on ollut: kuunnella helsinkiläisiä ja heidän toiveitaan.  \n",
+  "video_description_sv": null,
+  "video_description_en": "My main goal for the upcoming council term is to make the residents' voices heard more effectively in decision-making. I want to create a more prosperous Helsinki with a resident-centered approach:\nResidents' voices need to be heard earlier, not just during residents' evenings. Whether it be about topics such as new construction, cultural services, free public transport, or forest felling.\nI speak for those who want a thriving city, a city that flourishes.\nAchieving this requires an expansion of democracy: we need to create more resident bodies to discuss these issues and build a better city. So, you could say that my main goal remains the same as it was during the campaign: to listen to the people of Helsinki and their wishes.\n",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 42,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti vasemmalle",
+      "name_sv": "Långt till vänster",
+      "name_en": "Strongly on the left",
+      "name_ru": "С самого левого края",
+      "name_sme": "Nannosit gurut guvlui",
+      "name_ara": "أقصى اليسار",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan edistää oikeudenmukaisempaa kaupunkia: sitä, että asukkaita kuunnellaan ja osallistetaan paremmin päätöksentekoon, myös liittyen sosiaalisesti ja ekologisesti kestävään suunnitteluun ja kaavoitukseen. Helsingin on laajennettava demokratiaa!",
+      "se": "Jag lovar att arbeta för en rättvisare stad: en stad där invånarna blir lyssnade på och bättre involverade i beslutsfattandet, bland annat när det gäller socialt och ekologiskt hållbar planering och zonindelning. Helsingfors måste utvidga demokratin!",
+      "en": "I am committed to promoting a fairer city—one where residents are heard and actively involved in decision-making, especially in matters of socially and ecologically sustainable planning and zoning. Helsinki must expand democracy!",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 2000,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "joku muu",
+        "se": "något annat",
+        "en": "Other",
+        "ru": "другой",
+        "sme": "muhtin eará",
+        "ara": "لغة أخرى"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "→ tasa-arvo ja yhdenvertaisuus: kaikkia tulee kohdella samanarvoisesti. \n→ Empatia. En pelkää olla empaattinen. Tahdon pitää huolta läheisistäni ja kaikista jotka ovat avun tarpeessa. \n→ Solidaarisuus ja oikeudenmukaisuus. \n→ Kulttuuri ja sivistys. Niiden avulla voimme kehittyä, tutkia elämän merkityksellisiä kysymyksiä sekä edistää ihmisten välistä kohtaamista. \n→ Vääryyteen ja epäoikeudenmukaisuuteen puuttuminen. En halua katua jälkeenpäin sitä, etten olisi tehnyt voitavaani asioiden torjumiseksi ja parantamiseksi.\n",
+      "se": "→ Jämlikhet och jämställdhet. Lika möjligheter för alla.\n→ Att inte vara rädd för att vara empatisk. Att ta hand om mina nära och kära. \n→ Att skapa en bättre, rättvisare och mer solidarisk värld och ett solidariskt samhälle.\n→ Att komma ihåg vikten av kultur och bildning.\n→ Att stå upp för frågor, orättvisor och kampen mot klimatförändringen, så att man inte ångrar det i efterhand i alla fall.",
+      "en": "→ Equality and equity: everyone must be treated equally. \n→ Empathy. I am not afraid to be empathetic. I want to take care of my loved ones and anyone who needs help. \n→ Solidarity and justice. \n→ Culture and civilization. They allow us to develop, to explore the meaningful issues in life and to promote human interaction. \n→ Addressing injustice and inequity. I don't want to look back and regret that I didn't do my best to fight and improve things.\n",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Kulttuuri, esittävät taiteet ja vapaan kentän toimijat eivät saa hukkua kaupungin päätöksenteossa. Lupaan toimia esittävien taiteiden äänenä ja tehdä kaikkeni, että kaupunki ei leikkaa taide- ja kulttuuriavustuksiaan. Kunnan on helpotettava tuen saamista ja tarjottava tilojaan myös kulttuuri- ja ei-kaupalliseen käyttöön. \n",
+      "se": "Kultur, scenkonst och aktörer på den fria marknaden får inte bli överväldigade av stadens beslutsfattande. Jag lovar att vara scenkonstens röst och att göra allt jag kan för att staden inte ska skära ner på sina konst- och kulturstöd. Kommunen ska underlätta för människor att få stöd och erbjuda sina lokaler för kulturellt och icke-kommersiellt bruk. ",
+      "en": "Culture, the performing arts, and independent operators must not be overshadowed by city decision-making. I pledge to be a strong advocate for the performing arts and to do everything I can to prevent cuts to arts and cultural funding. The municipality must make it easier for people to access support and offer its facilities for cultural and non-commercial use.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://sakaribister.fi",
+    "facebook_url": "https://www.facebook.com/profile.php?id=61563688075271",
+    "instagram_url": "https://www.instagram.com/sakaribister/",
+    "tiktok_url": "https://www.tiktok.com/@sakaribister",
+    "language_some_other": {
+      "fi": "esperanto",
+      "se": "esperanto",
+      "en": "esperanto",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "municipality_fix": {
+      "fi": "Kaupunki tarvitsee enemmän ei-kaupallisia, vapaita tiloja, kantakaupungista lähiöihin. Joukkoliikenteessä on sekä luottamus- että rahoitusvaje. Maksuton joukkoliikenne on saatava läpi  ja sille on luotava suunnitelma. Arvokkaan lähiluonnon hakkaaminen huonon kaavoituksen vuoksi on lopetettava. Helsingissä on kallista asua: edullista asumista on tuettava kaikin keinoin. Kaupungin on kuultava kulttuurialan ja ruohonjuuritason ääntä sekä vahvistettava sitä päätöksenteossaan. Asukkaita, etenkin nuoria ja opiskelijoita,ei saa unohtaa. Helsingin tulee olla eloisa viihtyisä ja kaikille oikeudenmukainen pohjoismainen pääkaupunki, joka toimii vastavoimana hallituksen monin tavoin tuhoisalle politiikalle.\n",
+      "se": " staden behöver fler icke-kommersiella, öppna utrymmen, från innerstaden till förorterna. Det finns både en brist på förtroende och en brist på finansiering av kollektivtrafiken. Gratis kollektivtrafik måste drivas igenom och en väg måste skapas för det. Det måste bli ett slut på att värdefulla stadsdelar slås sönder på bekostnad av dålig planering. Det är dyrt att bo i Helsingfors: vi måste stödja prisvärda bostäder på alla sätt som är möjliga. Staden måste göra kultursektorns och gräsrotsaktörernas röst hörd. Invånarna, särskilt ungdomar och studerande, måste involveras bättre i beslutsfattandet och mekanismer måste skapas för detta. Vi måste etablera Helsingfors som en livlig, välkomnande och rättvis nordisk huvudstad och motverka regeringens katastrofala nedskärningspolitik. ",
+      "en": "Helsinki needs more non-commercial, open spaces—from the city center to the suburbs. Public transport suffers from both a funding gap and a lack of trust, which must be addressed. Free public transport must be pushed forward with a concrete plan. The destruction of beloved neighborhoods due to poor planning must stop. Helsinki is an expensive city to live in, and affordable housing must be supported by all possible means. The voices of the cultural sector and grassroots movements must not only be heard but strengthened in city decision-making. Residents—especially young people and students—must not be overlooked. Helsinki must be a vibrant, welcoming, and fair Nordic capital, standing as a countering force to the government's harmful and destructive policies.\n",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Vasemmisto-opiskelijoiden (Vasop ry) varapuheenjohtaja\nHelsingin yliopiston ylioppilaskunnan edustajiston jäsen, valmisteluvaliokunnan varajäsen \nSitoutumaton vasemmisto ry:n hallituksen varajäsen \n",
+      "se": "\nVice ordförande i Vasemmisto-opiskelijat \nLedamot i Studentkåren vid Helsingfors universitets delegation, och suppleant i beredningsutskottet \nSuppleant i styrelsen för den Obunden Vänstern ",
+      "en": "Vice President of Finnish Left Students \nMember of HYY’'s Representative Council and deputy member of the Preparatory Committee \nDeputy member of the board, Independent Left- Association \n",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": "esperanto",
+      "se": "esperanto",
+      "en": "esperanto",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": "Lupaan tehdä kaikkeni, että lippuhintojen korotukset loppuvat, HSL alkaa tarjota yhden vyöhykkeen halvempaa lippua sekä alennusta nuorille ja opiskelijoille myös kertalipusta. Tämä luo pohjaa rahoituspohjan uudistukselle, jotta Helsingissä voi mahdollisimman pian olla maksuton joukkoliikenne.\n",
+      "se": "ag lovar att göra allt jag kan för att stoppa höjningen av biljettpriserna, HRT ska börja erbjuda en billigare biljett för en zon, rabatter för ungdomar och studerande också för en enkelbiljett, skapa en färdplan för reformen av finansieringsbasen, så att Helsingfors kan ha gratis kollektivtrafik så snart som möjligt.",
+      "en": "I promise to do everything in my power to prevent fare increases. HSL should introduce more affordable single-zone tickets and offer discounts on single tickets for young people and students. This will lay the groundwork for reforming the financial structure, paving the way for Helsinki to achieve free public transport as soon as possible.\n",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

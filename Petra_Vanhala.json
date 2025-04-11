@@ -1,0 +1,151 @@
+{
+  "id": 2569,
+  "first_name": "Petra",
+  "last_name": "Vanhala",
+  "election_number": 947,
+  "party_id": 4,
+  "image": "kuvat/akv2025/2569/cadeb978-5a2d-4ed3-83a4-8ce9ddce1b29",
+  "constituency_id": 25,
+  "video": "1-73815399",
+  "video_aspect": "1:1",
+  "video_description_fi": "Haluan olla mukana luomassa toimivaa kaupunkia ja vaikuttamassa hyvinvoinnin edistämiseen jokaisessa ikäluokassa Helsingissä. Puolustan 14vrk hoitotakuu säilyttämistä ja maksutonta perusterveydenhuolto jatkossakin. Kasvatukseen ja koulutukseen tulee panostaa tukemalla monipuolisesti lasten ja nuorten hyvinvointia. Kapunki palveluineen tulee olla jokaisen saavutettavissa yhdenvertaisesti ja pyrin edistämään maksutonta joukkoliikennettä Helsinkiin. Haluan olla mukana kehitämässä kaupungin palveluita, jotta ne palvelisivat tulevaisuudessa yhä paremmin ja monipuolisemmin",
+  "video_description_sv": "Jag vill vara med och skapa en fungerande stad och påverka främjandet av välfärden i alla åldersgrupper i Helsingfors. Jag försvarar att man bibehåller vårdgarantin på 14 dagar och en gratis primärvård även i framtiden. Satsningar på utbildning ska göras genom att stödja barns och ungas välfärd på ett mångsidigt sätt. Staden och dess tjänster ska vara tillgängliga för alla på lika villkor, och jag strävar efter att främja avgiftsfri kollektivtrafik till Helsingfors. Jag vill vara med och utveckla stadens tjänster så att de i framtiden betjänar allt bättre och mångsidigare",
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 44,
+      "background_info_id": 10,
+      "name_fi": "Hieman vasemmalle",
+      "name_sv": "Lite till vänster",
+      "name_en": "Slightly to the left",
+      "name_ru": "Немного слева",
+      "name_sme": "Vehá gurut guvlui",
+      "name_ara": "أميل إلى اليسار",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Kasvatukseen ja koulutukseen panostaminen. Toisen asteen koulutuksen maksuttomuus",
+      "se": "Satsningar på fostran och utbildning. Avgiftsfri utbildning på andra stadiet.",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1987,
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Terveys,\nOikeudenmukaisuus,\nHyvyys,\nTasa-arvo,\nPerhe,\n",
+      "se": "Hälsa \nRättvisa \nGodhet \nJämlikhet \nFamilj",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Pyrin edistämään Helsinkiläisille maksutonta julkista liikennettä",
+      "se": "Jag strävar till att främja avgiftsfri kollektivtrafik för helsingforsare",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.sdp.fi/ehdokkaat-kuntavaalit/vanhala-petra/",
+    "facebook_url": "https://www.facebook.com/petra.vanhala.9/",
+    "instagram_url": "https://www.instagram.com/petra.vanhala?igsh=b2hwa2ZyM25pNmNm",
+    "tiktok_url": null,
+    "municipality_fix": {
+      "fi": "Julkisen terveydenhuollon palveluiden parantaminen, 14vrk Hoitotakuun säilyttäminen. \n",
+      "se": "Förbättring av den offentliga hälso- och sjukvården, bibehåll av vårdgarantin på 14 dagar.",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 4,
+      "background_info_id": 2,
+      "name_fi": "En liberaali enkä konservatiivi",
+      "name_sv": "Varken liberal eller konservativ",
+      "name_en": "Neither liberal or conservative",
+      "name_ru": "Ни либерал, ни консерватор",
+      "name_sme": "In liberála inge konservatiiva",
+      "name_ara": "لا ليبرالي ولا متحفظ",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Puolustan hoitoon pääsyn oikea-aikaisuutta. Kannatan Hoitotakuun säilyttämistä 14vrk. Pidän tärkeänä maksutonta perusterveydenhuoltoa jatkossakin",
+      "se": "Jag försvarar tillgång till vård i rätt tid. Jag stöder att vårdgarantin på 14 dagar bibehålls. Jag anser att det är viktigt att även i framtiden ha en avgiftsfri primärvård",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "id": 6785,
+  "first_name": "Onni",
+  "last_name": "Larri",
+  "election_number": 637,
+  "party_id": 8,
+  "image": "kuvat/akv2025/6785/f3a655c2-8341-4fb1-9251-5c7e6638172f",
+  "constituency_id": 25,
+  "video": "1-73817501",
+  "video_aspect": "1:1",
+  "video_description_fi": "Tärkeimmät tavoitteeni ensi valtuustokaudella ovat yrittäjyyden hyvinvoinnin ja ilmastotavoitteiden edistäminen.",
+  "video_description_sv": "Mina viktigaste mål under är att främja entreprenörskap, välmående och klimatmål.",
+  "video_description_en": "My key goals for the next council term are to promote entrepreneurship, well-being, and climate objectives",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 46,
+      "background_info_id": 10,
+      "name_fi": "Hieman oikealle",
+      "name_sv": "Lite till Till högerhöger",
+      "name_en": "SlightTo the rightly to the right",
+      "name_ru": "Немного справа",
+      "name_sme": "Vehá olgeš guvlui",
+      "name_ara": "أميل إلى اليمين",
+      "target_value": 1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Vastuullista kehitystä ja ympäristönsuojelua: \n\nTahdon olla rakentamassa Helsinkiä, joka on ilmastojohtaja investoimalla vihreään infrastruktuuriin, kestäviin hankintoihin ja joustaviin liikenneratkaisuihin. Näin varmistamme, että ympäristöystävälliset valinnat ovat helppoja ja saavutettavissa kaikille helsinkiläisille.",
+      "se": "Hållbar utveckling och miljövänliga lösningar:\n\nJag vill att Helsingfors ska vara en förebild för hållbarhet och klimatåtgärder. Genom att investera i grön infrastruktur, prioritera hållbara upphandlingar och flexibla transportlösningar ser vi till att miljövänliga val är tillgängliga för alla och lätt att göra.",
+      "en": "Sustainable development and eco-friendly solutions:\n\nI envision Helsinki as a leader in sustainability and climate action. By investing in green infrastructure and flexible transport solutions, we will make it easier for everyone to make environmentally friendly choices and contribute to a more sustainable future.\n",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1999,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "luotettavuus, empatia, luovuus, altruismi ja uteliaisuus",
+      "se": "pålitlighet, empati, kreativitet, altruism och nyfikenhet,\n\n",
+      "en": "Empathy, creativity, altruism, curiosity and reliability\n\n\n",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Hyvinvointia ja yhteisöllisyyttä kaikille: \n\nTahdon olla rakentamassa Helsinkiä, jossa kaupunkitilamme ja palvelumme tukevat yhdistys- ja harrastustoimintaa, kulttuuria ja hyvinvointia. Haluan edistää yhteisöllisyyttä ja varmistaa, että tuki on helposti saatavilla niille, jotka sitä tarvitsevat.\n",
+      "se": "Välbefinnande och gemenskap för alla:\n\nJag vill bygga ett Helsingfors där stadsutrymmen och våra tjänster stödjer både förenings- och hobbyverksamhet, fysisk aktivitet och kulturliv. Jag vill vara med och skapa en stad där alla känner att de har tillgång till stöd när det behövs, och där vi värdesätter gemenskapen.",
+      "en": "Well-being and community for everyone:\n\nI want to help build a Helsinki where urban spaces and our services support both community and hobby activities, physical activity, and cultural life. I want to contribute to creating a city where everyone feels they have access to support when needed, and where we value community.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.linkedin.com/in/onni-larri-74b841221/",
+    "facebook_url": null,
+    "instagram_url": "https://www.instagram.com/onnilarri/",
+    "municipality_fix": {
+      "fi": "Helsingin tulee panostaa yrittäjyyden tukemiseen, kestävän talouskasvun ja ympäristöystävällisten hankintojen edistämiseen, samalla kun palveluiden suunnittelussa on huomioitava yhteisöllisyys, hyvinvointi ja kestävä kehitys.",
+      "se": "Helsingfors bör satsa på att stödja entreprenörskap, främja hållbar ekonomisk tillväxt och miljövänliga upphandlingar, samtidigt som välmående och hållbar utveckling beaktas i planeringen av tjänster.",
+      "en": "Helsinki should focus on supporting entrepreneurship, promoting sustainable economic growth and eco-friendly procurement, while also considering community, well-being, and sustainable development in the planning of services.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Tukea yrittäjyydelle ja elinvoimalle: \n\nTahdon olla rakentamassa Helsinkiä, jossa uusien yritysten syntyminen ja kasvu on mahdollistettua keventämällä byrokratiaa, laajentamalla yrittäjien tukipalveluja ja varmistamalla, että kaupungin hankinnoissa painotetaan laatua ja kestävyyttä. Tämä luo elinvoimaisen ja vastuullisen liike-elämän perustan Helsingissä.\n",
+      "se": "Stöd för företagande och stadens vitalitet:\n\nJag vill vara med och forma ett Helsingfors där det är enkelt för nya företag att växa och blomstra. Genom att minska byråkratin och säkerställa att stadens upphandlingar prioriterar kvalitet och hållbarhet skapar vi förutsättningar för ett ansvarsfullt och levande affärsliv.\n",
+      "en": "Support for Entrepreneurship:\n\nI want to contribute to building a Helsinki where new businesses can grow and thrive. By reducing bureaucracy and ensuring that the city's procurements prioritize quality and sustainability, we can lay the foundation for a responsible and dynamic business environment.\n",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

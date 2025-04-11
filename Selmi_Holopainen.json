@@ -1,0 +1,198 @@
+{
+  "id": 3124,
+  "first_name": "Selmi",
+  "last_name": "Holopainen",
+  "election_number": 111,
+  "party_id": 7,
+  "image": "kuvat/akv2025/3124/04e5728f-c256-41bc-a0d4-e4b48f19830e",
+  "constituency_id": 25,
+  "video": "1-73818258",
+  "video_aspect": "1:1",
+  "video_description_fi": "Moikka! Tiesitkö, että joka kolmas helsinkilänen asuu Itä-Helsingissä, mutta Helsingin valtuustossa on vain yksittäisiä itähelsinkiläisiä? Mä olen Selmi Holopainen, 25-vuotias kuntavaaliehdokas Kontulasta, ja näissä vaaleissa mulle on tärkeintä tuoda valtuustoon nuorta ja itähelsinkiläistä ääntä, jotta koulujen arki, palvelut ja liikenne skulaa myös tulevaisuudessa täällä idässä.",
+  "video_description_sv": "Hej! Visste du att var tredje i Helsingfors bor i östra Helsingfors, men att det bara finns ett fåtal ledamöter från östra Helsingfors i stadsfullmäktige? Jag är Selmi Holopainen, en 25-årig kommunalvalskandidat från Gårdsbacka, och i det här valet är det viktigast för mig att få in en ung röst från Östra Helsingfors i stadsfullmäktige, så att vardagen med skolor, tjänster och transporter fungerar smidigt här i Öst.",
+  "video_description_en": "Hi! Did you know that one in three Helsinki residents lives in East Helsinki, but there are only a few members of the Helsinki City Council from East Helsinki? I'm Selmi Holopainen, a 25-year-old municipal election candidate from Kontula, and in these elections it's most important to me to bring a young representative from East Helsinki to the City Council, so that the everyday life of schools, services and transport will run smoothly here in the East.",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 42,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti vasemmalle",
+      "name_sv": "Långt till vänster",
+      "name_en": "Strongly on the left",
+      "name_ru": "С самого левого края",
+      "name_sme": "Nannosit gurut guvlui",
+      "name_ara": "أقصى اليسار",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan pitää Itä-Helsingin puolta.",
+      "se": "Jag lovar att kämpa för östra Helsingfors.",
+      "en": "I promise to stand up for Eastern Helsinki.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1999,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Tärkeimmät arvoni ovat yhdenvertaisuus, solidaarisuus, oikeudenmukaisuus, rehellisyys ja armollisuus.",
+      "se": "Mina kärnvärden är jämlikhet, solidaritet, rättvisa, ärlighet och medmänsklighet.",
+      "en": "My core values are equality, solidarity, justice, honesty and fairness.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lupaan huomioida kaikessa politiikassani ihmisoikeudet sekä ympäristön.",
+      "se": "Jag lovar att beakta mänskliga rättigheter och miljön inom all min politik.",
+      "en": "I promise to take human rights and the environment into account in all my decision-making.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://selmi.fi",
+    "facebook_url": "https://www.facebook.com/selmiholopainen",
+    "instagram_url": "https://www.instagram.com/kasteselmi/",
+    "X_url": null,
+    "tiktok_url": "https://www.tiktok.com/@kasteselmi",
+    "municipality_fix": {
+      "fi": "Helsingin tulee turvata laadukas koulutus, toimivat lähipalvelut sekä kattava joukkoliikenne kaikkialla kaupungissa. Hoidon ja avun piiriin tulee päästä yhtä nopeasti asuinalueesta riippumatta.",
+      "se": "Helsingfors måste säkerställa en kvalitativ utbildning, fungerande närtjänster och en omfattande kollektivtrafik i hela staden. Tillgången till vård och omsorg ska vara lika snabb oberoende av i vilket område man bor.",
+      "en": "Helsinki must ensure high-quality education, functioning local services and comprehensive public transport throughout the city. Access to care and aid must be equally fast, regardless of where one lives.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Vasemmistonaiset, hallituksen jäsen 2022-2025",
+      "se": "Vänsterkvinnorna, styrelseledamot 2022-2025",
+      "en": "The Left Wo­men in Fin­land, member of the board 2022-2025",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Lupaan työskennellä laadukkaan koulutuksen, lähipalveluiden ja saumattoman arjen eteen.",
+      "se": "Jag lovar att främja utbildning, lokala tjänster och ett smidigt vardagsliv.",
+      "en": "I promise to work for quality education, local services and a seamless daily life.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Turun kaupunginvaltuutettu sekä kasvatus- ja opetuslautakunnan jäsen 2023-2024, varavaltuutettu 2021-2022. Vasemmisto-opiskelijoiden puheenjohtaja 2022-2023. Turun yliopiston ylioppilaskunnan puheenjohtaja 2024, edustajiston jäsen 2020-2024. ",
+      "se": "Stadsfullmäktigeledamot och ledamot i nämnden för fostran och un­der­vis­ning i Åbo 2023-2024, suppleant 2021-2022. Ordförande för Vänsternstuderande 2022-2023. Ordförande för Turun yliopisto studentkår 2024, delegations ledamot 2020-2024.",
+      "en": "Member of Turku City Council and Education Committee 2023-2024, Deputy Member 2021-2023. Chair of the Left Students 2022-2023. Chair of the Student Union of the University of Turku 2024, Member of Council 2020-2024.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

@@ -1,0 +1,204 @@
+{
+  "id": 2508,
+  "first_name": "Anton Emil",
+  "last_name": "Pajoslahti",
+  "election_number": 655,
+  "party_id": 8,
+  "image": "kuvat/akv2025/2508/6caa96f3-7ce4-4e6f-898f-def6ad8cae58",
+  "constituency_id": 25,
+  "video": "1-73819309",
+  "video_aspect": "1:1",
+  "video_description_fi": "Ensi valtuusto kaudella minulla on kaksi konkreettista ja tärkeää tavoitetta. \n\n1. Panostetaan opettajien hyvinvointiin kouluissa ja varhaiskasvatuksessa.\n\n2. Helsingissä saadaan huumekuolemat laskuun.\n\n\n",
+  "video_description_sv": "För nästa fullmäktigeperiod har jag två konkreta och viktiga målsättningar.\n\n1. Att det satsas på lärarnas välmående i skolorna och daghemmen\n2. Att antalet drogrelaterade dödsfall minskar i Helsingfors.\n\n",
+  "video_description_en": "For the next council period, I have two concrete and important goals.\n\n1.To invest in the well-being of teachers in schools and daycare centers.\n2.To reduce the number of drug-related deaths in Helsinki.",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 46,
+      "background_info_id": 10,
+      "name_fi": "Hieman oikealle",
+      "name_sv": "Lite till Till högerhöger",
+      "name_en": "SlightTo the rightly to the right",
+      "name_ru": "Немного справа",
+      "name_sme": "Vehá olgeš guvlui",
+      "name_ara": "أميل إلى اليمين",
+      "target_value": 1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan tehdä töitä sen eteen, että Helsingissä saadaan huumekuolemat laskuun.",
+      "se": "Jag kommer att jobba för att vi i Helsingfors ska få ner drogdödligheten i staden.",
+      "en": "I will work towards reducing drug-related deaths in Helsinki.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1995,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "espanja",
+        "se": "spanska",
+        "en": "Spanish",
+        "ru": "испанский",
+        "sme": "spánskkagiella",
+        "ara": "الإسبانية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Luotettavuus, Rakkaus, Turvallisuus, Uteliaisuus, Kunnioittaminen",
+      "se": "Pålitlighet, Kärlek, Trygghet, Nyfikenhet, Respekt",
+      "en": "Reliability, Love, Security, Curiosity, Respect",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lupaan tehdä töitä sen eteen, että Helsingissä panostetaan opettajien hyvinvointiin.",
+      "se": "Jag kommer att jobba för att vi i Helsingfors ska satsa på lärarnas välmående.",
+      "en": "I will work to ensure that there is a focus on the well-being of teachers in Helsinki.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 23,
+      "background_info_id": 8,
+      "name_fi": "ruotsi",
+      "name_sv": "Svenska",
+      "name_en": "Swedish",
+      "name_ru": "шведский",
+      "name_sme": "ruoŧagiella",
+      "name_ara": "السويدية",
+      "target_value": null,
+      "name_ukr": "шведська",
+      "name_som": "af-Iswiidhish"
+    },
+    "homepage_url": "https://val.sfp.fi/kommunalval/fi/ehdokkaat/anton-pajoslahti/",
+    "instagram_url": "https://www.instagram.com/antonpajoslahti",
+    "tiktok_url": "https://www.tiktok.com/@antonpajoslahti",
+    "municipality_fix": {
+      "fi": "Haluan erityisesti tuoda esille, että meidän pitää varmistaa päiväkotien ja koulujen henkilökunnan hyvinvointi, jotta he voivat suoriutua tärkeästä työstään vaarantamatta omaa jaksamistaan ja terveyttään. Meidän on myös saatava huumekuolemat laskuun kaupungissamme.\n\nLisäksi meidän tulisi saada työttömyys laskuun, varmistaa, että liikunta ja urheilu ovat kaikkien saatavilla, huolehtia ympäristöstämme, panostaa integraatioon ja torjua segregaatiota.",
+      "se": "Det jag vill fokusera på är att vi måste se till att personalen vid våra daghem och skolor mår bra och klarar av sitt viktiga arbete utan att behöva riskera sitt välmående. Vi måste även minska drogdödligheten i staden.\n\nFörutom detta borde vi få ner arbetslösheten, se till att motion och idrott är tillgängligt, ta hand om vår miljö, satsa på integration och motverka segregation.\n",
+      "en": "What I want to focus on is ensuring that the staff at our daycare centers and schools are well and can handle their important work without risking their well-being. We must also reduce drug-related deaths in the city.\nIn addition to this, we should reduce unemployment, ensure that exercise and sports are accessible, take care of our environment, invest in integration, and combat segregation\n",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": "Suomi",
+      "se": "Finska",
+      "en": "Finnish",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": "Lupaan tehdä töitä turvallisen, hyvinvoivan ja mahdollistavan Helsingin puolesta.",
+      "se": "Jag kommer att jobba för ett tryggt, välmående och möjliggörande Helsingfors.",
+      "en": "I will work for a safe, well-being, and enabling Helsinki.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Korkeakoulupolitiikka, Åbo Akademin ylioppilaskunta, valtuutettu 2017-2023",
+      "se": "Studentpolitik, Åbo Akademis Studentkår, fullmäktige ledamot 2017-2023",
+      "en": "Student politics, Åbo Akademi Student Union, council member 2017-2023.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

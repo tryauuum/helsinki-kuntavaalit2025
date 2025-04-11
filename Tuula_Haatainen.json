@@ -1,0 +1,206 @@
+{
+  "id": 5790,
+  "first_name": "Tuula",
+  "last_name": "Haatainen",
+  "election_number": 847,
+  "party_id": 4,
+  "image": "kuvat/akv2025/5790/ec948b63-f512-47f1-8aff-591b85f82a14",
+  "constituency_id": 25,
+  "video": "1-73819821",
+  "video_aspect": "1:1",
+  "video_description_fi": "Haluan jatkaa valtuustossa reilumman Helsingin puolesta. \nOn tärkeää pitää huolta pienimmistä. Päiväkotien ja koulujen ryhmäkoot on oltava pieniä ja oppilailla riittävästi tukea oppimiseen.\nTerveyskeskuslääkärille on päästävä kiireettömissä tapauksissa alle kahdessa viikossa ja vanhuspalveluita on vahvistettava. Helsinki on kulttuuritoimijana tärkeä, kulttuuri työllistää ja sitä pitää tukea. Helsinkiläiset rakastavat kirjastoja, lähikirjastoista on pidettävä huolta. Ne ovat myös minun sydäntäni lähellä.",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 44,
+      "background_info_id": 10,
+      "name_fi": "Hieman vasemmalle",
+      "name_sv": "Lite till vänster",
+      "name_en": "Slightly to the left",
+      "name_ru": "Немного слева",
+      "name_sme": "Vehá gurut guvlui",
+      "name_ara": "أميل إلى اليسار",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Helsingissä on pidettävä huolta kirjasto- ja kulttuuripalveluiden saatavuudesta koko kaupungissa.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1960,
+    "language_skills": [
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "ranska",
+        "se": "franska",
+        "en": "French",
+        "ru": "французский",
+        "sme": "fránskkagiella",
+        "ara": "الفرنسية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Yhteiskunnallinen tasa-arvo, oikeudenmukaisuus, ihmisoikeuksien ja  lastenoikeuksien kunnioittaminen, ympäristön suojelu",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Koulujen ryhmäkokoja tulee pienentää ja oppimisen tukea tarvitseville oppilaille on annettava riittävästi tukea turvallisen oppimisympäristön varmistamiseksi.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://tuulahaatainen.fi",
+    "facebook_url": "Https://facebook.com/TuulaHaatainen",
+    "instagram_url": "https://instagram.com/haatainent",
+    "X_url": "https://twitter.com/TuulaHaatainen",
+    "tiktok_url": null,
+    "municipality_fix": {
+      "fi": "Kaikilla terveysasemilla pitää päästä vastaanotolle vähintään kahdessa viikossa. Vanhuspaveluita pitää parantaa kotihoidossa ja hoivaokotipaikkoja pitää lisätä.\nVarhaiskasvatuksessa ja kouluissa pitää ryhmäkoot olla riittävän pieniä ja oppimisen tukea oltava paremmin saatavilla kouluissa.\nKulttuuripalveluita ja harrastusmahdollisuuksia oltava tarjolla koko kaupungissa.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Eduskunnan sivistysvaliokunnan puheenjohtaja.\nEuroopan neuvoston parlamentaarisen valtuuskunnan varajäsen\nSuomen Pankin tilintarkastaja",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Toimin terveydenhuollon hoitotakuun puolesta lääkäriin pääsyn varmistamiseksi vähintään kahdessa viikossa kiireettömissä tapauksissa kaikilla terveysasemilla.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "kansanedustaja",
+        "se": "riksdagsledamot",
+        "en": "MP",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      },
+      {
+        "fi": "kunnanvaltuutettu",
+        "se": "ledamot i kommunfullmäktige",
+        "en": "municipal councillor",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Työministeri (2019-23), Opetusministeri (2003-05) Sosiaali- ja terveysministeri (2005-07), Helsingin kaupungin sivistys- ja henkilöstötoimen apulaiskaupunginjohtaja (2007-12)",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

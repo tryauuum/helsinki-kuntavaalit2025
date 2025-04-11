@@ -1,0 +1,198 @@
+{
+  "id": 2971,
+  "first_name": "Nick",
+  "last_name": "Walters",
+  "election_number": 210,
+  "party_id": 7,
+  "image": "kuvat/akv2025/2971/9932587f-5ac7-4941-8088-fe5580bdd33e",
+  "constituency_id": 25,
+  "video": "1-73823859",
+  "video_aspect": "1:1",
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 43,
+      "background_info_id": 10,
+      "name_fi": "Vasemmalle",
+      "name_sv": "Till vänster",
+      "name_en": "On the left",
+      "name_ru": "Слева",
+      "name_sme": "Gurut guvlui",
+      "name_ara": "اليسار",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Aion tehdä työtä Helsingin luonnon suojelemiseksi! Meidän on turvattava hauraat metsämme ja meremme ilmastonmuutoksen vaikutuksilta ja luonnon monimuotoisuuden häviämiseltä suojelemalla ja ennallistamalla luontoympäristöjä, investoimalla puhtaaseen energiaan, asettamalla joukkoliikenne etusijalle sekä rakentamalla lisää ja turvallisempia pyöräilyreittejä ja lisää pyörävarastoja. Suojelkaamme Itämerta ja istutetaan puistoihimme lisää puita ja luonnonkukkia luonnon monimuotoisuuden palauttamiseksi.",
+      "se": "Jag kommer att arbeta för att skydda Helsingfors natur! Vi måste skydda våra ömtåliga skogar och havet mot klimatförändringens effekter och förlusten av biologisk mångfald genom att skydda och återställa naturmiljöer, investera i ren energi, prioritera kollektivtrafiken och bygga fler och säkrare cykelvägar och fler cykelförråd. Låt oss skydda Östersjön och plantera fler träd och vildblommor i våra parker för att återställa den biologiska mångfalden.",
+      "en": "I will work to protect Helsinki’s nature! We must secure our fragile forests and the sea against the effects of climate change and biodiversity loss by protecting and restoring natural environments, investing in clean energy, prioritising public transport, and building more and safer cycling routes and more bike storage. Let’s protect the Baltic sea and plant more trees and wildflowers in our parks, to restore biodiversity.",
+      "ru": "Я буду защищать природу Хельсинки! Наши леса и море уязвимы перед изменением климата и утратой биоразнообразия, поэтому важно сохранять и восстанавливать природную среду. Нам нужно инвестировать в чистую энергию, развивать общественный транспорт, строить безопасные веломаршруты и удобные места для хранения велосипедов. Давайте заботиться о Балтийском море, сажать больше деревьев и полевых цветов в парках, чтобы вернуть городу природное разнообразие.",
+      "sme": "Mun áiggun bargat Helssega luonddu suodjaleami ovdii! Mii fertet sihkkarastit iežamet rašes mehciid ja meara dálkkádatrievdama ja biologalaš šláddjivuođa jávkama váikkuhusaid vuostá go suodjalit ja fas faskkodit luonddubirrasiid, investeret buhtes energiijai, vuoruhit kollektiivajohtolaga, ja hukset eanet ja oadjebas sihkkelgeainnuid ja eanet sihkkelastinbáikkiid. Suodjalit Nuortameara ja šaddadit eanet muoraid ja meahccebláđiid min párkkain, vai fas faskkodahttit biologalaš máŋggabealatvuođa.",
+      "ara": "سأعمل على حماية الطبيعة في هلسنكي! يجب أن نحمي غاباتنا الهشة وبحرنا من آثار تغير المناخ وفقدان التنوع البيولوجي. سنحقق ذلك بحماية البيئات الطبيعية واستعادتها، والاستثمار في الطاقة النظيفة، وإعطاء الأولوية للنقل العام، وبناء المزيد من طرق لركوب الدراجات الهوائية الأكثر أمانًا والمزيد من أماكن تخزين الدراجات. دعونا نحمي بحر البلطيق ونزرع المزيد من الأشجار والأزهار البرية في حدائقنا لاستعادة التنوع البيولوجي.",
+      "ukr": "Я працюватиму над захистом природи Гельсінкі! Ми повинні захистити наші вразливі ліси та море від наслідків зміни клімату та втрати біорізноманіття, захищаючи та відновлюючи природне середовище, інвестуючи в екологічно чисту енергетику, надаючи пріоритет громадському транспорту, будуючи більше безпечних велосипедних маршрутів та більше місць для зберігання велосипедів. Захистімо Балтійське море та висаджуймо більше дерев і польових квітів у наших парках, щоб відновити біорізноманіття.",
+      "som": "Waxaan ka shaqayn doonaa ilaalinta dabeecadda iyo dhirta Helsinki! Waa inaan ilaashannaa kaymaheenna jilicsan iyo badda annaga oo ka hortagayna saameynta isbeddelka cimilada iyo luminta noocyada kala duwan ee noolaha aduunka annaga oo ilaalinayna oo dib u soo celinayna deegaanada dabiiciga ah, maalgalinayna tamarta nadiifka ah, mudnaanta siineyna gaadiidka dadweynaha, oo dhisaynna wadooyin badan oo ammaan ah oo loogu talagalay baaskiillada iyo meelaha lagu kaydiyo baaskiillada. Aan ilaashanno badda iyo beeraha inagaga abuureyno geedo iyo ubaxyo duurjoog ah si loo soo celiyo noocyada kala duwan ee noolaha."
+    },
+    "age": 1985,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Empatia, oikeudenmukaisuus, näyttö, kestävyys, syrjimättömyys",
+      "se": "Empati, rättvisa, evidens, hållbarhet, att motarbeta diskriminering",
+      "en": "Empathy, equity, evidence, sustainability, non-discrimination",
+      "ru": "Эмпатия, справедливость, факты,, устойчивость, отсутсвие дискриминации",
+      "sme": "Empatiija, ovttaveardásašvuohta, duođaštusat, ceavzilvuohta, vealaheapmi",
+      "ara": "التعاطف والإنصاف والأدلة والاستدامة وعدم التمييز",
+      "ukr": "Емпатія, справедливість, доказовість, сталість, недискримінація",
+      "som": "Naxariis, sinnaan, caddeynta, waaritaan, takoor la`aan"
+    },
+    "election_promise_2": {
+      "fi": "Aion työskennellä julkisten palvelujen parantamiseksi. Ne tekevät Helsingistä hienon paikan asua, työskennellä ja perustaa perhe - mutta niitä uhkaavat leikkaukset, jotka vahingoittavat yhteiskuntamme heikoimmassa asemassa olevia jäseniä. Hylätään säästötoimet ja yksityistäminen ja investoidaan julkiseen liikenteeseen sekä terveys- ja sosiaalihuoltoon, myös hammas- ja mielenterveyspalveluihin! Päiväkodit ja peruskoulut on pidettävä pieninä ja paikallisina, ja opettajien, sairaanhoitajien ja hoitohenkilökunnan palkkausta ja työoloja on parannettava.",
+      "se": "Jag kommer att arbeta för att förbättra stadens offentliga tjänster. De gör Helsingfors till en underbar plats att bo, arbeta och bilda familj - men Helsingforsbornas förutsättningar hotas av nedskärningar som drabbar särskilt de med färre resurser i vårt samhälle. Låt oss avvisa åtstramningar och privatiseringar och investera i kollektivtrafik, vård och omsorg — inklusive tandvård och mentalvård! Jag värnar om små och lokala daghem och grundskolor, för de är bättre för barnens välmående. Löner och arbetsvillkoren för lärare, sjuksköterskor och vårdpersonal i Helsingfors bör förbättras.",
+      "en": "I will work to improve public services. They make Helsinki a wonderful place to live, work and raise a family – but they’re under threat of cuts that harm the most disadvantaged members of our society. Let’s reject austerity and privatisation and invest in public transport and health and social care, including dental and mental healthcare! Daycares and primary schools should be kept small and local, and the pay and working conditions of teachers, nurses and care workers must be improved.",
+      "ru": "Я буду работать над улучшением государственных услуг, потому что именно они делают Хельсинки отличным местом для жизни, работы и воспитания детей. Сейчас эти услуги находятся под угрозой сокращения, и это особенно больно ударит по тем, кто нуждается в них больше всего. Вместо жесткой экономии и приватизации давайте вложим средства в общественный транспорт, здравоохранение и социальную помощь, включая стоматологию и психиатрическую поддержку. Детские сады и начальные школы должны оставаться небольшими и доступными рядом с домом, а зарплаты и условия труда учителей, медсестер и работников по уходу необходимо улучшить.",
+      "sme": "Áiggun bargat buoridit almmolaš bálvalusaid. Sii dahket Helssega fiinna báikin orrut, bargat ja bajásgeassit bearraša – muhto sii leat uhkiduvvon geahpedemiid vuolde mat vahágahttet min servodaga eanemus heajos dilis olbmuid. Hilgut seastima ja privatiserema ja investeret almmolaš fievrredeapmái ja dearvvašvuođa- ja sosiálafuolahussii, earret eará giehta- ja psyhkalaš dearvvašvuođasuorgái! Beaiveruovttut ja vuođđoskuvllat berrejit dollot unnin ja báikkálaččat, ja oahpaheddjiid, buohccedivššáriid ja fuolahusbargiid bálká ja bargoeavttut fertejit buoriduvvot.",
+      "ara": "سأعمل على تحسين الخدمات العامة. فهي تجعل هلسنكي مكانًا رائعًا للعيش والعمل وتربية الأسرة - ولكنها مهددة بالتخفيضات التي  تضر الأشخاص الأكثر حرمانًا بمجتمعنا. انا ارفض التقشف والخصخصة وأدعم الاستثمار في وسائل النقل العام والرعاية الصحية والاجتماعية، بما في ذلك الرعاية الصحية للأسنان والرعاية الصحية النفسية. يجب الإبقاء على دور الحضانة والمدارس الابتدائية صغيرة ومحلية، ويجب تحسين رواتب وظروف عمل المعلمين والممرضات والعاملين في مجال الرعاية.\n",
+      "ukr": "Я працюватиму над покращенням державних послуг. Вони роблять Гельсінкі чудовим місцем для життя, роботи та виховання дітей, але вони знаходяться під загрозою скорочення, яке шкодить найбільш незахищеним членам нашого суспільства. Відкиньмо жорстку економію і приватизацію та інвестуймо в громадський транспорт, охорону здоров'я і соціальну допомогу, в тому числі стоматологічну і психіатричну! Дитячі садки та початкові школи повинні залишатися невеликими та локальними, а оплата та умови праці вчителів, медсестер та доглядальниць повинні бути покращені.",
+      "som": "Waxaan ka shaqayn doonaa hagaajinta adeegyada dadweynaha. Adeegyadaas oo ka dhigeysa Helsinki meel wanaagsan  oo lagu noolaado, lagu shaqeeyo laguna koriyo qoysaska laakiin waxay khatar ugu jiraan goynta wax u dhimaysa xubnaha ugu nugul bulshadeena. Aan diidno xadidaadda iyo gaaryeelitaanka oo aan maalgelino gaadiidka dadweynaha iyo daryeelka caafimaadka iyo bulshada, oo ay ku jiraan daryeelka caafimaadka ilkaha iyo daryeelka caafimaadka maskaxda! Dugsiyada xannaanada iyo dugsiyada hoose waa in la ilaaliyaa, oo ey ahaadaan tira ahaan kuwa kooban. Waa in la hagaajiyaa mushaaraadka iyo xaaladaha shaqada ee macalimiinta, kalkaaliyaasha iyo shaqaalaha daryeelka."
+    },
+    "language": {
+      "id": 25,
+      "background_info_id": 8,
+      "name_fi": "jokin muu",
+      "name_sv": "något annat",
+      "name_en": "Other",
+      "name_ru": "другой",
+      "name_sme": "eará",
+      "name_ara": "لغة أخرى",
+      "target_value": null,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "homepage_url": "http://www.nickw.fi",
+    "facebook_url": "http://www.facebook.com/nickw.fi",
+    "instagram_url": "http://www.instagram.com/nickw.fi",
+    "X_url": null,
+    "tiktok_url": "http://www.tiktok.com/@nickw.fi",
+    "municipality_fix": {
+      "fi": "Helsinki on hieno paikka asua, mutta monia asioita pitäisi parantaa, jotta se olisi oikeudenmukaisempi ja toimivampi paikka kaikille. Jos pitäisi valita yksi yleinen teema, kaupungin pitäisi panostaa paljon enemmän sosiaali- ja terveydenhuoltoon (myös hammashuoltoon ja mielenterveyspalveluihin).",
+      "se": "Helsingfors är en underbar plats att bo, men det finns många saker som borde förbättras för att göra staden mer rättvis och välfungerande för alla. Om jag måste välja ett ämne, så borde staden investera mycket mer i social omsorg och sjukvård (inklusive tandvård och mentalvård).",
+      "en": "Helsinki’s a wonderful place to live, but there are many things that should be improved to make it a fairer and better functioning place for all. If I would have to pick one general theme, the city should invest much more heavily in its social care and healthcare (including dental healthcare and mental healthcare).",
+      "ru": "Хельсинки - прекрасное место для жизни, но есть много вещей, которые следует улучшить, чтобы сделать его более справедливым и лучше функционирующим местом для всех. Если бы мне пришлось выбрать одну общую тему, то город должен вкладывать гораздо больше средств в социальное обеспечение и здравоохранение (включая стоматологию и психиатрическую помощь).",
+      "sme": "Helsset lea hui buorre orrunbáiki, muhto doppe leat olu áššit maid galggašii buoridit vai šaddá vuoiggalaš ja buorebut doaibmi báiki buohkaide. Jus ferten válljet ovtta oppalaš fáttá, de galggašii gávpot investeret olu eanet sosiála- ja dearvvašvuođabálvalusaide (maiddái giehtadearvvašvuođabálvalusaide ja psyhkalaš dearvvašvuođabálvalusaide).",
+      "ara": "هلسنكي مكان رائع، ولكن هناك العديد من الأشياء التي يجب تحسينها لتجعل مكانً أكثر عدلاً وأفضل أداءً للجميع. لو كنت مجبراً أختار موضوعًا عامًا واحدًا، فيجب أن تستثمر المدينة بشكل أكبر بكثير في الرعاية الاجتماعية والرعاية الصحية (بما في ذلك الرعاية الصحية للأسنان والرعاية الصحية النفسية).",
+      "ukr": "Гельсінкі - чудове місце для життя, але є багато речей, які слід покращити, щоб зробити його більш справедливим і краще функціонуючим місцем для всіх. Якби мені довелося обрати одну загальну тему, місто повинно інвестувати набагато більше коштів у соціальну сферу та охорону здоров'я (включаючи стоматологію та психічне здоров'я).",
+      "som": "Helsinki waa meel fiican oo lagu noolaado, laakiin waxyaabo qaar ayaa u baahan in la hagaajiyo si ay u noqoto magaalo cadaalad ah oo si wanaagsan u shaqeysa. Haddii aan dooran lahaa hal mowduuc guud, waa in magaalada ay si aad ah umaalgeliso daryeelka bulshada iyo daryeelka caafimaadka (oo ay ku jiraan daryeelka caafimaadka ilkaha iyo daryeelka caafimaadka maskaxda)."
+    },
+    "representative_other": {
+      "fi": "• Varajäsen, Helsingin kaupingin tasa-arvo- ja yhdenvertaisuustoimikunta\n• Varavaltuutettu, Luonnon-, ympäristö- ja metsätieteilijöiden liitto Loimu ry\n• Luottamusmies, Julkisalan koulutettujen neuvottelujärjestö JUKO ry\n• Jäsen, Luonnonvarakeskuksen tasa-arvo- ja yhdenvertaisuus ryhmä\n• Perustaja, hallituksen jäsen ja entinen puheenjohtaja, HELSINKI LEFT ry",
+      "se": "• Suppleant, Helsingfors stads jämställdhets- och likabehandlingskommitté\n• Suppleant i fullmäktige, Natur-, miljö- och skogsvetarförbundet Loimu rf\n• Förtroendevald, Förhandlingsorganisationen för offentliga sektorns utbildade FOSU rf\n• Ledamot, Naturresursinstitutets jämställdhets- och likabehandlingsgrupp\n• Medgrundare, styrelseledamot och tidigare ordförande, HELSINKI LEFT rf",
+      "en": "• Deputy Member, City of Helsinki’s Equality & Non-Discrimination Commision\n• Deputy Councillor, The Union of Professionals in Natural, Environmental & Forestry Sciences Loimu ry\n• Shop Steward (trade union representative), Negotiation Organisation for Public Sector Professionals JUKO ry\n• Member, Natural Resources Institute Finland’s Equality & Non-Discrimination Group\n• Co-Founder, Board Member & Former Chair, HELSINKI LEFT ry",
+      "ru": "• Заместитель члена Комиссии по вопросам равенства и недискриминации города Хельсинки\n• Заместитель советника, Профсоюз специалистов в области естественных, экологических и лесных наук Loimu ry\n• Член профсоюза (представитель профсоюза), Организация по ведению переговоров для специалистов государственного сектора JUKO ry\n• Член группы по вопросам равенства и недискриминации Института природных ресурсов Финляндии\n• Соучредитель, член совета директоров и бывший председатель, HELSINKI LEFT ry",
+      "sme": "• Várrelahttu, Helssega gávpoga ovttaveardásašvuođa- ja vealaheami eastadankommišuvdna \n• Várreráđđelahttu, Luonddu-, biras- ja boazodoallodiehtagiid ámmátolbmuid lihttu Loimu ry\n• Gávpehoavda (ámmátlihtu ovddasteaddji), šiehtadallanorganisašuvdna almmolaš suorggi ámmátolbmuide JUKO ry\n• Lahttu, luondduriggodatlágádusa Suoma ovttaveardásašvuođa- ja vealaheami eastadanjoavkku\n• Ovttas ásaheaddji, stivralahttu ja ovddeš ságadoalli, HELSINKI LEFT ry",
+      "ara": "• نائب عضو لجنة المساواة وعدم التمييز في مدينة هلسنكي\n• نائب عضو مجلس في نقابة المهنيين في العلوم الطبيعية والبيئية وعلوم الغابات (لويمو ري)\n• وكيل متجر (ممثل نقابي)، منظمة التفاوض للمهنيين في القطاع العام JUKO ry\n• عضو في مجموعة المساواة وعدم التمييز في معهد الموارد الطبيعية في فنلندا\n• أحد مؤسسي HELSINKI LEFT ry، عضو مجلس الإدارة والرئيس السابق ",
+      "ukr": "• Заступник члена Комісії з питань рівності та недискримінації міста Гельсінкі\n• Заступник радника, Спілка професіоналів у галузі природничих, екологічних та лісових наук, Лоймуйрі\n• Профспілковий представник (представник профспілки), Переговорна організація працівників державного сектору JUKO ry\n• Член Групи з питань рівності та недискримінації Інституту природних ресурсів Фінляндії\n• Співзасновник, член правління та колишній голова, Ліві ліві Гельсінкі",
+      "som": "• Xubin Kuxigeen, Guddiga Sinaanta & Ka-hortagga Takoorka Magaalada Helsinki \n• Kuxigeenka Golaha, Ururka Xirfadlayaasha Sayniska Dabiiciga, Deegaanka & Kaymaha Loimu ry \n• Kormeeraha (wakiilka ururka shaqaalaha), Ururka Wada-xaajoodka ee Xirfadlayaasha Waaxda Dadweynaha JUKO ry \n• Xubin, Kooxda Sinaanta & Ka-hortagga Takoorka ee Machadka Khayraadka Dabiiciga ee Finland \n• Aasaasaha-wadajira, Xubin Golaha & Guddoomiyihii Hore, HELSINKI LEFT ry"
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": "Englanti",
+      "se": "Engelska",
+      "en": "English",
+      "ru": "Английский язык",
+      "sme": "Eaŋgalsgiella",
+      "ara": "اللغة الإنجليزية ",
+      "ukr": "Англійська мова",
+      "som": "Af-Ingiriis"
+    },
+    "election_promise_1": {
+      "fi": "Edistän sosiaalista osallisuutta! Helsingistä tulee parempi paikka kaikille, kun poistamme syrjinnän ja yhteiskunnallisen kahtiajaon, joka haittaa lapsia/monikulttuuriperheitä, maahanmuuttajia, pienituloisia työntekijöitä ja ihmisiä, joiden ansiokyky on rajallinen. Meidän on panostettava sosiaaliseen asuntotuotantoon ja kaksikieliseen koulutukseen sekä poistettava demokraattisen osallistumisen esteet.",
+      "se": "Jag vill främja samhörighet för alla! Helsingfors kommer att bli en bättre plats för alla när vi gör oss av med diskriminering och sociala klyftor som missgynnar barn, mångkulturella familjer, invandrare, låginkomsttagare och personer med begränsad förmåga att tjäna pengar. Vi måste investera i subventionerade bostäder och modersmålsundervisning för olika språkgrupper samt underlätta demokratiskt deltagande för Helsingforsborna.",
+      "en": "I will promote social inclusion! Helsinki will be a better place for all when we eliminate discrimination and social divisions that disadvantage children/multicultural families, immigrants, low-income workers, and people with limited capacity to earn. We must invest in social housing and bilingual education, and remove barriers to democratic participation.",
+      "ru": "Я буду способствовать социальной интеграции!  Хельсинки станет комфортнее для всех, если мы устраним дискриминацию и социальное разделение, которые мешают детям, мультикультурным семьям, иммигрантам, низкооплачиваемым работникам и людям с ограниченными возможностями заработка. Нам важно инвестировать в социальное жилье и двуязычное образование, а также сделать демократическое участие доступным для всех.",
+      "sme": "Mun áiggun ovddidit sosiála fátmmasteami! Helsset šaddá buoret báikin buohkaide, go mii jávkadit vealaheami ja sosiála juogadeami, mii hehtte mánáid/máŋggakultuvrralaš bearrašiid, sisafárrejeddjiid, vuollegis dietnasa bargiid, ja olbmuid geain lea ráddjejuvvon dinetnávccat. Mii fertet investeret sosiála visttiide ja guovttegielat oahpahussii, ja váldit eret hehttehusaid demokráhtalaš oassálastimii.",
+      "ara": "سأعزز الاندماج الاجتماعي! ستصبح هلسنكي مكانًا أفضل للجميع عندما نقضي على التمييز والانقسامات الاجتماعية التي تضر بالأطفال والعائلات المتعددة الثقافات والمهاجرين والعمال ذوي الدخل المنخفض والأشخاص ذوي القدرة المحدودة على الكسب. يجب علينا الاستثمار في الإسكان الاجتماعي والتعليم ثنائي اللغة، وإزالة الحواجز التي تحول دون المشاركة الديمقراطية.\n",
+      "ukr": "***Вибачте, ці переклади були зроблені за допомогою штучного інтелекту, тому можуть містити помилки. Якщо ви розумієте англійську, будь ласка, перевірте цю версію!*** Я сприятиму соціальній інтеграції! Гельсінкі стане кращим місцем для всіх, коли ми усунемо дискримінацію та соціальний поділ, які ставлять у невигідне становище дітей/мультикультурні сім'ї, іммігрантів, працівників з низькими доходами та людей з обмеженими можливостями заробляти. Ми повинні інвестувати в соціальне житло та двомовну освіту, а також усунути бар'єри для демократичної участі.",
+      "som": "Waxaan dhiirigelin doonaa isdhexgalka bulshada! Helsinki waxay noqon doontaa magaalo u wanaagsan dhamaan dadkeeda, marka aan cirib-tirno takoorka iyo kala qaybsanaanta bulshada kaaso o wax u dhimaya carruurta/qoysaska, isirka kala duwan, soo galootiga, shaqaalaha dakhligoodu yar yahay, iyo dadka leh awoodda yar ee ay wax ku kasbadaan. Waa inaan maalgelinnaa guryaha bulshada iyo waxbarashada laba-luqadood, iyo inaan ka saarno caqabadaha hortaagan ka qaybqaadashada dimuqraadiga ah."
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

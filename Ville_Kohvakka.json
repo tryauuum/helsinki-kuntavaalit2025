@@ -1,0 +1,189 @@
+{
+  "id": 4719,
+  "first_name": "Ville",
+  "last_name": "Kohvakka",
+  "election_number": 635,
+  "party_id": 8,
+  "image": "kuvat/akv2025/4719/e12a92e9-a5e9-4526-ae93-c7cf8c7a5034",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 47,
+      "background_info_id": 10,
+      "name_fi": "Oikealle",
+      "name_sv": "Till höger",
+      "name_en": "To the right",
+      "name_ru": "Справа",
+      "name_sme": "Olgeš guvlui",
+      "name_ara": "اليمين",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Oletko sinäkin kyllästynyt sotkuihin, töhrimiseen ja roskiin? Yritetään ihan oikeasti pitää kaupunkimme viihtyisänä ja siistinä!",
+      "se": "Trött på klotteriet och skräp. Ska vi verkligen hålla staden rent? Jag lovar att jag ska försöka påverka just det. ",
+      "en": "Have you also noticed tags and spraypaint-pollution everywhere. Could we just really try to keep our city clean? Yes we could!",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1977,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      },
+      {
+        "fi": "italia",
+        "se": "italienska",
+        "en": "Italian",
+        "ru": "итальянский",
+        "sme": "italiagiella",
+        "ara": "الإيطالية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Vapaus, työ, oikeudenmukaisuus, elämästä nauttimen, ja luonto",
+      "se": "Frihet, arbete, rättvisa, njuta av livet och natur",
+      "en": "Freedom, work, justice, enjoyment of life, and nature",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Oletko sinäkin kyllästynyt kaupunkisuunnittelun ja arkkitehtuurin yksipuolisuuteen? Uskon, että voisimme pienellä vaivalla rakentaa paljon viihtyisämpää kaupunkia. ",
+      "se": "Vill du också stoppa arkitekturs degeneration? Jag tror att vi kan lätt bygga mer trivsamt stad. ",
+      "en": "Are you also tired to a monotone architecture? I believe with little effort we could build so much more attractive city! ",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "municipality_fix": {
+      "fi": "Luoda siisti, monimuotoinen ja viihtyisä kaupunkiympäristö ilman veronkorotuksia",
+      "se": "Skapa en ren, mångsidig och välkomnande stadsmiljö utan skattehöjningar",
+      "en": "Creating a clean, diverse and welcoming urban environment without raising taxes",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 4,
+      "background_info_id": 2,
+      "name_fi": "En liberaali enkä konservatiivi",
+      "name_sv": "Varken liberal eller konservativ",
+      "name_en": "Neither liberal or conservative",
+      "name_ru": "Ни либерал, ни консерватор",
+      "name_sme": "In liberála inge konservatiiva",
+      "name_ara": "لا ليبرالي ولا متحفظ",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Viimeinen asia jonka tulisin hyväksymään kaupungin päättäjänä on kunnallisveron korotus. Annetaan lähtökohtaisesti ihmisten itse päättää.  ",
+      "se": "Absolut sista sak jag vill godkänna är höjning till kommunalskatt i Helsingfors. ",
+      "en": "The last thing I would accept is a rise to Helsinki municipality tax. Let the people decide themselves! ",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "id": 8238,
+  "first_name": "Annamari (Ami)",
+  "last_name": "Värtö",
+  "election_number": 208,
+  "party_id": 7,
+  "image": "kuvat/akv2025/8238/2ce91c0e-39aa-436a-b95f-a24316319e69",
+  "constituency_id": 25,
+  "video": "1-73819623",
+  "video_aspect": "1:1",
+  "video_description_fi": "Tärkein tavoitteeni tulevalla valtuustokaudella on varmistaa, että Helsingissä tehdään pallon kokoista politiikkaa. Se tarkoittaa sitä, että kaikessa päätöksenteossa otetaan huomioon planetaariset rajat, unohtamatta heikompiosaisia, tulevia sukupolvia tai muunlajisia eläimiä. Kaiken päätöksenteon tulee pohjautua tutkittuun tietoon ja olla ennen kaikkea oikeudenmukaista. ",
+  "video_description_sv": null,
+  "video_description_en": "My most important goal for the upcoming council term is to ensure that Helsinki is making planetary decisions. This means that planetary boundaries are taken into account in all decision-making, not forgetting the disadvantaged, future generations or animals of other species. All decision-making must be based on research-based information and, above all, be fair.",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 42,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti vasemmalle",
+      "name_sv": "Långt till vänster",
+      "name_en": "Strongly on the left",
+      "name_ru": "С самого левого края",
+      "name_sme": "Nannosit gurut guvlui",
+      "name_ara": "أقصى اليسار",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Kaikille oikeudenmukainen kaupunki ja maailma.\n\nAsukkaistaan välittävä kaupunki ehkäisee syrjäytymistä, on vähemmistöjen puolella ja pitää huolta lapsista ja nuorista. Vammais-, mielenterveys- ja päihdepalvelut on oltava kunnossa. Maahanmuuttajat on huomioitava kaikessa kaupungin palvelutarjonnassa. Laadukasta varhaiskasvatusta pitää tarjota inhimillisen kokoisissa yksiköissä eikä kasvatuksesta tai koulutuksesta pidä leikata vaan niihin on päinvastoin panostettava. Lastensuojeluun, oppilashuoltoon, erityisopetukseen ja nuorisotyöhön on ohjattava riittävästi resursseja. Vanhuksille pitää tarjota arvokas vanhuus. Kasvipohjaista ruokavaliota edistämällä Helsinki edistää myös eläinten oikeuksia. Oikeudenmukaisuuden tarkastelu pitää ulottaa myös Helsingin ja maamme rajojen ulkopuolelle ulottuviin ympäristö- ja ihmisoikeusvaikutuksiin.",
+      "se": null,
+      "en": "A fair city and world for all.\n\nA city that cares about its residents prevents exclusion, supports minorities and takes care of children and young people. Disability, mental health and substance abuse services must be in order. Immigrants must be taken into account in all the city's service offerings. High-quality early childhood education must be offered in human-sized units and investment must be made in education. Sufficient resources must be directed to child protection, student welfare, special education and youth work. The elderly must be offered a dignified old age. By promoting a plant-based diet, Helsinki also promotes animal rights. The examination of fairness must also include environmental and human rights impacts that extend beyond the borders of Helsinki and our country.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1983,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Oikeudenmukaisuus, yhdenvertaisuus, vapaus, turvallisuus, universalismi.",
+      "se": null,
+      "en": "Justice, equality, freedom, security, universalism.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Säästetään lähimetsät\n\nLuonnolle ja kaupunkilaisille elintärkeitä lähimetsiä ei saa enää hävittää rakentamisen tieltä. Lähimetsät ylläpitävät kaupunkilaisten terveyttä ja hyvinvointia ja auttavat sopeutumaan kuumenevaan ilmastoon. Luontokato on pysäytettävä ja Helsinki voi ja sen pitää tehdä osansa tavoitteen eteen. Jos kaupungin täytyy kasvaa, parempi suunta on ylöspäin kuin metsien päälle. Myös vajaakäytöllä olevia toimistorakennuksia tai teollisuusalueita tulee muuttaa asuinkäyttöön ja asuinalueiksi.",
+      "se": null,
+      "en": "Save urban forests.\n\nLocal forests are vital to nature and city dwellers andmust no longer be destroyed to make way for construction. Local forests maintain the health and well-being of city dwellers and help them adapt to a warming climate. Nature loss must be stopped, and Helsinki can and must do its part to achieve this goal. If the city must grow, the better direction is up rather than over the forests. Underused office buildings or industrial areas must also be converted to residential use and residential areas.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://pallonkokoinenelama.com/",
+    "facebook_url": "https://www.facebook.com/amivartopallonkokoinenelama/",
+    "instagram_url": "https://instagram.com/pallonkokoinenelama",
+    "X_url": null,
+    "tiktok_url": "https://tiktok.com/@pallonkokoinenelama",
+    "municipality_fix": {
+      "fi": "Varhaiskasvatuksen ja koulutuksen resursseja tulisi kasvattaa.\nKaupunkilaisten hiilijalanjälki pitää saada pienemmäksi, kohti vuoden 2030 tavoitetasoa: 2,5 tonnia.\nYhtäkään helsinkiläisille rakasta lähimetsää ei tule enää hävittää rakentamisen tieltä.\nJoukkoliikenne pitää saada edullisemmaksi ja siirtyä asteittain kohti maksutonta joukkoliikennettä.\nPyörätiehankkeita tulee priorisoida liikennehankkeissa ja huolehtia, että pyöräilyn olosuhteet ovat kunnossa ympäri vuoden. \nSosiaali- ja terveyspalveluihin täytyy resurssoida lisää rahaa, jotta kaikki kaupunkilaiset pääsevät lääkäriin ja saavat muuta välttämätöntä hoitoa, kun sille on tarve. Mielenterveys- ja päihdepalveluihin sekä ennaltaehkäisevään sosiaali- ja terveydenhuoltoon tulee panostaa nykyistä enemmän. \nVanhuspalvelut pitää laittaa kuntoon, jotta vanhuksille taataan arvokas vanhuus. Riittävä hoitajamitoitus, joustavat asumisratkaisut ja laadukas kotihoito ovat avaintekijöitä.",
+      "se": null,
+      "en": "Resources for early childhood education and school should be increased. The carbon footprint of city residents must be reduced, towards the target level of 2030: 2.5 tonnes. None of the nearby forests of Helsinki should be destroyed to make way for construction. Public transport must be made more affordable and there must be a gradual shift towards free public transport. Bicycle path projects must be prioritised in transport projects and it must be ensured that the conditions for cycling are in order throughout the year. More money must be allocated to social and health care services so that all city residents have access to a doctor and other necessary care when needed. More investment should be made in mental health and substance abuse services and preventive social and health care. Services for the elderly must be put in order to guarantee a dignified old age for the elderly. Sufficient nurse staffing, flexible housing solutions and high-quality home care are key factors.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Olen HOK-Elannon edustajiston jäsen. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Helsinkiläisten hiilijalanjälki kestävälle tasolle.\n\nHelsingin tulee edistää asukkaidensa hiilijalanjäljen saamista vuoden 2030 tavoitetasolle, 2,5 tonniin. Jotta helsinkiläisten päästöt saadaan laskemaan, Helsingin tulee panostaa kestävään energiantuotantoon, edistää joukkoliikennettä sekä kävelyn ja pyöräilyn mahdollisuuksia ja siirtyä kohti kasvipohjaisuutta kaikissa julkisissa ruokapalveluissa. Joukkoliikenne pitää olla kaikkia asuinalueita mahdollisimman hyvin palvelevaa ja hinnaltaan kaikkien saavutettavissa. Helsingin pitää tavoitella maksutonta joukkoliikennettä.",
+      "se": null,
+      "en": "Helsinki's carbon footprint to a sustainable level\n\nHelsinki must promote the reduction of its residents' carbon footprint to the 2030 target level of 2.5 tonnes. In order to reduce Helsinki residents' emissions, Helsinki must invest in sustainable energy production, promote public transport and opportunities for walking and cycling, and move towards plant-based food in all public food services. Public transport must serve all residential areas as well as possible and be affordable for everyone. Helsinki must aim for free public transport.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

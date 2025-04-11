@@ -1,0 +1,186 @@
+{
+  "id": 14804,
+  "first_name": "Riikka",
+  "last_name": "Yliluoma",
+  "election_number": 825,
+  "party_id": 6,
+  "image": "kuvat/akv2025/14804/15612031-a661-4a06-804f-869df6ac302d",
+  "constituency_id": 25,
+  "video": "1-73823139",
+  "video_aspect": "1:1",
+  "video_description_fi": "Haluan rakentaa Helsingin joka rohkeasti puolustaa luontoa ja ilmastoa myös silloin kun maailman kriisit uhkaavat, jossa on tilaa monenlaiselle yhteisöllisyydelle ja jossa joukkoliikenne, kävely ja pyöräily ovat aina edullisimpia ja helpompia tapoja liikkua.",
+  "video_description_sv": "Jag vill bygga ett Helsingfors som modigt försvarar naturen och klimatet, även när världens kriser hotar, en stad med utrymme för olika former av gemenskap, där kollektivtrafik, gång och cykling alltid är de billigaste och enklaste sätten att ta sig fram.",
+  "video_description_en": "I want to build Helsinki that boldly defends nature and the climate, even when global crises threaten, a city with space for various forms of community and where public transport, walking, and cycling are always the most affordable and easiest ways to get around.",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 44,
+      "background_info_id": 10,
+      "name_fi": "Hieman vasemmalle",
+      "name_sv": "Lite till vänster",
+      "name_en": "Slightly to the left",
+      "name_ru": "Немного слева",
+      "name_sme": "Vehá gurut guvlui",
+      "name_ara": "أميل إلى اليسار",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Tilaa vallataan kestävälle liikkumiselle. Kävelijät ja pyöräilijät sekä joukkoliikenteen käyttäjät ansaitsevat kaupungissa etusijan. Tästä hyötyvät myös he joiden on välttämätöntä autoilla, kun ruuhkat helpottavat. Olen ehdolla kaupunginvaltuustoon, jotta kestävä liikkuminen olisi aina helpoin ja halvin vaihtoehto.",
+      "se": null,
+      "en": "The city is reclaimed for sustainable mobility. In my vision of Helsinki, the space taken up by cars is reclaimed for sustainable ways of moving around. Pedestrians, cyclists, and public transport users deserve to have priority. This also benefits those who must use cars, as it helps reduce traffic congestion. I am running for the City Council to ensure that sustainable mobility is always the easiest and most affordable option.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1986,
+    "language_skills": [
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Läheiset ihmiset, tasa-arvo, ympäristö ja luonto, oikeudenmukaisuus, työskentely merkityksellisten asioiden eteen",
+      "se": "Nära och kära, jämlikhet, miljö och natur, rättvisa, att arbeta för meningsfulla saker",
+      "en": "Loved ones, equality, environment and nature, justice, working towards meaningful issues and goals",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Kaupungissa viihdytään yhdessä. Kaupunkitilan varaaminen yhdessäolemiselle, yksinäisyyden torjuminen, kulttuurin tukeminen sekä monipuoliset harrastus- ja vapaa-ajanviettomahdollisuudet ovat eläväisen kaupungin tunnusmerkkejä. Olen ehdolla kaupunginvaltuustoon, jotta Helsingissä viihtyisivät niin avantouimarit, palstaviljelijät, itsenäiset aikuiset kuin leikkivät lapsetkin.",
+      "se": "Staden är en plats att trivas tillsammans.Att reservera stadsutrymme för gemenskap, bekämpa ensamhet, stödja kulturen och erbjuda mångsidiga möjligheter till fritidsaktiviteter är kännetecken för en levande stad. Jag kandiderar till stadsfullmäktige för att Helsingfors ska vara en trivsam plats för vinterbadare, koloniodlare, självständiga vuxna och lekande barn.",
+      "en": "The city is a place to enjoy together. Reserving urban spaces for coming together, combating loneliness, supporting culture, and providing diverse opportunities for hobbies and leisure are the hallmarks of a vibrant city. I am running for the City Council to make Helsinki a welcoming place for winter swimmers, allotment gardeners, independent adults, and playful children alike.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.riikkayliluoma.fi/",
+    "facebook_url": "https://facebook.com/riikka.m.yliluoma/",
+    "instagram_url": "https://www.instagram.com/riikkayliluoma/",
+    "municipality_fix": {
+      "fi": "Haluan Helsingin, jossa luontoa ja ilmastoa puolustetaan rohkeasti. Kävelijät, pyöräilijät ja joukkoliikenteen käyttäjät saavat etusijan ja yhteisöllisyys kukoistaa. Haluan elävää kaupunkitilaa eri elämäntilanteissa oleville, kuten lisää julkisia saunoja, yhteisöllisiä tiloja, edullisia harrastustiloja ja palstaviljelmiä.\n",
+      "se": "Jag vill ha ett Helsingfors där naturen och klimatet försvaras modigt, fotgängare, cyklister och kollektivtrafikanter får företräde och gemenskapen blomstrar. Jag vill ha levande stadsmiljöer för människor i olika livssituationer, såsom fler offentliga bastur, gemenskapslokaler, prisvärda fritidslokaler och kolonilotter.",
+      "en": "I want a Helsinki where nature and climate are boldly defended, pedestrians, cyclists, and public transport users are given priority, and community thrives. I want vibrant public spaces for people in different life situations, such as more public saunas, community spaces, affordable hobby facilities, and allotment gardens.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Luonto saa ansaitsemansa tilan. Haluan kaupungin, jossa yhtään puuta ei kaadeta turhaan, helsinkiläiset pääsevät nauttimaan rakkaasta lähiluonnostaan ja arvokkaat luontokohteet suojellaan. Luontopositiivisuuteen tähtäävä Helsinki torjuu myös ilmastokriisiä. Olen ehdolla kaupunginvaltuustoon, jotta ilmaston kuumeneminen ja luontokato eivät hautaudu muiden aikamme haasteiden alle.",
+      "se": "Naturen får det utrymme den förtjänar. Jag vill ha en stad där inte ett enda träd fälls i onödan, där Helsingforsborna kan njuta av sin kära närnatur och där värdefulla naturområden skyddas. Ett naturpositivt Helsingfors bekämpar också klimatkrisen. Jag kandiderar till stadsfullmäktige för att se till att klimatuppvärmningen och förlusten av biologisk mångfald inte begravs under andra utmaningar i vår tid.",
+      "en": "Nature will get the space it deserves. I want a city where not a single tree is cut down in vain, where the residents of Helsinki can enjoy their beloved local nature, and where valuable natural sites are protected. A nature-positive Helsinki also fights the climate crisis. I am running for the City Council to ensure that the climate crisis and the loss of biodiversity are not overshadowed by other challenges of our time.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Ministerin erityisavustaja 2019-2023, kansanedustajan avustaja 2015-2018, europarlamentaarikon avustaja ja harjoittelija 2012-2013",
+      "se": "Specialmedarbetare till ministern 2019–2023, Riksdagsledamotens assistent 2015–2018, Assistent och praktikant till en Europaparlamentariker 2012–2013",
+      "en": "Special Adviser to the Minister 2019–2023, Parliamentary Assistant 2015–2018, Assistant an Trainee to a Member of the European Parliament 2012–2013",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

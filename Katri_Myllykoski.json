@@ -1,0 +1,213 @@
+{
+  "id": 3718,
+  "first_name": "Katri",
+  "last_name": "Myllykoski",
+  "election_number": 769,
+  "party_id": 6,
+  "image": "kuvat/akv2025/3718/356ad050-c7f6-4264-a9bb-97a0e78bda69",
+  "constituency_id": 25,
+  "video": "1-73824904",
+  "video_aspect": "4:3",
+  "video_description_fi": "Kansa liikkeelle - omin voimin ja tuottamatta päästöjä! \nKaupunkilaisten on voitava liikkua omin voimin. Käytetyimpiä liikuntapaikkoja ovat kevyen liikenteen väylät. Niiden on aina oltava sellaisessa kunnossa, että kulkeminen on turvallista myös rollaattorilla ja pyörätuolilla. \nLiikenne on Helsingin suurin päästölähde, ja tavoitteena on olla hiilineutraali viiden vuoden kuluttua. Liikenteen päästöjä on vähennettävä satsaamalla joukkoliikenteeseen ja tukemalla ajoneuvojen vaihtoehtoisia käyttövoimia. ",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 45,
+      "background_info_id": 10,
+      "name_fi": "En vasemmalle enkä oikealle",
+      "name_sv": "Varken vänster eller höger",
+      "name_en": "Neither to the right or the left",
+      "name_ru": "Ни слева, ни справа",
+      "name_sme": "In gurut inge olgeš guvlui",
+      "name_ara": "لا إلى اليسار ولا إلى اليمين",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Liikenteen päästöt alas! Viisi vuotta aikaa tehdä Helsingistä hiilineutraali. Suurin päästölähde on liikenne, joten liikenteen päästöjä on vähennettävä kaikin keinoin. Julkisen liikenteen on oltava hyvä vaihtoehto yksityisautoilulle. Vaihtoehtoisten käyttövoimien latausinfraa on rakennettava helposti saataville. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1963,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      },
+      {
+        "fi": "ranska",
+        "se": "franska",
+        "en": "French",
+        "ru": "французский",
+        "sme": "fránskkagiella",
+        "ara": "الفرنسية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Oikeudenmukaisuus, tasa-arvo, yhdenvertaisuus, ekologisuus, vastuullisuus.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Vesialueet myös kuntouimareiden käyttöön! Uinti on suosituimpien liikuntalajien joukossa ja Helsingillä 130 km merenrantaa. Kuntouinti avovedessä on nykyisellään hankalaa ja vaarallista, ja uimarannat on tehty lähinnä kastautumista varten. Tähän on saatava muutos. Avovesiuinnin on oltava turvallista ja miellyttävää. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.myllykoski.org",
+    "facebook_url": "https://www.facebook.com/myllykoski",
+    "instagram_url": "https://www.instagram.com/katrimyllykoski",
+    "X_url": "https://x.com/KatriMyllykoski ",
+    "municipality_fix": {
+      "fi": "Kevyen liikenteen väylien talvikunnossapito. Liikenteen päästöt on saatava vähenemään. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Yhteiskunta-alan korkeakoulutetut ry:n valtuuston jäsenyys \nLuottamusmies eli työpaikkani henkilöstön edustaja",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Kaupunkilaiset liikkeelle omin voimin! Käytetyimpiä liikuntapaikkoja ovat kevyen liikenteen väylät, joten niiden on oltava aina sellaisessa kunnossa, että niillä voi turvallisesti kulkea, myös rollaattorilla tai pyörätuolilla. Omin voimin liikkuminen ehkäisee ennalta vaivoja ja sairauksia, parantaa elämänlaatua ja vähentää terveydenhuollon kuormitusta.   ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Yhteiskunta-alan korkeakoulutetut ry:n hallituksen jäsen, Helsingin Vihreät ry:n hallituksen jäsen ja varapuheenjohtaja, Helsingin Vihreän seuran hallituksen jäsen",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "id": 17326,
+  "first_name": "Krishna",
+  "last_name": "Regmi",
+  "election_number": 920,
+  "party_id": 4,
+  "image": "kuvat/akv2025/17326/351c40f8-c5c7-4c6b-99e6-38f08ecd7fea",
+  "constituency_id": 25,
+  "video": "1-73834874",
+  "video_aspect": "1:1",
+  "video_description_fi": "Hei, olen Krishna Regmi. Minun tärkein tavoitteeni ensi valtuustokaudelle on tehdä Helsingistä kaupunki, jossa jokainen voi menestyä ja tuntea kuuluvansa yhteisöön. Tätähän me tehdään yhdessä. Kaiken voi tehdä reilummin. ",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 45,
+      "background_info_id": 10,
+      "name_fi": "En vasemmalle enkä oikealle",
+      "name_sv": "Varken vänster eller höger",
+      "name_en": "Neither to the right or the left",
+      "name_ru": "Ни слева, ни справа",
+      "name_sme": "In gurut inge olgeš guvlui",
+      "name_ara": "لا إلى اليسار ولا إلى اليمين",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "TUKI PIENYRITTÄJILLE JA MAAHANMUUTTAJILLE\nPienyrittäjille on tarjottava vähemmän byrokratiaa ja enemmän resursseja, jotta he voivat kehittyä ja luoda uusia työpaikkoja. Maahanmuuttajille annetaan aidot mahdollisuudet kotoutua ja osallistua yhteiskuntaan. Vahvistamme yhteisöllisyyttä luomalla Helsingistä paikan, jossa yrittäjyys, monimuotoisuus ja yhdessäolo kukoistavat. Tavoitteeni on, että Helsinki on kaupunki, jossa kaikki voivat menestyä ja tuntea itsensä osaksi yhteisöä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1980,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "joku muu",
+        "se": "något annat",
+        "en": "Other",
+        "ru": "другой",
+        "sme": "muhtin eará",
+        "ara": "لغة أخرى"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Oikeudenmukaisuus – Kaikilla tulisi olla tasavertaiset mahdollisuudet riippumatta taustasta.\nYhteisöllisyys – Vahva ja välittävä yhteisö luo turvallisuutta ja yhteenkuuluvuutta.\nRehellisyys – Avoimuus ja luotettavuus ovat perusta kestävälle yhteistyölle.\nVastuullisuus – Jokaisella on vastuu itsestään, toisista ja ympäristöstä.\nEmpatia – Toisten ihmisten ymmärtäminen ja tukeminen tekee yhteiskunnasta inhimillisemmän.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "TOIMIVAT HOITO- JA TUKIPALVELUT\nJokainen helsinkiläinen ansaitsee nopeaa ja inhimillistä hoitoa silloin, kun sitä tarvitsee. Seniorit saavat tukea ja arvostusta elämään täysipainoista arkea. Hyvin toimivat terveyspalvelut ja ennaltaehkäisy luovat turvallisemman ympäristön kaikille. Teen töitä sen eteen, että Helsingissä kaikilla on pääsy hoitoon ja tukipalveluihin silloin, kun apua tarvitaan.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 25,
+      "background_info_id": 8,
+      "name_fi": "jokin muu",
+      "name_sv": "något annat",
+      "name_en": "Other",
+      "name_ru": "другой",
+      "name_sme": "eará",
+      "name_ara": "لغة أخرى",
+      "target_value": null,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "homepage_url": "https://www.krishnaregmi.fi/ehdolla-2025",
+    "facebook_url": "https://www.facebook.com/krishnaregmi80/?rdid=CqFRLdZpkGT6p00c",
+    "instagram_url": "https://www.instagram.com/krishnaregmi80/profilecard/?igsh=MXd2bDRiaGF3MjM0Yw%3D%3D",
+    "tiktok_url": "https://www.tiktok.com/@krishna.regmi80",
+    "language_some_other": {
+      "fi": "Nepali ja Hindi",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "municipality_fix": {
+      "fi": "Kohtuuhintainen asuminen – Asumiskustannuksia on hillittävä, jotta Helsinki pysyy avoimena ja elinvoimaisena kaikille. Tarvitaan lisää kohtuuhintaisia asuntoja ja järkeviä ratkaisuja asuntopolitiikkaan.\n\nLaadukas koulutus – Perusopetuksen ja toisen asteen koulutuksen resursseja on vahvistettava, jotta kaikilla lapsilla ja nuorilla on tasa-arvoiset mahdollisuudet hyvään tulevaisuuteen.\n\nHoitopalveluiden sujuvuus – Terveyspalveluihin pääsyn nopeuttaminen, ennaltaehkäisevän hoidon parantaminen ja seniorien arjen tukeminen ovat keskeisiä parannuskohteita.\n\nPienyrittäjien ja maahanmuuttajien tukeminen – Byrokratian vähentäminen ja yrittäjyyden tukeminen edistävät kaupungin taloudellista kehitystä. Samalla maahanmuuttajien kotouttaminen on tärkeää, jotta Helsinki pysyy monimuotoisena ja yhteisöllisenä kaupunkina.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Olen Itä-Helsingin Sosialidemokraatit ry:n johtokunnan varsinainen jäsen.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": "Nepali ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": "KOHTUUHINTAINEN ASUMINEN JA LAADUKAS KOULUTUS\nJokaisella on oikeus asua Helsingissä ilman kohtuuttomia kustannuksia. Kun asuminen on saavutettavaa, kaupunki pysyy elinvoimaisena ja avoimena kaikille. Laadukas koulutus luo lapsille ja nuorille vahvan perustan tulevaisuudelle. Teen töitä sen eteen, että Helsinki on viihtyisä, oikeudenmukainen ja houkutteleva kaupunki kaikille.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

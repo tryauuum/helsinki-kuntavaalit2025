@@ -1,0 +1,198 @@
+{
+  "id": 20949,
+  "first_name": "Chico",
+  "last_name": "Muya",
+  "election_number": 409,
+  "party_id": 3,
+  "image": "kuvat/akv2025/20949/38f453d5-640c-4b76-b961-1e01809c2989",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 46,
+      "background_info_id": 10,
+      "name_fi": "Hieman oikealle",
+      "name_sv": "Lite till Till högerhöger",
+      "name_en": "SlightTo the rightly to the right",
+      "name_ru": "Немного справа",
+      "name_sme": "Vehá olgeš guvlui",
+      "name_ara": "أميل إلى اليمين",
+      "target_value": 1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Turvallinen ja yhtenäinen Helsinki.\nHelsingin on pysyttävä turvallisena ja yhtenäisenä kaupunkina kaikille asukkailleen. Meidän on ehkäistävä rinnakkaisyhteiskuntien syntyä varmistamalla, että kotouttaminen todella toimii, edistämällä suomen kielen oppimista ja vaalimalla suomalaisia arvoja. Julkisen turvallisuuden on oltava etusijalla—enemmän tukea poliisille, tiukempi ote rikollisuuteen ja varmistaminen, ettei mikään alue muutu turvattomaksi. Yhtenäinen Helsinki tarkoittaa Helsinkiä, jossa kaikki kunnioittavat samoja lakeja, arvoja ja yhteisöllisyyttä.",
+      "se": null,
+      "en": "A Safe and United Helsinki.\nHelsinki must remain a safe and welcoming city for all its residents. We need to prevent the rise of parallel societies by ensuring integration actually works, promoting Finnish language learning, and upholding Finnish values. Public safety must be a priority—more support for law enforcement, tougher action on crime, and ensuring that no area becomes unsafe. A united Helsinki means a Helsinki where everyone respects the same laws, values, and sense of community.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1992,
+    "language_skills": [
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "ranska",
+        "se": "franska",
+        "en": "French",
+        "ru": "французский",
+        "sme": "fránskkagiella",
+        "ara": "الفرنسية"
+      }
+    ],
+    "education": {
+      "id": 51,
+      "background_info_id": 16,
+      "name_fi": "ylioppilas",
+      "name_sv": "student",
+      "name_en": "High school graduate",
+      "name_ru": "выпускник лицея",
+      "name_sme": "studeanta",
+      "name_ara": "شهادة البكالوريا",
+      "target_value": 3,
+      "name_ukr": "випускник ліцею",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Kiitollisuus – Ajatteluni perusta; arvostan elämää ja sen tarjoamia mahdollisuuksia.\nYksilönvastuu – Uskon itseensä luottamiseen ja omaan päättäväisyyteen.\nKova työ & Meritokratia – Menestyksen tulee perustua ahkeruuteen ja osaamiseen, ei etuoikeuksiin.\nRehellisyys – Totuus ei aina ole miellyttävä, mutta se on välttämätön.\nRohkeus – Oikean tekeminen on tärkeämpää kuin hyväksynnän hakeminen.",
+      "se": null,
+      "en": "Gratitude – The foundation of my mindset; I appreciate what life has given me.\nIndividual Responsibility – I believe in self-reliance and the power of personal determination.\nHard Work & Meritocracy – Success should be earned through effort and ability, not entitlement.\nHonesty – The truth isn't always easy, but it is necessary.\nCourage – Doing what is right matters more than seeking approval.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Vahva talous, joka tukee ahkeria ihmisiä.\nHelsingin on oltava kaupunki, jossa yritykset menestyvät, työpaikat lisääntyvät ja ahkerat ihmiset saavat pitää enemmän ansioistaan. Vastustan liiallista verotusta ja tarpeettomia sääntelyjä, jotka vaikeuttavat yrittäjyyttä ja työllistymistä. Sen sijaan meidän tulisi keskittyä järkevään talouspolitiikkaan, joka houkuttelee investointeja, tukee innovaatioita ja luo mahdollisuuksia kaikille. Vahva talous hyödyttää kaikkia.",
+      "se": null,
+      "en": "A Strong Economy That Supports Hardworking People.\nHelsinki should be a place where businesses thrive, job opportunities grow, and hardworking people can keep more of their earnings. I oppose excessive taxation and unnecessary regulations that hurt entrepreneurs and employees. Instead, we should focus on smart economic policies that attract investment, encourage innovation, and create opportunities for all. A strong economy benefits everyone.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 25,
+      "background_info_id": 8,
+      "name_fi": "jokin muu",
+      "name_sv": "något annat",
+      "name_en": "Other",
+      "name_ru": "другой",
+      "name_sme": "eará",
+      "name_ara": "لغة أخرى",
+      "target_value": null,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "instagram_url": "https://www.instagram.com/chicomuya_official/",
+    "X_url": "https://x.com/chico_ray",
+    "tiktok_url": "https://www.tiktok.com/@chicomuya",
+    "language_some_other": {
+      "fi": "Ranska",
+      "se": null,
+      "en": "French",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "municipality_fix": {
+      "fi": "Koulutuksen kehittäminen – Koulujen on keskityttävä akateemiseen erinomaisuuteen, ei ideologiaan. Meidän on varmistettava, että oppimisympäristöt ovat häiriöttömiä ja että oppilaat saavat parhaan mahdollisen opetuksen – esimerkiksi rajoittamalla kännyköiden käyttöä kouluaikana.\n\nTalouden kasvu & julkiset menot – Helsingin on pysyttävä houkuttelevana yrityksille ja osaajille. Turhat julkiset menot on karsittava veronkorotusten sijaan. Vahva talous tarkoittaa enemmän mahdollisuuksia kaikille.\n\nTurvallisuus & kotoutuminen – Meidän on puututtava kasvaviin turvallisuusongelmiin ja varmistettava, että maahanmuuttopolitiikka keskittyy kunnolliseen integraatioon. Suomen on vältettävä muiden Euroopan maiden virheet, joissa rinnakkaisyhteiskunnat ovat muodostuneet. Tänne tulevien on sopeuduttava suomalaiseen yhteiskuntaan, opittava kieli ja kunnioitettava maan perusarvoja.",
+      "se": null,
+      "en": "Education Reform – Schools should focus on academic excellence, not ideology. We must ensure that learning environments are free from unnecessary distractions, such as excessive phone use, and that students receive the best possible education.\n\nEconomic Growth & Public Spending – Helsinki must remain attractive to businesses and talent. Lowering unnecessary public spending instead of increasing taxes should be a priority. A strong economy means more opportunities for everyone.\n\nSafety & Integration – We must tackle rising safety concerns and ensure that immigration policies prioritize proper integration. Finland must avoid the mistakes seen in other European countries where parallel societies have formed. Everyone who comes here should be expected to integrate into Finnish society, learn the language, and respect the country's core values.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Ainoa luottamustehtäväni tällä hetkellä on olla osa yhteiskuntaa.",
+      "se": null,
+      "en": "The only position of trust I currently hold is being a part of society.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 4,
+      "background_info_id": 2,
+      "name_fi": "En liberaali enkä konservatiivi",
+      "name_sv": "Varken liberal eller konservativ",
+      "name_en": "Neither liberal or conservative",
+      "name_ru": "Ни либерал, ни консерватор",
+      "name_sme": "In liberála inge konservatiiva",
+      "name_ara": "لا ليبرالي ولا متحفظ",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": "Englanti ",
+      "se": null,
+      "en": "English ",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": "Koulutus, joka keskittyy osaamiseen, ei ideologiaan.\nHelsingin koulujen on painotettava vahvaa akateemista osaamista, kuria ja käytännön taitoja—ei poliittisia trendejä. Oppilaiden on saatava häiriötön oppimisympäristö, minkä vuoksi kannatan puhelinten käytön rajoittamista kouluissa keskittymisen ja oppimistulosten parantamiseksi. Meidän on vahvistettava opettajien asemaa, lisättävä kuria ja varmistettava, että resurssit käytetään opetuksen parantamiseen, ei turhaan byrokratiaan. Jokaisella lapsella on oikeus koulutukseen, joka valmentaa menestykseen.",
+      "se": null,
+      "en": "Education That Focuses on Excellence, Not Ideology.\nHelsinki’s schools should prioritize strong academics, discipline, and real-world skills—not political trends. Students must have an environment free from distractions, which is why I support restricting phone use in schools to improve focus and learning. We need to empower teachers, enforce discipline, and ensure that resources go toward improving education quality, not unnecessary bureaucracy. Every child deserves an education that prepares them for success.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

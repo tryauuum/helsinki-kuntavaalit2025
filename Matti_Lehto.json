@@ -1,0 +1,179 @@
+{
+  "id": 4425,
+  "first_name": "Matti",
+  "last_name": "Lehto",
+  "election_number": 753,
+  "party_id": 6,
+  "image": "kuvat/akv2025/4425/f2937547-0fa5-48a9-aecb-32a31a6accd5",
+  "constituency_id": 25,
+  "video": "1-73818114",
+  "video_aspect": "1:1",
+  "video_description_fi": "Kun kaupunki kasvaa, meidän pitää vaalia sitä, mikä tekee Helsingistä rakastettavan. Lisää lähiluontoa joka kortteliin, päiväkodit ja koulut joissa on aikaa kohtaamiselle, kaupunginosat jotka ei pääse segregoitumaan, yrittämisen mahdollisuudet, kestävä joukkoliikenne. Pidetään näistä kiinni.\n\nMun tavoitteena on rohkeampi Helsinki, joka investoi tulevaisuuteensa, kilpailee muiden eurooppalaisten kaupunkien rinnalta siitä, missä unelmat ja yritysideat toteutuu. Jos jotain meidän pitää kaupunkina taata, on se, että Helsinki antaa lapsille ja nuorille parhaat mahdolliset edellytykset elämään.\n\nMä teen sivistysliberaalia politiikkaa, jotta jokainen saa elää omannäköistään elämää. Mä muistan asioiden arvon eikä pelkästään niiden hintaa. Sivistysliberaali Helsinki on avoin, moninainen ja kansainvälinen lähipalvelukaupunki, joka on olemassa asukkaitaan varten.",
+  "video_description_sv": "När staden växer måste vi värna om det som gör Helsingfors älskvärt. Mer närnatur i varje kvarter, daghem och skolor där det finns tid för möten, stadsdelar som inte segregeras, möjligheter till företagande och en hållbar kollektivtrafik – låt oss hålla fast vid detta.\n\nMitt mål är ett modigare Helsingfors som investerar i sin framtid och konkurrerar med andra europeiska städer om att vara platsen där drömmar och affärsidéer förverkligas. Om det är något vi som stad måste garantera, så är det att Helsingfors ger barn och unga de bästa möjliga förutsättningarna för livet.\n\nJag driver en liberal politik för att alla ska kunna leva sitt liv på sitt eget sätt. Jag ser värdet i saker, inte bara priset. Ett bildningsliberalt Helsingfors är en öppen, mångsidig och internationell stad med starka närtjänster – en stad som finns till för sina invånare.",
+  "video_description_en": "As the city grows, we must protect what makes Helsinki so beloved. More local green spaces in every neighborhood, daycares and schools with time for meaningful encounters, communities that don’t become segregated, opportunities for entrepreneurship, and a sustainable public transport system—let’s hold on to these.\n\nMy goal is a bolder Helsinki that invests in its future, competes alongside other European cities as a place where dreams and business ideas come to life. If there’s one thing we must guarantee as a city, it’s that Helsinki provides children and young people with the best possible foundation for life.\n\nI advocate for liberal and knowledge-driven policies so that everyone can live life on their own terms. I recognize the value of things, not just their price. A liberal and forward-thinking Helsinki is an open, diverse, and international city of strong local services—one that exists for its residents.",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 45,
+      "background_info_id": 10,
+      "name_fi": "En vasemmalle enkä oikealle",
+      "name_sv": "Varken vänster eller höger",
+      "name_en": "Neither to the right or the left",
+      "name_ru": "Ни слева, ни справа",
+      "name_sme": "In gurut inge olgeš guvlui",
+      "name_ara": "لا إلى اليسار ولا إلى اليمين",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Teen parhaani, perehdyn ja viestin avoimesti päätöksistä. Yksin en saa mitään aikaan, mutta teen kaikkeni, jotta löydämme yhdessä parhaan ratkaisun. Mieluummin vaikutan positiivisesti helsinkiläisten arkeen kuin julistan sosiaalisessa mediassa, jos kaikki ei mene täysin niin kuin haluan. ",
+      "se": "Jag gör mitt bästa, sätter mig in i saker ordentligt och kommunicerar öppet om beslut. Jag får inget gjort ensam, men jag gör allt jag kan för att vi tillsammans ska hitta den bästa lösningen. Jag påverkar hellre helsingforsarnas vardag positivt än att förkunna på sociala medier om allt inte går precis som jag vill.",
+      "en": "I do my best, familiarize myself thoroughly, and communicate openly about decisions. I can’t achieve anything alone, but I do everything I can to find the best solution together. I’d rather make a positive impact on the daily lives of Helsinki residents than make grand declarations on social media if things don’t go exactly as I want.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1989,
+    "language_skills": [
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "kiltteys, uteliaisuus, sivistys, vapaus ja oikeudenmukaisuus",
+      "se": "vänlighet, nyfikenhet, bildning, frihet och rättvisa",
+      "en": "kindness, curiosity, open education, freedom, and justice",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Muistan asioiden arvon, enkä vain niiden hintaa. Helsinkini on kiinnostunut niin tulevaisuudestaan kuin historiastaan. Ihanaa kaupunkia ei kehitetä vain Exceliä tuijottamalla.",
+      "se": "Jag känner till sakernas värde, inte bara deras pris. Mitt Helsingfors bryr sig om både sin framtid och sin historia. En underbar stad utvecklas inte genom att enbart fixera vid Excel.",
+      "en": "I know the value of things, not just their price. My Helsinki cares about both its future and its history. A wonderful city isn’t built by fixating on spreadsheets alone.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.mattilehto.fi",
+    "facebook_url": "https://www.facebook.com/sivistysliberaali",
+    "instagram_url": "https://www.instagram.com/sivistysliberaali/",
+    "tiktok_url": "https://www.tiktok.com/@sivistysliberaali",
+    "municipality_fix": {
+      "fi": "Meidän pitää varmistaa, että kaupungin kasvaessakin toimivat ne perusasiat, jotka tekevät Helsingistä rakastettavan. Päiväkodeissa ja kouluissa on tilaa tekemiselle ja aikaa kohtaamiselle. Luonto on lähellä ja vehreyttä joka korttelissa. Joukkoliikenne on houkuttelevin kulkumuoto. Jokaiselle löytyy juuri itselle sopiva koti. ",
+      "se": "Vi måste se till att de grundläggande saker som gör Helsingfors älskvärt fungerar även när staden växer. Daghem och skolor har utrymme för aktiviteter och tid för möten. Naturen är nära, och varje kvarter är grönskande. Kollektivtrafiken är det mest lockande sättet att resa. Alla ska kunna hitta ett hem som passar just dem.",
+      "en": "We must ensure that as the city grows, the fundamentals that make Helsinki so beloved continue to thrive. Daycares and schools have space for activities and time for meaningful encounters. Nature is close by, with greenery in every neighborhood. Public transport remains the most attractive way to get around. And everyone can find a home that truly suits them.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Helsinki panostaa lasten ja nuorten hyvinvointiin. Tärkeintä, mitä voimme kaupunkina tehdä, on antaa heille parhaat mahdolliset edellytykset onnelliseen elämään.",
+      "se": "Helsingfors satsar på barnens och de ungas välmående. Det viktigaste vi som stad kan göra är att ge dem de bästa möjliga förutsättningarna för ett lyckligt liv.",
+      "en": "Helsinki invests in the well-being of children and young people. The most important thing we can do as a city is to give them the best possible conditions for a happy life.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Helsingin Vihreiden varapuheenjohtaja 2024 ja hallituksen jäsen 2023, Vihreiden strategiatyöryhmän puheenjohtaja 2023–2024",
+      "se": "Vice ordförande för De Gröna i Helsingfors 2024 och styrelsemedlem 2023, ordförande för De Grönas strategiarbetsgrupp 2023–2024.",
+      "en": "Vice Chair of the Helsinki Greens 2024 and Board Member 2023, Chair of the Greens' Strategy Working Group 2023–2024.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

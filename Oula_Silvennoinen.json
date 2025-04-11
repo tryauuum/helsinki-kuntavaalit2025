@@ -1,0 +1,194 @@
+{
+  "id": 6319,
+  "first_name": "Oula",
+  "last_name": "Silvennoinen",
+  "election_number": 798,
+  "party_id": 6,
+  "image": "kuvat/akv2025/6319/04a363ae-884d-4dd9-b7a8-c4fb95262e03",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 45,
+      "background_info_id": 10,
+      "name_fi": "En vasemmalle enkä oikealle",
+      "name_sv": "Varken vänster eller höger",
+      "name_en": "Neither to the right or the left",
+      "name_ru": "Ни слева, ни справа",
+      "name_sme": "In gurut inge olgeš guvlui",
+      "name_ara": "لا إلى اليسار ولا إلى اليمين",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Ääriliikkeiden torjunta alkaa kuntatasolta. Helsingin valtuusto tarvitsee valtuutettuja, jotka ymmärtävät ennen kaikkea äärioikeiston toimintalogiikkaa ja sitä mitä on tehtävä sen masentamiseksi.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1970,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Elävä planeetta\nHyvä tahto\nIhmisoikeudet\nDemokratia\nOikeusvaltio",
+      "se": null,
+      "en": "Livable planet\nGood will\nHuman rights\nDemocracy\nRule of Law",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Parempaa päihdepolitiikkaa. Helsingin kaupunkitasolla emme voi tehdä kaikkea tarvittavaa, mutta kaupungin on keskityttävä päihdeongelmien ja siihen liittyvien ilmiöiden haittojen minimoimiseen. Helsingin asunnottomuusohjelma maaliin hallituksen kampituksesta huolimatta!",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "facebook_url": "https://www.facebook.com/SilvennoinenOula",
+    "instagram_url": "https://www.instagram.com/oulasilvennoinen",
+    "X_url": "https://www.x.com/oula_silver",
+    "municipality_fix": {
+      "fi": "Helsingin on kyettävä kasvamaan kestävästi - asunnot, työpaikat, jäljellä oleva lähiluonto ja hiilineutraaliin tulevaisuuteen siirtyminen on yhtä aikaa turvattava.\n\nReilu stadi kaikille - Helsinki on avoin maailmankaupunki, jossa jokainen ansaitsee tulla reilusti kohdelluksi, ja jossa jokaisella on olatava tilaa olla oma itsensä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Varavaltuutettu, sosiaali-, terveys- ja pelastuslautakunnan jäsen, HUS yhtymähallituksen jäsen",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Reilu stadi kaikille. Suomalainen hyvinvointivaltio ja sen palvelut ovat paineessa, ja niiden turvaamiseksi tarvitaan harkittuja toimia. Siksi politiikkaan tarvitaan tutkijataustaisia ihmisiä. Oikeita päätöksiä voi tehdä vain oikean tiedon pohjalta, ja minä lupaan perehtyä asioihin ennen päättämistä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

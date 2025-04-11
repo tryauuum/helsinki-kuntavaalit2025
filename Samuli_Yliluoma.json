@@ -1,0 +1,168 @@
+{
+  "id": 22202,
+  "first_name": "Samuli",
+  "last_name": "Yliluoma",
+  "election_number": 984,
+  "party_id": 18,
+  "image": "kuvat/akv2025/22202/42eecc71-3848-4e9b-8462-55bb2e3cfd84",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 45,
+      "background_info_id": 10,
+      "name_fi": "En vasemmalle enkä oikealle",
+      "name_sv": "Varken vänster eller höger",
+      "name_en": "Neither to the right or the left",
+      "name_ru": "Ни слева, ни справа",
+      "name_sme": "In gurut inge olgeš guvlui",
+      "name_ara": "لا إلى اليسار ولا إلى اليمين",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Liikenne – sujuvuutta ja saavutettavuutta autoille!",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1991,
+    "language_skills": [
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "espanja",
+        "se": "spanska",
+        "en": "Spanish",
+        "ru": "испанский",
+        "sme": "spánskkagiella",
+        "ara": "الإسبانية"
+      }
+    ],
+    "education": {
+      "id": 54,
+      "background_info_id": 16,
+      "name_fi": "joku muu",
+      "name_sv": "någon annan examen",
+      "name_en": "Other",
+      "name_ru": "другое",
+      "name_sme": "muhtin eará",
+      "name_ara": "مستوى دراسي آخر",
+      "target_value": 6,
+      "name_ukr": "інше",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Yhteisöllisyys ja sosiaalisuus: Helsinki on kaupunki, jossa ihmiset arvostavat toisiaan ja haluavat olla osa yhteisöä. Ystävyyssuhteet, perhe, naapurit ja harrastuspiirit ovat tärkeitä hyvinvoinnin kannalta.\n\nLuonto ja ympäristö: Helsinki on lähellä luontoa, ja monille on tärkeää, että kaupunki on vihreä ja että luontoa kunnioitetaan. Puistot, meri ja metsät ovat tärkeitä virkistysalueita.\n\nVapaus ja yksilöllisyys: Stadilaiset arvostavat vapautta ilmaista itseään ja elää omannäköistä elämää. Monimuotoisuus ja erilaisuus ovat rikkaus kulttuurissa ja katukuvassa.\n\nTyö ja koulutus: Helsinki on kaupunki, jossa on hyvät mahdollisuudet työhön ja koulutukseen. Monille on tärkeää, että lähellä on erilaisia mahdollisuuksia kehittyä ja saavuttaa omia tavoitteita.\n\nKulttuuri ja taide: Stadi on kulttuurikaupunki, jossa on paljon tarjontaa. Teatterit, museot, konsertit ja festivaalit ovat osa stadia!\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Asuinalueet – ettei tuu liikaa mauttomia ja moderneja kuppikuntia!",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.hamppupuolue.net/yliluoma-samuli/",
+    "facebook_url": "https://www.facebook.com/share/1BfJ4yk4kW/?mibextid=wwXIfr",
+    "instagram_url": "https://www.instagram.com/herbmanni?igsh=MW80YnpxODk3dnJ5dg%3D%3D&utm_source=qr",
+    "municipality_fix": {
+      "fi": "Stadi kasvaa ihan liian lujaa. Jätetään ne uudet tylsät kerrostalot vähemmälle ja duunataan enemmän sellaisia vanhan ajan tyylisiä jugendkämppiä, missä on harjakatto ja muuta sellaista. Se sopii paremmin tähän meidän kaupunkiin.\nPuistot, vanhat puutalot ja muut vihreät mestat lähellä ydintä on tärkeitä, ettei tuu liikaa stressiä. Ne auttaa myös ilmastonmuutoksessa ja ennenkaikkea henkisessä hyvinvoinnissa.\nMuistetaan vähän meidän oman kaupungin historiaa ja kulttuuria, se hitsaa jengiä yhteen.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 3,
+      "background_info_id": 2,
+      "name_fi": "Hieman liberaali",
+      "name_sv": "Ganska liberal",
+      "name_en": "Slightly liberal",
+      "name_ru": "Слегка либерал",
+      "name_sme": "Vehá liberála",
+      "name_ara": "أميل إلى الليبرالية",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Kulttuuri – pidetään huolta sivistyksemme perinnöstä ilman leikkauksia!",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

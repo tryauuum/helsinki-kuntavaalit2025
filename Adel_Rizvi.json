@@ -1,0 +1,216 @@
+{
+  "id": 2476,
+  "first_name": "Adel",
+  "last_name": "Rizvi",
+  "election_number": 922,
+  "party_id": 4,
+  "image": "kuvat/akv2025/2476/18cb121d-926d-4d68-80b7-901c4f0a80e9",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 44,
+      "background_info_id": 10,
+      "name_fi": "Hieman vasemmalle",
+      "name_sv": "Lite till vänster",
+      "name_en": "Slightly to the left",
+      "name_ru": "Немного слева",
+      "name_sme": "Vehá gurut guvlui",
+      "name_ara": "أميل إلى اليسار",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Kustannustehokkaat ja korkealaatuiset palvelut Kaupungin palveluiden on oltava laadukkaita, mutta samalla kustannustehokkaita ja saavutettavia kaikille asukkaille. Tarvitsemme järkeviä investointeja sosiaali- ja terveyspalveluihin sekä julkiseen liikenteeseen, jotta Helsinki pysyy toimivana ja oikeudenmukaisena kaikille.",
+      "se": "Kostnadseffektiva och högkvalitativa tjänster Stadens tjänster måste vara av hög kvalitet, men också kostnadseffektiva och tillgängliga för alla invånare. Vi behöver smarta investeringar i social- och hälsovårdstjänster samt kollektivtrafik för att Helsingfors ska vara en fungerande och rättvis stad för alla.",
+      "en": "Cost-efficient and high-quality services City services must be high-quality, cost-efficient, and accessible to all residents. We need smart investments in social and healthcare services as well as public transport to keep Helsinki functional and fair for everyone.",
+      "ru": null,
+      "sme": null,
+      "ara": "خدمات عالية الجودة وفعالة من حيث التكلفة يجب أن تكون خدمات المدينة عالية الجودة ولكن أيضًا فعالة من حيث التكلفة ومتاحة لجميع السكان. نحن بحاجة إلى استثمارات ذكية في الخدمات الاجتماعية والصحية وكذلك في وسائل النقل العام لضمان بقاء هلسنكي مدينة عادلة وعملية للجميع.",
+      "ukr": null,
+      "som": "Adeegyo tayo sare leh oo qiimo jaban Adeegyada magaalada waa inay ahaadaan kuwo tayo sare leh, isla markaana la awoodi karo oo ay heli karaan dhammaan dadka deggan. Waxaan u baahanahay maalgashi caqli-gal ah oo lagu sameeyo adeegyada bulshada iyo caafimaadka iyo gaadiidka dadweynaha si Helsinki ay u ahaato magaalo loo siman yahay oo si wanaagsan u shaqeysa."
+    },
+    "age": 1994,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "joku muu",
+        "se": "något annat",
+        "en": "Other",
+        "ru": "другой",
+        "sme": "muhtin eará",
+        "ara": "لغة أخرى"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "1️⃣ Oikeudenmukaisuus – Kaikkien ihmisten tasa-arvoinen kohtelu ja oikeudenmukaiset päätökset.\n2️⃣ Yhteisöllisyys – Yhteisöjen tukeminen ja yhteenkuuluvuuden vahvistaminen.\n3️⃣ Inklusiivisuus – Kaikkien osallistumisen ja saavutettavuuden edistäminen.\n4️⃣ Vastuullisuus – Kestävien ja harkittujen päätösten tekeminen.\n5️⃣ Empatia – Toisten kokemusten ymmärtäminen ja kuunteleminen.",
+      "se": "1️⃣ Rättvisa – Lika behandling och rättvisa beslut för alla.\n2️⃣ Gemenskap – Att stödja samhällen och stärka samhörighet.\n3️⃣ Inkludering – Främja delaktighet och tillgänglighet för alla.\n4️⃣ Ansvarstagande – Att fatta hållbara och genomtänkta beslut.\n5️⃣ Empati – Förstå och lyssna på andras upplevelser.",
+      "en": "1️⃣ Justice – Fair treatment and equal opportunities for all.\n2️⃣ Community – Supporting communities and fostering belonging.\n3️⃣ Inclusivity – Promoting accessibility and participation for all.\n4️⃣ Responsibility – Making sustainable and well-considered decisions.\n5️⃣ Empathy – Understanding and listening to others' experiences.",
+      "ru": null,
+      "sme": null,
+      "ara": " العدالة – معاملة عادلة وفرص متساوية للجميع.\n2️⃣ المجتمع – دعم المجتمعات وتعزيز الشعور بالانتماء.\n3️⃣ الشمولية – تعزيز الوصول والمشاركة للجميع.\n4️⃣ المسؤولية – اتخاذ قرارات مستدامة ومدروسة.\n5️⃣ التعاطف – فهم والاستماع إلى تجارب الآخرين.\n",
+      "ukr": null,
+      "som": "1️⃣ Cadaaladda – Loo wada sinaado xuquuqda iyo fursadaha.\n2️⃣ Bulshada – Taageeridda bulshada iyo xoojinta wadajirka.\n3️⃣ Ka mid noqoshada – Kor u qaadista helitaanka iyo ka qaybgalka dhammaan.\n4️⃣ Mas’uuliyadda – Qaadashada go’aanno waara oo si fiican loo qorsheeyay.\n5️⃣ Dareen-wadaag – Fahamka iyo dhegeysiga waayo-aragnimada dadka kale."
+    },
+    "election_promise_2": {
+      "fi": "Kestävä kasvu ja osaajien pysyvyys Helsingin on houkuteltava ja pidettävä kiinni kansainvälisistä osaajista, jotta kaupunkimme säilyy elinvoimaisena. Tämä tarkoittaa parempia työmahdollisuuksia, sujuvampaa kotoutumista ja kielikoulutuksen parantamista.",
+      "se": "Hållbar tillväxt och att behålla kompetens Helsingfors måste locka till sig och behålla internationella talanger för att förbli en livskraftig stad. Det innebär bättre arbetsmöjligheter, smidigare integration och förbättrad språkutbildning.",
+      "en": "Sustainable growth and talent retention Helsinki must attract and retain international talent to remain a vibrant city. This means better job opportunities, smoother integration, and improved language training.",
+      "ru": null,
+      "sme": null,
+      "ara": "النمو المستدام والحفاظ على الكفاءات يجب أن تجذب هلسنكي المواهب الدولية وتحتفظ بها لتظل مدينة حيوية. يشمل ذلك فرص عمل أفضل، واندماجًا أسهل، وتحسين تعليم اللغة.",
+      "ukr": null,
+      "som": "Kobaca waara iyo haynta xirfadlayaasha Helsinki waa in ay soo jiidataa oo ay sii haysataa xirfadlayaasha caalamiga ah si ay u sii ahaato magaalo firfircoon. Tani waxay ka dhigan tahay fursado shaqo oo wanaagsan, isdhexgal fudud, iyo barashada luqadda oo la horumariyo."
+    },
+    "language": {
+      "id": 25,
+      "background_info_id": 8,
+      "name_fi": "jokin muu",
+      "name_sv": "något annat",
+      "name_en": "Other",
+      "name_ru": "другой",
+      "name_sme": "eará",
+      "name_ara": "لغة أخرى",
+      "target_value": null,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "facebook_url": "https://www.facebook.com/OfficialAdelRizvi/",
+    "instagram_url": "https://www.instagram.com/adel.rizvi/",
+    "X_url": "https://x.com/adel_rizvi",
+    "language_some_other": {
+      "fi": "Muita kielitaitoja ovat sinhalan, hindin, urdun, arabian, ruotsin (aloittelija), japanin (aloittelija), ranskan (aloittelija), italian (aloittelija), espanjan (aloittelija), malajalaman, dari ja farsin kielet.",
+      "se": "Andra språk jag behärskar är singalesiska, hindi, urdu, arabiska, svenska (nybörjare), japanska (nybörjare), franska (nybörjare), italienska (nybörjare), spanska (nybörjare), malayalam, dari och persiska.",
+      "en": "Other languages I know include Sinhalese, Hindi, Urdu, Arabic, Swedish (beginner), Japanese (beginner), French (beginner), Italian (beginner), Spanish (beginner), Malayalam, Dari, and Farsi.",
+      "ru": null,
+      "sme": null,
+      "ara": "اللغات الأخرى التي أتقنها هي السنهالية والهندية والأردية والعربية، السويدية (مبتدئ)، اليابانية (مبتدئ)، الفرنسية (مبتدئ)، الإيطالية (مبتدئ)، الإسبانية (مبتدئ)، المالايالامية، الداري، والفارسية.",
+      "ukr": null,
+      "som": "Luuqadaha kale ee aan aqaan waa Sinhalese, Hindi, Urdu, Carabi, Iswiidhish (bilowga), Jabbaan (bilowga), Faransiis (bilowga), Talyaani (bilowga), Isbaanish (bilowga), Malayalam, Dari, iyo Farsi."
+    },
+    "municipality_fix": {
+      "fi": "Helsingissä on panostettava terveydenhuollon saavutettavuuteen ja nopeuteen, erityisesti kroonisesti sairaille ja vammaisille. Kaupungin asuntopolitiikan on edistettävä kohtuuhintaista asumista ja ehkäistävä segregaatiota, jotta jokaisella on mahdollisuus elää turvallisessa ympäristössä. Maahanmuuttajien kotoutumista on parannettava joustavilla kieliopinnoilla ja selkeillä työelämäpoluilla. Lisäksi joukkoliikenteen on oltava esteetöntä ja edullisempaa, jotta kaikilla on tasavertainen mahdollisuus liikkua kaupungissa. Helsinki tarvitsee pitkäjänteisen strategian, joka huomioi jokaisen asukkaan tarpeet.",
+      "se": "Helsingfors måste prioritera tillgänglig och snabb sjukvård, särskilt för personer med kroniska sjukdomar och funktionsnedsättningar. Stadens bostadspolitik bör främja prisvärda boenden och motverka segregation, så att alla har möjlighet att leva i en trygg miljö. Integration av invandrare måste förbättras genom flexibla språkkurser och tydliga vägar till arbetslivet. Dessutom måste kollektivtrafiken vara mer tillgänglig och prisvärd för att säkerställa lika möjligheter för alla att röra sig i staden. Helsingfors behöver en långsiktig strategi som tar hänsyn till alla invånares behov.",
+      "en": "Helsinki must prioritize accessible and fast healthcare, especially for those with chronic illnesses and disabilities. The city's housing policies should promote affordable living and prevent segregation, ensuring everyone has the opportunity to live in a safe environment. Immigrant integration must be improved through flexible language courses and clear employment pathways. Additionally, public transportation needs to be more accessible and affordable, ensuring equal mobility opportunities for all. Helsinki requires a long-term strategy that considers the needs of every resident.",
+      "ru": null,
+      "sme": null,
+      "ara": "يجب أن تعطي هلسنكي الأولوية للرعاية الصحية المتاحة والسريعة، خاصة للأشخاص المصابين بأمراض مزمنة وذوي الإعاقة. يجب أن تعزز سياسات الإسكان في المدينة السكن الميسور التكلفة وتمنع التمييز، لضمان أن يتمكن الجميع من العيش في بيئة آمنة. يجب تحسين اندماج المهاجرين من خلال دورات لغة مرنة ومسارات واضحة للتوظيف. بالإضافة إلى ذلك، يجب أن يكون النقل العام أكثر سهولة وبأسعار معقولة لضمان تكافؤ الفرص في التنقل للجميع. تحتاج هلسنكي إلى استراتيجية طويلة الأجل تأخذ في الاعتبار احتياجات جميع السكان.\n",
+      "ukr": null,
+      "som": "Helsinki waa in ay mudnaanta siisaa helitaanka adeegyo caafimaad oo degdeg ah, gaar ahaan dadka qaba xanuunnada daba dheeraaday iyo kuwa naafada ah. Siyaasadda guryuhu waa inay dhiirrigelisaa guryo la awoodi karo oo ay ka hortagtaa kala soocida bulshada, si qof walba uu u helo fursad uu ku noolaado deegaan ammaan ah. Soo-galootiga waxay u baahan yihiin taageero wanaagsan oo ay ku helaan barasho luqadeed dabacsan iyo fursado shaqo oo cad. Sidoo kale, gaadiidka dadweynaha waa in la dhigo mid la heli karo oo qof walba u jaban si loo xaqiijiyo fursado siman oo dhanka socodka ah. Helsinki waxay u baahan tahay istaraatiijiyad waqti dheer ah oo ay tixgeliso baahiyaha dhammaan deganayaasha."
+    },
+    "representative_other": {
+      "fi": "Tällä hetkellä toimin Demariopiskelijoiden hallituksen jäsenenä ja Eurooppademarit Tähti ry:n varapuheenjohtajana. Olen myös mukana SDP:n kansainvälisessä työryhmässä, jossa työskentelemme globaalien kysymysten parissa.",
+      "se": "Just nu är jag medlem i styrelsen för Demariopiskelijat och vice ordförande i Eurooppademarit Tähti ry. Jag är också engagerad i SDP:s internationella arbetsgrupp, där vi arbetar med globala frågor.",
+      "en": "Currently, I am a board member of Demariopiskelijat and the Vice Chair of Eurooppademarit Tähti ry. I’m also involved in the international working group of SDP, where we focus on global issues.",
+      "ru": null,
+      "sme": null,
+      "ara": "حاليًا، أنا عضو في مجلس إدارة ديماريوبيستليجات وأنائب الرئيس في يورووباديماريت تاختي ري. أنا أيضًا عضو في مجموعة العمل الدولية لحزب SDP، حيث نركز على القضايا العالمية.",
+      "ukr": null,
+      "som": "Hadda waxaan ahay xubno ka tirsan guddiga Demariopiskelijat iyo ku-xigeenka guddoomiyaha Eurooppademarit Tähti ry. Waxaan sidoo kale ka tirsanahay kooxda shaqada caalamiga ah ee SDP, halkaas oo aan ku wajahno arrimaha caalamiga ah."
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": "Äidinkieleni on tamilin ja englanti.",
+      "se": "Mitt modersmål är tamil och engelska.",
+      "en": "My native languages are Tamil and English.",
+      "ru": null,
+      "sme": null,
+      "ara": "لغتي الأم هي التاميل والإنجليزية.",
+      "ukr": null,
+      "som": "Luuqadayda hooyo waa Tamil iyo Ingiriisi."
+    },
+    "election_promise_1": {
+      "fi": "Marginalisoitujen äänten esiin tuominen Varmistan, että kansainväliset asukkaat, vammaiset ja opiskelijat saavat äänensä kuuluviin päätöksenteossa. Helsinki tarvitsee aidosti inklusiivista politiikkaa, joka huomioi kaikki asukkaat.",
+      "se": "Att lyfta fram marginaliserade röster Jag ser till att internationella invånare, personer med funktionsnedsättning och studenter får sina röster hörda i beslutsfattandet. Helsingfors behöver en verkligt inkluderande politik som tar hänsyn till alla invånare.",
+      "en": "Amplifying marginalized voices I will ensure that international residents, people with disabilities, and students have their voices heard in decision-making. Helsinki needs truly inclusive policies that consider all its residents.",
+      "ru": null,
+      "sme": null,
+      "ara": "تعزيز أصوات الفئات المهمشة سأضمن أن يحصل المقيمون الدوليون، والأشخاص ذوو الإعاقة، والطلاب على فرصة لإيصال أصواتهم في عملية صنع القرار. تحتاج هلسنكي إلى سياسات شاملة تأخذ في الاعتبار جميع سكانها.",
+      "ukr": null,
+      "som": "Kor u qaadista codadka la hayb-sooco Waxaan xaqiijin doonaa in dadka caalamiga ah, dadka naafada ah, iyo ardaydu ay codkooda ka maqlaan go'aan-qaadashada. Helsinki waxay u baahan tahay siyaasad dhab ah oo qof walba tixgelinaysa."
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Olen toiminut SAMOKin hallituksen jäsenenä (2023) ja METKAn varapuheenjohtajana (2022), joissa edistin opiskelijoiden oikeuksia, saavutettavuutta ja sosiaalipolitiikkaa. Näissä rooleissa sain syvällistä kokemusta päätöksenteosta, edunvalvonnasta ja poliittisesta vaikuttamisesta.",
+      "se": "Jag har varit styrelseledamot i SAMOK (2023) och vice ordförande för METKA (2022), där jag arbetade för studenters rättigheter, tillgänglighet och socialpolitik. Genom dessa roller fick jag djup erfarenhet av beslutsfattande, intressebevakning och politiskt påverkansarbete.",
+      "en": "I have served as a board member of SAMOK (2023) and Vice Chair of METKA (2022), where I worked on student rights, accessibility, and social policy. These roles gave me extensive experience in decision-making, advocacy, and political influence.",
+      "ru": null,
+      "sme": null,
+      "ara": "لقد شغلت منصب عضو مجلس إدارة في SAMOK (2023) ونائب رئيس METKA (2022)، حيث عملت على الدفاع عن حقوق الطلاب، وتحسين سبل الوصول، والسياسات الاجتماعية. من خلال هذه الأدوار، اكتسبت خبرة واسعة في صنع القرار، والمناصرة، والتأثير السياسي.",
+      "ukr": null,
+      "som": "Waxaan ahaa xubin ka tirsan guddiga SAMOK (2023) iyo Guddoomiye ku-xigeenka METKA (2022), halkaas oo aan ka shaqeynayay xuquuqda ardayda, helitaanka adeegyada, iyo siyaasadda bulshada. Xilalkan ayaa i siiyay khibrad ballaaran oo ku saabsan go'aan qaadashada, u doodista, iyo saameynta siyaasadeed."
+    }
+  }
+}

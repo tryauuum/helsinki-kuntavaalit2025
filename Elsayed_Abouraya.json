@@ -1,0 +1,198 @@
+{
+  "id": 3637,
+  "first_name": "Elsayed",
+  "last_name": "Abouraya",
+  "election_number": 470,
+  "party_id": 5,
+  "image": "kuvat/akv2025/3637/11398aaf-ba2d-4c9b-9936-a490017a323b",
+  "constituency_id": 25,
+  "video": "1-73812827",
+  "video_aspect": "1:1",
+  "video_description_fi": "Jos valitset minut, haluan ajaa tarmokkaasti työntekijöiden, ikä-ihmisten ja maahanmuuttajien asiaa. Lisäksi haluan kehittää Helsinkiä liikenteen kannalta paremmaksi kaupungiksi. ",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 45,
+      "background_info_id": 10,
+      "name_fi": "En vasemmalle enkä oikealle",
+      "name_sv": "Varken vänster eller höger",
+      "name_en": "Neither to the right or the left",
+      "name_ru": "Ни слева, ни справа",
+      "name_sme": "In gurut inge olgeš guvlui",
+      "name_ara": "لا إلى اليسار ولا إلى اليمين",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Haluan kehittää niitä kaupunginosia, joissa on paljon maahanmuuttajia, samanveroisiksi muiden kaupunginosien kanssa. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1967,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "arabia",
+        "se": "arabiska",
+        "en": "Arabic",
+        "ru": "арабский",
+        "sme": null,
+        "ara": "العربية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Perhe, liikunta, sosiaalisuus, oppiminen, kristinusko",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Olen vahvasti työntekijöiden puolella ja taistelen sen puolesta, että yhteiskunta pitää huolta heidän oikeuksistaan. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 25,
+      "background_info_id": 8,
+      "name_fi": "jokin muu",
+      "name_sv": "något annat",
+      "name_en": "Other",
+      "name_ru": "другой",
+      "name_sme": "eará",
+      "name_ara": "لغة أخرى",
+      "target_value": null,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "homepage_url": null,
+    "facebook_url": "https://facebook.com/elsayed.abouraya.96",
+    "instagram_url": "https://www.instagram.com/elsayedabouraya?igsh=NnNnbXVtMm5nOHpn",
+    "X_url": null,
+    "tiktok_url": "https://tiktok.com/@abouraya9579",
+    "municipality_fix": {
+      "fi": "Tiet ovat huonossa kunnossa. Parkkipaikkoja tulee lisätä keskustassa. Tieverkoston kehittäminen: liikenneympyröitä lisää ja tiet tarvitsevat leventämistä. Maahanmuuttajien työllistymistä pitää tukea. Pimeän työn vähentäminen niin kaupan-, rakennus- kuin kuljetusalallakin. Lapsiperheille enemmän tukea. Ikäihmiset tarvitsevat enemmän mahdollisuuksia elää ihmisarvoista elämää. Sosiaali- ja terveyspalveluista ei tulisi leikata. Tarvitaan lisää ympärivuorokautista hoitopalvelua ikäihmisille.  ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Ei ole.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 6,
+      "background_info_id": 2,
+      "name_fi": "Konservatiivi",
+      "name_sv": "Konservativ",
+      "name_en": "Conservative",
+      "name_ru": "Консерватор",
+      "name_sme": "Konservatiiva",
+      "name_ara": "محافظ",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": "Arabiankieli",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": "Haluan tuoda yrittäjien äänen kuuluviin päätöksenteossa. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

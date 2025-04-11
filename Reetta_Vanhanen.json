@@ -1,0 +1,196 @@
+{
+  "id": 2408,
+  "first_name": "Reetta",
+  "last_name": "Vanhanen",
+  "election_number": 819,
+  "party_id": 6,
+  "image": "kuvat/akv2025/2408/b42af827-5104-4a8a-b5d1-ec610ab6cb2c",
+  "constituency_id": 25,
+  "video": "1-73818484",
+  "video_aspect": "1:1",
+  "video_description_fi": "Moi! Olen 34-vuotias lääkäri, pienen lapsen äiti ja Helsingin kaupunginvaltuuston puheenjohtaja. Valmistun tänä vuonna anestesiologian ja tehohoidon erikoislääkäriksi, työskentelen Meilahden sairaalassa ja päivystän paljon etulinjassa. Päivystys- ja teho-osastotyössä näkyy koko elämänkirjo ja erityisesti sen nurjat puolet. Työssäni näkyy sote-alan arki, mikä ei ole aivan helppoa tällä hetkellä. Sote-alalle tarvitaan valoisampia tulevaisuuden näkymiä ja olen valmis tekemään työtä sen puolesta. \n\nAion tehdä hartiavoimin työtä sen eteen, että sote-palveluiden vähenevän rahoituksen aiheuttama kriisi saadaan ratkaistua. Perusterveydenhuoltoa ja mielenterveyspalveluita on vahvistettava. Ikääntyneille on taattava laadukas kotihoito ja tarvittaessa sujuva pääsy ympärivuorokautiseen hoitoon. Neuvoloista tai synnytyssairaaloista ei ole varaa leikata euroakaan. \n\nPuolustan valtuustotyössäni myös helsinkiläistä lähiluontoa ja haluan taata perheille sujuvan ja turvallisen arjen. ",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 44,
+      "background_info_id": 10,
+      "name_fi": "Hieman vasemmalle",
+      "name_sv": "Lite till vänster",
+      "name_en": "Slightly to the left",
+      "name_ru": "Немного слева",
+      "name_sme": "Vehá gurut guvlui",
+      "name_ara": "أميل إلى اليسار",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Haluan edistää tutkittuun tietoon perustuvaa päätöksentekoa. \n",
+      "se": "Jag vill främja beslutsfattande som grundar sig på vetenskaplig kunskap.",
+      "en": "I want to promote decision-making based on scientific evidence.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1990,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Olen 34-vuotias lääkäri ja Helsingin kaupunginvaltuuston puheenjohtaja. Asun puolisoni ja päiväkoti-ikäisen lapsemme kanssa Meilahdessa. Valmistun tänä vuonna anestesiologian ja tehohoidon erikoislääkäriksi, työskentelen Meilahden sairaalassa ja päivystän paljon etulinjassa. Päivystys- ja teho-osastotyössä näkyy koko elämänkirjo ja erityisesti sen nurjat puolet. Arvojani ovat oikeudenmukaisuus, yhdenvertaisuus, ihmisoikeudet ja tulevien sukupolvien puolustaminen. Politiikka tarvitsee lisää empatiaa ja yhteistyötä. Olen valmis tekemään töitä näiden tavoitteiden puolesta joka päivä.",
+      "se": "Jag är en 34-årig läkare och ordförande för Helsingfors stadsfullmäktige. Jag bor med min man och vårt barn i Mejlans. I år blir jag specialist i anestesiologi och intensivvård. Jag arbetar på Mejlans sjukhus och jobbar ofta i främsta linjen inom jourverksamheten. Arbetet på jour- och intensivvårdsavdelningarna visar hela livets spektrum, särskilt dess svåra sidor. Mina värderingar är rättvisa, jämlikhet, mänskliga rättigheter och att värna om kommande generationer. Politiken behöver mer empati och samarbete. Jag är redo att arbeta för dessa mål varje dag.",
+      "en": "I am a 34-year-old medical doctor and the Chair of the Helsinki City Council. I live in Meilahti with my husband and our 2-year-old child. This year, I will become a specialist in anesthesiology and intensive care medicine. I work at Meilahti Hospital, frequently serving on the front lines in emergency care. Emergency medicine and intensive care show the full spectrum of life—especially its most difficult sides. My core values are justice, equality, human rights, and protecting future generations. Politics needs more empathy and collaboration, and I am committed to working tirelessly for these goals every day.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Aion tehdä työtä sen eteen, että Helsingissä suojellaan lähiluontoa, ja kävelyreittejä ja joukkoliikennettä parannetaan.",
+      "se": "Jag kommer att arbeta för att skydda närnaturen i Helsingfors och förbättra promenadstråk och kollektivtrafiken.",
+      "en": "I will work to protect Helsinki's local nature and improve pedestrian routes and public transportation.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://reettavanhanen.fi/",
+    "facebook_url": "https://www.facebook.com/vanhanenreetta",
+    "instagram_url": "https://www.instagram.com/reettavanhanen/",
+    "municipality_fix": {
+      "fi": "Julkinen terveydenhuolto on pelastettava. Aion tehdä hartiavoimin työtä sen eteen, että sote-palveluiden vähenevän rahoituksen aiheuttama kriisi saadaan ratkaistua. Perusterveydenhuoltoa on vahvistettava. Toteutamme Helsingissä vihreiden aloitteesta terapiatakuuta, mutta mielenterveyspalveluita on edelleen parannettava. Ikääntyneille on taattava laadukas kotihoito ja tarvittaessa sujuva pääsy ympärivuorokautiseen hoitoon. Neuvoloista tai synnytyssairaaloista ei ole varaa leikata euroakaan. \n\nTeen työtä sen eteen, että Helsingissä pääsee helposti luontoon. Keskuspuisto on kaupungin sydän. Helsingin arvokkaat luontoalueet on suojeltava rakentamiselta. \n\nHaluan taata helsinkiläisille perheille sujuvan ja turvallisen arjen. Päiväkodin ja koulun tulee löytyä läheltä. Haluan rakentaa käveltävää kaupunkia, jossa lasten on turvallista liikkua ja leikkiä lähiympäristössään pihoilla ja puistoissa. Vähemmän ruutuaikaa, enemmän luonnossa liikkumista ja pihaleikkejä. ",
+      "se": "Den offentliga hälsovården måste räddas. Jag kommer att arbeta hårt för att lösa krisen som orsakas av minskad finansiering av social- och hälsovårdstjänster. Primärvården måste stärkas. I Helsingfors genomför vi terapigarantin på initiativ av de gröna, men mentalvårdstjänsterna behöver fortfarande förbättras. Äldre ska garanteras högkvalitativ hemvård och vid behov smidig tillgång till heldygnsvård. Vi har inte råd att skära från rådgivningsbyråer eller förlossningssjukhus.\n\nJag arbetar för att naturen ska vara lättillgänglig i Helsingfors. Centralparken är stadens hjärta. Helsingfors värdefulla naturområden måste skyddas från byggande.\n\nJag vill garantera familjer en smidig och trygg vardag. Daghem och skolor ska finnas nära hemmet. Jag vill skapa en gångvänlig stad där barn kan röra sig och leka tryggt i närmiljön, på gårdar och i parker. Mindre skärmtid, mera utevistelse och lek i naturen.",
+      "en": "Public healthcare must be saved. I will work to resolve the crisis caused by decreasing funding for social and healthcare services. Primary healthcare must be strengthened. In Helsinki, we are implementing the Therapy Guarantee initiated by the Greens, but mental health services still need improvement. High-quality home care for the elderly must be ensured, and seamless access to 24-hour care provided when necessary. We cannot afford to cut from maternity and child health clinics or maternity hospitals.\n\nI will work to ensure that nature remains easily accessible in Helsinki. The Central Park is the city's heart. Helsinki’s valuable nature must be protected from construction.\n\nI want to guarantee a easy and safe daily life for Helsinki families. Daycare centers and schools should be close to home. I want to build a walkable city where children can safely move and play outdoors in their neighborhoods, yards, and parks. Less screen time, more outdoor play and activities in nature.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Olen toisen kauden kaupunginvaltuutettu ja Helsingin kaupunginvaltuuston puheenjohtaja. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Aion tehdä hartiavoimin työtä sen eteen, että sosiaali- ja teveyspalveluiden vähenevän rahoituksen aiheuttama kriisi saadaan ratkaistua. ",
+      "se": "Jag kommer att arbeta hårt för att lösa den kris som orsakas av minskad finansiering av social- och hälsovårdstjänster.",
+      "en": "I will work tirelessly to resolve the crisis caused by decreasing funding for social and healthcare services.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "kunnanvaltuutettu",
+        "se": "ledamot i kommunfullmäktige",
+        "en": "municipal councillor",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Olen toiminut aiemmin kahdella valtuustokaudellani vihreän valtuustoryhmän puheenjohtajana ja kaupunginhallituksen jäsenenä. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

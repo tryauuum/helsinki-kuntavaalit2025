@@ -1,0 +1,203 @@
+{
+  "id": 2999,
+  "first_name": "Suvi",
+  "last_name": "Helle",
+  "election_number": 109,
+  "party_id": 7,
+  "image": "kuvat/akv2025/2999/4daf714b-5bcc-4d6e-b68d-81efb0af4596",
+  "constituency_id": 25,
+  "video": "1-73818530",
+  "video_aspect": "1:1",
+  "video_description_fi": "Mun tavoitteena on työskennellä turvallisen Helsingin puolesta, missä ihmiset saa tarvitsemansa palvelut oikea-aikaisesti, silloin kun he niitä tarvitsevat. Mun tavoite on Helsinki, joka on monimuotoinen, missä luontoa on kaikkien lähellä ja missä alueidin eriytyminen on mahdollisimman pientä.",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 42,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti vasemmalle",
+      "name_sv": "Långt till vänster",
+      "name_en": "Strongly on the left",
+      "name_ru": "С самого левого края",
+      "name_sme": "Nannosit gurut guvlui",
+      "name_ara": "أقصى اليسار",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan panostaa alueisiin, joilla asukkaat tuntevat turvattomuutta. Kaupungin tulee olla turvallinen kaikille. ",
+      "se": null,
+      "en": "Planned action to make restless areas of city safe again",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1981,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 20,
+      "background_info_id": 6,
+      "name_fi": "muu",
+      "name_sv": "annat alternativ",
+      "name_en": "other",
+      "name_ru": "Другой",
+      "name_sme": "eará",
+      "name_ara": "آخر",
+      "target_value": null,
+      "name_ukr": "Інша",
+      "name_som": "wax kale"
+    },
+    "lifevalues": {
+      "fi": "Onnellisuus, yhdenvertaisuus, oikeudenmukaisuus, lempeys ja vapaus",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lupaan työskennellä sen eteen, että päihde- ja mielenterveyspalveluihin Helsingissä pääsee nopeasti, kun ihmisellä on tarve.",
+      "se": null,
+      "en": "Addiction and mental health services need to be available for everyone when needed",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "http://suvihelle.com",
+    "instagram_url": "http://instagram.com/suvihelle",
+    "municipality_fix": {
+      "fi": "Peruspalvelut! Päihdepalvelut, mielenterveyspalvelut ja perusterveydenhuolto tulee olla ihmisten saavutettavissa silloin kun he apua tarvitsevat. On kohtuutonta, että mielenterveyspalveluita joutuu jonottamaan kuukausia tai että lääkärille ei pääse.\n\nTurvallisuus! Kaupunki kuuluu kaikille ja kaikkien kuuluu voida liikkua kaupungilla ilman turvattomuutta ja pelkoa. \n\nLuontoa ihmisten lähelle! Lähiluonto ei ole vain vaikeasti saavutettavia metsiä ja merenrantoja, vaan luontoa ja urbaania vihreää tulee olla myös sisäpihoilla, liikenteenjakajissa ja kadunvarsilla. Kaikkien kaupunkilaisten tulee voida nauttia luonnosta ja sen terveyttä edistävistä vaikutuksista.\n\nAlueellisen eriytymisen ehkäisy: Helsingin tulee pyrkiä olemaan maailman vähiten alueellisesti eriytynyt kaupunki. Alueiden eriarvoistuminen on monien haasteiden taustalla ja sen ehkäisemiseksi tulee toimia monialaisesti.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Ei muita luottamustehtäviä tällä hetkellä",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Lupaan tehdä kaikkeni Helsingin alueellisen eriytymisen pysäyttämiseksi ja ehkäisemiseksi.",
+      "se": null,
+      "en": "Stop the segregation of Helsinki",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Vuosien kokemus aktiivisesta poliitiikan seuraamisesta. Aktiivinen toiminta paikallispolitiikassa ja nuorisopolitiikassa 2000-luvun alussa. Feministisen puolueen hallituksen jäsen 2020-2021.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

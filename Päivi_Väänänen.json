@@ -1,0 +1,174 @@
+{
+  "id": 6988,
+  "first_name": "Päivi",
+  "last_name": "Väänänen",
+  "election_number": 549,
+  "party_id": 5,
+  "image": "kuvat/akv2025/6988/bc9d33f7-0f37-4e98-9af7-5bf125deee20",
+  "constituency_id": 25,
+  "video": "1-73820884",
+  "video_aspect": "1:1",
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 45,
+      "background_info_id": 10,
+      "name_fi": "En vasemmalle enkä oikealle",
+      "name_sv": "Varken vänster eller höger",
+      "name_en": "Neither to the right or the left",
+      "name_ru": "Ни слева, ни справа",
+      "name_sme": "In gurut inge olgeš guvlui",
+      "name_ara": "لا إلى اليسار ولا إلى اليمين",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Helsinki – maailman fiksuin kaupunki – Koska kielemme rajat ovat mielemme rajat, tehdään Helsingistä kaupunki, jossa kieli, kulttuuri ja sivistys ovat kaikkien ulottuvilla!",
+      "se": "Helsingfors – världens smartaste stad – Eftersom språkets gränser är sinnets gränser, låt oss göra Helsingfors till en stad där språk, kultur och bildning är tillgängliga för alla!",
+      "en": "Helsinki – the smartest city in the world – Because the limits of our language are the limits of our mind, let's make Helsinki a city where language, culture, and education are within everyone's reach!",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1960,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "yhteistyö, toistemme kunnioitus, sitkeys, määrätietoisuus ja rehellisyys",
+      "se": "Samarbete, respekt för varandra, uthållighet, målmedvetenhet och ärlighet",
+      "en": "Collaboration, mutual respect, perseverance, determination, and honesty",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lukutaidon vahvistaminen – Luetun ymmärtäminen on avain oppimiseen. Panostetaan siihen, että jokainen lapsi saa vahvat lukutaidon perusteet.",
+      "se": "Att stärka läsförmågan – Läsförståelse är nyckeln till lärande. Låt oss satsa på att varje barn får en stark grund i läsförmåga.",
+      "en": "Strengthening literacy – Reading comprehension is the key to learning. Let's invest in ensuring that every child receives a strong foundation in literacy.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "instagram_url": "https://www.instagram.com/paivi_vaananen",
+    "municipality_fix": {
+      "fi": "Yhteinen kieli, yhteinen tulevaisuus! Vahvistetaan suomen tai ruotsin kieltä, lukutaitoa ja keskustelua – tehdään Helsingistä elävä ja avoin kaupunki. Yhteinen ymmärrys syntyy kuuntelemalla ja keskustelemalla. Luodaan Helsingistä kaupunki, jossa avoin ja kunnioittava vuoropuhelu on arkipäivää.",
+      "se": "Ett gemensamt språk, en gemensam framtid! Låt oss stärka det finska eller svenska språket, läskunnigheten och dialogen – låt oss göra Helsingfors till en levande och öppen stad. Gemensam förståelse skapas genom att lyssna och samtala. Låt oss skapa ett Helsingfors där öppen och respektfull dialog är vardag.",
+      "en": "A common language, a common future! Let's strengthen the Finnish or Swedish language, literacy, and dialogue – let's make Helsinki a vibrant and open city. Common understanding is born through listening and conversation. Let's create a Helsinki where open and respectful dialogue is an everyday occurrence.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 4,
+      "background_info_id": 2,
+      "name_fi": "En liberaali enkä konservatiivi",
+      "name_sv": "Varken liberal eller konservativ",
+      "name_en": "Neither liberal or conservative",
+      "name_ru": "Ни либерал, ни консерватор",
+      "name_sme": "In liberála inge konservatiiva",
+      "name_ara": "لا ليبرالي ولا متحفظ",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Panostetaan Suomen virallisiin kieliin – Maahanmuuttajataustaisten perheiden on saatava paremmat mahdollisuudet oppia suomea tai ruotsia, jotta jokainen voi osallistua yhteiskuntaan täysipainoisesti.",
+      "se": "Låt oss satsa på Finlands officiella språk – Invandrarfamiljer måste få bättre möjligheter att lära sig finska eller svenska, så att alla kan delta fullt ut i samhället.",
+      "en": "Let's invest in Finland's official languages – Immigrant families must be given better opportunities to learn Finnish or Swedish, so that everyone can fully participate in society.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

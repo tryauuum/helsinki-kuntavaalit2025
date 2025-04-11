@@ -1,0 +1,213 @@
+{
+  "id": 14824,
+  "first_name": "Kalle",
+  "last_name": "Sällström",
+  "election_number": 682,
+  "party_id": 8,
+  "image": "kuvat/akv2025/14824/a1361737-fb30-48f6-b898-87cac2105e09",
+  "constituency_id": 25,
+  "video": "1-73919697",
+  "video_aspect": "1:1",
+  "video_description_fi": "Panostetaan tulevaisuuteen - eli lapsiin ja nuoriin! Torjutaan psyykkistä pahoinvointia ja yksinäisyyttä!",
+  "video_description_sv": "Vi ska satsa på framtiden - dvs. barnen och ungdomarna! Vi ska bekämpa psykiskt illamående och ensamhet!",
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 46,
+      "background_info_id": 10,
+      "name_fi": "Hieman oikealle",
+      "name_sv": "Lite till Till högerhöger",
+      "name_en": "SlightTo the rightly to the right",
+      "name_ru": "Немного справа",
+      "name_sme": "Vehá olgeš guvlui",
+      "name_ara": "أميل إلى اليمين",
+      "target_value": 1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lisää panostuksia yksinäisyyden ja henkisen pahoinvoinnin hoitoon, Moni voi pahoin ja tarvitsee tukee jaksaakseen arjessa. ",
+      "se": "Mera satsningar på att motverka ensamhet och psykiskt illamående. Många mår dåligt och behöver stöd för att klara av vardagen. ",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1978,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Rehellisyys, avuliaisuus, heikompien puolustaminen, parhaansa tekeminen, sekä ilon ja toivon välittäminen.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Koulu ei voi toimia avokonttorissa tai kauppahallia muistuttavassa tilassa. Turvataan lapsille, nuorille ja opettajille työrauha tarkoituksenmukaisilla koulurakennuksilla luokkahuoneineen, pöytineen ja tuoleineen.",
+      "se": "Skolan kan inte verka i utrymmen som liknar kontorslandskap eller saluhall. Vi ger arbetsro åt barn, ungdomar och lärare med ändamålsenliga utrymmen, men klassrum, bord och stolar. ",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 23,
+      "background_info_id": 8,
+      "name_fi": "ruotsi",
+      "name_sv": "Svenska",
+      "name_en": "Swedish",
+      "name_ru": "шведский",
+      "name_sme": "ruoŧagiella",
+      "name_ara": "السويدية",
+      "target_value": null,
+      "name_ukr": "шведська",
+      "name_som": "af-Iswiidhish"
+    },
+    "homepage_url": "https://www.facebook.com/sallstromkalle",
+    "facebook_url": "https://www.facebook.com/sallstromkalle",
+    "municipality_fix": {
+      "fi": "Helsinki on hieno kaupunki. Meidän tulee jatkossakin panostaa lapsiin ja nuoriin, taataan kaikille hyvät eväät elämään. Varmistetaan ettei kukaan jää yksin, tuetaan henkistä hyvinvointia ja pidetään huolta vanhuksista. Turvataan palvelut omalla kielellä. Sujuvaa liikennettä kaupunkiin kävellen, pyörällä, autolla tai joukkoliikenteellä. ",
+      "se": "Helsingfors är en fin stad att bo och leva i. Vi behöver också i fortsättningen satsa på barn och unga. Se till att ingen blir ensam, satsa på psykiskt välmående och trygga en fin ålderdom för de gamla. Alla behöver få service på sitt modersmål. Smidig trafik till fots, på cykel, med bil eller kollektivtrafik. ",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": null,
+      "se": "Vice ordförande i Gemensamma kyrkofullmäktige i Helsingfors, medlem i församlingsrådet i Johannes församling, ordförande i Brändö skolförening, styrelsemedlem i Johannes diakoniförening, styrelsemedlem i Förbundet Kristen Skolungdom rf, samt styrelsemedlem i en rad andra stiftelser, bolag och organ.\n",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": "Olen kaksikielinen.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": "Ei kiitos mega päiväkodeille joissa on pienet pihat ja lapsilla turvaton olo. Pienet yksiköt tarjoavat lapsille turvaa ja henkilökunnalle mahdollisuudet tehdä hyvää työtä.",
+      "se": "Nej till mega daghem med små gårdar och otrygg miljö för barnen. Små enheter ger trygghet och bättre förutsättningar för personalen att göra ett bra jobb.",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": null,
+      "se": "Brett engagemang inom kyrkligt",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

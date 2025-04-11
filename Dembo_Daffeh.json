@@ -1,0 +1,196 @@
+{
+  "id": 12017,
+  "first_name": "Dembo",
+  "last_name": "Daffeh",
+  "election_number": 839,
+  "party_id": 4,
+  "image": "kuvat/akv2025/12017/0ce8d239-f37d-4228-ad16-be38055d4fad",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 44,
+      "background_info_id": 10,
+      "name_fi": "Hieman vasemmalle",
+      "name_sv": "Lite till vänster",
+      "name_en": "Slightly to the left",
+      "name_ru": "Немного слева",
+      "name_sme": "Vehá gurut guvlui",
+      "name_ara": "أميل إلى اليسار",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Työllisyyspalveluiden kehittäminen ja uusien työmahdollisuuksien luominen Helsingissä on itselleni erityisen tärkeä teema. Kaupungin pitäisi keksiä ratkaisuja erityisesti nuorisotyöttömyyden vähentämiseksi.",
+      "se": "Att utveckla sysselsättningstjänster och skapa nya jobbmöjligheter i Helsingfors är ett särskilt viktigt tema för mig. Staden bör hitta lösningar, särskilt för att minska ungdomsarbetslösheten.",
+      "en": "Developing employment services and creating new job opportunities in Helsinki is a particularly important theme for me. The city should find solutions, especially for reducing youth unemployment.",
+      "ru": "Развитие услуг занятости и создание новых рабочих мест в Хельсинки — это особенно важная для меня тема. Город должен найти решения для сокращения безработицы, особенно среди молодежи.",
+      "sme": null,
+      "ara": " تطوير خدمات التوظيف وخلق فرص عمل جديدة في هلسنكي هو موضوع مهم بشكل خاص بالنسبة لي. يجب على المدينة إيجاد حلول للحد من بطالة الشباب.",
+      "ukr": "Розвиток служб зайнятості та створення нових можливостей працевлаштування в Гельсінкі є для мене особливо важливою темою. Місто повинно знаходити рішення, особливо для зменшення безробіття серед молоді.",
+      "som": "Horumarinta adeegyada shaqada iyo abuurista fursado shaqo oo cusub ee Helsinki waa mowduuc si gaar ah muhiim ii ah. Magaalada waa in ay raadisaa xalal gaar ahaan si loo yareeyo shaqo la'aanta dhalinyarada."
+    },
+    "age": 1983,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "joku muu",
+        "se": "något annat",
+        "en": "Other",
+        "ru": "другой",
+        "sme": "muhtin eará",
+        "ara": "لغة أخرى"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Tasa-arvo, oikeudenmukaisuus, empatia: huolehtiminen toisista ihmisistä ja ympäristöstä, vastuullisuus ja vapaus. ",
+      "se": null,
+      "en": "Equality, justice, empathy: caring for other people and the environment, responsibility, and freedom.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Toinen tärkeä teemani on lasten, nuorten ja lapsiperheiden hyvinvoinnin ja turvallisen kasvuympäristön tukeminen. Esimerkiksi lasten ja nuorten harrastusmahdollisuudet tulisivat olla kaikilla Helsingin alueilla saatavilla edullisesti ja helposti. ",
+      "se": "Ett annat viktigt tema för mig är att stödja välbefinnandet för barn, unga och barnfamiljer samt att säkerställa en trygg växtmiljö. Till exempel bör möjligheter för barn och unga att delta i fritidsaktiviteter vara tillgängliga på ett prisvärt och enkelt sätt i alla delar av Helsingfors.\n\n",
+      "en": " Another important theme of mine is supporting the well-being of children, young people, and families with children, as well as ensuring a safe environment for growth. For example, opportunities for children and young people to engage in hobbies should be available affordably and easily in all areas of Helsinki.",
+      "ru": "Еще одна важная тема для меня — это поддержка благополучия детей, молодежи и семей с детьми, а также обеспечение безопасной среды для их роста. Возможности для проведения досуга детей и молодежи должны быть доступны во всех районах Хельсинки на доступных и удобных условиях",
+      "sme": null,
+      "ara": " موضوع آخر مهم بالنسبة لي هو دعم رفاهية الأطفال والشباب والأسر التي لديها أطفال وضمان بيئة نمو آمنة. على سبيل المثال، يجب أن تكون فرص الأنشطة للأطفال والشباب متاحة في جميع مناطق هلسنكي بشكل ميسر وبأسعار معقولة.",
+      "ukr": "Інша важлива для мене тема — це підтримка благополуччя дітей, молоді та родин з дітьми, а також забезпечення безпечного середовища для їхнього розвитку. Наприклад, можливості для дітей і молоді займатися хобі повинні бути доступні у всіх районах Гельсінкі за доступною ціною та легко.\n",
+      "som": "Mawduuc kale oo muhiim ah ayaa ah taageeridda caafimaadka iyo badbaadada carruurta, dhalinyarada, iyo qoysaska carruurta leh, iyo sidoo kale hubinta deegaan ammaan ah oo korriin. Tusaale ahaan, fursadaha carruurta iyo dhalinyarada ee lagu sameeyo hawlo madadaalo waa in si fudud oo raqiis ah looga heli karaa dhammaan qaybaha Helsinki.\n"
+    },
+    "language": {
+      "id": 25,
+      "background_info_id": 8,
+      "name_fi": "jokin muu",
+      "name_sv": "något annat",
+      "name_en": "Other",
+      "name_ru": "другой",
+      "name_sme": "eará",
+      "name_ara": "لغة أخرى",
+      "target_value": null,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "homepage_url": "https://www.sdp.fi/ehdokkaat-kuntavaalit/daffeh-dembo/",
+    "facebook_url": "https://www.facebook.com/people/Dembo-Daffeh/61573389633212/",
+    "instagram_url": "https://www.instagram.com/demaridembo",
+    "language_some_other": {
+      "fi": "mandinka, wolof",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "municipality_fix": {
+      "fi": "Eriarvoisuutta ja syrjäytymistä pitää estää erityisesti kouluissa ja asuinalueilla. Myös tiettyjen alueiden mainetta pitää parantaa - joskus huonot mielikuvat on vain asenteista kiinni. Esimerkiksi itäisellä Helsingillä on mielestäni turhaan huono maine. Näiden alueiden kehittäminen myös lisää turvallisuudentunnetta. \n\nHelsingissä nuorten on voitava hyvin. Tämä on paras tapa ehkäistä esimerkiksi katuväkivaltaa ja järjestyshäiriöitä. Kun nuorella on mieluisa harrastus tai muuta vapaa-ajan toimintaa, hän tuntee itsensä arvostetuksi ja näin hän tuntee olevansa yhteiskunnan jäsen. \n\nHyvinvoivan kaupungin tulee pystyä tarjoamaan kohtuuhintaista asumista kaikille. Nykyisin kaupungin asunnot ovat lähes saman hintaisia kuin yksityisillä markkinoilla. Hinnat ovat liian suuria jo työssäkäyville. Kaupungin asuntopolitiikalla on suuri merkitys segregaation vähentämiselle. \n\nLapsilla ja nuorilla tulee olla turvallinen päiväkoti- tai koulupaikka lähellä kotia. Ryhmäkoot on pidettävä pienenä.",
+      "se": null,
+      "en": "Inequality and social exclusion must be prevented, especially in schools and residential areas. The reputation of certain areas should also be improved – sometimes, negative perceptions are simply a matter of attitude. I believe that Eastern Helsinki has an unfairly bad reputation. Developing these areas also increases the sense of safety.\n\nYoung people must be able to thrive. This is one of the best ways to prevent street violence and disturbances. When a young person has a pleasant hobby or other leisure activities, they feel valued, and thus they feel like a member of society.\n\nA thriving city must be able to offer affordable housing for everyone. Nowadays, the city’s housing is almost the same price as private market housing. The prices are too high, even for those who are employed. The city’s housing policy plays a crucial role in reducing segregation.\n\nChildren and young people should have a safe daycare or school place close to home. Group sizes must be kept small.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 3,
+      "background_info_id": 2,
+      "name_fi": "Hieman liberaali",
+      "name_sv": "Ganska liberal",
+      "name_en": "Slightly liberal",
+      "name_ru": "Слегка либерал",
+      "name_sme": "Vehá liberála",
+      "name_ara": "أميل إلى الليبرالية",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": "mandinka",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": "Kaupunginvaltuutettuna edistäisin terveys- ja sosiaalipalveluiden saatavuuden parantamista asuinalueesta riippumatta. Asuinalue ei saa määritellä palveluun pääsemisen nopeutta tai esteettömyyttä. ",
+      "se": "Som ledamöt skulle jag främja förbättringen av tillgången till hälsovårds- och socialtjänst, oavsett bostadsområde. Bostadsområdet ska inte bestämma hastigheten eller tillgängligheten till tjänster.",
+      "en": "As a city councilor, I would promote improving the accessibility of health and social services, regardless of the residential area. The area of residence should not determine the speed or accessibility of service.",
+      "ru": "В качестве депутата городского совета? я буду способствовать улучшению доступности услуг здравоохранения и социального обеспечения, независимо от района проживания. Район проживания не должен определять скорость доступа к услугам или их доступность.",
+      "sme": null,
+      "ara": " كعضو في مجلس المدينة، سأعمل على تحسين وصول خدمات الصحة والرعاية الاجتماعية بغض النظر عن المنطقة السكنية. يجب ألا تحدد المنطقة السكنية سرعة الوصول إلى الخدمة أو سهولة الوصول إليها.",
+      "ukr": "Як депутат міської ради, я сприятиму покращенню доступності послуг охорони здоров'я та соціального забезпечення, незалежно від району проживання. Район проживання не має визначати швидкість доступу до послуг чи їхню доступність.",
+      "som": "Aniga oo ah xildhibaan magaalada, waxaan horumarin doonaa helitaanka adeegyada caafimaadka iyo bulshada, iyada oo aan loo eegin goobta deganaanshaha. Goobta deganaanshaha ma noqon karto mid go'aamisa xawliga ama helitaanka adeegga."
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

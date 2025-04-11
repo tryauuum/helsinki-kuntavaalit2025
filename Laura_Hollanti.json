@@ -1,0 +1,204 @@
+{
+  "id": 3393,
+  "first_name": "Laura",
+  "last_name": "Hollanti",
+  "election_number": 244,
+  "party_id": 19,
+  "image": "kuvat/akv2025/3393/7bbc2aee-87fa-42c4-85c2-476cc76c426a",
+  "constituency_id": 25,
+  "video": "1-73822382",
+  "video_aspect": "1:1",
+  "video_description_fi": "Minulle Helsinki on koti. Meille kaikille helsinkiläisille tämä kaupunki on rakas koti. Haluan pitää tästä huolta – meidän kaikkien puolesta. Niin, että täällä on entistäkin parempi, iloisempi ja turvallisempi asua. Pitkän linjan vaikuttamistyö politiikassa ja vankka johtajakokemus antavat siihen oivat valmiudet. Silti inhimillisesti edeten, sillä kuten hyvä ystäväni totesi kauniisti: Lauralla on kirkkaan järjen lisäksi lämmin, iso sydän. ",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 47,
+      "background_info_id": 10,
+      "name_fi": "Oikealle",
+      "name_sv": "Till höger",
+      "name_en": "To the right",
+      "name_ru": "Справа",
+      "name_sme": "Olgeš guvlui",
+      "name_ara": "اليمين",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Helsinki on ahkera ja välittävä. Meidän Helsingissämme heikoimmista ja pienimmistä huolehditaan. Lupaan että vaikutan, jotta työikäiset ovat töissä kykyjensä ja voimiensa mukaan. Että jokainen peruskoulunsa päättävä osaa kunnolla lukea, kirjoittaa ja laskea. Että vanhuksilla on oikeus olla arvokkaasti iäkäs.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1976,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Rohkeus, oikeudenmukaisuus, rehellisyys, kohtuullisuus, rakkaus",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Helsinki on kaunis ja toimiva. Meidän Helsinkimme on siisti, järjestyksessä ja kaunis. Siksi haluan vaikuttaa niin, että betoniaukioille tuodaan puita ja elämää. Että uudet asuinalueet suunnitellaan kauniiksi ja kestäviksi.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.laurahollanti.fi",
+    "facebook_url": null,
+    "instagram_url": null,
+    "municipality_fix": {
+      "fi": "Me haluamme elää kodissa, jossa ei tarvitse pelätä. Siksi Helsingissä on tehtävä seuraavaa:\n- ⁠jengiytymiseen puututaan välittömästi ja\n- ⁠häiriökäyttäytymistä vähennetään.\n\nMe helsinkiläiset rakastamme merta, luontoamme ja kaupunkimme henkeä, siksi.. \n- betoniaukioille tuodaan puita ja elämää,\n- uudet asuinalueet ovat kauniita ja kestäviä.\n\nHelsinkimme on ahkera ja välittävä. Me haluamme, että heikoimmista ja pienimmistä huolehditaan. Siksi..\n- työikäiset ovat töissä, kukin kykyjensä ja voimiensa mukaan ja\n- lapset ja vanhukset eivät jää yksin.\n\nHelsingissämme on helppo liikkua\nHelsingin on oltava saavutettava. Kaikille. Täällä on voitava liikkua autolla, julkisilla, pyörällä, kävellen tai skuuteilla. Helsingissä..\n- skuutit ovat pois jalkakäytäviltä,\n- ⁠kalliit ja turhat pyörätie- ja raidehankkeet pistetään jäihin,\n- ⁠sähköautoille latauspisteiden rakentamishanke käynnistetään.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Kalliolan Settlementti, hallituksen jäsen\nHelsinki Maneesi Rotaryklubi, klubimestari\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 3,
+      "background_info_id": 2,
+      "name_fi": "Hieman liberaali",
+      "name_sv": "Ganska liberal",
+      "name_en": "Slightly liberal",
+      "name_ru": "Слегка либерал",
+      "name_sme": "Vehá liberála",
+      "name_ara": "أميل إلى الليبرالية",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Helsinki on turvallinen. Me haluamme elää Helsingissä, jossa kaikilla on hyvä ja turvallinen olo. Siksi teen töitä sen eteen, että jengiytymiseen puututaan ja häiriökäyttäytymistä vähennetään.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Varavaltuutettu 2012-2017, varhaiskasvatuslautakunnan jäsen 2012-2017, Kokoomuksen puoluevaltuuston jäsen 2012-2016, kaupunkisuunnittelulautakunnan varajäsen 2008-2012",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

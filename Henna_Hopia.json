@@ -1,0 +1,215 @@
+{
+  "id": 16174,
+  "first_name": "Henna",
+  "last_name": "Hopia",
+  "election_number": 245,
+  "party_id": 19,
+  "image": "kuvat/akv2025/16174/0b8c2ac9-0d74-442c-ad0d-4546742c451f",
+  "constituency_id": 25,
+  "video": "1-73829114",
+  "video_aspect": "1:1",
+  "video_description_fi": "Hei, olen Henna Hopia, Kokoomuksen kuntavaaliehdokas Helsingissä, Pikku-Huopalahdessa asuva 45-vuotias viestintäyrittäjä. Olen kahden lapsen äiti ja kahden nuoren aikuisen bonusäiti. Olen ensi kertaa ehdolla Helsingissä, mutta minulla on yli 20 vuoden työkokemus politiikan parissa Suomesta sekä Brysselistä, jossa asuin kuusi vuotta aikanaan. Parikymppisenä olin mukana kunta- ja opiskelijapolitiikassa opiskelukaupungissani Tampereella. Alun perin olen kotoisin Oulusta ja Helsingissä olen asunut yhteensä noin 12 vuotta.\n\nOlen reservin upseeri (yliluutnantti) ja aktiivinen maanpuolustustyössä, mm. pk-seudun varautumistoiminnassa ja Nato-yhteistoiminnassa. Olen kirjoittanut paljon turvallisuuspolitiikasta ja seurannut EU- ja Nato-asioita koko työurani. Koulutukseltani olen yhteiskuntatieteiden kandidaatti, pääaine kansainvälinen politiikka.\n\nTärkein tavoitteeni tulevalle valtuustokaudelle on turvallisuus. Helsingin, varsinkin maamme pääkaupunkina, täytyy olla varautunut kaikenlaisiin kriiseihin. Haluan ottaa yritykset ja järjestöt mukaan varautumistyöhön, ja saada ihmiset innostumaan asiasta. Turvallisuus on toki myös laajempi käsite. Miten lapsemme ja nuoremme voivat, ovatko kadut ja puistot turvallisia, pääseekö palveluihin, kulkeeko liikenne. Talous ja yritystoiminta liittyvät myös turvallisuuteen, sillä vahva julkinen talous ja elinvoimaiset yritykset ovat menestyksemme tae. Näiden kaikkien asioiden eteen haluan tehdä töitä. Lue lisää: www.hennahopia.fi \n",
+  "video_description_sv": null,
+  "video_description_en": "I am Henna Hopia, a candidate for the Helsinki City Council, with the centre-right party Kokoomus. I am a 45-year-old mother of two, a communications entrepreneur, and a reserve officer in the Finnish Army, living in Pikku-Huopalahti. I have worked in politics in Finland and Brussels for over 20 years. \n\nMy main goal in the upcoming Council term is security – our capital Helsinki needs to be prepared for all crises. Our neighbourhood must be safe for us, our kids need to be taken care of, services and transport have to work smoothly. We also need strong economy and thriving business to build a bright future.",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 47,
+      "background_info_id": 10,
+      "name_fi": "Oikealle",
+      "name_sv": "Till höger",
+      "name_en": "To the right",
+      "name_ru": "Справа",
+      "name_sme": "Olgeš guvlui",
+      "name_ara": "اليمين",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "3. Yhteistyö: Olen paitsi tiimipelaaja omassa puolueessani niin myös yhteistyökykyinen yli puoluerajojen. Pyrin hakemaan ratkaisuja, joilla saadaan hyvä lopputulos mahdollisimman laajalti. Meidän tulee kuulla paremmin kaikkia, joihin päätökset vaikuttavat ja ottaa eri tahoja tekemiseen mukaan; kansalaiset, yritykset, järjestöt. Sillä Helsinki olemme me kaikki.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1979,
+    "language_skills": [
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      },
+      {
+        "fi": "ranska",
+        "se": "franska",
+        "en": "French",
+        "ru": "французский",
+        "sme": "fránskkagiella",
+        "ara": "الفرنسية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Arvojani ovat vapaus, vastuu, välittäminen, avoimuus ja oikeudenmukaisuus. Minusta on tärkeää suhtautua asioihin ja ihmisiin lähtökohtaisesti myönteisesti ja ottaa elämässä vastaantulevat asiat mahdollisuuksina. Toisia tulee auttaa, jos vaan voi - samalla toki jokaisella on ensisijainen vastuu itsestään ja perheestään. Uskon mahdollisuuksien tasa-arvoon. Jokainen meistä on arvokas.\n\nPolitiikassa pidän tärkeänä, että ajattelemme asioita ihmislähtöisesti ja myös yritysmyönteisesti, emme koneiston kannalta. Hallinto on olemassa meitä ihmisiä ja yrityksiä varten, ei toisinpäin.\n\nOlen isänmaallinen mutta samalla kansainvälinen. Olen kannattanut EU:ta ja Suomen Nato-jäsenyyttä jo vuosikymmeniä. Uskon yhteistyön voimaan ja haluan ajatella myönteisesti, mutta olen samalla realisti ja varaudun myös pahimpaan - siksi turvallisuus täytyy olla ykkösasiana päätöksissämme.\n",
+      "se": null,
+      "en": "I stand for freedom, responsibility, caring, openness and justice.\n\nMy party Kokoomus is a centre-right party, belonging to the European People’s Party. It promotes human dignity, democracy, rule of law, equal opportunities, market economy, good relations to our Allies and a stronger Europe with global influence.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "2. Palveluksessanne: Lupaan tehdä parhaani ollakseni luottamuksenne arvoinen. Olen työteliäs ja perehdyn asioihin. Olen äänestäjien palveluksessa – te olette ”työantajanani ”valtuustossa. Arvostan jokaista saamaani ääntä korkealle.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.hennahopia.fi/",
+    "facebook_url": "https://www.facebook.com/HennaHopiaSivu",
+    "instagram_url": "https://www.instagram.com/hennahopia/",
+    "X_url": "https://x.com/HennaHopiasepat",
+    "language_some_other": {
+      "fi": "Suomi on äidinkieleni. Englantini on erinomainen, ja se oli ollut vuosia myös työkieleni. Ruotsini oli koulussa erittäin hyvä, mutta taito on ruostunut. Ranskaa käytin päivittäin asuessani Brysselissä ja yritän nyt pitkän tauon jälkeen palauttaa sitä mieliini. Saksaa kirjoitin aikanaan, pärjään sillä matkoilla. Espanjani on turistitasolla.",
+      "se": "",
+      "en": "",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "municipality_fix": {
+      "fi": "Helsingissä on moni asia hyvin, mutta paljon on parannettavaa. Itselleni turvallisuus on tärkeintä: Olemmeko tarpeeksi varautuneita kriiseihin, kokevatko ihmiset olonsa turvalliseksi kaduilla. Saavatko ihmiset palvelunsa, esimerkiksi ikäihmisille tämä ei toteudu tarpeeksi.\n\nItsekin äitinä huolenani ovat lapset ja nuoret, joille kuuluu turvallinen kasvu ilman huumeita ja jengejä. Mielenterveys- ja päihdeasioissa on tekemistä. Koko perhettä on autettava, yhdeltä luukulta. Nyt palveluita suunnitellaan liikaa hallinnon vinkkelistä, jolloin moni avuntarvitsija uupuu.\n\nLiikennepolitiikka on ollut ongelmallista ja tärkeät ratkaisut kuten tunnelipäätökset viivästyvät. Kannatan kaikkia liikkumismuotoja, autollakin pitää päästä keskustaan. Myös liikuntarajoitteisten ihmisten kulkeminen on turvattava. Yrityksiä tulee kuulla liikennehankkeissa, ja niille pitäisi antaa enemmän mahdollisuuksia esim. kilpailutuksilla. Yritykset olisi huomioitava päätöksissä, jotta niillä olisi edellytykset menestyä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Tällä hetkellä olen aktiivinen erityisesti maanpuolustustyössä; toimin mm. Helsingin Reserviupseeripiirin varautumistoimikunnassa ja Kanta-Helsingin Reserviupseerien hallituksessa (olen reservin yliluutnantti).\n\nOlen ensi kertaa vaaleissa ehdolla Helsingissä, joten täällä minulla ei ole vielä muita luottamuspaikkoja, kuin Ami-säätiön (kehittyvän työn säätiö) hallituksen pj:n henkilökohtainen varajäsenyys, johon minut alkuvuodesta nimettiin.\n\nOlen kuitenkin poliittisessa toiminnassa jo konkari, sillä minulla on yli 20 vuoden kokemus politiikasta mm. töiden kautta niin kotimaasta kuin Brysselistä (mm. poliittisena avustajana eduskunnassa ja Euroopan parlamentissa, EU/Nato-toimittajana, think tankeissa ja viestintätoimistossa jne.).\n\nToimin parikymppisenä opiskelukaupungissani Tampereella varavaltuutettuna ja useissa lautakunnissa, olin myös eduskuntavaaliehdokkaana. Lisäksi olen ollut aktiivinen opiskelijapolitiikassa ja monissa järjestöissä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 5,
+      "background_info_id": 2,
+      "name_fi": "Hieman konservatiivi",
+      "name_sv": "Ganska konservativ",
+      "name_en": "Slightly conservative",
+      "name_ru": "Слегка консерватор",
+      "name_sme": "Vehá konservatiiva",
+      "name_ara": "أميل إلى المحافظة",
+      "target_value": 1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "1. Asiat & arvot: Lupaan edistää erityisesti minulle tärkeitä asioita valtuustossa. Ne ovat: 1) varautunut ja turvallinen pääkaupunki, 2) lapsille ja nuorille hyvä kotikaupunki, sekä 3) ihmis- ja yritysmyönteinen metropoli. Aion tehdä arvojeni mukaista politiikkaa; arvojani ovat mm. vapaus, vastuu ja ihmisistä välittäminen.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Yli 20 vuotta työtehtäviä politiikan parissa: MEPin toimiston päällikkö ja poliittinen avustaja Euroopan parlamentissa. Eduskunnassa kansanedustajan avustaja, MEPin kotimaan avustaja, Kokoomuksen suuren valiokunnan työryhmäsihteeri. Kokoomusnuorten poliittinen sihteeri Pirkanmaalla. EU/Nato-toimittajana Brysselissä seurasin kaikki EU- ja Nato-kokoukset, haastattelin ministerit ja mepit jne. Olin Brysselin think tankeissa eri tehtävissä, mm. Visiting Fellow’na Martens Centre for European Studies’ssa, joka on Kokoomuksen eurooppalaisen kattopuolueen EPP:n ajatushautomo. Olen toiminut myös EVAssa (Elinkeinoelämän valtuuskunta) viestintäpäällikkönä. Korkeakouluharjoitteluni tein Puolustusministeriössä. 2016 lähtien oma strateginen viestintätoimisto (www.hopiasepat.fi), joka tekee myös poliittista vaikuttamistyötä. Oma poliittinen aktiivisuus: Vuonna 2007 olin eduskuntavaaliehdokas Pirkanmaalla (2311 ääntä). Vuonna 2004 olin kuntavaaliehdokkaana Tampereella, ja siitä seuraavat vuodet varavaltuutettuna, jäsen osaamis- ja elinkeinolautakunta, jäsen kutsuntalautakunta, varajäsen lasten ja nuorten palvelujen lautakunta, sekä poliisin neuvottelukunta. Opiskelijapolitiikassa toimin mm. Kokoomuksen opiskelijaliitto Tuhatkunnassa ja Tampereen yliopiston ylioppilaskunnassa mm. edustajiston 1.vpjna. Ansiomerkit: Kokoomuksen Sininen Leijona 2016, Helsingin Kokoomuksen Hopeinen Ansiomerkki 2014, Kokoomuksen Vihreä Leijona 2011.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

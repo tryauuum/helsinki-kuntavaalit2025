@@ -1,0 +1,193 @@
+{
+  "id": 9447,
+  "first_name": "Cecilia",
+  "last_name": "Ehrnrooth",
+  "election_number": 604,
+  "party_id": 8,
+  "image": "kuvat/akv2025/9447/031b063d-4e77-4ab8-921c-41416431386b",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 47,
+      "background_info_id": 10,
+      "name_fi": "Oikealle",
+      "name_sv": "Till höger",
+      "name_en": "To the right",
+      "name_ru": "Справа",
+      "name_sme": "Olgeš guvlui",
+      "name_ara": "اليمين",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Haluan työskennellä kestävän kaupunkikehityksen ja toimivan joukkoliikenteen puolesta, jotta asukkaiden arki helpottuu. Kaupunkisuunnittelussa on otettava huomioon jalankulkijoiden, pyöräilijöiden sekä autoilijoiden tarpeet mahdollisimman tarkoituksenmukaisella tavalla.",
+      "se": "Jag vill arbeta för en hållbar stadsutveckling och en fungerande kollektivtrafik som underlättar vardagen för invånarna. I stadsplaneringen ska såväl fotgängares, cyklisters och bilisters behov tas i beaktande på mest ändamålsenliga sätt.",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1972,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Respektera varandra.\nKunnioittakaa toisianne.\nAvoimuus: Ole avoin uusille näkökulmille, ihmisille ja ideoille.\nEmpatia: Kuuntele aktiivisesti ja pyri ymmärtämään.\nRehellisyys: Tee se, mikä on oikein, riippumatta ympäristön mielipiteistä.\nRohkeus: Uskalla kokeilla uutta ja kyseenalaistaa vanhaa.",
+      "se": "Respektera varandra.\nÖppenhet: Vara öppen för nya perspektiv, människor och idéer. \nEmpati: Lyssna aktivt och försök förstå.\nIntegritet: Gör det som är rätt oavsett vad omgivningen tycker.\nMod: Våga prova det nya och ifrågasätta det gamla.\n",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Sosiaali- ja terveysalan kokemukseni kautta tiedän, kuinka tärkeää on, että terveydenhuolto toimii sujuvasti. Tarvitsemme paremmin saatavilla olevaa hoitoa, laadukkaampaa vanhustenhuoltoa ja enemmän panostuksia mielenterveyteen.",
+      "se": "Med erfarenhet från social- och hälsovårdssektorn vet jag hur viktigt det är att vården fungerar smidigt. Vi behöver mer tillgänglig vård, bättre äldreomsorg och ökad satsning på mental hälsa.",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 23,
+      "background_info_id": 8,
+      "name_fi": "ruotsi",
+      "name_sv": "Svenska",
+      "name_en": "Swedish",
+      "name_ru": "шведский",
+      "name_sme": "ruoŧagiella",
+      "name_ara": "السويدية",
+      "target_value": null,
+      "name_ukr": "шведська",
+      "name_som": "af-Iswiidhish"
+    },
+    "municipality_fix": {
+      "fi": "Tarvitaan parempaa kokonaisajattelua resurssien jakamisessa ja päätösten vaikutusten analysoinnissa kuntalaisten arkeen.\n\nToimialojen asiantuntijat, kuten esimerkiksi sosiaali- ja terveydenhuollon tai koulujen ja koulutuksen edustajat, tulisi ottaa mukaan päätöksentekoon, jotta taustalla on todellisuuteen perustuva näkökulma.\n\nPäätökset on tarkistettava, jos ne osoittautuvat käytännössä tarkoituksenmukaisuudeltaan puutteellisiksi.",
+      "se": "Det behövs bättre helhetstänk vid fördelningen av resurser och analys av hur besluten påverkar kommuninvånarna i deras vardag. De som är sakkunniga inom verksamheter, t.ex. social- och hälsovård eller skolor/utbildning bör engageras vid beslutsfattandet, så det finns en verklighetsförankring i bakgrunden. Och beslut ska omprövas om det visar sig vara oändamålsenliga i praktiken.",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": null,
+      "se": "Ordförande för Svenska Kvinnoförbundet i Helsingfors\nFolktingsledamot\nStyrelsemedlem Oulunkylän kuntoutussäätiö\nNämndeman i Helsingfors Tingsrätt",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Turvallinen ja laadukas koulutus on avain vahvaan tulevaisuuteen. Haluan varmistaa riittävät resurssit kouluille, tukea opettajia ja panostaa nuorten mielenterveyteen.",
+      "se": "En trygg och kvalitativ utbildning är nyckeln till en stark framtid. Jag vill säkerställa tillräckliga resurser till skolor, stödja lärarna och satsa på ungas psykiska hälsa.",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": null,
+      "se": "Jag har varit aktiv i Helsingforspolitiken sedan 2012. Bl.a. som kretsordförande för SFP i Helsingfors och medlem av social- och hälsovårdsnämnden.",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "id": 7147,
+  "first_name": "Risto",
+  "last_name": "Rautava",
+  "election_number": 316,
+  "party_id": 19,
+  "image": "kuvat/akv2025/7147/02499082-de85-435a-88cf-cdcf5cfbba8c",
+  "constituency_id": 25,
+  "video": "1-73815738",
+  "video_aspect": "1:1",
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 47,
+      "background_info_id": 10,
+      "name_fi": "Oikealle",
+      "name_sv": "Till höger",
+      "name_en": "To the right",
+      "name_ru": "Справа",
+      "name_sme": "Olgeš guvlui",
+      "name_ara": "اليمين",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Teen töitä sen eteen, että terveydenhoidon palveluihin pitää osoitetaan riittävästi resursseja. Niin perusterveydenhuoltoon kuin erikoissairaanhoitoon.\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1954,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Luotettavuus, turvallisuus, rehellisyys, suvaitsevaisuus, välittäminen",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Teen töitä taloudellisesti kestävän Helsingin puolesta. Helsinkiläisten veroja ei pidä nostaa. Hyvin hoidettu talous mahdollistaa hyvät palvelut kaupunkilaisille.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.ristorautava.fi",
+    "facebook_url": "https://www.facebook.com/ristorautava.fi",
+    "instagram_url": "https://instagram.com/ristorautava",
+    "language_some_other": {
+      "fi": "Englanti",
+      "se": null,
+      "en": "",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "municipality_fix": {
+      "fi": "Liikennesuunnittelu pitää korjata sellaiseksi, että kaikilla liikkumismuodoilla pääsee kulkemaan joustavasti kaupungissa.\nTurvallisuus pitää ottaa keskeiseksi asiaksi niin kaduilla, kouluissa kuin työpaikoillakin.\nTerveydenhuollon jonot pitää saada leikattua.\nYritykset ja kolmannen sektorin toimijat vielä vahvemmin mukaan kaupungin toimintaan.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "HUS-yhtymän hallituksen puheenjohtaja\nHelsingin kaupunkiympäristölautakunnan varapuheenjohtaja\nUudenmaan maakuntavaltuutettu",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 3,
+      "background_info_id": 2,
+      "name_fi": "Hieman liberaali",
+      "name_sv": "Ganska liberal",
+      "name_en": "Slightly liberal",
+      "name_ru": "Слегка либерал",
+      "name_sme": "Vehá liberála",
+      "name_ara": "أميل إلى الليبرالية",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Otetaan Helsinki takaisin helsinkiläisille. Kaupungin toimivuutta ja viihtyisyyttä pitää parantaa\nTeen töitä sen eteen, että kaikki liikkumismuodot ovat mahdollisia Helsingissä. Liikenteen pitää olla sujuvaa ja kaupungissa pitää pystyä liikkumaan myös henkilöautoilla. Kävely on keskeinen liikkumismuoto kaupungissa, ja sen edellytyksiä pitää parantaa.\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "kunnanvaltuutettu",
+        "se": "ledamot i kommunfullmäktige",
+        "en": "municipal councillor",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Kaupunginhallituksen puheenjohtaja, kaupunkisuunnittelulautakunnan puheenjohtaja, ja HSL:n hallituksen puheenjohtaja, maakuntahallituksen jäsen, Terhosäätiön (ylläpitää Terhokotia) hallintoneuvoston puheenjohtaja ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

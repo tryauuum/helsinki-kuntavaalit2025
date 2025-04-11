@@ -1,0 +1,220 @@
+{
+  "id": 6741,
+  "first_name": "Eija-Riitta",
+  "last_name": "Korhola",
+  "election_number": 49,
+  "party_id": 9,
+  "image": "kuvat/akv2025/6741/b8eec9a4-7b55-492a-999a-8318ba257915",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 47,
+      "background_info_id": 10,
+      "name_fi": "Oikealle",
+      "name_sv": "Till höger",
+      "name_en": "To the right",
+      "name_ru": "Справа",
+      "name_sme": "Olgeš guvlui",
+      "name_ara": "اليمين",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "-",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1959,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      },
+      {
+        "fi": "ranska",
+        "se": "franska",
+        "en": "French",
+        "ru": "французский",
+        "sme": "fránskkagiella",
+        "ara": "الفرنسية"
+      },
+      {
+        "fi": "venäjä",
+        "se": "ryska",
+        "en": "Russian",
+        "ru": "русский",
+        "sme": "ruoššagiella",
+        "ara": "الروسية"
+      }
+    ],
+    "education": {
+      "id": 54,
+      "background_info_id": 16,
+      "name_fi": "joku muu",
+      "name_sv": "någon annan examen",
+      "name_en": "Other",
+      "name_ru": "другое",
+      "name_sme": "muhtin eará",
+      "name_ara": "مستوى دراسي آخر",
+      "target_value": 6,
+      "name_ukr": "інше",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Rehellisyys, lahjomattomuus, johdonmukaisuus, avoimuus, rakkaus\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Kuten aina, olen epäkaupallinen ehdokas. Kampanjoin ajatuksilla ja argumenteilla, en rahalla. Se tarkoittaa sitä että olen varsin riippumaton ja lahjomaton. Se taas tarkoittaa, että minulla on vapaus ajatella vapaasti, ja voin tarvittaessa korjata käsityksiäni, jos huomaan ne vääriksi. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.korhola.com",
+    "facebook_url": null,
+    "X_url": "https://x.com/ER_Korhola",
+    "municipality_fix": {
+      "fi": "Kunnallista jätevedenkäsittelyä voidaan parantaa. Se on esimerkki ympäristöpolitiikasta, josta saadaan kaikkia hyödyttäviä tuloksia. Liian globaalit hankkeet turhauttavat ihmisiä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "HelsinkiMissio valtuuskunnan jäsen\nKirkko ja Kaupunki -median johtokunnan jäsen\n\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 4,
+      "background_info_id": 2,
+      "name_fi": "En liberaali enkä konservatiivi",
+      "name_sv": "Varken liberal eller konservativ",
+      "name_en": "Neither liberal or conservative",
+      "name_ru": "Ни либерал, ни консерватор",
+      "name_sme": "In liberála inge konservatiiva",
+      "name_ara": "لا ليبرالي ولا متحفظ",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Haluan omalla ehdokkuudellani olla vaikuttamassa ympäristöpolitiikan suuntaan. Arvostan kunnianhimoista ympäristöajattelua, mutta sen täytyy olla sitä ihmisten elämänlaadun kannalta, eikä vain ruokkia joidenkin tahojen poliittista kunnianhimoa tai seurata trendejä. Luonnonolosuhteet ratkaisevat viime kädessä sen, millainen ympäristöpolitiikka toimii ihmisten parhaaksi.  En ole 15 minuutin kaupungin kannattaja, jos se johtaa myöhemmin liikkumisrajoituksiin ja kontrolliin – mutta jos se pyrkii parantamaan palvelujen saatavuutta, se toimii. Ei arktista pääkaupunkia ole myöskään mielekästä kehittää pyöräilijöiden ehdoilla.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Euroopan parlamentin jäsen 1999-2014, 2024. KD:n puoluesihteeri 2003, Kokoomuksen varapuheenjohtaja 2006-2010",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

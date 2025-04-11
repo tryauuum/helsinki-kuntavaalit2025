@@ -1,0 +1,213 @@
+{
+  "id": 1012,
+  "first_name": "Fatim",
+  "last_name": "Diarra",
+  "election_number": 714,
+  "party_id": 6,
+  "image": "kuvat/akv2025/1012/4a57d120-28de-4bc5-a26e-e5449d227a1a",
+  "constituency_id": 25,
+  "video": "1-73823067",
+  "video_aspect": "1:1",
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 43,
+      "background_info_id": 10,
+      "name_fi": "Vasemmalle",
+      "name_sv": "Till vänster",
+      "name_en": "On the left",
+      "name_ru": "Слева",
+      "name_sme": "Gurut guvlui",
+      "name_ara": "اليسار",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Pidän kaikista syrjäytymisuhassa olevien puolta. Me tiedämme,että Helsinki menestyy vain kun helsinkiläiset voivat hyvin.Meillä on mielenterveyden ja päihteiden kriisi",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1986,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "ranska",
+        "se": "franska",
+        "en": "French",
+        "ru": "французский",
+        "sme": "fránskkagiella",
+        "ara": "الفرنسية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Tasa-arvo\nIhmisoikeudet\nIlmasto\nEmpatia\nVapaus",
+      "se": "Jämställdhet\nMänskliga rättigheter\nKlimat och miljö\nEmpati\nFrihet",
+      "en": "Equality\nHuman rights\nClimate\nEmpathy\nFreedom",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Teen töitä kukoistavan Helsingin puolesta, se tarkoittaa, niin kukoistavaa kaupunkikulttuuria, elinvoimaista elinkeinoelämää kuin sitä, että jokaiselle on koti, yhteisö ja mahdollisuuksia elää oman näköistä elämää.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.fatimdiarra.fi/",
+    "instagram_url": "https://www.instagram.com/fatimwdiarra",
+    "X_url": null,
+    "tiktok_url": "https://www.tiktok.com/@fatimwdiarra",
+    "municipality_fix": {
+      "fi": "Helsinki toimii vastavoimana politiikalle, jossa helsinkiläisten arkeen on yritetty tehdä heikennyksiä lyhytnäköisen politiikan seurauksena.Helsinki menestyy vain silloin kun helsinkiläiset menestyvät. Nyt meidän on seisottava toistemme tukena, sillä emme aina tiedä, kenellä on kotona pulaa ruoasta, kenellä työkaverilla ei nyt mene hyvin ja kuka kantaa liian suurta takkaa. Minä haluan nähdä kukoistavan Helsingin, jossa kaikki otetaan mukaan. Helsingin, jossa uskalletaan yrittää ja yritykset pärjäävät. Helsingin, jossa jokaiselle on koti, yhteisö ja mahdollisuuksia oppia ja kasvaa omaan potentiaaliinsa. Yhtä tärkeää kuin toistemme tukeminen on Helsingin vahvistaminen. Helsinki on aina ollut tulijoiden kaupunki. Kansanedustajan työssäni näen, miten arvoilmapiiri muuttuu ja kuinka ihmisiä asetetaan eriarvoiseen asemaan lähtökohtiensa perusteella. Minulle helsinkiläinen on helsinkiläinen – riippumatta ihonväristä, seksuaalisesta suuntautumisesta tai mistään muustakaan ominaisuudesta.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Kansanedustaja, perustuslakivaliokunnan jäsen sekä työ-ja tasa-arvovaliokunnan jäsen \nKaupunginvaltuutettu ja Helsingin tapahtumasäätiön varapuheenjohtaja\nPlanin hallituksen jäsen\nYhteiset Lapser ry puheenjohtaja\nSuomen kulttuuri ja tiedeinstituuttien liitto puheenjohtaja\nLasten kulttuurikeskusten liitto puheenjohtaja\nPohjoismaiden neuvoston Suomen valtuuskunnan varajäsen\nKelan valtuuskunnan varajäsen\nKuntaliiton valtuuskunnan jäsen",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": "Ranska",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": "Puolustan intohimolla niitä asioita, jotka ovat kaikkein tärkeimpiä. Minua ei pelota homot tai maahanmuuttajat, vaan taantumuksellinen politiikka.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "kansanedustaja",
+        "se": "riksdagsledamot",
+        "en": "MP",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      },
+      {
+        "fi": "kunnanvaltuutettu",
+        "se": "ledamot i kommunfullmäktige",
+        "en": "municipal councillor",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

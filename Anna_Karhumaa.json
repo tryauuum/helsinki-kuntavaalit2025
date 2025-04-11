@@ -1,0 +1,187 @@
+{
+  "id": 4550,
+  "first_name": "Anna",
+  "last_name": "Karhumaa",
+  "election_number": 495,
+  "party_id": 5,
+  "image": "kuvat/akv2025/4550/928e501f-19bd-4f72-bb72-0cfde3f736aa",
+  "constituency_id": 25,
+  "video": "1-73818585",
+  "video_aspect": "1:1",
+  "video_description_fi": "Haluan edistää ennaltaehkäiseviä tukitoimia ja varhaista puuttumista, oli sitten kyseessä lapsen oppimisen pulmat, nuorten mielenterveyshaasteet, vanhuspalvelut tai perheiden erilaiset elämäntilanteet. Se on kustannustehokasta, järkevää ja inhimillistä.\n\n Lupaan toimia politiikassa rakentavasti, demokratiaa kunnioittaen ja hyvää poliittista keskustelukulttuuria luoden. ",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 45,
+      "background_info_id": 10,
+      "name_fi": "En vasemmalle enkä oikealle",
+      "name_sv": "Varken vänster eller höger",
+      "name_en": "Neither to the right or the left",
+      "name_ru": "Ни слева, ни справа",
+      "name_sme": "In gurut inge olgeš guvlui",
+      "name_ara": "لا إلى اليسار ولا إلى اليمين",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "3. Lupaan toimia politiikassa rakentavasti, demokratiaa kunnioittaen ja hyvää poliittista keskustelukulttuuria luoden. En sorru populismiin enkä blokkipolitiikkaan, kykenen tekemään hyvässä hengessä yhteistyötä Helsingin ja helsinkiläisten parhaaksi. ",
+      "se": "3. Jag lovar att agera konstruktivt i politiken, respektera demokratin och skapa en bra politisk debattkultur. Jag ger inte efter för populism eller blockpolitik, jag kan samarbeta i god anda för Helsingfors och dess invånares bästa.",
+      "en": "3. I promise to act constructively in politics, respecting democracy and creating a good political culture of debate. I will not succumb to populism or bloc politics, and I am able to cooperate in a good spirit for the good of Helsinki and its residents.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1984,
+    "language_skills": [
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Usko, toivo, rakkaus, turvallisuus ja vapaus",
+      "se": "Tro, hopp, kärlek, trygghet och frihet\n",
+      "en": "Faith, hope, love, security and freedom\n",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "2. Haluan edistää varhaista puuttumista ja ennaltaehkäiseviä palveluita oli sitten kyseessä terveydenhuollon piiriin pääsy, vanhusten palvelut, nuorten mielenterveyden tukeminen tai perheiden erilaiset tarpeet. ",
+      "se": "2. Jag vill främja tidiga insatser och förebyggande tjänster, oavsett om det gäller tillgång till hälso- och sjukvård, tjänster för äldre, stödja ungdomars psykiska hälsa eller familjers olika behov.",
+      "en": "2. I want to promote early intervention and preventive services, whether it's access to healthcare, services for the elderly, supporting young people's mental health, or the various needs of families.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "facebook_url": "https://www.facebook.com/share/12DJzCrUVCV/",
+    "instagram_url": "https://www.instagram.com/annakarhumaa?igsh=MXM4dG42YWZnZzh6aw==",
+    "municipality_fix": {
+      "fi": "1. Terveydenhuollossa on satsattava nykyistä enemmän ennaltaehkäiseviin palveluihin. Sote-palvelut ovat ylikuormittuneet. Siksi ennaltaehkäisevät palvelut ja varhainen puuttuminen eivät toimi tarkoituksenmukaisesti. Kannatan kustannustehokasta omalääkärimallia, jossa asukkaille nimetään oma lääkäri, joka tuntee potilaan tilanteen kokonaisvaltaisemmin. \n2. Helsingissä tulisi nykyistä voimakkaammin puuttua asuinalueiden&ihmisten väliseen segregaatioon kaikin tutkimuksissa hyväksi havaituin keinoin.\n3 Viime vuosina Helsingissä on keskitytty päiväkotien ja koulujen koon kasvattamiseen.Jättimäiset peruskoulut, päiväkodit ja -lukiot eivät ole kaikille se paras mahdollinen kasvuympäristö. \n4. Helsingissä pidettävä rakentamisessa ja kaavoittamisessa nykyistä paremmin huolta, että lähiluontoa löytyy jokaisen helsinkiläisen ulottuvilta! \n5. Alaikäisten harjoittamaan väkivaltaan &rikolliseen toimintaan on puututtava tiukemmin ja nuorten ennaltaehkäiseviin tukitoimiin satsattava nykyistä enemmän.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Olen toiminut kuluneen kauden Helsingin Keskustan varavaltuutettuna ja kulttuuri- ja vapaa-aikalautakunnan varajäsenenä. Olen jäsenenä Helsingin kirkkovaltuustossa ja Malmin seurakuntaneuvostossa. Näiden lisäksi toimin ihan vapaaehtoispohjalta asuinalueeni asukasyhdistys Pro Alppikylän puheenjohtajana. ",
+      "se": "Jag har varit biträdande kommunalråd för Helsingfors centrum och suppleant i kultur- och fritidsnämnden den senaste mandatperioden. Jag är ledamot i Helsingfors kyrkoråd och Malmi församlingsråd. Utöver dessa fungerar jag som ordförande för boendeföreningen Pro Alpikolä i mitt område, på frivillig basis.",
+      "en": "I have served as a deputy councilor for the Helsinki City Centre and a deputy member of the Culture and Leisure Committee for the past term. I am a member of the Helsinki Church Council and the Malmi Parish Council. In addition to these, I serve as the chairman of the residents' association Pro Alppikylä, my area, on a voluntary basis.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 4,
+      "background_info_id": 2,
+      "name_fi": "En liberaali enkä konservatiivi",
+      "name_sv": "Varken liberal eller konservativ",
+      "name_en": "Neither liberal or conservative",
+      "name_ru": "Ни либерал, ни консерватор",
+      "name_sme": "In liberála inge konservatiiva",
+      "name_ara": "لا ليبرالي ولا متحفظ",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "1. Lapset ja nuoret ovat suurin rikkaus, joka meillä on. Haluan toimia sen eteen että jokainen lapsi saa laadukasta opetusta lähikoulussa. Haluan varmistaa, että jokainen nuori pysyy mukana ja saa hyvät eväät uskoa itseensä ja kykyihinsä. ",
+      "se": "1. Barn och unga är den största rikedomen vi har. Jag vill arbeta för att alla barn ska få en kvalitetsutbildning i en lokal skola. Jag vill se till att varje ung person förblir delaktig och får goda möjligheter att tro på sig själv och sin förmåga.",
+      "en": "1. Children and young people are the greatest wealth we have. I want to work to ensure that every child receives a quality education in a local school. I want to ensure that every young person stays involved and gets good opportunities to believe in themselves and their abilities.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Olen toiminut kuluneen kauden Helsingin Keskustan varavaltuutettuna ja kulttuuri- ja vapaa-aikalautakunnan varajäsenenä. Olen jäsenenä Helsingin kirkkovaltuustossa ja Malmin seurakuntaneuvostossa. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

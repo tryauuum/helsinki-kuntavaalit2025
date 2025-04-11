@@ -1,0 +1,191 @@
+{
+  "id": 228,
+  "first_name": "Fardoos",
+  "last_name": "Helal",
+  "election_number": 852,
+  "party_id": 4,
+  "image": "kuvat/akv2025/228/56f87de8-52c6-45e3-ad66-c937f910ef4c",
+  "constituency_id": 25,
+  "video": "1-73820064",
+  "video_aspect": "1:1",
+  "video_description_fi": "Hei! Olen Fardoos Helal. Minulle tärkeät tavoitteet ovat nuorten, perheiden ja ikääntyneiden tukeminen. Palveluiden vahvistaminen ja asumisen kehittäminen ja tietysti maahanmuuttajien osallistaminen ja aktiivisuuden edistäminen. Kiitos. ",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 43,
+      "background_info_id": 10,
+      "name_fi": "Vasemmalle",
+      "name_sv": "Till vänster",
+      "name_en": "On the left",
+      "name_ru": "Слева",
+      "name_sme": "Gurut guvlui",
+      "name_ara": "اليسار",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Maahanmuuttajien osallistaminen ja aktiivisuuden edistäminen: Maahanmuuttajien kotoutumista tulee edistää monikielisten palvelujen ja kulttuuritulkkauksen avulla. On tärkeää, että maahanmuuttajat eivät jää yhteiskunnan ulkopuolelle, vaan löytävät keinoja päästä eteenpäin työn ja koulutuksen kautta ja osallistua aktiivisesti yhteiskunnan rakentamiseen.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1975,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "•\tRehellisyys: Korostan totuudenmukaisuutta, avoimuutta ja vilpittömyyttä kaikissa vuorovaikutustilanteissa.\n•\tKunnioitus: Korostan toisten ihmisten ja heidän näkemystensä kunnioittamista sekä arvostamista.\n•\tOikeudenmukaisuus: Korostan tasapuolisuutta ja tasa-arvoa kaikissa tilanteissa, sekä pyrin käsittelemään muita oikeudenmukaisesti.\n•\tVastuu: Korostan omien tekojeni seurausten tiedostamista ja olen valmis ottamaan vastuun omasta elämästäni ja toiminnastani.\n•\tMyötätunto: Korostan kykyäni ymmärtää ja tuntea empatiaa toisia kohtaan sekä haluani auttaa ja tukea muita tarvittaessa.\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": " Peruspalveluiden vahvistaminen ja asumisen kehittäminen: Helsingin pitää olla kaupunki, jossa on hyvä asua ja elää. Tämä tarkoittaa sitä, että palvelut toimivat hyvin ja ovat kaikkien saatavilla. Kaupungin täytyy rakentaa lisää kohtuuhintaisia asuntoja, jotta vuokrat ja asunnon hinnat eivät nouse liian korkeiksi. Samalla on tärkeää, että lähellä kotia on päiväkoteja, kouluja, terveyspalveluja ja hyvät liikenneyhteydet.\nSDP:n ehdokkaana haluan tehdä työtä sen eteen, että Helsinki on toimiva ja viihtyisä kaupunki jokaiselle asukkaalle.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 25,
+      "background_info_id": 8,
+      "name_fi": "jokin muu",
+      "name_sv": "något annat",
+      "name_en": "Other",
+      "name_ru": "другой",
+      "name_sme": "eará",
+      "name_ara": "لغة أخرى",
+      "target_value": null,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "homepage_url": "https://fardooshelal.fi/",
+    "facebook_url": "https://www.facebook.com/fardooshelal75",
+    "instagram_url": "https://www.instagram.com/fardooshelal/",
+    "tiktok_url": "https://tiktok.com/@fardooshelal",
+    "municipality_fix": {
+      "fi": "Hoitoon pääsy nopeammin sekä hyvinvointiin panostaminen sekä henkilöstöön että muillekin, autetaan opiskelijoita parantamaan oppimistuloksiaan, toimivammat palvelut ikäihmisille, talous kasvuun, huolehditaan harrastuksien mahdollisuuksista huolimatta taloustilanteesta sekä panostetaan eri kulttuureihin sekä tietenkin pidetään huolta, että Helsinki pysyy turvallisena kaikille.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Helsingin SDP ensimmäisenä varakaupunginvaltuutettuna sekä kulttuuri- ja kirjastojaoston jäsenenä.\nShaam ry:n puheenjohtaja",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": "Arabia",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": "Nuorten, perheiden ja ikäihmisten tukeminen. Autetaan nuoria ja perheitä hyvinvoinnissa ja arjessa. Pidetään huoli, että ikäihmiset saavat hyvää hoitoa ja apua arkeen. Parannetaan oppimistuloksia ja tuetaan oppilaiden menestystä tarjoamalla tukea koulutukseen, työmahdollisuuksiin ja jaksamiseen.\nVoidaan tukea oppilaiden menestystä esimerkiksi tarjoamalla apua mielenterveydessä, sosiaalipalveluissa ja mahdollisuuksissa harrastuksiin. Tavoitteena on, että nuoret, perheet ja ikäihmiset saavat tarvitsemaansa tukea, jotta he voivat elää tasapainoista ja hyvää elämää. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Toimin Helsingin SDP ensimmäisenä varakaupunginvaltuutettuna sekä kulttuuri- ja kirjastojaoston jäsenenä. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "id": 1487,
+  "first_name": "Heta",
+  "last_name": "Tuura",
+  "election_number": 197,
+  "party_id": 7,
+  "image": "kuvat/akv2025/1487/a90a3a57-7096-4d2e-8d1b-c333abd2a6a5",
+  "constituency_id": 25,
+  "video": "1-73789675",
+  "video_aspect": "1:1",
+  "video_description_fi": "Näen paljon käyttämättömiä mahdollisuuksia luoda ihmisille hyvinvointia. Siihen kuuluu hyvä sosiaali- ja terveydenhuolto, yhteisöllisyyden luominen, eriarvoisuuden rasismin ja syrjinnän torjuminen. Siihen kuuluu myös kohtuuhintainen asuminen ja hyvä toimiva joukkoliikenne. Helsinkiä on rakennettava ihmis- ja luontoystävällisesti. Ihmiset ja eliöstöt tarvitsevat monimuotoisia luontoympäristöjä. Haluan, että kaikkia näitä asioita on! Siksi kannattaa äänestää minua! ",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 43,
+      "background_info_id": 10,
+      "name_fi": "Vasemmalle",
+      "name_sv": "Till vänster",
+      "name_en": "On the left",
+      "name_ru": "Слева",
+      "name_sme": "Gurut guvlui",
+      "name_ara": "اليسار",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Varmistan, että viherympäristöt säilytetään. Biodiversiteetti, ilmastonmuutos ja kestävät ympäristöratkaisut priorisoidaan kaikessa päätöksenteossa.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1962,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "1. Elämän kunnioittaminen: ihminen ja luonto\n2. Yhdenvertaisuus\n3. Oikeudenmukaisuus\n4. Rehellisyys\n5. Vapaus",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Teen asumisesta kohtuuhintaista ja asuinrakentamisesta ihmis- ja luontoystävällistä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://hetatuura.wordpress.com/",
+    "facebook_url": "https://www.facebook.com/hetatuuravaltuustoon2021",
+    "instagram_url": "https://www.instagram.com/hetatuu",
+    "X_url": "https://twitter.com/hetatuura",
+    "tiktok_url": "https://www.tiktok.com/@hillerihurtta",
+    "municipality_fix": {
+      "fi": "Sosiaali- ja terveydenhuolto: budjetoinnissa  panostetaan lääkärin vastaanotolle nopeaan pääsyyn, terveysasemien ja sairaaloiden, seniorikeskusten ja kotihoidon, varahaiskasvatuksen ja koulujen henkilöstön riittävyyteen. Luontoympäristöt säilytetään. Tehdään Helsingistä hiilinegatiivinen. Rakennetaan ympäristöystävällisesti, luonnonmyötäisesti, biodiversiteetti huomioiden. Tehdään asumisesta kohtuuhintaista. Joukkoliikenteestä on tehtävä reitistöiltään, aikatauluiltaan toimiva. Edulliset hinnat tekevät joukkoliikenteestä kilpailukykyisen yksityisautoiluun verrattuna.  Tehdään Helsingin kaupungista turvallinen työpaikka työntekijöille. Ehkäistään segregaatiota toimivalla asuntopolitiikalla. Toteutetaan kaupunginosademokratiaa nykyistä enemmän, luodaan yhteisöllisyyttä, normalisoidaan moninaisuus. Mahdollistetaan Ilmainen  harrastaminen lapsille ja edullinen pienituloisille aikuisille.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Hasohallituksen jäsen\nKantakaupungin vasemmiston toiminnan tarkastaja\nAmmattiosaston hallituksen jäsen (JHL 035)\nHUS JHL yhteisjärjestön hallituksen jäsen (sihteeri)",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Teen sosiaali- ja terveyshuollosta toimivan.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

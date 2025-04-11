@@ -1,0 +1,195 @@
+{
+  "id": 7661,
+  "first_name": "Sari",
+  "last_name": "Sarkomaa",
+  "election_number": 324,
+  "party_id": 19,
+  "image": "kuvat/akv2025/7661/6e373a1e-9df5-481b-851c-5881ec2eee55",
+  "constituency_id": 25,
+  "video": "1-73821092",
+  "video_aspect": "1:1",
+  "video_description_fi": "Teen työtä sen eteen, että\nHelsinki on monien mahdollisuuksien kotikaupunki kaiken ikäisille. Ajattelen, että aina on oikea hetki miettiä, miten asiat voi Helsingissä tehdä paremmin. ",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 47,
+      "background_info_id": 10,
+      "name_fi": "Oikealle",
+      "name_sv": "Till höger",
+      "name_en": "To the right",
+      "name_ru": "Справа",
+      "name_sme": "Olgeš guvlui",
+      "name_ara": "اليمين",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Kestävä talous, puhdas Itämeri ja lähiluonto ovat paras perintö lapsillemme. Asumista ja elämistä Helsingissä ei saa tehdä kalliimmaksi. Ehdoton ei veronkorotuksille ja kyllä asumisen vaihtoehdoille. Ruuhkista on päästävä sujuvaan liikenteeseen. Helsinkiin mahtuvat eri kulkumuodot, parkkipaikat ja joukkoliikenteen lyhyen matkan kertalippu. \n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1965,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Mahdollisuuksien tasa-arvo, yritteliäisyys, vapaus, vastuu ja välittäminen. \n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Helsinkiläisten on saatava vastinetta verorahoilleen. Terveyspalveluihin on päästävä oikea-aikaisesti. Senioreiden ja omaishoitajien arkeen tarvitaan inhimillisiä ratkaisuja. Tärkeä investointi ovat lapset ja nuoret sekä laadukkaat koulut ja päiväkodit lähellä kotia. Liikunta- ja ulkoilumahdollisuudet sekä kulttuuri kuuluvat kaikille. Myös eläinten hyvinvoinnista on huolehdittava.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.sarisarkomaa.fi/",
+    "facebook_url": "https://www.facebook.com/sarkomaasari",
+    "instagram_url": "https://www.instagram.com/sarisarkomaa/",
+    "X_url": "https://x.com/sarisarkomaa",
+    "municipality_fix": {
+      "fi": "Helsingin on oltava kaikenikäisille monien mahdollisuuksien kotikaupunki. Minun Helsinkini on turvallinen ja hyvä paikka kasvaa, oppia, asua, tehdä työtä, yrittää ja elää omannäköistä elämää. \n\nAjattelen, että aina on hyvä hetki miettiä miten asiat voi Helsingissä tehdä paremmin. \n\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Helsingin kaupunginhallituksen jäsen\nHelsingin kaupungin teatterisäätiö, hallituksen jäsen\nMuistiliitto ry, hallituksen varapuheenjohtaja\nKelan valtuutettujen varapuheenjohtaja\nSitra, hallintoneuvoston jäsen\nHelsingin kaupungin konsernijaosto, varajäsen",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 3,
+      "background_info_id": 2,
+      "name_fi": "Hieman liberaali",
+      "name_sv": "Ganska liberal",
+      "name_en": "Slightly liberal",
+      "name_ru": "Слегка либерал",
+      "name_sme": "Vehá liberála",
+      "name_ara": "أميل إلى الليبرالية",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Helsingin on oltava kaikenikäisille monien mahdollisuuksien kaupunki. Kaupungin elinvoimaa on vahvistettava. Vauhditan uutta työtä, palveluja ja kulttuuria luovaa yrittäjyyttä sekä kaupunkilaisjärjen käyttöä. Helsingin on tehtävä enemmän yhdessä asukkaiden, yritysten ja järjestöjen kanssa, vähemmän yksin ja oltava työnantajana edelläkävijä. Teen työtä sen eteen, että kotikaupunkimme on hyvä ja turvallinen paikka jokaiselle kasvaa, oppia, tehdä työtä ja yrittää, asua ja elää omannäköistä elämää. \n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "kansanedustaja",
+        "se": "riksdagsledamot",
+        "en": "MP",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      },
+      {
+        "fi": "kunnanvaltuutettu",
+        "se": "ledamot i kommunfullmäktige",
+        "en": "municipal councillor",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

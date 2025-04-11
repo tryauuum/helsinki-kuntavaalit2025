@@ -1,0 +1,188 @@
+{
+  "id": 4248,
+  "first_name": "Eva-Maria",
+  "last_name": "Asukas",
+  "election_number": 833,
+  "party_id": 4,
+  "image": "kuvat/akv2025/4248/6b0befee-0b5c-4b0c-bdb1-886c10cbb8cb",
+  "constituency_id": 25,
+  "video": "1-73816643",
+  "video_aspect": "1:1",
+  "video_description_fi": "Tärkein tavoitteeni on lisätä julkisten sotepe-palveluiden toimivuutta siten ettemme kuitenkaan lisää kuormitusta näiden palveluiden henkilöstölle.",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 44,
+      "background_info_id": 10,
+      "name_fi": "Hieman vasemmalle",
+      "name_sv": "Lite till vänster",
+      "name_en": "Slightly to the left",
+      "name_ru": "Немного слева",
+      "name_sme": "Vehá gurut guvlui",
+      "name_ara": "أميل إلى اليسار",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan vahvistaa julkisten sote-palveluiden perustason asemaa. Tasa-arvoiset perusterveydenhuollon, sosiaalihuollon sekä matalan kynnyksen palvelut saatavilla oleviksi jokaiselle ja varmistetaan oikea-aikainen hoitoonpääsy.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1990,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": " tasa-arvo, oikeudenmukaisuus, solidaarisuus, hyvyys ja luonnon kunnioittaminen",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Helsingin tulee olla lapsille ja nuorille turvallinen ja hyvä paikka elää ja kasvaa. Tuetaan perheitä, varmistetaan että jokainen lapsi ja nuori saa mahdollisuuden harrastaa ja varmistetaan että kouluissa on hyvä olla eikä luokkakoot kasva liian suuriksi. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://evamaria.fi/",
+    "facebook_url": "https://www.facebook.com/profile.php?id=100064312832384",
+    "instagram_url": "https://www.instagram.com/evamariaasukas/",
+    "municipality_fix": {
+      "fi": "Helsingin sote-palvelut tasa-arvoisemmaksi niin että palvelut toimivat yhtä hyvin asui sitten missä kaupunginosassa tahansa. Perheiden tukeen panostettava, erityisesti ennaltaehkäiseviin palveluihin. Mielenterveydestä ei tule säästää niin, että mielenterveysongelmiin saa vain akuuttihoitoa. Riittävän nopea hoito mielenterveysongelmiin säästää myös kaupungin budjetista. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Helsingin vammaisneuvoston jäsen 2023-2025",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Pyrin päätöksenteossa tukemaan helsinkiläisten nopeampaa hoidonsaantia mielenterveysongelmien kohdalla sekä tekemään päätöksiä, jotka tukee helsinkiläisten mielenterveyttä. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "HYKS-sairaanhoitalueen lautakunnan jäsen 2021-2022",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

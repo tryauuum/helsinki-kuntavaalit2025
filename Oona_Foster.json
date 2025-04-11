@@ -1,0 +1,213 @@
+{
+  "id": 4848,
+  "first_name": "Oona",
+  "last_name": "Foster",
+  "election_number": 719,
+  "party_id": 6,
+  "image": "kuvat/akv2025/4848/625e2ba9-f63d-4758-915f-8a7824cfe972",
+  "constituency_id": 25,
+  "video": "1-73818456",
+  "video_aspect": "1:1",
+  "video_description_fi": "Olen Oona Foster ja tärkein tavoitteeni on eriarvoisuuden vähentäminen. Helsingin on oltava kaupunki, jossa jokainen voi elää merkityksellistä ja täyttä elämää riippumatta siitä, kuinka paljon rahaa pankkitililtä löytyy, minkä maan passin omistaa tai ketä rakastaa. Helsingin pitää toimia vastavoimana hallituksen taantumukselliselle politiikalle, jossa köyhiltä leikataan, hoitoonpääsyä vaikeutetaan ja äärioikeiston kanssa flirttaillaan.\n\nValtuustossa aion tehdä feminististä politiikkaa. Haluan, että naisvaltaisten alojen palkkoja ja työoloja parannetaan, sukupuolittunutta väkivaltaa kitketään ja vahvoilla julkisilla palveluilla turvataan jokaisen arki.\n\nHelsingin pitää olla avoin ja antirasistinen kaupunki, jossa myös muualta tulleet voivat elää ja vaikuttaa yhteiskunnan täysivaltaisina jäseninä. Aion panostaa maahan muuttaneiden palveluihin ja työllistymiseen sekä torjua vihapuhetta ja syrjintää.\n\nÄänestä mua, että saat vaihtoehdon taantumukselle!",
+  "video_description_sv": "Jag heter Oona Foster och mitt främsta mål är att minska ojämlikheten. Helsingfors måste vara en stad där alla kan leva ett meningsfullt och tillfredsställande liv, oberoende av hur mycket pengar de har på sitt bankkonto, vilket lands pass de har eller vem de älskar. Helsingfors måste fungera som en motvikt till regeringens reaktionära politik med nedskärningar för de fattiga, försvårad tillgång till vård och flirt med extremhögern.\n\nI fullmäktige ska jag driva en feministisk politik. Jag vill att löner och arbetsvillkor i kvinnodominerade sektorer ska förbättras, att könsbaserat våld ska utrotas och att starka offentliga tjänster ska trygga allas vardag.\n\nHelsingfors måste vara en öppen och antirasistisk stad där människor från andra delar av världen kan leva och bidra som fullvärdiga samhällsmedlemmar. Jag kommer att satsa på tjänster och sysselsättning för invandrare och bekämpa hatretorik och diskriminering.\n\nRösta på mig för att ge dig ett alternativ till reaktionär politik!",
+  "video_description_en": "I am Oona Foster and my main goal is to reduce inequality. Helsinki must be a city where everyone can live a meaningful and fulfilling life, regardless of how much money they have in their bank account, what country's passport they hold or who they love. Helsinki must act as a counterweight to the government's reactionary policies of cutting back on the poor, making access to care more difficult and flirting with the far right.\n\nIn the council, I intend to pursue feminist policies. I want wages and working conditions in female-dominated sectors to be improved, gender-based violence to be eradicated and strong public services to safeguard everyone's daily life.\n\nHelsinki must be an open and anti-racist city where people from other parts of the world can live and contribute as full members of society. I will invest in services and employment for immigrants and fight hate speech and discrimination.\n\nVote for me to give you an alternative to reactionary politics!",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 42,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti vasemmalle",
+      "name_sv": "Långt till vänster",
+      "name_en": "Strongly on the left",
+      "name_ru": "С самого левого края",
+      "name_sme": "Nannosit gurut guvlui",
+      "name_ara": "أقصى اليسار",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan asettaa ilmastokriisin ja luontokadon torjumisen päätöksenteon ykkösprioriteetiksi. Unelmani on hiilinegatiivinen ja luontopositiivinen kaupunki, jossa niin ihmiset, eläimet kuin ympäristö voivat hyvin.",
+      "se": "Jag lovar att lyfta arbetet mot klimatkrisen och naturens utarmning till högsta prioritet i beslutsfattandet. Min dröm är en koldioxidnegativ och naturpositiv stad där människor, djur och miljö trivs.",
+      "en": "I pledge to make tackling the climate crisis and biodiversity loss a top priority for decision-making. My dream is a carbon-negative and nature-positive city where people, animals and the environment thrive.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1997,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "ranska",
+        "se": "franska",
+        "en": "French",
+        "ru": "французский",
+        "sme": "fránskkagiella",
+        "ara": "الفرنسية"
+      },
+      {
+        "fi": "espanja",
+        "se": "spanska",
+        "en": "Spanish",
+        "ru": "испанский",
+        "sme": "spánskkagiella",
+        "ara": "الإسبانية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Oikeudenmukaisuus, empatia, yhdenvertaisuus, rohkeus, periksiantamaton",
+      "se": "Rättvisa, empati, jämlikhet, mod, principfast",
+      "en": "Justice, empathy, equality, courage, perseverance",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lupaan toimia vastavoimana maan hallituksen kurjistavalle leikkauspolitiikalle. Eriarvoisuutta on torjuttava vahvoilla julkisilla palveluilla; jokaisella on oltava oikeus laadukkaisiin sosiaali- ja terveyspalveluihin, kohtuuhintaiseen asumiseen, varhaiskasvasvatukseen ja koulutukseen varallisuudesta riippumatta.",
+      "se": "Jag lovar att motsätta mig regeringens förtryckande åtstramningspolitik. Ojämlikhet måste bekämpas genom starka offentliga tjänster; alla måste ha rätt till sociala tjänster och hälso- och sjukvårdstjänster av hög kvalitet, bostäder till rimligt pris, förskoleutbildning och utbildning, oavsett förmögenhet.",
+      "en": "I pledge to oppose the oppressive austerity policies of the government. Inequality must be tackled through strong public services; everyone must have the right to high-quality social and health services, affordable housing, early childhood education and training, regardless of wealth.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://oonafoster.fi",
+    "facebook_url": "https://www.facebook.com/oonafoster/",
+    "instagram_url": "https://www.instagram.com/oona_foster/",
+    "tiktok_url": "https://www.tiktok.com/@oona_foster",
+    "municipality_fix": {
+      "fi": "Helsingissä pitää tehdä feminististä politiikkaa mm. parantamalla naisvaltaisten alojen palkkoja ja työoloja, vahvistamalla väkivallan vastaista työtä, edistämällä sukupuolitietoista kasvatusta ja koulutusta, parantamalla esteettömyyttä ja turvaamalla sateenkaari-ihmisten oikeudet.\n\nHelsingin pitää olla antirasistinen kaupunki, jonne kaikki ovat tervetulleita taustasta riippumatta. Panostetaan maahan muuttaneiden palveluihin ja työllisyyteen, torjutaan vihapuhetta ja syrjintää sekä turvataan paperittomien terveydenhuolto.\n\nHelsingin täytyy toimia vastavoimana hallituksen kurjistavalle ja köyhyyttä lisäävälle politiikalle. Eriarvoisuutta on ehkäistävä vahvoilla julkisilla palveluilla; jokaisella on oltava oikeus laadukkaisiin sosiaali- ja terveyspalveluihin, kohtuuhintaiseen asumiseen, varhaiskasvatukseen ja koulutukseen.\n\nHelsingin pitää olla hiilineutraali vuoteen 2030 mennessä ja sen jälkeen hiilinegatiivinen. Lähiluonnosta ja eläinten oikeuksista on pidettävä huolta.",
+      "se": "Feministisk politik i Helsingfors bör omfatta förbättrade löner och arbetsvillkor i kvinnodominerade sektorer, stärkt våldsförebyggande arbete, främjande av genusmedveten utbildning, förbättrad tillgänglighet och säkerställande av regnbågspersoners rättigheter.\n\nHelsingfors måste vara en antirasistisk stad där alla är välkomna, oavsett bakgrund. Investera i tjänster och sysselsättning för invandrare, bekämpa hatretorik och diskriminering samt trygga hälsovården för papperslösa.\n\nHelsingfors måste fungera som en motvikt till regeringens förtryckande och fattigdomsökande politik. Ojämlikhet måste förebyggas genom starka offentliga tjänster; alla måste ha rätt till social- och hälsovårdstjänster av hög kvalitet, bostäder till rimligt pris, förskoleundervisning och utbildning.\n\nHelsingfors ska vara koldioxidneutralt senast 2030 och därefter koldioxidnegativt. Lokala natur- och djurrättigheter måste tas om hand.",
+      "en": "Feminist policies in Helsinki should include improving wages and working conditions in female-dominated sectors, strengthening anti-violence work, promoting gender-sensitive education and training, improving accessibility and securing the rights of gender and sexual minorities.\n\nHelsinki must be an anti-racist city where everyone is welcome, regardless of background. Investing in services and employment for migrants, fighting hate speech and discrimination, and securing healthcare for the undocumented.\n\nHelsinki must act as a counterweight to the government's oppressive and poverty-increasing policies. Inequality must be prevented through strong public services; everyone must have the right to quality social and health services, affordable housing, early childhood education and training.\n\nHelsinki must be carbon neutral by 2030 and carbon negative thereafter. Local nature and animal rights must be taken care of.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Olen vihreiden puoluevaltuuston jäsen, Helsingin tasa-arvo- ja yhdenvertaisuustoimikunnan varajäsen ja Familia ry:n varapuheenjohtaja.",
+      "se": "Jag är medlem i De grönas fullmäktige, suppleant i Helsingfors jämställdhets- och likabehandlingskommitté och vice ordförande för Familia rf.",
+      "en": "I am a member of the Greens' Party Council, deputy member of the Helsinki Equality and Non-Discrimination Committee and vice-chair of Familia ry.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Lupaan edistää tasa-arvoa ja yhdenvertaisuutta kaikessa toiminnassani. Helsinki tarvitsee lisää feminismiä ja täällä on oltava tilaa kaikille, paitsi rasismille!",
+      "se": "Jag lovar att främja jämställdhet och jämlikhet i all min verksamhet. Helsingfors behöver mer feminism och det måste finnas plats för alla, men inte för rasism!",
+      "en": "I pledge to promote equality and equity in all my activities. Helsinki needs more feminism and there must be room for everyone, except racism!",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Työskentelen feministisessä naisjärjestössä vaikuttamisen asiantuntijana ja teen päivittäin töitä tasa-arvopolitiikan parissa. Olen vuodesta 2015 lähtien toiminut poliittisissa luottamustehtävissä mm. puoluevaltuustossa, Vihreiden naisten varapuheenjohtajana ja hallituksen jäsenenä sekä Vihreiden nuorten ja sen paikallisjärjestöjen hallituksissa. Lisäksi olen työskennellyt kansanedustajien avustajana.",
+      "se": "Jag arbetar för en feministisk kvinnoorganisation som påverkansspecialist och arbetar dagligen med jämställdhetspolitik. Sedan 2015 har jag haft politiska förtroendeuppdrag, bland annat i partistyrelsen, som vice ordförande och styrelseledamot i Gröna kvinnor samt i styrelsen för Grön ungdom och dess lokalorganisationer. Jag har även arbetat som riksdagsassistent.",
+      "en": "I work for a feminist women's organisation as an advocacy specialist and I work on gender equality policy on a daily basis. Since 2015, I have held political positions of trust, including in the party council, as vice-president and board member of Green Women, and on the boards of Green Youth and its local organisations. I have also worked as a parliamentary assistant.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

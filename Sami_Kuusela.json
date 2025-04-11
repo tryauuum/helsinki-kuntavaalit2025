@@ -1,0 +1,188 @@
+{
+  "id": 2964,
+  "first_name": "Sami",
+  "last_name": "Kuusela",
+  "election_number": 884,
+  "party_id": 4,
+  "image": "kuvat/akv2025/2964/afd0403e-d11f-4836-85e4-c744289ca0f5",
+  "constituency_id": 25,
+  "video": "1-73819369",
+  "video_aspect": "1:1",
+  "video_description_fi": "Lupaan taistella reilumman Helsingin puolesta. Tämä tarkoittaa esimerkiksi, että vauraille asuinalueille rakennetaan tuettua asumista ja köyhille alueille laadukkaita omistusasuntoja – ja näin estetään segregaatio eli sosiaalinen eriytyminen. Helsingin hyvä meininki jatkuu, kun lapset kohtaavat koulussa joka päivä ihmisiä, joilla on eri tausta kuin itsellä. Se että kaikki voivat katsoa toisiaan silmiin on Helsingin supervoima ja olen tehnyt asian eteen jo neljä vuotta töitä Helsingin kaupunkiympäristölautakunnassa.",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 45,
+      "background_info_id": 10,
+      "name_fi": "En vasemmalle enkä oikealle",
+      "name_sv": "Varken vänster eller höger",
+      "name_en": "Neither to the right or the left",
+      "name_ru": "Ни слева, ни справа",
+      "name_sme": "In gurut inge olgeš guvlui",
+      "name_ara": "لا إلى اليسار ولا إلى اليمين",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Olen rohkea: Joskus päättäjän tulee nousta äänekkäimpiä ihmisiä, yleistä mielipidettä tai jopa lähipiiriään vastaan. Jos näin käy, teen sen asiaan huolellisesti perehtyen, tietoon ja harkintaan pohjaten, avoimesti viestien ja suorana seisten.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1971,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 51,
+      "background_info_id": 16,
+      "name_fi": "ylioppilas",
+      "name_sv": "student",
+      "name_en": "High school graduate",
+      "name_ru": "выпускник лицея",
+      "name_sme": "studeanta",
+      "name_ara": "شهادة البكالوريا",
+      "target_value": 3,
+      "name_ukr": "випускник ліцею",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Empaattisuus, rehellisyys, innostuneisuus, ahkeruus ja rohkeus.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "En valehtele: Vaikka maailma tuntuu tällä hetkellä hullulta ja valheista palkitaan, lupaan perustaa päätökseni tietoon ja kertoa avoimesti, mitä mieltä olen ja mihin ajatukseni pohjaavat.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.samikuusela.com/",
+    "facebook_url": "https://www.facebook.com/SamiKuuselaSDP",
+    "instagram_url": "https://www.instagram.com/deepsami/",
+    "X_url": "https://x.com/deepsami",
+    "tiktok_url": "https://www.tiktok.com/@sami_kuusela",
+    "municipality_fix": {
+      "fi": "Helsingissä on jo moni asia hyvin. Maailman parhaassa pääkaupungissa asiat toimivat ja kaupunkia kehitetään asiantuntijavoimin. Mutta aina voi petrata. Kuntalaisia tulee kuunnella paremmin, poliitikkojen ja virkakunnan tulee kertoa myös viestiä tehokkaammin, rehellisemmin ja aiempaa avoimemmin. Tarvitsemme yhteistä innostusta ja luottamusta toisiimme, joita molempia turha riitely rapauttaa.\n\nSosiaalinen eriytyminen eli segregaatio on Helsingissä haaste. Vaikka olemme onnistuneet melko hyvin pitämään alueet tasa-arvoisina, tähän työhön tulee panostaa entistä enemmän. Tämä tarkoittaa laadukasta omistusasumista haastaville alueille ja tuettua asumista parempiín kaupunginosiin. Mutta se tarkoittaa myös sitä, että esimerkiksi lähiöiden kaduista, puistoista ja leikkikentistä tehdään hienoja ja lähipalveluita on tarjolla jokaiselle helsinkiläiselle.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Olen Helsingin kaupunkiympäristölautakunnan jäsen ja SDP:n puoluevaltuuston varajäsen sekä Helsingin piirikokousedustaja. Kuulun myös Oulunkyläseuran johtokuntaan ja olen Väinö Tannerin Säätiön valtuuskunnassa.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Sitoudun empatiaan: En tue eriarvoistumista tai harvojen hyötymistä muiden kustannuksella. Mutta olen innoissani, jos joku onnistuu, rikastuu tai menestyy. Kaikissa päätöksissäni pohdin hiljaisia: vähävaraisia, lannistettuja, kaidalta tieltä horjahtaneita, lapsia, syrjäytyneitä ja muita näkymättömiä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

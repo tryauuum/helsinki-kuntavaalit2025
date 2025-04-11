@@ -1,0 +1,231 @@
+{
+  "id": 2128,
+  "first_name": "Juha-Pekka",
+  "last_name": "Väisänen",
+  "election_number": 981,
+  "party_id": 58,
+  "image": "kuvat/akv2025/2128/0340dd57-acdf-4b05-b183-486befc35cc7",
+  "constituency_id": 25,
+  "video": "1-73699032",
+  "video_aspect": "1:1",
+  "video_description_fi": "Luon uutta kulttuurista otetta Helsinkiin ja teen aloitteita rahoituksen lisäämiseksi\nOlen poliittinen eläin, taiteilija ja toimittaja JP (Juha-Pekka) Väisänen. Taiteilijoilla ja helsinkiläisillä kulttuurin tekijöillä pitää olla paremmat työvälineet vastata helsinkiläisten kulttuurisiin perustarpeisiin.\nMinun kulttuurikäsitykseni on taiteen tekemistä laajempi, ja siihen kuuluu sellaisen yhteisen rakentaminen, jossa erilaiset ihmiset voivat sekä osallistua että jättää oman jälkensä – oli sitten kyse yhteisistä metsistä, julkisesta kaupunkitilasta tai taiteen tekemisestä ja harrastamisesta.\nHelsingissä kulttuuri tarvitsee uutta luovaa otetta ja sen rahoitus vielä vähän lisää rahaa\n",
+  "video_description_sv": "Jag skapar ett nytt kulturellt grepp i Helsingfors och gör initiativ för att öka finansieringen.\nJag är ett politiskt djur, konstnär och journalist JP (Juha-Pekka) Väisänen. Konstnärer och kulturskapare i Helsingfors behöver bättre verktyg för att möta helsingforsbornas kulturella grundbehov.\nMin kulturuppfattning är bredare än konstskapande och inkluderar att bygga en gemenskap där olika människor kan både delta och lämna sitt avtryck – oavsett om det gäller gemensamma skogar, offentliga stadsmiljöer eller skapande och utövande av konst.\nI Helsingfors behövs ett nytt kreativt grepp för kulturen och dess finansiering behöver lite mer pengar.",
+  "video_description_en": "I am creating a new cultural approach in Helsinki and making initiatives to increase funding.\nI am a political animal, artist, and journalist JP (Juha-Pekka) Väisänen. Artists and cultural creators in Helsinki need better tools to respond to the cultural basic needs of Helsinki residents.\nMy understanding of culture is broader than making art and includes building a common space where diverse people can both participate and leave their mark – whether it’s about shared forests, public urban spaces, or creating and engaging in art.\nIn Helsinki, culture needs a new creative approach, and its funding needs just a little more money.",
+  "video_description_ru": "Я создаю новый культурный подход в Хельсинки и инициирую увеличение финансирования.\nЯ политическое животное, художник и журналист JP (Juha-Pekka) Väisänen. Художники и культурные деятели Хельсинки должны иметь лучшие инструменты для удовлетворения культурных базовых потребностей жителей города.\nМое понимание культуры шире, чем создание искусства, и включает в себя строительство общего пространства, где различные люди могут как участвовать, так и оставлять свой след – будь то общие леса, публичное городское пространство или создание и занятие искусством.\nВ Хельсинки культуре нужен новый творческий подход, а ее финансирование требует немного больше денег.",
+  "video_description_sme": "Mun dáppe šattain beaivviid kultuvrralaš mearras ja lean almmuhuvvon doaimmahusat rávdnoaivvumis.\nIn politihkalaš čávnnus, kunsttár ja žurnalist JP (Juha-Pekka) Väisänen. Kunsttárejt ja kultuvrralaš válddástit Helsingas mahttu háliida bearran náhkalas doaluinnat maid heiniid kultuvrralaš báhcalit.\nMun kultuvrralaš váttisvuođa lea muhtin, dán čuovggis lea sihke oahpahusat válddát beaivviid, go dan varrdeha sihke vuoigŋa beaivvui vai goaskkasi ja leuŋoštit – go lea almmuheapmi girjji, stuorra guovdiluvvaid ja kunsttáreheapmi ja hehkat.\nHelsingas kultuvrrat maiddái nu olggoš muhtin kreatiivvaš doaimmahus, ja dat rávdnoaivvuvvot bohtet rahcama.",
+  "video_description_ara": "أقوم بخلق نهج ثقافي جديد في هلسنكي وأقوم بمبادرات لزيادة التمويل.\nأنا كائن سياسي، فنان وصحفي جي بي (جوهـا-بيكا) فايـسانين. يجب أن يكون للفنانين ومنشئي الثقافة في هلسنكي أدوات أفضل لتلبية الاحتياجات الثقافية الأساسية لسكان هلسنكي.\nفهمي للثقافة أوسع من مجرد صنع الفن ويشمل بناء مساحة مشتركة حيث يمكن للأشخاص المختلفين أن يشاركوا ويتركوا بصمتهم – سواء كان ذلك في الغابات المشتركة، المساحات العامة في المدن أو صناعة الفن وممارسته.\nفي هلسنكي، يحتاج الفن إلى نهج إبداعي جديد وتمويله بحاجة إلى المزيد من المال.\n\n",
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 42,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti vasemmalle",
+      "name_sv": "Långt till vänster",
+      "name_en": "Strongly on the left",
+      "name_ru": "С самого левого края",
+      "name_sme": "Nannosit gurut guvlui",
+      "name_ara": "أقصى اليسار",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Taistelen määrätietoisesti ihmisten ja luonnon riistoa vastaan yhdessä edistyksellisten poliittisten voimien ja erilaisten kansalaisyhteiskunnan aktivistien kanssa.",
+      "se": "Jag kämpar målmedvetet mot exploatering av människor och natur tillsammans med progressiva politiska krafter och olika aktivister i det civila samhället.",
+      "en": " I fight determinedly against the exploitation of people and nature, together with progressive political forces and various civil society activists.",
+      "ru": "Я решительно борюсь против эксплуатации людей и природы вместе с прогрессивными политическими силами и различными активистами гражданского общества.",
+      "sme": "Mun válddán gárvvis dárkkistan meahcásearvái ja olbmuid roavvaide, ovttas ovddideaddji politihkalaš fámuin ja máŋgga servodatdoaimmaheddjiiguin.",
+      "ara": "أُكافح بإصرار ضد استغلال الناس والطبيعة، جنبًا إلى جنب مع القوى السياسية التقدمية ومختلف نشطاء المجتمع المدني.",
+      "ukr": "Я рішуче борюся проти експлуатації людей і природи разом із прогресивними політичними силами та різними активістами громадянського суспільства.",
+      "som": "Waxaan si go'aan leh ula dagaallamaa dulmiga ka dhanka ah dadka iyo dabeecadda, anigoo la jira xoogagga siyaasadeed ee horusocodka ah iyo dhaqdhaqaaqayaasha kala duwan ee bulshada rayidka ah."
+    },
+    "age": 1966,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      },
+      {
+        "fi": "ranska",
+        "se": "franska",
+        "en": "French",
+        "ru": "французский",
+        "sme": "fránskkagiella",
+        "ara": "الفرنسية"
+      },
+      {
+        "fi": "espanja",
+        "se": "spanska",
+        "en": "Spanish",
+        "ru": "испанский",
+        "sme": "spánskkagiella",
+        "ara": "الإسبانية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Viisi elämäni keskeistä arvoa, jotka ohjaavat päivittäisiä valintojani, tavoitteitani ja tunteitani, ovat hyväntahtoisuus; kaikkien hyvinvoinnista huolehtimisena, universalismi; luonnon ja ihmiskunnan arvostamisena, vaihtelunhalu; uusien kokemusten tarpeena, itseohjautuvuus; itsenäisyyden ja luovuuden kautta sekä yhdenmukaisuus; normien ylittämisenä.",
+      "se": "Fem centrala värderingar i mitt liv som styr mina dagliga val, mål och känslor är välvilja; att bry sig om allas välbefinnande, universalism; att uppskatta naturen och mänskligheten, nyfikenhet; behovet av nya upplevelser, självbestämmande; genom självständighet och kreativitet, och konformitet; att överskrida normer.",
+      "en": "The five core values in my life that guide my daily choices, goals, and emotions are benevolence; caring for everyone’s well-being, universalism; appreciating nature and humanity, novelty-seeking; the need for new experiences, self-direction; through independence and creativity, and conformity; transcending norms.",
+      "ru": "Пять ключевых ценностей в моей жизни, которые направляют мои ежедневные выборы, цели и эмоции: доброжелательность; забота о благополучии всех, универсализм; уважение к природе и человечеству, стремление к новизне; потребность в новых впечатлениях, самоуправление; через независимость и творчество, и конформизм; как преодоление норм.",
+      "sme": "Vihtta vuođđoeamit mu eallimis mat johtit beaivválaččat válljehusain, ulbmilin ja dovdduin leat buorre guládallat; buohkaid buresbirgen birra sávvat, universálasvuohta; luonddu ja olmmošlašvuođa árvvoštallan, earenoamášvuohta; ođđa vásáhusaid dárbbašlašvuohta, iešdoarjja; beroštupmi ja visotlohkan bokte, ja ovttaditvuohta; normaid bajásčážit.\n\n",
+      "ara": "القيم الخمس الأساسية في حياتي التي توجه اختياراتي اليومية وأهدافي ومشاعري هي الإحسان؛ العناية برفاهية الجميع، العالمية؛ تقدير الطبيعة والإنسانية، حب التغيير؛ الحاجة إلى تجارب جديدة، التوجيه الذاتي؛ من خلال الاستقلالية والإبداع، والتوافق؛ تجاوز المعايير.\n\n",
+      "ukr": "П’ять основних цінностей у моєму житті, які керують моїми щоденними виборами, цілями та емоціями: доброзичливість; турбота про благополуччя всіх, універсалізм; повага до природи та людства, прагнення до новизни; потреба в нових досвідах, самостійність; через незалежність і креативність, і конформність; як подолання норм.\n\n",
+      "som": "Shanta qiyam ee asaasiga ah ee nolosheyda hagaya xulashooyinkeyga maalinlaha ah, yoolalkayga iyo dareemadayda waa sama-fal; daryeelka wanaagga dadka oo dhan, caalamiyanimo; qadarin dabeecadda iyo bini’aadamka, rabitaan isbeddel; baahida loo qabo waayo-aragnimo cusub, is-hagitaan; madax-bannaanida iyo hal-abuurka, iyo la jaan-qaadid; ka gudbida xeerarka bulsho.\n\n"
+    },
+    "election_promise_2": {
+      "fi": "Teen aloitteita kulttuurin rahoituksen kasvattamiseksi",
+      "se": "Jag tar initiativ för att öka finansieringen av kultur.",
+      "en": "I make initiatives to increase cultural funding.",
+      "ru": " Я инициирую действия для увеличения финансирования культуры.",
+      "sme": "Mun válljen ovttasbargguid kultuvrrafinánssaid lasihit.",
+      "ara": "أُطلق مبادرات لزيادة تمويل الثقافة.",
+      "ukr": "Я ініціюю заходи для збільшення фінансування культури.",
+      "som": "Waxaan bilaabaa hindiseyaal lagu kordhinayo maalgelinta dhaqanka."
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.jpvaisanen.fi/poliittinen-el%C3%A4in-JP-Juha-Pekka-V%C3%A4is%C3%A4nen/",
+    "facebook_url": "https://www.facebook.com/jpvaisanen.jpvaisanen/",
+    "instagram_url": "https://www.instagram.com/jpvaisanen/",
+    "tiktok_url": "https://www.tiktok.com/@tiktoktaiteilija",
+    "language_some_other": {
+      "fi": "viittomakielen alkeet",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "municipality_fix": {
+      "fi": "Minun kulttuurikäsitykseni on taiteen tekemistä laajempi, ja siihen kuuluu sellaisen yhteisen rakentaminen, jossa erilaiset ihmiset voivat sekä osallistua että jättää oman jälkensä – oli sitten kyse yhteisistä metsistä, julkisesta kaupunkitilasta tai taiteen tekemisestä ja harrastamisesta.",
+      "se": "Min kulturuppfattning är bredare än bara att skapa konst, och den omfattar att bygga något gemensamt där olika människor kan både delta och lämna sitt avtryck – vare sig det handlar om gemensamma skogar, offentliga stadsrum eller att skapa och utöva konst.",
+      "en": "My understanding of culture extends beyond just making art; it includes building something shared, where diverse people can both participate and leave their mark — whether it’s about common forests, public urban spaces, or creating and practicing art.",
+      "ru": "Моё понимание культуры шире, чем просто создание искусства; оно включает в себя построение общего пространства, где разные люди могут как участвовать, так и оставлять свой след — будь то общие леса, публичные городские пространства или создание и увлечение искусством.",
+      "sme": "Mu kultuvrradiehtu lea govttolaš go dušše dáidaga ráhkadus, ja dat sisttisdoallá ovttasbuvttadeami mas iešguđet olbmot sáhtet báhcit, oassálastit ja guođđit iežaset mearka — guđet boahtá ovttas meahccegiid, almmolaš gávpogeavttarái dahje dáidaga ráhkadusa ja hástalusa hárrái.\n\n",
+      "ara": "مفهومي للثقافة أوسع من مجرد صنع الفن؛ فهو يشمل بناء شيء مشترك حيث يمكن للأشخاص المختلفين المشاركة وترك بصمتهم — سواء كان ذلك يتعلق بالغابات المشتركة، المساحات الحضرية العامة، أو ممارسة الفن والهوايات.\n\n",
+      "ukr": "Моє розуміння культури ширше, ніж просто створення мистецтва; воно включає побудову спільного простору, де різні люди можуть як брати участь, так і залишати свій слід — чи то спільні ліси, публічні міські простори, чи створення та заняття мистецтвом.",
+      "som": "Fahankeyga dhaqanka waa ka ballaaran yahay kaliya sameynta farshaxan; wuxuu ku saabsan yahay dhisidda wax wadaaga ah halkaas oo dadka kala duwan ay ka qeyb qaadan karaan oo ay raadkooda kaga tagi karaan — ha noqoto kaymaha la wadaago, meelaha magaalada dadweynaha u furan, ama sameynta iyo ku dhaqanka farshaxanka.\n\n"
+    },
+    "representative_other": {
+      "fi": "Olen taiteilijoiden ja kulttuurityöntekijöiden rauhanjärjestö Pandin rahastonhoitaja.",
+      "se": "Jag är kassör i konstnärernas och kulturarbetarnas fredsorganisation Pand.",
+      "en": "I am the treasurer of the peace organization Pand for artists and cultural workers.",
+      "ru": "Я казначей мирной организации Pand для художников и культурных работников.",
+      "sme": " Lean Pand dássážet báikedoaimmahuvvon dáiddáriid ja kultuvrradoaimmaheaddjiid ráfiidorganisašuvnna rášestivra.",
+      "ara": "أنا أمين صندوق منظمة باند للسلام للفنانين والعاملين في المجال الثقافي.",
+      "ukr": "Я скарбник мирної організації Pand для художників і працівників культури.",
+      "som": "Waxaan ahay khasnajiga ururka nabadda Pand ee fannaaniinta iyo shaqaalaha dhaqanka."
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Luon uutta kulttuurista otetta Helsinkiin.",
+      "se": "Jag skapar en ny kulturell touch i Helsingfors.",
+      "en": "I am creating a new cultural approach in Helsinki.",
+      "ru": "Я создаю новый культурный подход в Хельсинки.",
+      "sme": "Mun rábadan ođđa kultuvrralaš vuođđun Helsinkii.",
+      "ara": " أُنشئ لمسة ثقافية جديدة في هلسنكي.\n",
+      "ukr": "Я створюю новий культурний підхід у Гельсінкі.",
+      "som": "Waxaan abuuraa qaab dhaqan cusub oo Helsinki ah.\n"
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Vuosina 2013–2016 olin Helsingin kaupungin kulttuuri ja  kirjastolautakunnan jäsen. Kokemukseni poliittisesta vaikuttamisesta on myönteistä. Yksinkin faktojen ja perusteltujen argumenttien kanssa saa muut mukaan keskusteluun ja joskus tapahtuu edistystä kuten se, ettei Helsinkiin koskaan rakennettu Guggenheimia, mutta aivan mahtava koko kansan  demokratiakeskus - keskustakirjasto Oodi.",
+      "se": "Åren 2013–2016 var jag medlem i Helsingfors stads kultur- och biblioteksnämnd. Min erfarenhet av politiskt påverkansarbete är positiv. Även ensam, med fakta och välgrundade argument, kan man få andra att delta i diskussionen – och ibland sker framsteg, som att Guggenheim aldrig byggdes i Helsingfors, men istället en fantastisk demokratins mötesplats för alla – centrumbiblioteket Oodi.",
+      "en": "From 2013 to 2016, I was a member of the City of Helsinki’s Culture and Library Committee. My experience with political advocacy has been positive. Even alone, armed with facts and well-reasoned arguments, one can bring others into the discussion — and sometimes progress happens, like the fact that Guggenheim was never built in Helsinki, but instead, we got the amazing public democracy center — the Oodi Central Library.",
+      "ru": "В 2013–2016 годах я был членом комитета по культуре и библиотекам города Хельсинки. Мой опыт политической активности был положительным. Даже в одиночку, опираясь на факты и обоснованные аргументы, можно вовлечь других в дискуссию — и иногда происходят изменения, как, например, то, что в Хельсинки так и не построили Гуггенхайм, но появился потрясающий центр демократии для всех — центральная библиотека Oodi",
+      "sme": "Jagis 2013–2016 lean leamaš Helssega gieldda kultuvrra- ja girjerájuslašláščohkkemii. Mu politihkalaš váikkuhusa gaskkustallan lea buorre. Jus gal mun ain, fakttaiguin ja vearbbas argumenttaiguin, sáhtán váikkuhit ja ovttasberá huskkot — ja juohke suorpmas čuovvát ovdáneamis, nugo ahte Guggenheim ii gaskkalduvvon Helssegas, muhto leamaš geahččalat olbmuide — gaskkal girjerájus Oodi.",
+      "ara": "في السنوات 2013–2016، كنت عضوًا في لجنة الثقافة والمكتبات في مدينة هلسنكي. كانت تجربتي مع العمل السياسي إيجابية. حتى بمفردك، مع الحقائق والحجج المنطقية، يمكنك إشراك الآخرين في النقاش — وأحيانًا يحدث التقدم، مثل عدم بناء متحف غوغنهايم في هلسنكي، ولكن بدلاً من ذلك، حصلنا على مركز ديمقراطي رائع للجميع — مكتبة أودي المركزية.",
+      "ukr": "У 2013–2016 роках я був членом комітету з культури та бібліотек міста Гельсінкі. Мій досвід політичного впливу був позитивним. Навіть наодинці, маючи факти та обґрунтовані аргументи, можна залучити інших до обговорення — і часом відбувається прогрес, наприклад, коли Гуггенхайм так і не побудували в Гельсінкі, але натомість з’явився дивовижний центр демократії для всіх — центральна бібліотека Oodi.",
+      "som": "Intii u dhaxaysay 2013–2016, waxaan xubin ka ahaa guddiga dhaqanka iyo maktabadaha magaalada Helsinki. Khibraddayda saameynta siyaasadeed waxay ahayd mid togan. Xitaa adigoo kaligaa ah, adigoo wata xaqiiqooyin iyo doodaha si wanaagsan loo aasaasay, waxaad dadka kale ku soo jiidan kartaa wadahadalka — mararka qaarkoodna horumar baa la sameeyaa, sida in aan Guggenheim laga dhisin Helsinki, balse halkii laga helay xarun dimuqraadiyadeed oo cajiib ah oo loo wada siman yahay — maktabadda dhexe ee Oodi."
+    }
+  }
+}

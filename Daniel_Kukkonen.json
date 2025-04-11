@@ -1,0 +1,210 @@
+{
+  "id": 10760,
+  "first_name": "Daniel",
+  "last_name": "Kukkonen",
+  "election_number": 387,
+  "party_id": 3,
+  "image": "kuvat/akv2025/10760/6e69edca-7805-46b0-a3bc-c2d61d5d6c0d",
+  "constituency_id": 25,
+  "video": "1-73816217",
+  "video_aspect": "1:1",
+  "video_description_fi": "Tavoite on edistää maahanmuuton mukana tulleen nuorisorikollisuuden juurtuminen Helsingin kaupungin katukuvaan ja Suomeen.",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 47,
+      "background_info_id": 10,
+      "name_fi": "Oikealle",
+      "name_sv": "Till höger",
+      "name_en": "To the right",
+      "name_ru": "Справа",
+      "name_sme": "Olgeš guvlui",
+      "name_ara": "اليمين",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Uusien innovaatioiden aika. \nNyt on aika uskaltaa olla rohkea ja yrittää, olit sitten yrittäjä tai pienyrittäjä, jokaisella eurolla on aina merkitys yrittäjäksi kasvamisessa. Suomi tarvitsee nuoria yrittäjiä ja tulen merkittävästi edistämään nuorten mahdollisuuksia saadakseen itselleen kaupungista tiloja. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1990,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 49,
+      "background_info_id": 16,
+      "name_fi": "peruskoulu",
+      "name_sv": "grundskola",
+      "name_en": "Primary school",
+      "name_ru": "средняя школа",
+      "name_sme": "vuođđoskuvla",
+      "name_ara": "المستوى الابتدائي",
+      "target_value": 1,
+      "name_ukr": "середня школа",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Jeesus Kristus\nPerhe\nTurvallisuus\nPerinteisyys\nLiikunnallisuus\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Aina on oikea aika perheelle. Suomessa syntyy aivan liian vähän lapsia mutta tämä on todella selkeä suuntaus urakehityksestä ja siinä taustalla vaikuttaa myös pelko tehdä lapsia. Maailman muuttunut turvallisuuden tila on särkynyt.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": null,
+    "facebook_url": null,
+    "instagram_url": "https://www.instagram.com/redwhystofficial",
+    "X_url": null,
+    "tiktok_url": "https://tiktok.com/@dkreagoi",
+    "language_some_other": {
+      "fi": "Ruotsia vain todella vähän.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "municipality_fix": {
+      "fi": "Pitää tarttua siihen oikeaan ongelmaan, eli maahanmuuton mukana tulleeseen väkivaltaiseen rikollisuuteen. Mulla ei ole kovin montaa asiaa mitä lupaan näissä vaaleissa, sillä haluan aivan täysin keskittyä edistämään vaaleissa sitä, ettei Helsinki vajoa rikosten alle. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Ei tietenkään tällä hetkellä mitään kun olen ehdolla kunnallisvaaleissa, toki sen voin mainita. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 6,
+      "background_info_id": 2,
+      "name_fi": "Konservatiivi",
+      "name_sv": "Konservativ",
+      "name_en": "Conservative",
+      "name_ru": "Консерватор",
+      "name_sme": "Konservatiiva",
+      "name_ara": "محافظ",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": "Osaan vain vähän ruotsin kieltä ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": "Maahanmuuttajien nuorisorikollisuuden estäminen. \nSuomi on vakavasti muuttunut omista ajoistani, pyörittiin sitten yössä maalailemassa tai oltiin räppikeikoilla tai itse räppäämässä, rikollisuus on 20 vuoden aikana kehittynyt valtavasti maahanmuuton mukana. Meidän tulee olla huomattavasti lujempia ja vahvempia näkemään tämän ongelman riskit.\n\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Kristillisdemokraattien nuorisohallituksen varajäsen.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

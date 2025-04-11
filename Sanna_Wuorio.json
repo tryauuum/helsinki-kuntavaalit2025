@@ -1,0 +1,185 @@
+{
+  "id": 6799,
+  "first_name": "Sanna",
+  "last_name": "Wuorio",
+  "election_number": 212,
+  "party_id": 7,
+  "image": "kuvat/akv2025/6799/611c5ba0-6c6f-4270-80d7-8f8b497e1f09",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 42,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti vasemmalle",
+      "name_sv": "Långt till vänster",
+      "name_en": "Strongly on the left",
+      "name_ru": "С самого левого края",
+      "name_sme": "Nannosit gurut guvlui",
+      "name_ara": "أقصى اليسار",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Kestävän Helsingin on oltava myös hauska. Minulle hauska Helsinki on sellainen, että se pursuaa kulttuuria, taidetta ja puistoja. Kaupunkilaisilla on tärkeätä olla vihreyttä ympärillään, se tutkitusti parantaa hyvinvointia, kuten myös taide ja kulttuuri. \nTaiteen ja kulttuurin tekijöille on oltava tiloja, jotka mahdollistavat kohtuuhintaisen työskentelyn ja työstä on myös saatava reilu korvaus. Muuten ei ole hauskaa kellään. \nHauskassa Helsingissä on monenlaista kulttuuria tarjolla eri puolilla kaupunkia. Tämä rakentaa yhteisöjä, hyvinvointia ja esim. kaupunkilaisten alueidentiteettiä. Lupaan edistää hauskaa Helsinkiä.",
+      "se": "Ett hållbart Helsingfors måste också vara roligt. För mig är det roliga Helsingfors ett område som sprudlar av kultur, konst och parker. Det är viktigt för stadsborna att omges av grönska, vilket har visat sig öka välbefinnandet, liksom konst och kultur. \nDet ska finnas utrymmen för konstnärer och kultur som möjliggör arbete till ett rimligt pris, och även för deras arbete ska det betalas en rättvis ersättning. Annars är det inte roligt för någon. \nFun Helsinki erbjuder ett brett utbud av kultur på olika håll i staden. Detta bygger gemenskaper, välbefinnande och t.ex. stadsbornas regionala identitet. Jag lovar att främja ett roligt Helsingfors.",
+      "en": "A sustainable Helsinki must also be fun. For me, fun Helsinki is one that is bursting with culture, art and parks. It is important for city dwellers to be surrounded by greenery, which has been shown to improve well-being, as does art and culture. \nThere must be spaces for artists and culture that enable reasonably priced work, and fair compensation must also be paid for their work. Otherwise, it's not fun for anyone. \nFun Helsinki offers a wide range of culture in different parts of the city. This builds communities, well-being and e.g. regional identity of city dwellers. I promise to promote a fun Helsinki.",
+      "ru": "Экологичный Хельсинки также должен быть веселым. Для меня веселый Хельсинки — это тот, который наполнен культурой, искусством и парками. Для городских жителей важно, чтобы они были окружены зеленью, которая, как было доказано, улучшает благосостояние, как и искусство и культура. \nДля художников и представителей культуры должны быть места, которые позволяют работать по разумным ценам, а также должна выплачиваться справедливая компенсация за их работу. В противном случае это никому не доставляет удовольствия. \nFun Helsinki предлагает широкий спектр культурных традиций в разных частях города. Это способствует развитию сообществ, благополучию и, например. региональная идентичность горожан. Я обещаю продвигать веселый Хельсинки.",
+      "sme": "Ceavzilis Helsset ferte maid leat somá. Munnje somá Helsset lea dakkár mii lea buollán kultuvrrain, dáidagiin ja párkkain. Gávpotássiide lea dehálaš birastahttit ruonávuođa, mii lea čájehuvvon buoridit buresbirgejumi, nu maiddái dáidda ja kultuvra. \nFertejit leat sajit dáiddáriidda ja kultuvrii mat dahket vejolažžan govttolaš haddái bargat, ja sin barggu ovddas galgá maid máksojuvvot vuoiggalaš buhtadus. Muđui ii leat somá geasage. \nFun Helsinki fállá viiddis kultuvrra sierra guovlluin gávpogis. Dát hukse servodagaid, buresbirgejumi ja omd. gávpotássiid guovllulaš identitehta. Lohpidan ovddidit somás Helssega.",
+      "ara": "يجب أن تكون هلسنكي المستدامة ممتعة أيضا. بالنسبة لي ، هلسنكي الممتعة مليئة بالثقافة والفن والمتنزهات. من المهم أن يكون سكان المدن محاطين بالمساحات الخضراء ، والتي ثبت أنها تحسن الرفاهية ، كما هو الحال مع الفن والثقافة. \nيجب أن تكون هناك مساحات للفنانين والثقافة تتيح العمل بأسعار معقولة ، ويجب أيضا دفع تعويض عادل عن عملهم. خلاف ذلك ، ليس الأمر ممتعا لأي شخص. \nتقدم Fun Helsinki مجموعة واسعة من الثقافات في أجزاء مختلفة من المدينة. هذا يبني المجتمعات والرفاهية على سبيل المثال. الهوية الإقليمية لسكان المدن. أعدك بالترويج لهلسنكي الممتعة.",
+      "ukr": "Екологічний Гельсінкі також має бути веселим. Для мене веселий Гельсінкі – це той, який переповнений культурою, мистецтвом і парками. Для міських жителів важливо бути оточеними зеленню, яка, як доведено, покращує добробут, як і мистецтво та культура. \nПовинні існувати простори для митців і культури, які дозволяють працювати за розумними цінами, а також має виплачуватися справедлива винагорода за їхню роботу. В іншому випадку це нікому не приносить задоволення. \nFun Helsinki пропонує широкий спектр культури в різних частинах міста. Це сприяє формуванню спільноти, добробуту та, наприклад, регіональна самобутність міських жителів. Обіцяю пропагувати веселий Гельсінкі.",
+      "som": "Helsinkita waarta xittaa waa inay ahaataa madadaalo. Aniga ahaan waxaa ii xiiso leh in Helsinki ay tahay mid soo buuxdo oo ay soo buuxaan dhaqan, farshaxan iyo jardiinooyin. Waa muhiim in dadka magaaladu ay ku hareeraysnaadaan cagaar, oo la muujiyey inay hagaajinayaan wanaagga, sidoo kale farshaxanka iyo dhaqanka. \nWaa in ay jiraan goobo ay fannaaniinta iyo dhaqanku awood u yeeshaan in ay helaan mushaar jaban, sidoo kale magdhow wanaagsanna waa in laga siiyaa lacago la xiriira shaqadooda. Haddii kale, ma ahan mid xiiso leh qofna. \nFun Helsinki waxay dhinacyo badan oo magaalada ka mid ah ka heshaa dhaqamo aad u badan. Tani waxay dhistaa bulshooyin, wanaag iyo tusaale ahaan. aqoonsiga gobolka ee dadka magaalada deggan. Waxaan balan qaadayaa in aan horumariyo Helsinki ooxiisa leh."
+    },
+    "age": 1976,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Oikeudenmukaisuus, yhdenvertaisuus, luontoystävällisyys, yhteisöllisyys, kulttuurimyönteisyys",
+      "se": "Rättvisa, jämlikhet, miljövänlighet, gemenskap, kulturell vänlighet",
+      "en": "Fairness, equality, environmental friendliness, communality, cultural friendliness",
+      "ru": "Справедливость, равенство, экологичность, общность, культурная дружелюбие",
+      "sme": "Vuoigatvuohta, ovttaveardásašvuohta, birasberoštupmi, servodatlašvuohta, kulturberoštupmi",
+      "ara": "لعدالة، المساواة، الصداقة البيئية، المجتمع، الصداقة الثقافية",
+      "ukr": "Справедливість, рівність, екологічність, комунальність, культурність",
+      "som": "Caddaalad, sinnaan, saaxiibtinimo deegaan, bulsho, saaxiibtinimo dhaqan"
+    },
+    "election_promise_2": {
+      "fi": "Lupaan toimia kestävän Helsingin eteen, niin että sote-palvelut ovat saatavilla kaupunkilaisten tarpeiden mukaan eikä terveyden ja hyvinvoinnin edistämistä unohdeta. Soten rahoitus on turvattava ja sotea on kehitettävä Helsingissä pitkäjänteisesti. Päätöksissäni pyrkisin siihen, että satsattaisiin mahdollisimman paljon ehkäiseviin toimiin ja kaupunkilaisten hyvinvointiin arjessa, niin että ihmisillä on mahdollisuus vaikuttaa omaan ympäristöönsä, terveyteensä ja kuulua arjessa itselle sopivaan yhteisöön. \nKestävässä Helsingissä on hyvä ja yhdenvertainen perusopetus, jossa kaikki saavat tarvitsemansa opetuksen ja tuen. Lisäksi meidän on turvattava maksuton toisen asteen koulutus, sillä nuorille on syytä taata parhaat lähtökohdat. Nuorten kiinnittyminen työelämään vaatii lisää toimia, kuten Helsingin yhteistyötä esim. järjestöjen ja yritysten kanssa. \nKestävässä Helsingissä työnantaja ja tekijä kohtaavat, työvoimapalvelut toimivat sujuvasti ja työttömiä ohjataan myös koulutuksen pariin. ",
+      "se": "Jag lovar att arbeta för ett hållbart Helsingfors så att social- och hälsovårdstjänsterna är tillgängliga enligt stadsbornas behov och främjandet av hälsa och välfärd inte glöms bort. Finansieringen av social- och hälsovårdstjänsterna måste tryggas och social- och hälsovårdstjänsterna i Helsingfors måste utvecklas på lång sikt. I mina beslut skulle jag sträva efter att satsa så mycket som möjligt på förebyggande åtgärder och på stadsbornas välbefinnande i deras vardag, så att människor har möjlighet att påverka sin egen miljö, hälsa och tillhörighet till en gemenskap som passar dem i deras vardag. \nEtt hållbart Helsingfors har en bra och jämlik grundläggande utbildning där alla får den utbildning och det stöd de behöver. Dessutom måste vi garantera gratis utbildning på andra stadiet, eftersom ungdomar bör garanteras den bästa utgångspunkten. De ungas anknytning till arbetslivet kräver fler åtgärder, såsom Helsingfors samarbete med bl.a. organisationer och företag. \nI ett hållbart Helsingfors möts arbetsgivare och arbetstagare, sysselsättningstjänsterna fungerar smidigt och även arbetslösa hänvisas till utbildning. ",
+      "en": "I promise to work for a sustainable Helsinki so that health and social services are available according to the needs of the city's residents and the promotion of health and well-being is not forgotten. The funding of health and social services must be secured, and health and social services must be developed in Helsinki on a long-term basis. In my decisions, I would aim to invest as much as possible in preventive measures and the well-being of city residents in their everyday lives, so that people have the opportunity to influence their own environment, health and belong to a community that suits them in their everyday lives. \nSustainable Helsinki has good and equal basic education where everyone receives the education and support they need. In addition, we must ensure free secondary education, because young people should be guaranteed the best starting point. The attachment of young people to working life requires more measures, such as Helsinki's cooperation with e.g. organisations and companies. \nIn a sustainable Helsinki, employers and employees meet, employment services work smoothly and the unemployed are also guided to education. ",
+      "ru": "Я обещаю работать над тем, чтобы Хельсинки был устойчивым, чтобы медицинские и социальные услуги предоставлялись в соответствии с потребностями жителей города, а также чтобы не забывали о здоровье и благополучии. Необходимо обеспечить финансирование медицинских и социальных услуг, а также развивать медицинские и социальные услуги в Хельсинки на долгосрочной основе. В своих решениях я бы стремился как можно больше инвестировать в профилактические меры и благополучие жителей города в их повседневной жизни, чтобы люди имели возможность влиять на собственное окружение, здоровье и принадлежать к сообществу, которое подходит им в повседневной жизни. \nУстойчивый Хельсинки предлагает хорошее и равноправное базовое образование, где каждый получает образование и поддержку, в которых он нуждается. Кроме того, мы должны обеспечить бесплатное среднее образование, потому что молодым людям должна быть гарантирована лучшая отправная точка. Привязанность молодых людей к трудовой жизни требует дополнительных мер, таких как, например, сотрудничество Хельсинки с организации и компании. \nВ устойчивом Хельсинки работодатели и работники встречаются, службы занятости работают без сбоев, а безработных также направляют на обучение. ",
+      "sme": "Mun lohpidan bargat ceavzilis Helssega ovdii, vai dearvvašvuođa- ja sosiálabálvalusat livčče olámuttos gávpoga ássiid dárbbuid mielde ja dearvvasvuođa ja buresbirgejumi ovddideapmi ii vajálduvvo. Dearvvašvuođa- ja sosiálabálvalusaid ruhtadeapmi galgá sihkkarastojuvvot, ja dearvvasvuođa- ja sosiálabálvalusat galget ovddiduvvot Helssegis guhkit áigái. Mearrádusain áiggun investeret nu ollu go vejolaš eastadeaddji doaibmabijuide ja gávpotássiid buresbirgejupmái sin árgabeaivvis, nu ahte olbmuin lea vejolašvuohta váikkuhit iežaset birrasii, dearvvašvuhtii ja gullat servodahkii mii heive sin árgabeaivvis.",
+      "ara": "أعدك بالعمل من أجل هلسنكي مستدامة حتى تتوفر الخدمات الصحية والاجتماعية وفقا لاحتياجات سكان المدينة ولا يتم نسيان تعزيز الصحة والرفاهية. يجب تأمين تمويل الخدمات الصحية والاجتماعية، ويجب تطوير الخدمات الصحية والاجتماعية في هلسنكي على أساس طويل الأجل. في قراراتي، سأهدف إلى الاستثمار قدر الإمكان في التدابير الوقائية ورفاهية سكان المدينة في حياتهم اليومية، حتى تتاح للناس الفرصة للتأثير على بيئتهم وصحتهم والانتماء إلى مجتمع يناسبهم في حياتهم اليومية. \nتتمتع هلسنكي المستدامة بتعليم أساسي جيد ومتساو حيث يحصل الجميع على التعليم والدعم الذي يحتاجونه. بالإضافة إلى ذلك، يجب أن نضمن التعليم الثانوي المجاني، لأنه يجب ضمان أفضل نقطة انطلاق للشباب. يتطلب ارتباط الشباب بالحياة العملية مزيدا من التدابير، مثل تعاون هلسنكي مع على سبيل المثال. المنظمات والشركات. \nفي هلسنكي المستدامة يلتقي أرباب العمل والموظفون ، وتعمل خدمات التشغيل بسلاسة ويتم توجيه العاطلين عن العمل أيضا إلى التعليم. ",
+      "ukr": "Я обіцяю працювати заради сталого розвитку Гельсінкі, щоб медичні та соціальні послуги були доступні відповідно до потреб мешканців міста, а про зміцнення здоров'я та благополуччя не забували. Фінансування охорони здоров'я та соціальних послуг має бути забезпечене, а охорона здоров'я та соціальні послуги повинні розвиватися в Гельсінкі на довгостроковій основі. У своїх рішеннях я б прагнув максимально інвестувати у профілактичні заходи та добробут мешканців міста у їхньому повсякденному житті, щоб люди мали можливість впливати на власне довкілля, здоров'я та належали до спільноти, яка їм підходить у повсякденному житті. \nСталий Гельсінкі має хорошу та рівну базову освіту, де кожен отримує необхідну освіту та підтримку. Крім того, ми маємо забезпечити безкоштовну середню освіту, адже молодим людям має бути гарантована найкраща відправна точка. Прив'язаність молоді до трудового життя вимагає більш широких заходів, таких як співпраця Гельсінкі з, наприклад: організацій та компаній. \nУ сталому Гельсінкі роботодавці та працівники зустрічаються, служби зайнятості працюють безперебійно, а безробітні також отримують освіту. ",
+      "som": "Waxaan balan qaadayaa in aan ka shaqeeyo Helsinki waarta, si ay u helaan adeegyada caafimaadka iyo kuwa sooshaalka ah iyagoo isticmaalaya baahida dadka magaaladdu qabaan, aana la hilmaamin horumarinta caafimaadka iyo wanaagga. Si loo badbaadiyo maalgelinta caafimaadka iyo adeegyada sooshaalka waa iney ahaataa ammaan, sidoo kalena Helsinki waa in si dhab ah loogu horumaraa adeegyada caafimaadka iyo arrimaha bulshada. Go'aannadayda, waxaan ku diistaa in aan sida ugu badan ee suurtagalka ah u maal-geliyo tallaabooyinka ka hortagga iyo wanaagga dadka magaalada degani ay ku noolaadaan nolol-maalmeedka, si dadku u helaan fursad ay ku saameyn karaan deegaankooda, caafimaadkooda, kana mid noqdaan bulsho ku habboon nolol-maalmeedka ay ku noolaadaan. \nHelsinki joogta ah waxay leedahay waxbarasho aasaasi ah oo wanaagsan oo siman, taas oo qof kastaa uu ka helaayo waxbarashada iyo taageerada uu u baahan yahay. Waxaa intaa dheer in aan hubinno waxbarasho dugsi sare oo lacag la'aan ah, maxaa yeelay dhallinyarada waa in la damaanad qaado meesha ugu wanaagsan ee ay ku bilaaban karaan. Ku lifaaqa da'yarta nolosheeda shaqo waxaa loo baahan yahay tallaabooyin dheeraad ah, tusaale ahaan in Helsinki ay iska kaashaneyso tusaale ahaan in Helsinki ay iskaashi dhinacyo kale ay ku jirto tusaale ahaan in Helsinki ay iskaashi dhinacyo kale ku jirto. ururada iyo shirkadaha. \nDadka reer Helsinki ee joogtada ah waxaa ka kulma shaqo-bixiyayaasha iyo shaqaalaha, shaqada ay si habsami leh u shaqeeyaan, shaqo la'aantana waxaa sidoo kale lagu hagaa waxbarashada. "
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "facebook_url": "https://www.facebook.com/wuorio.valtuustoon",
+    "instagram_url": "https://www.instagram.com/sannawuorio",
+    "municipality_fix": {
+      "fi": "Päästöt on nollattava ja luonnon monimuotoisuuden säilyminen huomioitava myös pääkaupungissamme. Rasismia ei tule hyväksyä. Helsingin on oltava antirasistinen kaupunki. Asumisen hinta on saatava alaspäin ja asukkaille on oltava tarjolla maksuttomia kohtaamisen paikkoja. Sote-palveluiden rahoitus on turvattava ja sotea on kehitettävä Helsingissä pitkäjänteisesti. Perusopetuksen on oltava sellaista, jossa kaikki saavat tarvitsemansa opetuksen ja tuen. Nuorten työelämään pääsyn pitää olla helpompaa. Taiteen ja kulttuurin tekijöille on oltava tiloja, jotka mahdollistavat kohtuuhintaisen työskentelyn ja työstä on myös saatava reilu korvaus. Helsingissä tulee olla monenlaista kulttuuria tarjolla eri puolilla kaupunkia. ",
+      "se": "Utsläppen måste nollställas och bevarandet av den biologiska mångfalden måste också beaktas i vår huvudstad. Rasism får inte tolereras. Helsingfors ska vara en antirasistisk stad. Priset på boende måste sänkas och det ska finnas gratis mötesplatser för invånarna. Finansieringen av social- och hälsovårdstjänsterna måste tryggas och social- och hälsovårdstjänsterna i Helsingfors måste utvecklas på lång sikt. Den grundläggande utbildningen ska vara sådan att var och en får den utbildning och det stöd som han eller hon behöver. Det måste bli lättare för unga att komma in i arbetslivet. Det ska finnas utrymmen för konstnärer och kultur som möjliggör arbete till ett rimligt pris, och även för deras arbete ska det betalas en rättvis ersättning. Helsingfors ska ha ett brett utbud av kultur på olika håll i staden.",
+      "en": "Emissions must be zeroed out and the preservation of biodiversity must also be taken into account in our capital. Racism must not be tolerated. Helsinki must be an anti-racist city. The price of housing must be brought down and free meeting places must be available to residents. The funding of health and social services must be secured, and health and social services must be developed in Helsinki on a long-term basis. Basic education must be such that everyone receives the education and support they need. It must be easier for young people to enter working life. There must be spaces for artists and culture that enable reasonably priced work, and fair compensation must also be paid for their work. Helsinki must have a wide range of culture available in different parts of the city.",
+      "ru": "Выбросы должны быть сведены к нулю, а также должен быть учтен вопрос сохранения биоразнообразия в нашей столице. Нельзя мириться с расизмом. Хельсинки должен быть антирасистским городом. Цены на жилье должны быть снижены, а для жителей должны быть доступны бесплатные места для встреч. Необходимо обеспечить финансирование медицинских и социальных услуг, а также развивать медицинские и социальные услуги в Хельсинки на долгосрочной основе. Базовое образование должно быть таким, чтобы каждый получал образование и поддержку, в которых он нуждается. Молодым людям должно быть легче влиться в трудовую жизнь. Для художников и представителей культуры должны быть места, которые позволяют работать по разумным ценам, а также должна выплачиваться справедливая компенсация за их работу. В Хельсинки должен быть широкий спектр культурных традиций, доступных в разных частях города.",
+      "sme": "Luoitimiid ferte nuppástuhttit ja maiddái luonddu máŋggahámatvuođa seailluheapmi ferte váldot vuhtii min oaivegávpogis. Rasismma ii galgga dohkkehit. Helsset ferte leat antirasisttalaš gávpot. Visttiid haddi ferte vuoliduvvot ja ássiide fállojuvvo nuvttá deaivvadanbáikkit. Sosiáladorvvu bálvalusaid ruhtadeapmi ferte dorvvastuvvot ja sosiáladorvvu ovddiduvvot Helssegis guhkit áigái. Vuođđooahpahus ferte leat nu ahte juohkehaš oažžu dan oahpahusa ja doarjaga maid dárbbaša. Nuoraide galgá leat álkit beassat bargoeallimii. Dáidda- ja kulturdahkkiide galget leat sajit mat addet sidjiide vejolašvuođa bargat dohkálaš haddái, ja sii galget maid oažžut vuoiggalaš buhtadusa barggu ovddas. Helssegis galggašii leat máŋggalágan kultuvra fálaldagas sierra guovlluin gávpogis.",
+      "ara": "ويجب التخلص من الانبعاثات والحفاظ على التنوع البيولوجي في الاعتبار في عاصمتنا. ويجب عدم التسامح مع العنصرية. يجب أن تكون هلسنكي مدينة مناهضة للعنصرية. يجب خفض سعر السكن ويجب أن تكون أماكن الاجتماعات المجانية متاحة للمقيمين. يجب تأمين تمويل الخدمات الصحية والاجتماعية، ويجب تطوير الخدمات الصحية والاجتماعية في هلسنكي على أساس طويل الأجل. يجب أن يكون التعليم الأساسي بحيث يتلقى الجميع التعليم والدعم الذي يحتاجونه. يجب أن يكون من الأسهل على الشباب الدخول في الحياة العملية. يجب أن تكون هناك مساحات للفنانين والثقافة تتيح العمل بأسعار معقولة ، ويجب أيضا دفع تعويض عادل عن عملهم. يجب أن يكون لدى هلسنكي مجموعة واسعة من الثقافات في أنحاء مختلفة من المدينة.",
+      "ukr": "Викиди мають бути зведені до нуля, а також у нашій столиці має бути враховано збереження біорізноманіття. Расизм не можна терпіти. Гельсінкі має бути антирасистським містом. Ціна на житло має бути знижена, а вільні місця для зустрічей мають бути доступними для мешканців. Фінансування охорони здоров'я та соціальних послуг має бути забезпечене, а охорона здоров'я та соціальні послуги повинні розвиватися в Гельсінкі на довгостроковій основі. Базова освіта має бути такою, щоб кожен отримував необхідну освіту та підтримку. Молодим людям має бути легше увійти в трудове життя. Повинні існувати простори для митців і культури, які дозволяють працювати за розумними цінами, а також має виплачуватися справедлива винагорода за їхню роботу. Гельсінкі повинен мати широкий спектр культури, доступної в різних частинах міста.",
+      "som": "Waa in la yareeyaa qiiqa ka soo baxa, waana in la tixgeliyaa ilaalinta noolaha kala duwanaanshaha. Cunsuriyada looma dulqaadan karo cunsuriyada. Helsinki waa inay tahay magaalo la soo horjeeda cunsuriyada. Guryaha qiimahoodu waa in hoos loo ridaa. Waa in la horumariyaa daryeelka sooshaalka iyo daryeelka caafimaadka. Waxbarashada aasaasiga ah dadka oo dhan waa in ay helaan waxbarashada iyo kaalmada uu u baahan yahay. Waa in ay tahay in dhalinyaradu ay u fududaato shaqo ayaga shaqo. Helsinki waa inay leedahay farshaxanno farshaxan oo baahsan iyo wax qabadyo dhaqameedyo oo ku yaalla qeybo badan oo magaalada ka mid ah."
+    },
+    "representative_other": {
+      "fi": "Pasila-seuran varapuheenjohtaja\nJääkenttäsäätiön hallituksen jäsen",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Haluan tehdä kestävää Helsinkiä eli kaupunkia, jossa toimitaan kaikilla tavoilla kestävästi. \nTärkeimpänä asiana on se, että ilmastokriisi huomioidaan kaupungin toiminnassa ja päätöksissä. Päästöjä nollataan ja luonnon monimuotoisuuden säilyminen huomioidaan myös pääkaupungissamme. Julkista liikennettä kehitetään kunnianhimoisesti, kuten tähänkin saakka ja on hyvä pohtia myös sen hinnoittelua uudelleen. \nAsumisen hinta on pidettävä kurissa ja asukkaille on oltava tarjolla kohtuuhintaisia ja ilmaisia kohtaamisen paikkoja. Kaupunginosien ja alueiden yhteisöjä on syytä tukea, sillä yhteisöissä on hyvinvoinnin voima. ",
+      "se": "Jag vill skapa ett hållbart Helsingfors, en stad som fungerar hållbart på alla sätt. \nDet viktigaste är att klimatkrisen beaktas i stadens verksamhet. Utsläppen ska minska till noll och bevarandet av den biologiska mångfalden ska beaktas även i vår huvudstad. Kollektivtrafiken utvecklas ambitiöst, precis som hittills, och det är också bra att se över prissättningen. \nPriset på boende ska hållas under kontroll och invånarna ska erbjudas förmånliga och kostnadsfria mötesplatser till rimliga priser. Gemenskaperna i stadsdelarna och regionerna bör stödjas, eftersom gemenskaperna är kraften i välfärden. ",
+      "en": "I want to make a sustainable Helsinki, a city that operates sustainably in all ways. \nThe most important thing is that the climate crisis is taken into account in the city's operations. Emissions will be reduced to zero and the preservation of biodiversity will also be taken into account in our capital. Public transport is being developed ambitiously, as it has been so far, and it is also good to reconsider its pricing. \nThe price of housing must be kept under control and residents must be offered reasonably priced and free meeting places. The communities of city districts and regions should be supported, as communities are the power of well-being. ",
+      "ru": "Я хочу сделать Хельсинки устойчивым городом, который функционирует устойчиво во всех отношениях. \nСамое главное, что климатический кризис учитывается в работе города. В нашей столице выбросы будут сведены к нулю, а также будет учтен вопрос сохранения биоразнообразия. Общественный транспорт развивается амбициозно, как это было до сих пор, и также хорошо пересмотреть его ценообразование. \nЦены на жилье должны быть под контролем, а жильцам должны быть предложены разумные цены и бесплатные места для встреч. Сообщества городских районов и регионов должны быть поддержаны, так как сообщества – это сила благополучия. ",
+      "sme": "Mun háliidan dahkat ceavzilis Helssega, gávpoga mii doaibmá ceavzilit buot láhkai. \nDeháleamos lea, ahte gávpoga doaimmain váldojuvvo vuhtii dálkkádatkriisa. Luoitimat geahpeduvvojit nullii ja maiddái luonddu máŋggahámatvuođa seailluheapmi váldojuvvo vuhtii min oaivegávpogis. Servodatjohtolat ovddiduvvo áŋgirit, nu mo dássážii lea leamaš, ja lea maid buorre ođđasit árvvoštallat dan haddejuogu. \nVisttiid hatti ferte doallat kontrollas ja ássiide galgá fállojuvvot dohkálaš haddái ja nuvttá deaivvadanbáikkit. Gávpotguovlluid ja guovlluid servodagat galget doarjut, go servodagat leat buresbirgejumi fápmu.\n",
+      "ara": "أريد أن أصنع هلسنكي مستدامة، مدينة تعمل بشكل مستدام من جميع الطرق. \nالشيء الأكثر أهمية هو أن أزمة المناخ تؤخذ في الاعتبار في عمليات المدينة. سيتم تخفيض الانبعاثات إلى الصفر وسيتم أيضا مراعاة الحفاظ على التنوع البيولوجي في عاصمتنا. يتم تطوير وسائل النقل العام بشكل طموح ، كما كان الحال حتى الآن ، ومن الجيد أيضا إعادة النظر في أسعارها. \nيجب أن يكون سعر السكن تحت السيطرة ويجب أن يعرض للمقيمين أماكن اجتماعات مجانية وبأسعار معقولة. يجب دعم مجتمعات المناطق والمناطق الحضرية ، لأن المجتمعات هي قوة الرفاهية. ",
+      "ukr": "Я хочу зробити Гельсінкі стійким містом, яке функціонує стабільно в усіх аспектах. \nНайголовніше, щоб кліматична криза була врахована в роботі міста. Викиди будуть зведені до нуля, а також у нашій столиці врахуватимуть збереження біорізноманіття. Громадський транспорт розвивається амбітно, як це було досі, і також добре переглянути його ціноутворення. \nЦіну на житло потрібно тримати під контролем, а мешканцям мають пропонувати доступні за ціною та безкоштовні місця для зустрічей. Громади міських районів та областей мають бути підтримані, адже громади – це сила добробуту. ",
+      "som": "Waxaan doonayaa in aan magaalo waarta u samaysato Helsinki, oo ah magaalo si waarta u shaqeysa si waara. \nWaxa ugu muhiimsan waa in cimilada laga xisaabiyo cimilada howlaha ay magaaladu qabanayso. Qiiqa ayaa hoos u dhacaya oo hoos u dhacaya illaa iyo in la ilaaliyo noolaha kala duwanaanshaha noolaha ayaa sidoo kale lagu dari doonaa caasimadeena. Gaadiidka dad weynaha ayaa loo horumarinayaa hannaan la leh, maadaama ay ilaa iyo hadda soo jireen, waxaa sidoo kale wanaagsan in dib loo eego qiimihiisii la heli lahaa. \nQiimaha guriyeynta waa in la xakameynayaa, dadka deegaankana waa in la siiyaa goob kulan oo qiimo macquul ah oo lacag la'aan ah. Waa in la taageeraa bulshooyinka ku dhaqan degmooyinka iyo gobolada magaalada maadaama ay bulshooyinku yihiin awoodda wanaagga. "
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

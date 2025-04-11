@@ -1,0 +1,197 @@
+{
+  "id": 1073,
+  "first_name": "Oona",
+  "last_name": "Käyhkö",
+  "election_number": 748,
+  "party_id": 6,
+  "image": "kuvat/akv2025/1073/69b86670-0dd4-476d-a1fa-a8cd51aee02f",
+  "constituency_id": 25,
+  "video": "1-73817885",
+  "video_aspect": "1:1",
+  "video_description_fi": "Tärkein tavoitteeni on Helsingin lähiluonnon suojelu. Rakentaminen tulee osoittaa jo rakennetuille alueille, ei luontokohteisiin. Lähiluonto on tärkeää luonnon monimuotoisuuden kannalta, mutta myös ihmisten terveyden kannalta. Jokaisen helsinkiläisen kodin ympäristöön tarvitaan lähiluontoa. Lisäksi minulle tärkeää on, että Helsinki tekee osansa ilmastokriisin torjumiseksi ja eläinten hyvinvoinnista huolehditaan. ",
+  "video_description_sv": null,
+  "video_description_en": "My main goal is to protect Helsinki's nearby nature. New buildings should be directed to already built-up areas, not to natural sites. Nearby nature is important for biodiversity, but also for human health. Nearby nature is needed in the surroundings of every Helsinki resident's home. It is also important to me that Helsinki does its part to combat the climate crisis and that animal welfare is looked after.",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 43,
+      "background_info_id": 10,
+      "name_fi": "Vasemmalle",
+      "name_sv": "Till vänster",
+      "name_en": "On the left",
+      "name_ru": "Слева",
+      "name_sme": "Gurut guvlui",
+      "name_ara": "اليسار",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan edistää eläinten hyvinvointia Helsingissä aktiivisesti niin lemmikki- ja tuotantoeläinten kuin myös luonnonvaraisten eläinten osalta. Helsingin kaupunkisuunnittelussa tulee ottaa paremmin huomioon, että kaupungit ovat viihtyisiä myös lemmikeille ja että luonnonvaraisten eläinten mahdollisuudet elää Helsingissä turvataan. Tuotantoeläinten kauhean kohtelun sekä ympäristö- ja terveyshaittojen vuoksi julkisissa ruokailuissa tulee suosia vegaanisia vaihtoehtoja ja välttää eläinperäisiä tuotteita julkisissa hankinnoissa.",
+      "se": null,
+      "en": "I promise to actively promote animal welfare in Helsinki, for both pets and farm animals, as well as for wildlife. Urban planning in Helsinki must better account for making cities more pet-friendly and ensuring that wildlife has the opportunity to live safely in the city. Due to the terrible treatment of farm animals and the environmental and health harms, public catering should prioritize vegan options and avoid animal products in public procurement.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1997,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Luonto, empaattisuus, feminismi, sivistys ja rehellisyys",
+      "se": null,
+      "en": "Nature, empathy, feminism, education and honesty",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lupaan varmistaa, että Helsinki tekee osansa ilmastokriisin torjumisessa. Kivihiilivoimaloiden sulkeuduttua vihdoin ja viimein jatkossa Helsingin suurin päästölähde on liikenne. Lupaan vähentää ilmaston, viihtyisän kaupunkitilan ja ilmanlaadun kannalta tuhoisaa yksityisautoilua ja edistää joukkoliikenteen siirtämistä raiteille ja pyöräilyn sekä kävelyn edellytysten parantamista. Lisäksi eläinperäisten tuotteiden kulutusta on merkittävästi vähennettävä ja varjeltava hiilinieluna toimivia metsiä. ",
+      "se": null,
+      "en": "I promise to ensure that Helsinki does its part in combating the climate crisis. With coal- fueled power plants finally closing, the city's largest source of emissions will be transportation. I vow to reduce the harmful effects of private car use on the climate, urban livability, and air quality, and to promote shifting public transport to rail, as well as improving conditions for cycling and walking. Additionally, we must significantly reduce the consumption of animal products and protect forests that serve as carbon sinks.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://oonakayhko.fi/",
+    "facebook_url": "https://www.facebook.com/oonakayhko2025/",
+    "instagram_url": "https://www.instagram.com/oonakayhko/",
+    "tiktok_url": "https://www.tiktok.com/@oona.kayhko",
+    "municipality_fix": {
+      "fi": "Helsingissä pitää suojella arvokasta lähiluontoa. Uusia koteja tarvitaan, jotta jokainen voi löytää Helsingistä kodin riippumatta elämäntilanteesta tai tulotasosta. Rakentaminen pitää kuitenkin kohdistaa valmiiksi rakennetuille alueille, ei luontokohteisiin. Luontokadon torjumiseksi on varmistettava, että arvokkaat luontokohteet suojellaan Helsingissä pysyvästi ja että luonnon monimuotoisuus jatkossa lisääntyy. Helsingin on myös pidettävä kiinni ilmastotavoitteistaan ja rohkeasti uudistettava liikennejärjestelmää päästöjen vähentämiseksi. Hiilivoimaloiden sulkeuduttua liikenne on Helsingin suurin päästölähde. Joukkoliikenteeseen, pyöräilyyn ja kävelyyn nojaava liikennejärjestelmä mahdollistaa kaiken päälle viihtyisämpää ja vehreämpää kaupunkiympäristöä kuin monikaistaiset tiet yksityisautoille. Lisäksi eläinten hyvinvointia tulee parantaa Helsingissä niin tuotanto- kuin lemmikkieläinten ja luonnonvaraisten eläinten osalta.",
+      "se": null,
+      "en": "In Helsinki, we need to protect the valuable nearby nature. New homes are needed so that everyone can find a home in Helsinki, regardless of their circumstances or income level. However, new buildings should be constructed at built-up areas, not at natural sites. To combat habitat loss, we must ensure that valuable natural sites in Helsinki are permanently protected and that biodiversity increases in the future rather than diminishes. Helsinki must also stick to its climate targets and boldly reform its transport system to reduce emissions. With the closure of the coal-fired power plants, transport will be Helsinki's biggest source of emissions. A transport system based on public transport, cycling and walking makes for a more pleasant and greener urban environment than multi-lane roads for private cars. In addition, animal welfare in Helsinki needs to be improved.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Olen Helsingin kaupunkiympäristölautakunnan varajäsen. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Lupaan vaalia lähiluontoa ja varmistaa, että arvokkaat luontokohteet Helsingissä suojellaan pysyvästi. Lisää koteja uusille helsinkiläisille tarvitaan jatkuvasti, mutta jatkossa rakentaminen tulee suunnata jo valmiiksi rakennetuille alueille kuten vanhoille teollisuusalueille ja parkkipaikoille, ei luontokohteisiin. Lähiluonnolla on moninaisia terveyshyötyjä ja haluan varmistaa, että kaikilla on pääsy luontoon lähellä kotia. Helsingissä on myös paljon arvokkaita luontokohteita, vanhoja metsiä ja upeita rantoja, jotka tulee suojella tiukasti. ",
+      "se": null,
+      "en": "I promise to preserve the nearby nature and ensure that the valuable natural sites in Helsinki are permanently protected. More homes for new Helsinki residents are needed all the time, but in the future new buildings should be directed to already built-up areas such as old industrial sites and parking lots, not to natural sites. Nearby nature has multiple health benefits and I want to ensure that everyone has access to nature close to home. Helsinki also has many valuable natural sites, old forests and stunning shorelines, which must be strictly protected. ",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Poliittinen aktiivisuuteni alkoi HYY:n Vihreistä Helsingin yliopiston ylioppilaskunnan edustajistossa. Olen ollut myös vihreiden nuorten hallituksen jäsen ja vihreiden puoluevaltuustonjäsen. Olen myös kartuttanut työkokemusta politiikassa, sillä olin 9 kuukautta harjoittelussa MEP Ville Niinistön toimistossa Euroopan parlamentissa Brysselissä ja toimin viime eduskuntakaudella vihreässä eduskuntaryhmässä Satu Hassin ja Iiris Suomelan poliittisena avustajana. Tällä hetkellä työskentelen vihreässä eduskuntaryhmässä Tiina Elon ja Alviina Alametsän poliittisena avustajana. ",
+      "se": null,
+      "en": "My political activism started with the Helsinki University Greens in the Representative Council of the Student Union. I have also been a member of the Green Youth Board and a member of the Green Party Council. I have also gained work experience in politics, as I spent 9 months as a trainee in MEP Ville Niinistö's office in the European Parliament in Brussels and worked as a political assistant to Satu Hassi and Iiris Suomela in the Green parliamentary group in the last parliamentary term. I am currently working in the Green Parliamentary Group as a political assistant to Tiina Elo and Alviina Alametsä. ",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

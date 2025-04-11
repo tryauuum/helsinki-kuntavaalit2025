@@ -1,0 +1,194 @@
+{
+  "id": 8128,
+  "first_name": "Sanna",
+  "last_name": "Saarnia",
+  "election_number": 321,
+  "party_id": 19,
+  "image": "kuvat/akv2025/8128/c867bdf2-c563-411c-b32a-682d7270f3d1",
+  "constituency_id": 25,
+  "video": "1-73814669",
+  "video_aspect": "1:1",
+  "video_description_fi": "Kaikilla lapsilla ja nuorilla tulee olla mahdollisuus turvalliseen ja toimivaan opetukseen. Kaupungin tulee päätöksillä varmistaa, että opetusryhmien koot pysyvät riittävän pieninä, kouluissa on opettajien lisäksi riittävästi tukihenkilöitä ja avustajia tukemassa lasten ja nuorten oppimista ja että helsinkiläisille lapsille ja nuorille on riittävästi opiskelupaikkoja kotikaupungissaan perusopetuksessa ja 2.asteen kouluissa.  ",
+  "video_description_sv": "Alla barn och unga ska ha möjlighet till en säker och fungerande undervisning. Staden ska genom sina beslut säkerställa att undervisningsgruppernas storlek förblir tillräckligt små, att det finns tillräckligt med stödpersonal och assistenter i skolorna för att stödja barnens och ungdomarnas lärande, samt att det finns tillräckligt med studieplatser för Helsingfors barn och unga i grundskolan och på andra stadiet i deras hemstad.",
+  "video_description_en": "All children and young people should have access to a safe and well-functioning tuition. The city must ensure through its decisions that class sizes remain sufficiently small, that schools have enough support staff and assistants to support children's and young people's learning, and that there are enough study places for Helsinki's children and young people in basic education and secondary schools in their hometown.",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 47,
+      "background_info_id": 10,
+      "name_fi": "Oikealle",
+      "name_sv": "Till höger",
+      "name_en": "To the right",
+      "name_ru": "Справа",
+      "name_sme": "Olgeš guvlui",
+      "name_ara": "اليمين",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Yritykset ja yrittäjät luovat perustan kaupungin taloudelliselle hyvinvoinnille, joten lupaa pyrkiä edistämään yritysten ja yrittäjien toimintaedellytyksiä Helsingissä. ",
+      "se": "Företag och entreprenör skapar grunden för stadens ekonomiska välfärd, och jag lovar att arbeta för att förbättra företagens och entreprenörs förutsättningar i Helsingfors.",
+      "en": "Companies and entrepreneurs create the foundation for the city's economic well-being, and I promise to work towards improving the conditions for businesses and entrepreneurs in Helsinki.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1970,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "1. Oikeudenmukaisuus ja tasa-arvo – Kaikkia ihmisiä tulee kohdella reilusti ja yhdenvertaisesti.\n2. Rehellisyys ja vastuullisuus – Totuudellisuus ja vastuun kantaminen sekä sanoissa että teoissa.\n3. Inhimillisyys ja ihmissuhteet – Toisten ihmisten ymmärtäminen ja kunnioittaminen sekä läheiset ihmissuhteet tekevät elämästä merkityksellistä.\n4. Jatkuva oppiminen ja uteliaisuus – Koko elämän kestävä kehittyminen, uuden oppiminen ja avoimuus uusille ajatuksille vievät eteenpäin.\n5. Rohkeus ja yrittäjyys – Uskallus kohdata haasteita, kokeilla uutta ja toimia tavoitteidensa eteen.",
+      "se": "1. Rättvisa och jämlikhet – Alla människor ska behandlas rättvist och likvärdigt.\n2. Ärlighet och ansvar – Sanningsenlighet och att ta ansvar både i ord och handling.\n3. Medmänsklighet och relationer – Att förstå och respektera andra människor samt att nära relationer ger livet mening.\n4. Livslångt lärande och nyfikenhet – Ständig utveckling, att lära sig nytt och att vara öppen för nya idéer driver oss framåt.\n5. Mod och entreprenörskap – Att våga möta utmaningar, prova något nytt och arbeta mot sina mål.",
+      "en": "1. Justice and equality – All people should be treated fairly and equally.\n2. Honesty and responsibility – Truthfulness and taking responsibility in both words and actions.\n3. Humanity and relationships – Understanding and respecting others, and meaningful relationships make life valuable.\n4. Lifelong learning and curiosity – Continuous growth, learning new things, and openness to new ideas drive us forward.\n5. Courage and entrepreneurship – The willingness to face challenges, try new things, and work towards one’s goals.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Minulle lapset ja nuoret ovat tärkeitä ja lupaan edistää lasten ja nuorten hyvinvointia varmistamalla, että kaikille tarjotaan turvallinen ja toimiva kouluympäristö. ",
+      "se": "Barn och unga viktiga för mig, och jag lovar att främja deras välmående genom att säkerställa en trygg och fungerande skolmiljö för alla.",
+      "en": "Children and young people are important to me, and I promise to promote their well-being by ensuring a safe and functional school environment for everyone.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "http://www.sanna.saarnia.fi",
+    "facebook_url": "http://www.facebook.com/sanna.saarnia",
+    "instagram_url": "http://www.instagram.com/sannasaarnia",
+    "municipality_fix": {
+      "fi": "Yrittäjät luovat palveluita ja työpaikkoja sekä elinvoimaa ja elämää kaupunkiin. Meidän tulee varmistaa, että kaupungissa tehtävät päätökset eivät luo esteitä yritystoiminnalle vaan mahdollistavat uusien yritysten syntymisen ja olemassa olevien yritysten säilymisen elinvoimaisina myös kantakaupungissa, esim. huolehtimalla liikennejärjestelyillä että asiakkaat pääsevät yritysten luokse.\n\nLapsille ja nuorille tulee taata toimiva, rauhallinen ja turvallinen kouluympäristö, jossa lapsille ja nuorille on mahdollisuus keskittyä oppimiseen. Jotta opettajat voivat keskittyä opettamiseen, tulee kouluihin varata riittävät tukihenkilö- ja avustajaresurssit.\n\nToimiva kaupunki on toimivia palveluita. Vaikka kaupunginosat ovat erilaisia, päätöksenteossa tulee taata, että kaikilla kaupunginosilla on toimivat peruspalvelut kuten joukkoliikenteen, terveydenhoito ja koulut.  ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Tällä hetkellä minulla ei ole luottamustoimia. ",
+      "se": "För tillfället har jag inga förtroendeuppdrag.",
+      "en": "At the moment, I do not have any positions of trust.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Tulen työskentelemään elinvoimaisen Helsingin puolesta. ",
+      "se": "Jag kommer att arbeta för ett livskraftigt Helsingfors.",
+      "en": "I will work for a thriving Helsinki.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

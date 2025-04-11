@@ -1,0 +1,232 @@
+{
+  "id": 13078,
+  "first_name": "Linda",
+  "last_name": "Ahlblad",
+  "election_number": 593,
+  "party_id": 8,
+  "image": "kuvat/akv2025/13078/2f30ba32-519e-48c8-a092-c27fe896681f",
+  "constituency_id": 25,
+  "video": "1-73824213",
+  "video_aspect": "1:1",
+  "video_description_fi": "Haluan, että Helsinki tukee innovaatioita ja yrittäjyyttä, ja samalla varmistaa, että jokainen voi nauttia luonnosta ja elää tasapainoista elämää. Haluan varmistaa, että Helsinki ei ole vain paikka tehdä töitä, vaan myös paikka jossa nauttia elämästä.",
+  "video_description_sv": "Jag vill att vi satsar på innovationer och företagsamhet, och ser till att alla kan njuta av naturen och leva ett balanserat liv. Jag vill se till att Helsingfors inte bara är en plats att jobba på, utan också en plats där vi kan njuta av livet.",
+  "video_description_en": "I want Helsinki to support innovations and entrepreneurship, while ensuring that everyone has the chance to enjoy nature and live a balanced life. I want make sure Helsinki is not just a place to work, but also a place where we can enjoy life.",
+  "video_description_ru": "Я хочу, чтобы Хельсинки поддерживал инновации и предпринимательство, обеспечивая при этом каждому возможность наслаждаться природой и вести сбалансированную жизнь. Я хочу убедиться, что Хельсинки — это не только место для работы, но и город, где можно наслаждаться жизнью.",
+  "video_description_sme": "Mun háliidan ahte Helsset doarju innovašuvnnaid ja ealáhusdoalu, ja sihkkarastá ahte buohkaid besset eallit birasat ja johtit rabas eallima. Mun háliidan sihkkarastit ahte Helsset ii leat dušše sadji bargat, muhto maiddái báiki mas mii besset eallit buorre eallima.",
+  "video_description_ara": "أريد أن يدعم هلسنكي الابتكار وريادة الأعمال، مع ضمان أن يحصل الجميع على فرصة للاستمتاع بالطبيعة وعيش حياة متوازنة. أريد التأكد من أن هلسنكي ليس مجرد مكان للعمل، بل أيضًا مدينة يمكننا فيها الاستمتاع بالحياة.",
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 45,
+      "background_info_id": 10,
+      "name_fi": "En vasemmalle enkä oikealle",
+      "name_sv": "Varken vänster eller höger",
+      "name_en": "Neither to the right or the left",
+      "name_ru": "Ни слева, ни справа",
+      "name_sme": "In gurut inge olgeš guvlui",
+      "name_ara": "لا إلى اليسار ولا إلى اليمين",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Vahvistetaan kaupungin ja yritysten elinvoimaisuutta älykkään teknologian ja innovatiivisten tekoälyratkaisujen avulla.",
+      "se": "Att stärka stadens och företagens livskraft genom smart teknik och innovativa AI-lösningar.",
+      "en": "Driving projects that improve the urban environment and preserve our beautiful natural environments.",
+      "ru": "Повышение жизнеспособности города и бизнеса с помощью умных технологий и инновационных решений в области искусственного интеллекта.",
+      "sme": "Gávpoga ja bisnehusa birrajoavku vuosmohuvvojat smárt-teknologiijaide ja innovašuvdnaid AI-fuolaid bokte.",
+      "ara": "تعزيز حيوية المدينة والأعمال التجارية من خلال التكنولوجيا الذكية وحلول الذكاء الاصطناعي المبتكرة.",
+      "ukr": "Підвищення життєздатності міста та бізнесу за допомогою розумних технологій та інноваційних рішень зі штучного інтелекту.",
+      "som": "Kor u qaadida firfircoonida magaalada iyo ganacsiyada iyadoo la adeegsanayo teknoolojiyada casriga ah iyo xalalka cusub ee AI."
+    },
+    "age": 1978,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      },
+      {
+        "fi": "ranska",
+        "se": "franska",
+        "en": "French",
+        "ru": "французский",
+        "sme": "fránskkagiella",
+        "ara": "الفرنسية"
+      },
+      {
+        "fi": "joku muu",
+        "se": "något annat",
+        "en": "Other",
+        "ru": "другой",
+        "sme": "muhtin eará",
+        "ara": "لغة أخرى"
+      }
+    ],
+    "education": {
+      "id": 51,
+      "background_info_id": 16,
+      "name_fi": "ylioppilas",
+      "name_sv": "student",
+      "name_en": "High school graduate",
+      "name_ru": "выпускник лицея",
+      "name_sme": "studeanta",
+      "name_ara": "شهادة البكالوريا",
+      "target_value": 3,
+      "name_ukr": "випускник ліцею",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Perhe, yrittäjyys ja innovaatio, terveys ja hyvinvointi, kestävyys, vapaus ja itsenäisyys",
+      "se": "Familjen, entreprenörskap och innovation, hälsa och välbefinnande, hållbarhet, frihet och självständighet",
+      "en": "Family, entrepreneurship and innovation, health and well-being, sustainability, freedom and independence",
+      "ru": "Семья, предпринимательство и инновации, здоровье и благополучие, устойчивость, свобода и независимость",
+      "sme": "Bearas, ealáhusdoallu ja ovddideapmi, dearvvašvuohta ja buresvuohta, birasvuohta, friddjavuohta ja iešdávdašvuohta",
+      "ara": "العائلة، ريادة الأعمال والابتكار، الصحة والرفاهية، الاستدامة، الحرية والاستقلال",
+      "ukr": "Сім’я, підприємництво та інновації, здоров’я і добробут, сталість, свобода і незалежність",
+      "som": "Qoyska, ganacsiga iyo hal-abuurka, caafimaadka iyo fayo-qabka, waara, xorriyadda iyo madax-bannaanida"
+    },
+    "election_promise_2": {
+      "fi": "Viedään eteenpäin projekteja, jotka parantavat kaupunkiympäristöä ja säilyttävät kauniit luonnonalueemme.",
+      "se": "Att driva projekt som förbättrar stadsmiljön och bevarar våra vackra naturområden.",
+      "en": "Transforming the classrooms in Helsinki through teaching smart solutions that prepare our children for the future.",
+      "ru": "Реализация проектов, которые улучшают городскую среду и сохраняют наши красивые природные территории.",
+      "sme": "Prošeavttaid ektui mat mehčet gávpogis ja váldet bures lohpi luonddu guovlluid.",
+      "ara": "تنفيذ مشاريع تُحسن البيئة الحضرية وتحافظ على بيئاتنا الطبيعية الجميلة.",
+      "ukr": "Реалізація проектів, що покращують міське середовище та зберігають наші красиві природні середовища.",
+      "som": "Hirgelinta mashaariicda hagaajinaysa deegaanka magaalooyinka iyo ilaalinta deegaankeenna dabiiciga ah ee quruxda badan."
+    },
+    "language": {
+      "id": 23,
+      "background_info_id": 8,
+      "name_fi": "ruotsi",
+      "name_sv": "Svenska",
+      "name_en": "Swedish",
+      "name_ru": "шведский",
+      "name_sme": "ruoŧagiella",
+      "name_ara": "السويدية",
+      "target_value": null,
+      "name_ukr": "шведська",
+      "name_som": "af-Iswiidhish"
+    },
+    "homepage_url": "https://lindaahlblad.fi",
+    "facebook_url": "https://www.facebook.com/lindaahlblad",
+    "instagram_url": "https://www.instagram.com/lindaahlblad",
+    "X_url": "https://x.com/lindaahlblad",
+    "tiktok_url": "https://tiktok.com/@lindaahlblad",
+    "language_some_other": {
+      "fi": "Latina",
+      "se": "Latin",
+      "en": "Latin",
+      "ru": "Латынь",
+      "sme": "Latiinna",
+      "ara": "اللاتينية ",
+      "ukr": "Латина ",
+      "som": "Laatiinka"
+    },
+    "municipality_fix": {
+      "fi": "Työttömyys kasvaa ja vaikuttaa perheisiin sekä nuoriin ammattilaisiin. Meidän on laajennettava työohjelmia ja edistettävä yrittäjyyttä uusien mahdollisuuksien luomiseksi. Asumiskustannukset nousevat ja ajavat ihmisiä pois kaupungista; kohtuuhintaisten asuntojen rakentamisen nopeuttaminen varmistaa että Helsinki pysyy kaikkien kaupunkina. Ympäristön kestävyys on välttämättömyys. Siirtyminen vähäpäästöiseen lämmitykseen ja kestävään liikenteeseen vähentää päästöjä ja parantaa ilmanlaatua. Sosiaalinen osallisuus on tärkeää kaikille: osallistumismahdollisuuksia laajentamalla varmistamme että jokaisen ääni kuuluu. Kaupunkiliikenne vaatii investointeja: tehokas joukkoliikenne ja parempi pyöräilyinfra vähentävät ruuhkia ja parantavat arkea. Helsinki voi olla kaupunki, joka toimii kaikille. Innovaatioilla, fiksulla politiikalla ja yhteisellä visiolla voimme rakentaa osallistavamman, kestävän ja elinvoimaisen kaupungin.",
+      "se": "Arbetslösheten ökar och påverkar familjer samt unga yrkespersoner. För att skapa nya möjligheter måste vi utöka arbetsprogrammen och främja entreprenörskap. Bostadskostnaderna stiger och driver människor bort från staden; att påskynda byggandet av prisvärda bostäder säkerställer att Helsingfors förblir en stad för alla. Miljömässig hållbarhet är en nödvändighet. Övergången till uppvärmning med låga utsläpp och hållbara transportlösningar minskar utsläppen och förbättrar luftkvaliteten. Social delaktighet är viktigt för alla: genom att utöka möjligheterna till deltagande säkrar vi att alla får sin röst hörd. Stadstrafiken kräver investeringar: effektiv kollektivtrafik och bättre cykelinfrastruktur minskar trängsel och förbättrar vardagen. Helsingfors kan vara en stad som fungerar för alla. Genom innovation, smart politik och en gemensam vision kan vi bygga en mer inkluderande, hållbar och livskraftig stad.",
+      "en": "Unemployment is rising, affecting families and young professionals alike; we have to expand work programs and promote entrepreneurship to create new opportunities. Housing costs are pushing residents out of the city; affordable housing projects will help ensure that Helsinki remains a place where everyone can live and thrive. Environmental sustainability is not just a goal, it’s a necessity. Transitioning to low-emission heating and improving sustainable transport will reduce carbon emissions and improve air quality. Social inclusion is key to a strong community; expanding participation models ensures that every resident has a voice in shaping our city's future. Urban mobility needs investment efficient public transport and better cycling infrastructure will reduce congestion and improve quality of life. A city that works for everyone is within reach. Through innovation, smart policies and a shared vision, we can build a more inclusive, sustainable and dynamic Helsinki together.",
+      "ru": "Безработица растет, затрагивая семьи и молодых специалистов. Нужно расширять программы занятости и поддерживать предпринимательство, создавая новые возможности. Дорогое жилье вынуждает людей покидать город; доступные жилищные проекты помогут Хельсинки оставаться городом для всех. Экологическая устойчивость – необходимость. Переход на низкоуглеродное отопление и развитие устойчивого транспорта сократят выбросы и улучшат качество воздуха. Социальная инклюзия важна для сильного общества, а расширение моделей участия гарантирует, что голос каждого будет услышан. Городская мобильность требует инвестиций: эффективный транспорт и улучшенная велоинфраструктура снизят пробки и улучшат качество жизни. Город для всех – достижимая цель. Благодаря инновациям, разумной политике и общему видению мы можем сделать Хельсинки более инклюзивным, устойчивым и динамичным.",
+      "sme": "Hálddusbargu lassána, váikkuha bearrašiidda ja nuoraid bargiid. Mii fertet stuorpmut bargoprográmmaid ja ovddidit ealáhusdoalu, vai ráhkadit ođđa vejolašvuođaid. Ovdasajiid máksin lassána ja váikkuha olbmuide; heivehuvvon oastitbáikkuprošeavttat váldet, ahte Helsset orru buohkaide. Birrasatvuohkeaset ealáhus lea dárbbašlaš. Siirramus veahkkiheivehuvvon buollima ja liikeneaset váikkuhit čoahkkimaid. Sosiála searváldaga lea dehálaš, čuovvut eanet oassálastinmodellaid váldá gieđahallama buohkaide. Gávpoga liikeneaset fertet investerejuvvot: heivehuvvon fálaldat liikeneaset ja buorebut vielljáheapmi stuorpmut. Helsset sáhttá orrut buohkaide. Innovášuvdnain, fiksun politihkain ja oktasaš vision bokte mii ráhkadit searváldaga ja birrasat gávpoga.",
+      "ara": "البطالة تتزايد وتؤثر على العائلات والشباب المهنيين. يجب توسيع برامج العمل وتعزيز ريادة الأعمال لخلق فرص جديدة. ترتفع تكاليف السكن، مما يدفع السكان إلى مغادرة المدينة؛ ستساعد مشاريع الإسكان الميسور التكلفة في إبقاء هلسنكي مدينة للجميع. الاستدامة البيئية ليست مجرد هدف، بل ضرورة. سيساعد الانتقال إلى التدفئة منخفضة الانبعاثات وتحسين النقل المستدام في تقليل الانبعاثات وتحسين جودة الهواء. الإدماج الاجتماعي مهم لمجتمع قوي؛ يضمن توسيع نماذج المشاركة سماع صوت كل مواطن. تحتاج التنقلات الحضرية إلى استثمارات؛ النقل العام الفعّال وتحسين البنية التحتية للدراجات سيقللان الازدحام ويحسنان نوعية الحياة. يمكن تحقيق مدينة تعمل لصالح الجميع. من خلال الابتكار والسياسات الذكية والرؤية المشتركة، يمكننا بناء هلسنكي أكثر شمولاً واستدامة وحيوية.",
+      "ukr": "Безробіття зростає, впливаючи на сім’ї та молодих спеціалістів. Ми повинні розширювати програми працевлаштування та підтримувати підприємництво, створюючи нові можливості. Висока вартість житла змушує мешканців залишати місто; доступне житло допоможе Гельсінкі залишатися містом для всіх. Екологічна сталість – це необхідність. Перехід на низьковуглецеве опалення та покращення транспорту зменшить викиди та покращить якість повітря. Соціальна інтеграція є ключем до сильного суспільства; розширення участі громадян гарантує, що голос кожного буде почутий. Міська мобільність потребує інвестицій: ефективний громадський транспорт та велосипедна інфраструктура зменшать затори та покращать життя. Місто, зручне для всіх, можливе. Інновації, розумна політика та спільне бачення допоможуть нам зробити Гельсінкі більш інклюзивним, сталим та динамічним.",
+      "som": "Shaqo la’aantu waa koraysaa, waxayna saameynaysaa qoysaska iyo dhalinyarada xirfadlayaasha ah. Waa in la ballaariyaa barnaamijyada shaqo-abuurka lana dhiirrigeliyaa ganacsiga si loo abuuro fursado cusub. Qiimaha guryuhu waa sare u kacaya, taasoo dadka ku khasbaysa inay magaalada ka guuraan; guryaha la awoodi karo waa in la dedejiyaa si Helsinki u ahaato magaalo qof walba u furan. Ilaalinta deegaanka waa lama huraan; kuleylinta yaraysa qiiqa iyo gaadiidka waara waxay hoos u dhigi doonaan wasakhowga hawada. Isdhexgalka bulshada waa muhiim; ballaarinta fursadaha ka-qaybgalka waxay hubinaysaa in qof walba codkiisa la maqlo. Gaadiidka magaalada wuxuu u baahan yahay maalgelin; gaadiidka dadweynaha iyo waddooyinka baaskiilada la hagaajiyo waxay yareynayaan ciriiriga waxayna hagaajinayaan nolosha. Magaalo loo dhan yahay waa la dhisi karaa. Hal-abuurka, siyaasad caqli leh iyo aragti mideysan waxay Helsinki ka dhigi karaan magaalo waarta oo firfircoon."
+    },
+    "representative_other": {
+      "fi": "Hallituksen puheenjohtaja, Suomen kieliklusteri Kites ry 2019–\nJohtokunnan jäsen, Minervaskolan 2017–\nHallituksen jäsen, Suomen kielipalveluyritykset ry 2016–",
+      "se": "Styrelseordförande, Finlands språkkluster Kites ry 2019–\nDirektionsmedlem, Minervaskolan 2017–\nStyrelsemedlem, Finlands språktjänstföretag 2016–",
+      "en": "Chairman of the Board, Finnish Language Cluster Kites Ry 2019–\nBoard Member, Minervaskolan 2017–\nBoard Member, Finnish Language Service Providers 2016–",
+      "ru": "Председатель правления, Финский языковой кластер Kites Ry 2019–\nЧлен школьного совета, Minervaskolan 2017–\nЧлен правления, Ассоциация поставщиков языковых услуг Финляндии 2016–",
+      "sme": "Jođiheaddji, Suoma giellaklávsta Kites ry 2019–\nJohtolihttu liige, Minervaskolan 2017–\nStivra olmmoš, Suoma gielladárbbiid ovdánevttožat ry 2016–",
+      "ara": "رئيس مجلس الإدارة، تجمع اللغة الفنلندية Kites ry\nعضو مجلس إدارة المدرسة، Minervaskolan \nعضو مجلس الإدارة، جمعية مقدمي خدمات اللغة الفنلندية \n",
+      "ukr": "Голова правління, Фінський мовний кластер Kites ry 2019–\nЧлен шкільної ради, Minervaskolan 2017–\nЧлен правління, Асоціація постачальників мовних послуг Фінляндії 2016–",
+      "som": "Guddoomiyaha Guddiga, Ururka Luqadda Finnishka ee Kites ry 2019–\nXubin ka tirsan Golaha Dugsiga, Minervaskolan 2017–\nXubin ka tirsan Guddiga, Ururka Bixiyeyaasha Adeegyada Luqadda Finnishka 2016–"
+    },
+    "liberal_conservative_axis": {
+      "id": 4,
+      "background_info_id": 2,
+      "name_fi": "En liberaali enkä konservatiivi",
+      "name_sv": "Varken liberal eller konservativ",
+      "name_en": "Neither liberal or conservative",
+      "name_ru": "Ни либерал, ни консерватор",
+      "name_sme": "In liberála inge konservatiiva",
+      "name_ara": "لا ليبرالي ولا متحفظ",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Helsingin luokkahuoneissa tulisi opettaa lapsia käyttämään älykkäitä ratkaisuja ja teknologioita, jotka valmistavat heitä tulevaisuuteen. ",
+      "se": "Att förvandla klassrummen i Helsingfors genom undervisning i smarta lösningar som förbereder våra barn för framtiden.",
+      "en": "Transforming the classrooms in Helsinki through teaching smart solutions that prepare our children for the future.",
+      "ru": "Преобразование классов в Хельсинки путём обучения умным решениям, которые готовят наших детей к будущему.",
+      "sme": "Ráhkadanjuvvon skuvllat Helssegis ollesoahpahusain mat geavahit smárt fuolaid mat buktet mánáid bures boahtái.",
+      "ara": "تحويل الفصول الدراسية في هلسنكي من خلال تعليم الحلول الذكية التي تُعد أطفالنا للمستقبل.",
+      "ukr": "Трансформація класних кімнат у Гельсінкі шляхом викладання розумних рішень, які готують наших дітей до майбутнього.",
+      "som": "Isbeddelka fasallada Helsinki iyadoo la barayo xalalka casriga ah ee diyaarinaya carruurteenna mustaqbalka."
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Varavaltuutettu, Helsingin kaupunginvaltuusto (SFP–RKP) 2018–2021; Varajäsen, tarkastuslautakunta, Helsingin kaupunki 2018–2021; Varapuheenjohtaja, Helsingin RKP 2021–2022; Rahastonhoitaja, Töölön RKP 2016–2023",
+      "se": "Ersättare i Helsingfors stadsfullmäktige (SFP–RKP) 2018–2021; Ersättare i revisionsnämnden, Helsingfors stad 2018–2021; Vice ordförande, SFP i Helsingfors 2021–2022; Kassör, SFP i Tölö 2016–2023",
+      "en": "Deputy Member, Helsinki City Council (SFP–RKP) 2018–2021; Deputy Member, Audit Committee, City of Helsinki 2018–2021; Vice Chair, Swedish People's Party in Helsinki 2021–2022; Treasurer, Swedish People's Party inTöölö 2016–2023",
+      "ru": "Заместитель члена городского совета Хельсинки (SFP–RKP) 2018–2021; Заместитель члена ревизионной комиссии, город Хельсинки 2018–2021; Вице-председатель, Шведская народная партия в Хельсинки 2021–2022; Казначей, Шведская народная партия в Тёёлё 2016–2023",
+      "sme": "Váraslihttu liige, Helssega gávpoga stáhtaráđđi (SFP–RKP) 2018–2021; Váraslihttu liige, reviderenfálaldat, Helssega gávpoga 2018–2021; Viessu jođiheaddji, Davviriikkaid Álbmotbellodat Helssegis 2021–2022; Ruhtaheaddji, Davviriikkaid Álbmotbellodat Duollus 2016–2023",
+      "ara": "عضو احتياطي في مجلس مدينة هلسنكي (SFP–RKP) 2018–2021; عضو احتياطي في لجنة التدقيق، مدينة هلسنكي 2018–2021; نائب رئيس، حزب الشعب السويدي في هلسنكي 2021–2022; أمين صندوق، حزب الشعب السويدي في تولو 2016–2023",
+      "ukr": "Заступник члена міської ради Гельсінкі (SFP–RKP) 2018–2021; Заступник члена ревізійної комісії, місто Гельсінкі 2018–2021; Віце-голова, Шведська народна партія в Гельсінкі 2021–2022; Казначей, Шведська народна партія в Тьоьоло 2016–2023",
+      "som": "Xubin ku-xigeen ah Golaha Magaalada Helsinki (SFP–RKP) 2018–2021; Xubin ku-xigeen ah Guddiga Kormeerka, Magaalada Helsinki 2018–2021; Guddoomiye ku-xigeen, Xisbiga Dadka Iswiidhishka ee Helsinki 2021–2022; Qasnaji, Xisbiga Dadka Iswiidhishka ee Töölö 2016–2023"
+    }
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "id": 11485,
+  "first_name": "Juha",
+  "last_name": "Karhu",
+  "election_number": 736,
+  "party_id": 6,
+  "image": "kuvat/akv2025/11485/61c67cff-2094-40c8-a9cf-acee7dca269d",
+  "constituency_id": 25,
+  "video": "1-73822198",
+  "video_aspect": "1:1",
+  "video_description_fi": "Haluan rakentaa helsinkiläisille elinvoimaista, ilmastoystävällista ja turvallista kaupunkia. Turvallisuuden luominen on yhteiskunnan perustehtäviä. Menneinä vuosikymmeninä olemme Suomessa onnistuneet siinä hyvin. Nyt turvallisuusuhkia on näkyvissä aiempaa enemmän. Ilmastonmuutoksen hillitseminen, hyvä talvikunnossapito, korkea koulutustaso, kaikkien mukana pitäminen ja kaupungin elinvoimasta huolehtiminen ovat kaikki osia kokonaisturvallisuudesta. Näiden puolesta haluan valtuustossa työskennellä. \nTurvallisen vanhenemisen takaaminen myös vähävaraisille, yksinäisille ja mahdollisesti sairaille vanhuksille on tulevien vuosien haaste, johon meidän erityisest täytyy paneutua. Vanhusten, ja nimenomaan yli 75-vuotiaiden määrä kasvaa Helsingissä kaikkein nopeiten. Kaupungin on tehtävä oma osansa, jotta he, ja aikanaan me, voimme turvallisin mielin vanheta ilman pelkoa hoivan ulkopuolelle jäämisestä.",
+  "video_description_sv": null,
+  "video_description_en": "I want to build a vibrant, climate-friendly, and safe city for the people of Helsinki. Ensuring safety is one of the core responsibilities of society, and in past decades, Finland has done well in this regard. However, we now face more security challenges than before.\n\nClimate action, proper winter maintenance, high-quality education, social inclusion, and a thriving city all contribute to overall safety. These are the issues I want to work for in the City Council.\n\nGuaranteeing a safe and dignified old age—especially for low-income, lonely, or ill elderly people—is one of the biggest challenges we must address in the coming years. The number of elderly people, particularly those over 75, is increasing more rapidly in Helsinki than in any other age group. The city must do its part to ensure that they—and eventually all of us—can grow old with peace of mind, without fear of being left without care.",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 45,
+      "background_info_id": 10,
+      "name_fi": "En vasemmalle enkä oikealle",
+      "name_sv": "Varken vänster eller höger",
+      "name_en": "Neither to the right or the left",
+      "name_ru": "Ни слева, ни справа",
+      "name_sme": "In gurut inge olgeš guvlui",
+      "name_ara": "لا إلى اليسار ولا إلى اليمين",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Tulen työskentelemään turvallisen Helsingin puolesta.\n\nKokonaisurvallisuuden osia ovat mm. ilmastonmuutoksen hillitseminen, hyvä talvikunnossapito, korkea koulutustaso, kaikkien mukana pitäminen ja kaupungin elinvoimasta huolehtiminen.",
+      "se": null,
+      "en": "I will work for a safe Helsinki.\n\nComponents of overall safety include e.g. mitigating climate change, good winter maintenance, a high level of education, keeping everyone involved, and ensuring the vitality of the city.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1966,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "espanja",
+        "se": "spanska",
+        "en": "Spanish",
+        "ru": "испанский",
+        "sme": "spánskkagiella",
+        "ara": "الإسبانية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Kuusi tärkeintä elämänarvoani ovat pyrkimys totuuteen, myötätuntoon, tasa-arvoon, rohkeuteen, vapauteen ja vastuullisuuteen.",
+      "se": null,
+      "en": "My most important life values are the pursuit of truth, compassion, equality, courage, freedom, and responsibility.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Tulen työskentelemään ilmastoystävällisen Helsingin puolesta, jossa vähäpäästöinen lämmitys ja sähkö on helppo ja luonteva valinta jokaiselle helsinkiläiselle.\n\nSita varten tarvitaan vahvoja panostuksia vähäpäästöiseen energiaan, kestävään rakentamiseen ja vähäpäästöisiin liikenneratkaisuihin.",
+      "se": null,
+      "en": "I will work for a climate-friendly Helsinki, where low-emission heating and electricity are an easy and natural choice for every Helsinki resident.\n\nThis requires strong investments in low-emission energy, sustainable construction and low-emission transport solutions.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://juhakarhu.fi",
+    "facebook_url": "https://www.facebook.com/jakarhu",
+    "instagram_url": "https://www.instagram.com/juhaanterokarhu/",
+    "tiktok_url": null,
+    "municipality_fix": {
+      "fi": "Kevyen liikenteen (kävely ja pyöräily) väylien ja julkisten alueiden talvikunnossapito. Vanhusten riittävät hoivapalvelut. Kohtuuhintainen asuminen. Alueiden eriytymiskehityksen kääntäminen. Kaikkien koulujen riittävät resurssit. Päihdetyön resurssit ja syrjäytymisen vähentäminen. Maahanmuuttajien kotouttaminen. Ilmastotoimet vastaamaan hiilineutraalisuus ja hiilinegatiivisuustavoitteita.",
+      "se": null,
+      "en": "Winter maintenance of pedestrian and cycling pathways, as well as public spaces. Adequate care services for the elderly. Affordable housing. Reversing the trend of regional segregation. Sufficient resources for all schools. Proper funding for substance abuse services and efforts to reduce social exclusion. Effective integration of immigrants. Climate action aligned with carbon neutrality and carbon negativity goals.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Pakkalantie 30 Koy hallituksen varapuheenjohtaja\nLänsi-Helsingin Vihreät ry hallituksen jäsen",
+      "se": null,
+      "en": "Vice Chair of the Board of Pakkalantie 30 Koy real estate company\nBoard Member of the Greens in Western Helsinki (Länsi-Helsingin Vihreät ry)",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Tulen työskentelemään elinvoimaisen Helsingin puolesta. \n\nElinvoimaisuus syntyy kaupunkikulttuurista ja yhteisöllisyydestä, kestävistä ratkaisuista ja ympäristövastuusta sekä osallisuudesta ja avoimuudesta.",
+      "se": null,
+      "en": "I will work for a vibrant Helsinki.\n\nVibrancy grows from urban culture and sense of community, sustainable solutions and environmental responsibility, and inclusion and openness.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

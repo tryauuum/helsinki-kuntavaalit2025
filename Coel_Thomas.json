@@ -1,0 +1,200 @@
+{
+  "id": 7960,
+  "first_name": "Coel",
+  "last_name": "Thomas",
+  "election_number": 814,
+  "party_id": 6,
+  "image": "kuvat/akv2025/7960/c765797c-63b5-48d3-a295-d30a33b749ef",
+  "constituency_id": 25,
+  "video": "1-73814937",
+  "video_aspect": "1:1",
+  "video_description_fi": "Jos minut valitaan valtuustoon, aion edistää päätavotteittani kaupungin strategianeuvotteluissa heti kauden alussa, koska sillä on paljon merkitystä. Sitten hankin itselleni jonkun hyvän luottamushomman, jossa voin edistää tavotteitani koko kauden ajan. Nämä tavoitteet on halvemmat asunnot, metsien suojelu, halvempi joukkoliikenne, joka kulkee ympäri vuorokauden sekä mielenterveys ja päihdepolitiikan laittaminen kuntoon. Yksi yksittäinen tavoite, jonka haluaisin nähdä toteutuvan on lääkekannabisklinikan perustaminen, josta olen jo tehnyt aloitteen valtuustossa. Kannabiksen lääkekäyttäjien tilanne on epäinhimillisen heikko eikä heillä ole montaa puolustajaa. Kaikista tärkein tavoite minulle on kuitenkin metsien suojelu. Meillä on Itä-Helsingissä, ja Helsingissä muutenkin, tilaa rakentaa asuntoja metro- ja juna-asemien yhteyteen, isoille parkkikentille, pelloille, suurten teiden varteen ja teollisuusalueille. Metsiin ei tarvii kajota. Valtuutettuna ajaisin aktiivisesti vaihtoehtoisia paikkoja rakentamiselle ja vastustaisin lähiluonnon tuhoa. ",
+  "video_description_sv": null,
+  "video_description_en": "If I am elected to the City Council, I plan to advance my campaign goals in the city's strategy negotiations at the very beginning of the term, because they matter a lot. Then I plan on getting myself a good committee position, where I can advance my goals throughout the council term. These goals are cheaper housing, protecting forests, cheaper public transport that runs around the clock, and fixing our politics regarding mental health and substance abuse. One single goal that I would like to see realized is the establishment of a medical cannabis clinic, which I have already made an initiative on in the City Council. The situation for medical cannabis users is inhumane and they do not have many defenders. However, the most important goal for me is the protecting forests. We have space in East Helsinki, and in Helsinki in general, to build apartments near metro and train stations, in large parking lots, in fields, along major roads and in industrial areas. You don't have to cut down forests. As a City Councillor, I would actively push for alternative locations for construction and oppose the destruction of nature.",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 44,
+      "background_info_id": 10,
+      "name_fi": "Hieman vasemmalle",
+      "name_sv": "Lite till vänster",
+      "name_en": "Slightly to the left",
+      "name_ru": "Немного слева",
+      "name_sme": "Vehá gurut guvlui",
+      "name_ara": "أميل إلى اليسار",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Olen Helsingin arvokkaiden viheralueiden päättäväinen puolustaja",
+      "se": null,
+      "en": "I will be a determined defender of Helsinki's valuable green spaces.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1994,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Oikeudenmukaisuus. Jos näen jotain epäoikeudenmukaista, pyrin puuttumaan siihen jollain tavalla.\n\nVapaus. Ihmisillä tulee olla vapaus elämäänsä kuten haluavat, kunhan eivät rajoita muiden ihmisten vapautta tehdä samoin.\n\nKestävyys. Mielestäni meidän pitäisi elää tavalla, joka mahdollistaa ihmissivilisaation olemassaolon myös tulevaisuudessa.\n\nRehellisyys. Tosiasioiden tunnustaminen on viisauden alku.\n\nHauskanpito. Elämme vain kerran, ja meidän tulee nauttia siitä.\n",
+      "se": null,
+      "en": "Justice. If I see something unfair, I try to do something about it.\n\nFreedom. People should be free to live their lives as they wish, as long as they don't interfere with other people's freedom to do the same.\n\nSustainability. I believe we should live in a way that will allow human civilization to continue to exist in the future.\n\nHonesty. Acknowledging the truth is where wisdom begins.\n\nFun. We only live once, and we should enjoy it.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Kuuntelen ja vastaan kaupunkilaisten palautteeseen aktiivisesti ",
+      "se": null,
+      "en": "I will actively listen and respond to feedback from city residents.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.coelthomas.fi/",
+    "facebook_url": "https://www.facebook.com/coelthomasvihreat",
+    "instagram_url": "https://www.instagram.com/coelthomas/",
+    "X_url": "https://x.com/CoelThomas",
+    "tiktok_url": "https://www.tiktok.com/@coelthomas",
+    "municipality_fix": {
+      "fi": "Ihmisten pitäisi saada apua heti tarvittaessa mielenterveys- ja päihdeongelmiin. Näiden hoitamattomuus koituu monin tavoin paljon kalliimmaksi kuin niiden pikainen hoitaminen.\n\nJäljellä olevat metsämme pitäisi suojella. Meillä on tilaa rakentaa asuntoja metro- ja juna-asemien yhteyteen, isoille parkkikentille, pelloille, valtateiden varteen ja päälle sekä teollisuusalueille.\n\nHelsingin asukkaita pitäisi osallistaa paljon enemmän kaupunkisuunnittelussa. Kaupunkilaiset eivät halua kaupunkiin rumia rakennuksia, varsinkaan metsien tilalle, eikä paremmalla osallistamisella näin kävisi.\n\nJoukkoliikenteen pitäisi olla ympärivuorokautista, etenkin viikonloppuisin, mutta vielä tärkeämpää on lippujen hintojen kohtuullistaminen. 70 euroa on aivan liikaa kausilipusta. AB-lipun pitäisi olla maksimissaan 40 euroa.",
+      "se": null,
+      "en": "People should get help for mental health and substance abuse problems as soon as they need it. In many ways, not treating these is much more expensive than treating them immediately.\n\nOur remaining forests should be protected. We have space to build apartments near metro and train stations, in large parking lots, in fields, along and on highways, and in industrial areas.\n\nHelsinki residents should be much more involved in urban planning. City dwellers do not want ugly buildings in the city, especially in at the expense of forests, and this would not happen with better involvement of citizens in the planning process.\n\nPublic transport should be available 24 hours a day, especially on weekends, but even more important is to make ticket prices reasonable. 70 euros is far too much for a season ticket. An AB ticket should cost a maximum of 40 euros.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Varavaltuutettu Helsingin kaupunginvaltuustossa, Ympäristö- ja lupajaoston jäsen, Helsingin poliisin neuvottelukunnan jäsen",
+      "se": null,
+      "en": "Deputy Councillor in the Helsinki City Council, Member of the Environment and Permits Sub-Committee, Member of the Helsinki Police Affairs Committee",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": "Kaksikielinen, suomi/englanti",
+      "se": null,
+      "en": "Bilingual Finnish/English",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": "Toimin politiikassa rohkeasti, vastuullisesti ja tutkittuun tietoon pohjautuen\n",
+      "se": null,
+      "en": "I will conduct my politics courageously, responsibly and base my decision-making in science.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Olen ollut neljä vuotta varavaltuutettu ja toiminut aktiivisesti osana vihreiden valtuustoryhmää. Käyn usein valtuustoryhmän kokouksissa, vaikka en olisikaan menossa valtuustoon. Valtuustossa olen ollut viisi kertaa valtuuston kokouksessa ja tehnyt neljä aloitetta. Olen ollut vihreiden jäsen yli kymmenen vuotta, jona aikana olen toiminut mm. Helsingin vihreiden varapuheenjohtajana ja Vihreiden nuorten liittohallituksessa. Olen myös työskennellyt europarlamentaarikon kotimaan avustajana. Viimeisen viiden vuoden aika edistänyt aktiivisesti inhimillisempää päihdepolitiikkaa, etenkin kannabiksen kohdalla. Olen kirjoittanut kannabiksen sääntelymallin, ollut muuttamassa vihreiden kannan kannabiksen laillistamista ja sääntelyä puoltavaksi sekä johtanut Kannabis lailliseksi, säännellyksi ja verolle -kansalaisaloitteen prosessia. Olen koulutukseltani sosiologian maisteri ja erikoistuin tutkinnossani politiikkaan ja yhteiskuntaan.",
+      "se": null,
+      "en": "I have been a deputy councillor for four years and have been an active member of the Greens' City Council Group. I often attend council group meetings, even if I am not going to the council meeting. I have been to five council meetings this term and in them I submitted four initiatives. I have been a member of the Greens for over ten years, during which time I have served, among other things, as Vice Chair of the Helsinki Greens and in the on the Board of the Young Greens of Finland. I have also worked as an assistant to an MEP. Over the past five years, I have actively advanced more humane drug policy, especially when it comes to cannabis. I have written a regulatory model for cannabis, have led the change in the Greens' position to support the legalisation and regulation of cannabis, and led the process of the citizens' initative to legalize, regulate and tax cannabis, which is being discussed in Parliament. I have a Master's degree in Sociology, specialized in politics and society.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

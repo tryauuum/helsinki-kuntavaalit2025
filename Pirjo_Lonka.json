@@ -1,0 +1,168 @@
+{
+  "id": 979,
+  "first_name": "Pirjo",
+  "last_name": "Lonka",
+  "election_number": 145,
+  "party_id": 7,
+  "image": "kuvat/akv2025/979/d3defd1f-0869-4128-835c-3a35a04fe715",
+  "constituency_id": 25,
+  "video": "1-73689827",
+  "video_aspect": "3:4",
+  "video_description_fi": "Päätavoitteeni on helsinkiläisen teatterin, taiteen, ja kulttuurin puolustaminen. \nToinen tavoite on mielenterveyspalvelut ja hoitoon pääseminen. Hoitoon pitää päästä helpommin ja nopeammin, ja jo ensimmäisellä kerralla avun hakija pitää nähdä ja kuulla. Mielenterveys kuuluu kaikille!",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 43,
+      "background_info_id": 10,
+      "name_fi": "Vasemmalle",
+      "name_sv": "Till vänster",
+      "name_en": "On the left",
+      "name_ru": "Слева",
+      "name_sme": "Gurut guvlui",
+      "name_ara": "اليسار",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan ajaa Lapinlahden sairaala-alueen turvattua tulevaisuutta, puolustaa sen viheralueita, sekä sen pysymistä meidän helsinkiläisten omistuksessa. \nLapinlahti ja sen toiminta keskittyy mielenterveystyön, hyvinvoinnin, ja kulttuurin tukemiseen, ja niiden kehittämiseen.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1971,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 54,
+      "background_info_id": 16,
+      "name_fi": "joku muu",
+      "name_sv": "någon annan examen",
+      "name_en": "Other",
+      "name_ru": "другое",
+      "name_sme": "muhtin eará",
+      "name_ara": "مستوى دراسي آخر",
+      "target_value": 6,
+      "name_ukr": "інше",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Oikeudenmukaisuus, suvaitsevaisuus, vapaus, kaiken elollisen kunnioitus ja suojelu, tasa-arvo.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lupaan puhua mielenterveyspalvelujen ja mielenterveyden puolesta. \nApua pitää olla nopeammin saatavilla, ja jo ensimmäisellä kerralla pitää avun hakija nähdä ja kuulla - se olisi jo iso askel eteenpäin. Monen viikon - saati kuukauden - jonotus voi olla liikaa ihmiselle joka on hädässä. \nEhkäisevän mielenterveystyön pitää olla osa kasvatusta, jo lapsesta lähtien, ja lapsille täytyy taata turvallinen ja kannustava kasvuympäristö.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": null,
+    "facebook_url": "https://facebook.com/profile.php?id=100007304086675",
+    "instagram_url": "https://www.instagram.com/pirjolonka",
+    "municipality_fix": {
+      "fi": "Julkinen liikenne on liian kallista, maksuttomuus kokeiluun. \nMielenterveyspalvelut saavutettavammiksi, matalan kynnyksen kriisipisteitä apua tarvitseville. Peruskoulujen ryhmäkoot pienemmiksi. \nLapinlahden sairaala-alue kaikkineen pitää jättää helsinkiläisten virkistysalueeksi, vastustan suunniteltua tunnelia.\nKulttuuria pitää edelleen tukea vahvasti, ja kouluihin järjestää ilmaisutaidollista toimintaa, joka lisää yhteisöllisyyttä, ja ehkäisee kiusaamista ja yksinäisyyttä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Lupaan puolustaa helsinkiläistä kulttuuria, taidetta ja teatteria, ja puhua niiden puolesta. \nMeillä pitää olla elinvoimainen ja rohkea kulttuuritarjonta, johon jokaisella helsinkiläisellä on varaa. Kulttuuri tuo hyvinvointia ja yhteisöllisyyttä, sekä työllistää ihmisiä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "id": 2029,
+  "first_name": "Veera",
+  "last_name": "Hellman",
+  "election_number": 238,
+  "party_id": 19,
+  "image": "kuvat/akv2025/2029/0297de60-426c-4603-bbd6-0f41b1872531",
+  "constituency_id": 25,
+  "video": "1-73820048",
+  "video_aspect": "1:1",
+  "video_description_fi": "Tärkein tavoitteeni ensi kaudelle on saada yksin asuvien ääni kuulumaan entistä paremmin kaupungin päätöksenteossa. Yksi hyvin keskeinen teema on asumisen hinta. Tässäkin tarjonta ratkaisee - myös asumisen hinnan. Siksi Helsingissä tulee pitää kiinni asuntotuotannon tavoitteista, jotta jatkossakin niin sinkuilla kuin myös perheellisillä on varaa asia täällä. Rakentaminen tulee tehdä lähiluontoa kunnioittaen.",
+  "video_description_sv": "Mitt viktigaste mål för nästa mandatperiod är få ensamboendes röst hörd bättre än förut i beslutsfattandet i Helsingfors. Ett mycket centralt tema är priset på boende. Priset på boende avgörs av utbudet och därför måste Helsingfors hålla fast vid sina bostadsproduktionsmål så att både singlar och familjer har råd att bo här i framtiden. Byggandet ska utföras så att man respekterar närnaturen.",
+  "video_description_en": "My main goal for the next term is to make the voice of those living alone heard more in the city's decision-making. One very central theme is the cost of housing. Here too, supply is decisive - including the cost of housing. Therefore, Helsinki must adhere to the housing production goals so that both singles and families can afford to live here in the future. Construction must be done with respect for the surrounding nature.",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 47,
+      "background_info_id": 10,
+      "name_fi": "Oikealle",
+      "name_sv": "Till höger",
+      "name_en": "To the right",
+      "name_ru": "Справа",
+      "name_sme": "Olgeš guvlui",
+      "name_ara": "اليمين",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan olla kuntalaisten tavoitettavissa myös vaalien välillä ja kuunnella kaupunkilaisten mielipiteitä siitä, miten Helsinkiä tulee kehittää jatkossa.",
+      "se": "Jag lovar att vara tillgänglig för helsingforsbor även mellan valen och lyssna på deras åsikter om hur Helsingfors ska utvecklas i framtiden.",
+      "en": "I promise to be available for Helsinki residents also between elections and to listen to their opinions on how Helsinki should develop in the future.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1997,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      }
+    ],
+    "education": {
+      "id": 51,
+      "background_info_id": 16,
+      "name_fi": "ylioppilas",
+      "name_sv": "student",
+      "name_en": "High school graduate",
+      "name_ru": "выпускник лицея",
+      "name_sme": "studeanta",
+      "name_ara": "شهادة البكالوريا",
+      "target_value": 3,
+      "name_ukr": "випускник ліцею",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Vapaus, vastuu, tasa-arvo, sivistys ja hyvinvointi.",
+      "se": "Frihet, ansvar, jämlikhet, bildning och välmående.\n",
+      "en": "Freedom, responsibility, equality, education and well-being.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lupaan tehdä parhaani sen edistämiseksi, että helsinkiläiset ja Helsinki voivat hyvin.",
+      "se": "Jag lovar att göra mitt bästa för att se till att Helsingfors och helsingforsborna mår bra.",
+      "en": "I promise to do my best to ensure that Helsinki and its residents thrive.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 23,
+      "background_info_id": 8,
+      "name_fi": "ruotsi",
+      "name_sv": "Svenska",
+      "name_en": "Swedish",
+      "name_ru": "шведский",
+      "name_sme": "ruoŧagiella",
+      "name_ara": "السويدية",
+      "target_value": null,
+      "name_ukr": "шведська",
+      "name_som": "af-Iswiidhish"
+    },
+    "homepage_url": "https://veerahellman.fi/",
+    "facebook_url": "https://www.facebook.com/veerahellman",
+    "instagram_url": "https://www.instagram.com/veerahellman/",
+    "X_url": "https://x.com/VeeraHellman",
+    "tiktok_url": "https://www.tiktok.com/@veerahellman",
+    "municipality_fix": {
+      "fi": "Yksinasuvien äänen pitää kuulua entistä paremmin Helsingin päätöksenteossa. Myös sinkuilla tulee olla varaa asua Helsingissä jatkossakin. Helsingin taloudesta on pidettävä jatkossakin hyvää huolta ja menojen ja tulojen tulee olla tasapainossa, sillä kyse on helsinkiläisten maksamista veroeuroista. Helsingin tulee olla Suomen liikkuvin kunta, jossa asuu hyvinvoivia ihmisiä. Lisäksi kaupungin tulee olla mahdollistaja, ei estäjä, oli sitten kyse uusista ideoista, yrityksistä tai kaupunkilaisten toteuttamasta toiminnasta.",
+      "se": "De som bor ensamma ska få sin röst hörd i Helsingfors. Singlar ska också ha råd att bo i Helsingfors idag och i framtiden. Helsingfors ekonomi måste fortsätta att vara väl omhändertagen och utgifter och inkomster måste balanseras. Helsingforsbornas skatteeuron ska förvaltas omsorgsfullt. Helsingfors ska vara den mest rörliga kommunen i Finland, med friska människor som bor där. Dessutom ska staden vara en möjliggörare, inte ett hinder, vare sig det handlar om nya idéer, företag eller aktiviteter utförda av stadsborna.",
+      "en": "Those who live alone must have their voices heard in Helsinki. Singles should also be able to afford to live in Helsinki today and in the future. Helsinki’s economy must continue to be well managed, with expenses and revenues balanced. The tax euros of Helsinki residents should be handled with care. Helsinki should be the most active municipality in Finland, with healthy people living there. Additionally, the city should be an enabler, not an obstacle—whether it concerns new ideas, businesses, or activities carried out by residents.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Helsingin kaupungin kasvatus- ja koulutuslautakunnan ruotsinkielinen jaosto (jäsen)\nHelsingin kaupungin nuorisojaosto (jäsen)\nHUS kansalliskielilautakunta (jäsen)",
+      "se": "Medlem i svenska sektionen för fostran- och utbildningsnämnden i Helsingfors\nMedlem i ungdomssektionen i Helsingfors\nMedlem i HUS nationalspråksnämnde",
+      "en": "Member, The Education Committee's Swedish Sub-committee\nMember, Youth Sub-committee of the Culture and Leisure Committee\nMember, National Languages Committee in Hus",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Lupaan pitää esillä yksinasuvien ääntä helsinkiläisessä päätöksenteossa.",
+      "se": "Jag lovar att se till att de som bor ensamma får deras röst hörd i beslutsafattandet i Helsingfors.",
+      "en": "I promise to ensure that the voices of those who live alone are heard in decision-making in Helsinki.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Puheenjohtaja, Pohjola-Nordenin Nuorisoliitto, 2019-2020, puheenjohtaja",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

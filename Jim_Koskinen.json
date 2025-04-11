@@ -1,0 +1,215 @@
+{
+  "id": 74,
+  "first_name": "Jim",
+  "last_name": "Koskinen",
+  "election_number": 262,
+  "party_id": 19,
+  "image": "kuvat/akv2025/74/0a841bf4-2b50-4470-b0ed-56a4dbcbb9ae",
+  "constituency_id": 25,
+  "video": "1-73825410",
+  "video_aspect": "1:1",
+  "video_description_fi": "Lupaan olla kuunteleva tekijä – asiakaspalvelija, joka lupaa tehdä asukaslähtöistä politiikkaa Helsingissä.",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 47,
+      "background_info_id": 10,
+      "name_fi": "Oikealle",
+      "name_sv": "Till höger",
+      "name_en": "To the right",
+      "name_ru": "Справа",
+      "name_sme": "Olgeš guvlui",
+      "name_ara": "اليمين",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Osallisuutta ja yhteisöllisyyttä tulee kehittää ja parantaa tulevalla valtuustokaudella. Kaupunkilaisten ja varsinkin lähiöissä asuvien ääni tulee päästä paremmin kuuluviin päätöksenteossa. Lupaan toimia erityisesti nuorten ja lapsiperheiden äänenä kaupunginvaltuustossa – näin voin olla lupaamani kuunteleva tekijä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 2001,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "joku muu",
+        "se": "något annat",
+        "en": "Other",
+        "ru": "другой",
+        "sme": "muhtin eará",
+        "ara": "لغة أخرى"
+      }
+    ],
+    "education": {
+      "id": 50,
+      "background_info_id": 16,
+      "name_fi": "ammattitutkinto",
+      "name_sv": "yrkesexamen",
+      "name_en": "Vocational degree",
+      "name_ru": "профессиональное училище",
+      "name_sme": "ámmátdutkkus",
+      "name_ara": "دبلوم مهني",
+      "target_value": 2,
+      "name_ukr": "професійне училище",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Vapaus, vastuu, yritteliäisyys, mahdollisuuksien tasa-arvo ja ystävällisyys.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Haluan olla edistämässä sosiaali- ja terveydenhuollon palveluita – mielenterveyspalvelut kärjessä. Tavoitteeni on, että jokaiselta helsinkiläiseltä löytyisi mielenterveystaidot, joilla voidaan ennaltaehkäistä pahimpia mielenterveysongelmia. Keskivaikean masennuksen kanssa ennen kamppailleena nuorena tämä on minulle erittäin tärkeä teema.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.jimkoskinen.fi/",
+    "facebook_url": "https://www.facebook.com/share/19gELXh4gH/",
+    "instagram_url": "https://www.instagram.com/jim_koskinen?igsh=MWI0MDV3b3hjbXdvZQ==",
+    "X_url": "https://x.com/KoskinenJim?t=5AAPUYzp3q84PxzUdeQlNg&s=09",
+    "language_some_other": {
+      "fi": "Vietnam",
+      "se": "",
+      "en": "Vietnamese",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "municipality_fix": {
+      "fi": "Helsingissä tulee pitää huolta siitä, että kaupungin päätöksenteossa näkyy asukaslähtöinen asenne ja politiikka. Asiakaspalvelijana haluan tuoda asiakaspalveluhenkeä päätöksentekoon, eli asukaspalvelua. Haluan olla rakentamassa Helsinkiä, jossa jokaisella on hyvä olla taustastaan riippumatta – Helsinki on erilaisten tositarinoiden pääkaupunki.\n\nMatalan kynnyksen mielenterveyspalveluiden tarjoaminen ja kehittäminen tulee olla seuraavalla valtuustokaudella kärkiteemana, sillä meillä ei ole varaa yhteenkään syrjäytyneeseen nuoreen. Helsingissä tulee pitää huolta siitä, että emme nosta kunnallisveroprosenttia – kaupunkilaisten ahkeruudesta ei tule verottaa yhtään enempää.\n\nUusien asuinalueiden palveluita tulee kehittää ja lähiöiden viihtyvyydestä tulee pitää huolta. Asukkaat ansaitsevat toimivat lähipalvelut kirjastosta ruokakauppaan ja kuntosalista puistoon – lähiluontoa unohtamatta.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Helsingin Kokoomusnuorten puheenjohtaja.\nNuorten mielenterveysseura Yeesi ry:n varapuheenjohtaja.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Olen asiakaspalvelija ehdolla asukaspalvelijaksi – Helsingin kaupunginvaltuutetuksi. Haluan tuoda päätöksentekoon enemmän asukaspalveluhenkeä ja olla koko kaupungin kuunteleva tekijä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Helsingin nuorisoneuvoston jäsen 2016-2019, Helsingin nuorisoneuvoston puheenjohtaja 2018. Uudenmaan maakunnallisen nuorisovaltuuston puheenjohtaja 2017-2019.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

@@ -1,0 +1,183 @@
+{
+  "id": 21261,
+  "first_name": "Rasmus",
+  "last_name": "Hendersson",
+  "election_number": 620,
+  "party_id": 8,
+  "image": "kuvat/akv2025/21261/67c92ace-14f9-455e-8e2b-6d5dd37bdc3d",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 47,
+      "background_info_id": 10,
+      "name_fi": "Oikealle",
+      "name_sv": "Till höger",
+      "name_en": "To the right",
+      "name_ru": "Справа",
+      "name_sme": "Olgeš guvlui",
+      "name_ara": "اليمين",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "\nAion taistella innovatiivisen Helsingin puolesta.",
+      "se": "Jag ämnar kämpa för ett innovativt Helsingfors.",
+      "en": "I intend to work for an Innovative Helsinki.\n",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 2001,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "1. Rehellisyys\n2. Ihmisyys\n3. Taloudellinen vakaus\n4. Vastuun ottaminen\n5. Rohkeus",
+      "se": "1. Ärlighet\n2. Medmänsklighet\n3. Ekonomisk stabilitet\n4. Ansvarstagande\n5. Mod",
+      "en": "1. Honesty\n2. Compassion\n3. Financial stability\n4. Responsibility\n5. Courage",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Aion työskennellä turvallisemman Helsingin puolesta",
+      "se": "Jag ämnar kämpa för ett tryggare Helsingfors",
+      "en": "I intend to work for a safer Helsinki.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 23,
+      "background_info_id": 8,
+      "name_fi": "ruotsi",
+      "name_sv": "Svenska",
+      "name_en": "Swedish",
+      "name_ru": "шведский",
+      "name_sme": "ruoŧagiella",
+      "name_ara": "السويدية",
+      "target_value": null,
+      "name_ukr": "шведська",
+      "name_som": "af-Iswiidhish"
+    },
+    "municipality_fix": {
+      "fi": "Kun muutin tänne Ahvenanmaalta, minuun teki vaikutuksen edulliset opiskelija-asunnot, joissa sai asua koulun kautta. Meidän on huolehdittava siitä, että näitä halpoja opiskelija-asuntoja on enemmän houkutellaksemme nuoria Helsinkiin. Tämän lisäksi meidän on huolehdittava siitä, että kohtuuhintaisia ​​asuntoja on kokonaisuutena enemmän, jotta mm. nuorten pitäisi päästä helpommin asuntomarkkinoille.\n\nMielestäni paikallisliikennemme on maailman parhaita. Meidän on jatkettava sen kehittämistä, jotta jokaisella on mahdollisuus hyötyä siitä asuinpaikasta riippumatta.",
+      "se": "När jag flyttade hit från Åland imponerades jag av de billiga studentbostäderna som man kunde bo i via skolan. Vi behöver se till att det finns flera av dessa billiga studiebostäder för att locka unga till Helsingfors. Utöver detta behöver vi se till att det finns förmånligare bostäder överlag så att t.ex. unga lättare skall kunna komma in på bostadsmarknaden.\n\nI min mening är vår lokaltrafik bland den bästa i världen. Vi behöver fortsätta utveckla den så att alla skall ha möjlighet att dra nytta av den, oberoende av var du bor i Helsingfors. ",
+      "en": "When I moved here from Åland, I was impressed by the cheap student housing that you could live in through school. We need to ensure that there are more of these cheap student housing options to attract young people to Helsinki. In addition, we need to ensure that there are more affordable housing options in general so that, for example, young people can more easily enter the housing market.\n\nIn my opinion, our local transport is among the best in the world. We need to continue to develop it so that everyone has the opportunity to benefit from it, regardless of where you live in Helsinki.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Åländska Studentföreningen i Helsingfors r.f. (ÅSFH) Vanhempien neuvoston puheenjohtaja",
+      "se": "Äldrerådsordförande i Åländska Studentföreningen i Helsingfors r.f. (ÅSFH) ",
+      "en": "Chairman of the council of Elders in Åländska Studentföreningen i Helsingfors r.f. (ÅSFH) ",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Aion työskennellä elinkelpoisen Helsingin puolesta\n",
+      "se": "Jag ämnar kämpa för ett livskraftig Helsingfors ",
+      "en": "I intend to work for a viable Helsinki",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

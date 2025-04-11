@@ -1,0 +1,189 @@
+{
+  "id": 804,
+  "first_name": "Minna",
+  "last_name": "Salminen",
+  "election_number": 926,
+  "party_id": 4,
+  "image": "kuvat/akv2025/804/578d10b7-9b8b-47cf-aa23-4b0c40a5fbcf",
+  "constituency_id": 25,
+  "video": "1-73819525",
+  "video_aspect": "1:1",
+  "video_description_fi": "Kaikkien Helsingin alueiden ja ihmisten asiat tulee saada mukaan päätöksentekoon tasavertaisesti. \n\nOn tärkeää, että kaikista palveluista huolehditaan joka puolella Helsinkiä. Näitä ovat mm. päiväkodit ja koulut, julkinen liikenne, rakennusten korjaaminen ja muut palvelut, jotka kuuluvat hyvään arkeen. \n\nOlen kokenut päättäjä ja koen, että olen oikea henkilö viemään meidän tavallisten helsinkiläisten asiaa päätöksentekoon niin, että sillä on vaikuttavuutta. ",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 44,
+      "background_info_id": 10,
+      "name_fi": "Hieman vasemmalle",
+      "name_sv": "Lite till vänster",
+      "name_en": "Slightly to the left",
+      "name_ru": "Немного слева",
+      "name_sme": "Vehá gurut guvlui",
+      "name_ara": "أميل إلى اليسار",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Toimiva ja kohtuuhintainen joukkoliikenne tarvitaan viipymättä koko pääkaupunkiseudulle.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1981,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Tärkeimmät elämänarvoni ovat tasa-arvo, luottamus, yhteisöllisyys, solidaarisuus ja vapaus.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Alueiden tasavertainen kehittäminen tulee saada päätöksenteon keskiöön.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.minnasalminen.fi/",
+    "facebook_url": "https://www.facebook.com/salminenminna",
+    "instagram_url": "https://www.instagram.com/minnasalminen_",
+    "X_url": null,
+    "municipality_fix": {
+      "fi": "Helsinkiä täytyy viipymättä kehittää, rakentaa ja korjata tasapuolisesti. Alueiden ja ihmisten välinen tasavertaisuus tulee siis olla päätöksenteon keskiössä. \n\nPalveluita tulee saada lapsille ja nuorille tarvittaessa jo etupainotteisesti. Päiväkoteja ja kouluja tulee rakentaa ja korjata silloin, kun on tarvetta, eikä sitten joskus. Tarpeen on oltava etusijalla, kun puhutaan tavallisten helsinkiläisten arjen asioista. Näihin kuuluu päiväkotien, koulujen ja ikäihmisten palvelujen lisäksi muut tärkeät kohteet, kuten nuorisotilat ja -toiminta, kirjastot, uimahallit ja liikuntapaikat. \n\nOlennaista on myös järjestää julkinen liikenne kohtuuhintaiseksi ja nykyistä paremmin Helsinkiä palvelevaksi. Raiteita ja linjoja tarvitaan lisää. Kustannukset tulee jakaa oikeudenmukaisesti, ei lippujen hintoja nostamalla.\n\nHelsingin talous mahdollistaa sen, ettei korjausten ja muiden investointien osalta tarvitse porrastaa niin paljon, kuin tällä hetkellä tehdään ja taloutta hoidetaan silti hyvin. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Olen Helsingin valtuustossa ryhmämme 4. varavaltuutettu. \nOlen kaupunginhallituksen ja konsernijaoston varajäsen. \nLisäksi johdan Pääkaupunkiseudun Kaupunkiliikenne Oy:n hallitusta puheenjohtajana. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Toimivat palvelut kaiken ikäisille luovat hyvää arkea, joten niihin tulee panostaa.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Olen ollut politiikassa mukana jo melko pitkään ja saanut kokemusta erilaisista tehtävistä paikalliselta tasolta valtakunnan politiikkaan. Helsingissä olen osallistunut ryhmämme yhtenä neuvottelijana budjetin ja muiden tärkeiden asioiden valmisteluun. Lisäksi olen toiminut varapuheenjohtajana Demarinaisissa ja mm. johdan paikallista osastoa. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

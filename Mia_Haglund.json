@@ -1,0 +1,212 @@
+{
+  "id": 1416,
+  "first_name": "Mia",
+  "last_name": "Haglund",
+  "election_number": 103,
+  "party_id": 7,
+  "image": "kuvat/akv2025/1416/c37a547b-48cb-4fa8-b1fb-061a6bf35965",
+  "constituency_id": 25,
+  "video": "1-73823167",
+  "video_aspect": "1:1",
+  "video_description_fi": "Helsinki on varakas kaupunki. Samalla Petteri Orpon oikeistohallitus ajaa yhä useamman helsinkiläisen köyhyyteen. Sen sijaan, että Helsingissä kasvaa häätöjen ja asunnottomien määrä, kaupunkiin tulee rakentaa kohtuuhintaista asumista. Joukkoliikenne ei ole luksus vaan lippujen hintoja pitää saada alas. Tärkein tavoitteeni ensi kaudella on pysäyttää Helsingin eriarvoisuuskehitys ja pitää tämä kaupunkina jos kuka tahansa voi asua, tulotasosta riippumatta.",
+  "video_description_sv": "Helsingfors är en rik stad. Samtidigt driver Petteri Orpos högerregering allt fler helsingforsare in i fattigdom. I stället för att öka antalet vräkningar och hemlösa i Helsingfors borde staden bygga bostäder till rimliga priser. Kollektivtrafiken är inte en lyx, biljettpriserna måste sänkas. Mitt huvudmål för nästa mandatperiod är att stoppa den ökande ojämlikheten i Helsingfors och se till att det förblir en stad där alla kan bo, oavsett inkomstnivå.",
+  "video_description_en": "Helsinki is a wealthy city. At the same time, Petteri Orpo's right-wing government is driving more and more Helsinki residents into poverty. Instead of increasing the number of evictions and homeless people in Helsinki, the city should build affordable housing. Public transport is not a luxury; ticket prices must be brought down. My main goal for the next term is to stop the rise of inequality in Helsinki and keep it a city where anyone can live, regardless of income level.",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 42,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti vasemmalle",
+      "name_sv": "Långt till vänster",
+      "name_en": "Strongly on the left",
+      "name_ru": "С самого левого края",
+      "name_sme": "Nannosit gurut guvlui",
+      "name_ara": "أقصى اليسار",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Hiilivapaa Helsinki vaatii, että liikenteen päästöt saadaan kuriin",
+      "se": "Mot utsläppsfri trafik, för ett klimatvänligt Helsingfors",
+      "en": "Down with traffic emissions, towards a climate friendly Helsinki ",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1986,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      },
+      {
+        "fi": "joku muu",
+        "se": "något annat",
+        "en": "Other",
+        "ru": "другой",
+        "sme": "muhtin eará",
+        "ara": "لغة أخرى"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Solidaarisuus, yhdenvertaisuus, oikeudenmukaisuus, vapaus, ekologisuus",
+      "se": "Solidaritet, jämlikhet, rättvisa, frihet, ekologi",
+      "en": "Solidarity, equity, justice, freedom, ecology",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Joukkoliikenteen hinnat alas",
+      "se": "Ner med biljettpriserna i kollektivtrafiken",
+      "en": "Down with prices on public transport",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 23,
+      "background_info_id": 8,
+      "name_fi": "ruotsi",
+      "name_sv": "Svenska",
+      "name_en": "Swedish",
+      "name_ru": "шведский",
+      "name_sme": "ruoŧagiella",
+      "name_ara": "السويدية",
+      "target_value": null,
+      "name_ukr": "шведська",
+      "name_som": "af-Iswiidhish"
+    },
+    "homepage_url": "https://miahaglund.fi",
+    "facebook_url": null,
+    "instagram_url": "https://instagram.com/miahaglund",
+    "language_some_other": {
+      "fi": "Norja",
+      "se": "Norska",
+      "en": "Norwegian",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "municipality_fix": {
+      "fi": "Asuminen, joukkoliikenteen hinnat, sosiaali- ja terveyspalveluiden saatavuus, ilmastotavoitteiden saavuttaminen sekä luonnonsuojelu.",
+      "se": "Bostäder, kollektivtrafikpriser, tillgång till social- och hälsovård, uppfyllande av klimatmål och naturskydd.",
+      "en": "Housing, public transport prices, access to social and health services, meeting climate targets and nature conservation.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Toimin Helsingin kaupunkiympäristölautakunnassa, jonka lisäksi olen Yhteiskunta-alan korkeakoulutettujen liittovaltuutettu sekä vasemmistoliiton puoluehallituksen jäsen.",
+      "se": "Jag är medlem i Helsingfors stadsmiljönämnd, och utöver det är jag delegationsmedlem i Högskoleutbildade samhällsvetare samt medlem i vänsterförbundets partistyrelse.",
+      "en": "I am a member of Helsinki Urban Environment committee.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Asumista ihmisiä ei voitontavoittelua varten",
+      "se": "Boende baserat på människors inte företagsvinsters intressen",
+      "en": "Housing is for people not profit",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "kunnanvaltuutettu",
+        "se": "ledamot i kommunfullmäktige",
+        "en": "municipal councillor",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

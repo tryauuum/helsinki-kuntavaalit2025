@@ -1,0 +1,202 @@
+{
+  "id": 15564,
+  "first_name": "Jussi",
+  "last_name": "Chydenius",
+  "election_number": 713,
+  "party_id": 6,
+  "image": "kuvat/akv2025/15564/5f104b76-5fe0-41fb-acb3-3c955492a076",
+  "constituency_id": 25,
+  "video": "1-73824526",
+  "video_aspect": "1:1",
+  "video_description_fi": "Olen ollut mukana Helsingin kaupunginvaltuustossa jo vuodesta 2001 lähtien ja tehnyt erityisesti töitä kulttuuri ja vapaa-ajan sekä kasvatuksen ja koulutuksen parissa. Haluan jatkaa työtä helsinkiläisten ja erityisesti lasten ja nuorten puolesta, kulttuuria ja liikuntaa unohtamatta. Työtä sellaisen Helsingin puolesta, jossa on helppoa, turvallista ja mukavaa asua ja toimia.",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 45,
+      "background_info_id": 10,
+      "name_fi": "En vasemmalle enkä oikealle",
+      "name_sv": "Varken vänster eller höger",
+      "name_en": "Neither to the right or the left",
+      "name_ru": "Ни слева, ни справа",
+      "name_sme": "In gurut inge olgeš guvlui",
+      "name_ara": "لا إلى اليسار ولا إلى اليمين",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan yrittää tehdä Helsingistä paremman paikan asua, kasvaa ja toimia.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1972,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "ranska",
+        "se": "franska",
+        "en": "French",
+        "ru": "французский",
+        "sme": "fránskkagiella",
+        "ara": "الفرنسية"
+      },
+      {
+        "fi": "venäjä",
+        "se": "ryska",
+        "en": "Russian",
+        "ru": "русский",
+        "sme": "ruoššagiella",
+        "ara": "الروسية"
+      }
+    ],
+    "education": {
+      "id": 51,
+      "background_info_id": 16,
+      "name_fi": "ylioppilas",
+      "name_sv": "student",
+      "name_en": "High school graduate",
+      "name_ru": "выпускник лицея",
+      "name_sme": "studeanta",
+      "name_ara": "شهادة البكالوريا",
+      "target_value": 3,
+      "name_ukr": "випускник ліцею",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Rehellisyys\nLuovuus\nRohkeus\nOikeudenmukaisuus\nLähimmäisenrakkaus",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lupaan tehdä päätökseni Helsingin hyväksi ja tietoon nojaten.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": null,
+    "facebook_url": "https://www.facebook.com/jussichydeniusvihreat",
+    "instagram_url": "https://www.instagram.com/jussichydenius",
+    "municipality_fix": {
+      "fi": "Pitää varmistua siitä, että koulutukseen ja laadukkaaseen varhaiskasvatukseen satsataan vastakin. Keskiasteen koulutuspaikkoja on lisättävä, jotta kaikki halukkaat nuoret pääsevät lukioihin tai ammattiopintoihin.\n\nPitää jatkaa toimia kiusaamisen kitkemiseen kouluista.\n\nUusia asuinalueita rakennettaessa on huolehdittava, että niihin muuttaa asumaan mahdollisimman monenlaisia ja -taustaisia asukkaita. Pitää tehdä kaikki voitava, jotta maahanmuuttajataustaiset ihmiset kotoutuvat ja sulautuvat muuhun yhteiskuntaan. Segregaatio on aito uhka, jota vastaan pitää taistella.\n\nPitää kehittää joukkoliikennettä ja sen hinnoittelua.\n\nPitää suojella metsiä ja puistoja sekä istuttaa uusia. Tarvitsemme lähiluontomme.\n\nPitää tehdä Helsingistä yrittäjäystävällisempi kaupunki.\n\nPitää tukea kulttuuri- ja taidealan toimijoita.\n\nPitää rakentaa lisää maksuttomia liikuntapaikkoja.\n\nPitää rakentaa kirjastoja niin, että mahdollisimman monella on mahdollisuus päästä kirjastoon kävellen.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Helsingin kasvatus- ja koulutuslautakunnan jäsen\nHelsingin tapahtumasäätiön hallituksen jäsen\nSuomen Musiikintekijät ry:n hallituksen jäsen\nSuomen Musiikkineuvosto ry:n hallituksen jäsen\nKonserttikeskus ry:n hallituksen jäsen",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Lupaan hoitaa kaupunginvaltuutetun tehtävää innolla ja parhaan kykyni mukaan.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "kunnanvaltuutettu",
+        "se": "ledamot i kommunfullmäktige",
+        "en": "municipal councillor",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

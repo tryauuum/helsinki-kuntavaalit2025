@@ -1,0 +1,167 @@
+{
+  "id": 8229,
+  "first_name": "Maya",
+  "last_name": "Waitara",
+  "election_number": 953,
+  "party_id": 4,
+  "image": "kuvat/akv2025/8229/181d8b1e-e8e0-4919-a881-d8f577f01abc",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 44,
+      "background_info_id": 10,
+      "name_fi": "Hieman vasemmalle",
+      "name_sv": "Lite till vänster",
+      "name_en": "Slightly to the left",
+      "name_ru": "Немного слева",
+      "name_sme": "Vehá gurut guvlui",
+      "name_ara": "أميل إلى اليسار",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Sosiaali- ja terveysalan henkilöstön työolojen parantaminen\n\nLiian suuret asiakasmäärät ja riittämättömät resurssit heikentävät sosiaali- ja terveysalan henkilöstön arvokkaan työn laatua ja työntekijöiden jaksamista. Helsingin on varmistettava, että ammattilaisilla on optimaaliset työolosuhteet, riittävä tuki ja mahdollisuus keskittyä asiakastyöhön – ei pelkkään byrokratiaan. Kaupungin pitää palkata riittävästi henkilöstöä ja panostaa työhyvinvointiin. Lupaan edistää sote-alan henkilöstön työolojen parantamista ja asiakasmäärien rajaamista. Työolojen kohenemisesta hyötyvät kaikki! \n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1999,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 50,
+      "background_info_id": 16,
+      "name_fi": "ammattitutkinto",
+      "name_sv": "yrkesexamen",
+      "name_en": "Vocational degree",
+      "name_ru": "профессиональное училище",
+      "name_sme": "ámmátdutkkus",
+      "name_ara": "دبلوم مهني",
+      "target_value": 2,
+      "name_ukr": "професійне училище",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "1. Yhdenvertaisuus\n2. Lapsen etu ja perheiden tukeminen\n3. Inhimillisyys ja empatia\n4. Yhteistyö\n5. Avoimuus",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Poliisin nuorisotyön resurssit takaisin.\n\nHelsingin päätös lakkauttaa nuorisopoliisien yksikkö on ollut iso virhe. Nuorisopoliisit ennaltaehkäisivät syrjäytymistä ja loivat nuoriin luottamuksellisia suhteita – ennen kuin ongelmat kasvoivat isoksi. Yksikön lopettaminen on näkynyt lasten ja nuorten rikollisuustilastoissa. Lupaan ajaa nuorisopoliisien resurssit takaisin koska jokainen nuori ansaitsee rinnallakulkijan, ei vain valvovaa silmää.\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "instagram_url": "https://www.instagram.com/mayawaitara/",
+    "tiktok_url": "https://www.tiktok.com/@mayawaitara",
+    "municipality_fix": {
+      "fi": "Helsingissä on vahvistettava matalan kynnyksen ennaltaehkäiseviä palveluita, jotta apua saa ajoissa ennen kuin ongelmat kasautuvat. Palveluiden parempi yhteistyö on avainasemassa – sosiaali-, terveys- ja sivistyspalveluiden täytyy tukea ihmistä yhdessä, ei erillään.\n\nPoliisien ennaltaehkäisevä nuorisotyö on palautettava tukemaan nuorten turvallista arkea. Varhainen puuttuminen ja luottamukselliset kohtaamiset ehkäisevät nuorten ajautumista rikoskierteisiin.\n\nJokaisella nuorella on oikeus saada tukea matkalla itsenäiseen aikuisuuteen, ja siksi jälkihuoltotuen ikärajaa on laajennettava 25 ikävuoteen.\n\nHelsingin on oltava kaupunki, joka ehkäisee köyhyyttä ja asunnottomuutta. Ilmastoviisasta tulevaisuutta tulee rakentaa oikeudenmukaisesti – ei heikompiosaisimpien kustannuksella.\n\nKaupunkisuunnittelussa tulee painottaa kohtuuhintaisia asuntoja ja yhteisöllisiä tiloja, jotka edistävät Helsinkiläisten hyvinvointia. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Yksi yhteinen Helsinki – palvelut jotka pelaavat yhteen\n\nHelsingissä liian moni jää vaille tarvitsemaansa apua, koska erilaisten palveluiden yhteistyö ei toimi. Lupaan tehdä töitä sen eteen, että perheiden, lasten ja nuorten palvelut kulkevat käsi kädessä – eivätkä irrallisina saarekkeina. Neuvolasta perheneuvolaan, varhaisesta tuesta lastensuojeluun – palveluiden pitää olla saumaton kokonaisuus, ei loputon luukulta toiselle pompottelu.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

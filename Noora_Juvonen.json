@@ -1,0 +1,196 @@
+{
+  "id": 6954,
+  "first_name": "Noora",
+  "last_name": "Juvonen",
+  "election_number": 491,
+  "party_id": 5,
+  "image": "kuvat/akv2025/6954/2412bd59-df48-4e06-ab71-8f39639e87d2",
+  "constituency_id": 25,
+  "video": "1-73820506",
+  "video_aspect": "1:1",
+  "video_description_fi": "Olen Noora Juvonen ja olen ehdolla kaupunginvaltuustoon keskustan listalta. Minun tärkein tavoitteeni ensi valtuustokaudella on kaupunki, jossa on hyvä asua ja elää. Tavoitteenani on, että Helsinki on elävä ja asukkaitaan innostava. Meitä asukkaita on jo yhteensä 670 000. Minulle on tärkeää, että eri alueiden ja asukkaiden ääni kuuluu kaupungin päätöksenteossa.",
+  "video_description_sv": null,
+  "video_description_en": "I am Noora Juvonen, and I am running for the city council on the Center Party’s list. My main goal for the next council term is a city that is a great place to live. I want Helsinki to be even more vibrant and inspiring for its residents. There are already 670,000 of us living here, and it is important to me that the voices of different neighborhoods and residents are heard in the city’s decision-making.",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 46,
+      "background_info_id": 10,
+      "name_fi": "Hieman oikealle",
+      "name_sv": "Lite till Till högerhöger",
+      "name_en": "SlightTo the rightly to the right",
+      "name_ru": "Немного справа",
+      "name_sme": "Vehá olgeš guvlui",
+      "name_ara": "أميل إلى اليمين",
+      "target_value": 1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Puolustan esityksiä, joilla turvataan lähiluontoa. Itämeri, metsät ja puistot ovat osa kaupungin identiteettiä ja kaupunkilaisten hyvinvoinnin lähde.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1985,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Yhdenvertaisuus, tasa-arvo, oikeudenmukaisuus, sivistys ja kohtuullisuus.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Vaikutan yritysmyönteisen toimintaympäristön puolesta, jotta Helsinkiin syntyy uusia työpaikkoja ja tänne sijoittuu uusia yrityksiä. Haetaan kasvua houkuttelemalla muu maailma Helsinkiin, ei kilpailla suomalaisten kaupunkien kesken. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.noorajuvonen.fi",
+    "facebook_url": "https://www.facebook.com/juvonennoora1",
+    "instagram_url": "https://www.instagram.com/_juvonoo_keskusta/",
+    "municipality_fix": {
+      "fi": "Lasten, nuorten ja perheiden hyvinvointia tulee tukea riittävästi, sillä lapsissa on tulevaisuus. Tämä tarkoittaa esimerkiksi riittäviä resursseja kouluille. Ikäihmisten sosiaali- ja terveyspalveluista ei saa karsia, koska velvollisuutemme on turvata heille arvokas vanhuus. \n\nYli puolet kaupungin asuntokunnista on sinkkutalouksia. Yksinasuvat tulee huomioida entistä näkyvämmin. Voisi esimerkiksi ajatella uutta alennusluokkaa valituissa kunnallisissa liikuntapalveluissa tai julkisen liikenteen matkalipuissa. \n\nYrityspalveluissa on huomioitava mikro- ja pk-yritykset. Kantakaupungissa pitäisi löytää luovia ratkaisuja siihen, kuinka elävöittää keskustaa ja siten turvata kivijalkaliikkeiden toimintaa. Sijoittumispalveluita tulisi kehittää edelleen.\n\nHelsingin pitäisi rohkeasti etsiä ratkaisuja paikallisiin haasteisiin, joita ei samassa mittakaavassa muualla Suomessa ole, esimerkiksi: Asumisen korkea hinta, tarve palveluille eri kielillä, huumeiden käyttö ja siihen liittyvät lieveilmiöt. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Olen Lauttasaaren seurakuntaneuvoston jäsen ja Helsingin yhteisen kirkkovaltuuston jäsen. Olen Osuuskauppa HOK-Elannon valtuuston varajäsen (kesk.).",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 3,
+      "background_info_id": 2,
+      "name_fi": "Hieman liberaali",
+      "name_sv": "Ganska liberal",
+      "name_en": "Slightly liberal",
+      "name_ru": "Слегка либерал",
+      "name_sme": "Vehá liberála",
+      "name_ara": "أميل إلى الليبرالية",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Teen työtä lasten, nuorten ja perheiden hyvinvoinnin eteen. Lapsissa on tulevaisuus. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Olen työskennellyt Helsingin Keskustan toiminnanjohtajana ja hoitanut hetken Keskustan valtuustoryhmän sihteerin tehtävää. Olen toiminut aiemmin Keskustan puoluevaltuuston varajäsenenä ja Lauttasaaren Keskustaseuran puheenjohtajana.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

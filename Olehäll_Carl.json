@@ -1,0 +1,186 @@
+{
+  "id": 1053,
+  "first_name": "Olehäll",
+  "last_name": "Carl",
+  "election_number": 65,
+  "party_id": 9,
+  "image": "kuvat/akv2025/1053/2980384d-1235-458c-914c-1dbfe1785c5f",
+  "constituency_id": 25,
+  "video": "1-73689864",
+  "video_aspect": "1:1",
+  "video_description_fi": null,
+  "video_description_sv": "Hej! Jag heter Carl Olehäll, och jag kandiderar till Helsingfors stadsfullmäktige för Kristdemokraterna. Vad kul att du har hittat hit!\n\nJag går till val på tre teman:\n\n1) En tvåspråkig stad, där det ska vara enkelt att göra sig förstådd på sitt modersmål.\n\n2) En trygg stad, där du kan lita på att samhällstjänsterna fungerar utifrån dina behov.\n\n3) En innovativ stad, där företag ges möjlighet att växa och där vi lägger grunden för en stark välfärd.\n\nOm du tycker att det här låter bra – om det låter vettigt för dig – så hoppas jag att du lägger din röst på mig, Carl Olehäll.\n\nHa en fin fortsättning på dagen. Allt gott!",
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 47,
+      "background_info_id": 10,
+      "name_fi": "Oikealle",
+      "name_sv": "Till höger",
+      "name_en": "To the right",
+      "name_ru": "Справа",
+      "name_sme": "Olgeš guvlui",
+      "name_ara": "اليمين",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": null,
+      "se": "En innovativ stad: När företag ges förutsättningar att växa minskar skuldsättningen och ekonomin kommer på fötter igen.",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1992,
+    "language_skills": [
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": null,
+      "se": "1) Den gyllene regeln: Behandla andra som du själv vill bli behandlad.\n\n\n2) Konservatism: Beslut ska fattas utifrån beprövad erfarenhet, eftertanke och måttfullhet.\n\n\n3) Samhällsgemenskap: Ett samhälle mår bra av stabila normer, traditioner och gemenskaper.\n\n\n4) Subsidiaritet: Beslut ska fattas nära de människor som berörs.\n\n\n5) Internationellt samarbete: Finland är en västligt sinnad demokrati och en omistlig del av Norden, Europa och Nato.",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": null,
+      "se": "En trygg stad: Du ska känna dig trygg när du går hem om kvällen, och kunna lita på att samhällstjänsterna fungerar.",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 23,
+      "background_info_id": 8,
+      "name_fi": "ruotsi",
+      "name_sv": "Svenska",
+      "name_en": "Swedish",
+      "name_ru": "шведский",
+      "name_sme": "ruoŧagiella",
+      "name_ara": "السويدية",
+      "target_value": null,
+      "name_ukr": "шведська",
+      "name_som": "af-Iswiidhish"
+    },
+    "facebook_url": "https://www.facebook.com/carlolehall",
+    "instagram_url": "https://www.instagram.com/carlolehall/",
+    "X_url": "https://x.com/carlolehall",
+    "municipality_fix": {
+      "fi": null,
+      "se": "Ett gott samhälle kännetecknas av tillit. Du ska kunna känna dig trygg när du går hem om kvällen. Du ska kunna lita på att polisen kommer när du ringer. Du ska kunna lita på att du får vård när du behöver den. Vi kristdemokrater lovar inte allt till alla. Vi är tydliga med våra prioriteringar. Trygghet i vardagen kommer alltid vara min prio ett. Det viktigaste står fast.\n\n\nDen offentliga skuldsättningen kan bara avhjälpas av växande företag. Med minskat regelkrångel, en ansvarsfull ekonomisk politik och ett stärkt nordiskt samarbete kan vi få ekonomin på fötter igen.\n\n\nJag vet hur det känns att inte kunna göra sig förstådd på finska. Helsingfors tvåspråkiga identitet är en stor tillgång, men kan komma ännu mer till sin rätt. Som Finlands tillväxtmotor kan Helsingfors locka till sig högkvalificerad arbetskraft från övriga nordiska länder. Men då krävs det en levande tvåspråkighet, där svenskans ställning stärks i vardagssituationerna, på arbetsplatserna i kulturen och inom vården.",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 6,
+      "background_info_id": 2,
+      "name_fi": "Konservatiivi",
+      "name_sv": "Konservativ",
+      "name_en": "Conservative",
+      "name_ru": "Консерватор",
+      "name_sme": "Konservatiiva",
+      "name_ara": "محافظ",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": null,
+      "se": "En tvåspråkig stad: Svenskans ställning behöver stärkas i vardagen, på arbetsplatser, i kulturen och inom vården.",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": null,
+      "se": "Jag har precis flyttat till Finland från Sverige. Jag har i 15 års tid varit politiskt aktiv i vårt svenska systerparti, Kristdemokraterna. 2022-24 arbetade jag som talskrivare och politiskt sakkunnig i partiledarstaben på Klimat- och näringslivsdepartementet. Dessförinnan var jag sakkunnig i utrikes- och försvarsfrågor på Sveriges riksdag, och har även haft en liknande befattning i Europaparlamentet. Jag har gedigen erfarenhet av nordiska samarbetsfrågor från ett tidigare engagemang i Ungdomens Nordiska råds presidium.",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

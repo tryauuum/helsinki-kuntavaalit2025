@@ -1,0 +1,180 @@
+{
+  "id": 3926,
+  "first_name": "Jyri",
+  "last_name": "Tallgren",
+  "election_number": 455,
+  "party_id": 3,
+  "image": "kuvat/akv2025/3926/ace35c8e-1b8c-4c8b-91f1-4d87463449d8",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 47,
+      "background_info_id": 10,
+      "name_fi": "Oikealle",
+      "name_sv": "Till höger",
+      "name_en": "To the right",
+      "name_ru": "Справа",
+      "name_sme": "Olgeš guvlui",
+      "name_ara": "اليمين",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Helsingin tulevaisuus ei saa olla harmaiden laatikoiden täyttämä. Pääkaupunkimme ansaitsee arkkitehtuuria ja kaupunkiympäristön, joka ilahduttaa ja inspiroi meitä. Kaunis rakentaminen on mielenterveysteko tällä saastuneiden mielien aikakaudella.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 2002,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 50,
+      "background_info_id": 16,
+      "name_fi": "ammattitutkinto",
+      "name_sv": "yrkesexamen",
+      "name_en": "Vocational degree",
+      "name_ru": "профессиональное училище",
+      "name_sme": "ámmátdutkkus",
+      "name_ara": "دبلوم مهني",
+      "target_value": 2,
+      "name_ukr": "професійне училище",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Rehellisyys. Luotettavuus. Iloisuus. Ahkeruus. Isänmaallisuus.",
+      "se": null,
+      "en": null,
+      "ru": "Современная Россия облажалась",
+      "sme": null,
+      "ara": "أنا أقدر أن الناس لا يرجمون. لا يجب عليك الزواج مع الأطفال.",
+      "ukr": null,
+      "som": "Waan ka mahadcelinayaa shaqada"
+    },
+    "election_promise_2": {
+      "fi": "Meidän pitää sanoa tiukka ei haittamaahanmuutolle ja asetettava suomalaisten turvallisuus etusijalle. Kiintiöpakolaisten määrä nollaan. Helsinkiläiset ansaitsevat sen. Turvallisuuden tulee ulottua kaduilta kouluihin.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.jyritallgren.fi/",
+    "facebook_url": "https://www.facebook.com/share/1A9zDf2ozo/?mibextid=wwXIfr ",
+    "instagram_url": "https://www.instagram.com/jyritallgren",
+    "X_url": "https://x.com/JyriTallgren",
+    "tiktok_url": "https://www.tiktok.com/@jyritallgren",
+    "municipality_fix": {
+      "fi": "Turvallisuus niin kaduilla kuin kouluissa. Rahankäytössä priorisoitava välttämättömiä peruspalveluita. Helsinkiläisten veroeuroja ei saa tuhlata Gazaan tai mäen kiertäviin pyöräbaanoihin. Rakennetaan kaunista. Kuri kouluihin, kännykät pois häiritsemästä koulunkäyntiä ja fyysisiä kirjoja, ei pelkästään digiä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Perussuomalaisen Nuorison 3. varapuheenjohtaja",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 6,
+      "background_info_id": 2,
+      "name_fi": "Konservatiivi",
+      "name_sv": "Konservativ",
+      "name_en": "Conservative",
+      "name_ru": "Консерватор",
+      "name_sme": "Konservatiiva",
+      "name_ara": "محافظ",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Helsinkiläisten verovarat käytettävä välttämättömiin ydintoimintoihin. Helsinkiläisten veromiljoonia ei pidä tuhlata laittomasti maassa olevien palveluihin,  ruokalähettien pyörävarastoihin, Gazaan  eikä mäen kiertäviin pyöräbaanoihin.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

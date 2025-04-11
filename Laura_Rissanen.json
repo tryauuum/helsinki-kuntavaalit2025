@@ -1,0 +1,205 @@
+{
+  "id": 4693,
+  "first_name": "Laura",
+  "last_name": "Rissanen",
+  "election_number": 319,
+  "party_id": 19,
+  "image": "kuvat/akv2025/4693/aa99e51d-152f-4d77-9d00-7fa957c2be75",
+  "constituency_id": 25,
+  "video": "1-73816788",
+  "video_aspect": "1:1",
+  "video_description_fi": "Tärkein tavoitteeni on varmistaa se, että Helsingissä on jatkossakin maan parhaat koulut. Koulukirjat kaikille, työrauha luokissa, yksilöllistä tukea ja riittävä painotus äidinkielen ja matematiikan oppimiseen. Siis perusasiat kuntoon.",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 47,
+      "background_info_id": 10,
+      "name_fi": "Oikealle",
+      "name_sv": "Till höger",
+      "name_en": "To the right",
+      "name_ru": "Справа",
+      "name_sme": "Olgeš guvlui",
+      "name_ara": "اليمين",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Kukoistava kaupunkikulttuuri! Pidetään huolta Helsingin kirjastoverkosta ja järjestetään juhlaviikkoja ympäri vuoden. Elävä kaupunki syntyy tapahtumista -  pienistä ja suurista ympäri Helsinkiä. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1976,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "vapaus, oikeudenmukaisuus, suvaitsevaisuus, välittäminen ja mahdollisuuksien tasa-arvo",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Katutöihin vauhtia, jalkakäytävät kuntoon, lisää roskiksia kaduille, turvallinen ja viihtyisä ympäristö kaikkialle Helsinkiin. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "http://www.laurarissanen.net",
+    "facebook_url": "https://www.facebook.com/RissanenLaura",
+    "instagram_url": "https://www.instagram.com/laurarissanen",
+    "X_url": "https://x.com/laurarissanen",
+    "municipality_fix": {
+      "fi": "Minulle tärkeintä on hyvä kaupunkiarki. Elämästä kun suurin osa on sitä arkea. Hyvä ja sujuva arki koostuu pienistä paloista: kodista, työpaikasta, koulusta, päiväkodista, harrastuksista, ruokakaupasta ja niiden välisistä matkoista.\n\nHelsinkiläiset ansaitsevat hyvin toimivat palvelut: päiväkodit ja koulut kävelyetäisyydellä, terveyskeskus suorien joukkoliikenneyhteyksien päässä. Sujuva ja järkevän hintainen joukkoliikenne. Meillä on paljon tehtävää myös siinä, että kaupunkilaisten arkea haittaavat katutyöt saataisiin tehtyä nopeammin. \n\nPäättäjänä minulle on kunnia asia se, että peruskoulujen rahoitus on kunnossa, luokissa on oppimis- ja työrauha, päiväkotipaikan saa läheltä, lääkäriin pääsee myös iltaisin ja että kaupunki kannustaa, ei lannista, yrittämään. Kaupungin päättäjien tehtävä on ennen kaikkea helpottaa, ei vaikeuttaa arkea.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Olen Helsingin kokoomuksen valtuustoryhmän 1. varavaltuutettu ja Helsingin Tapahtumasäätiön hallituksen puheenjohtaja. Toimin lisäksi Suomen kirjastoseuran puheenjohtajana sekä Ammatillisen koulutuksen kehittämisyhdistys Amke ry:n puheenjohtajana. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Helsingissä on maan parhaat koulut jatkossakin. Oppimis- ja työrauha luokkiin, koulukirjat kaikille, yksilöllistä tukea ja riittävä painotus luku- ja kirjoitustaidon sekä matematiikan perusteiden oppimiseen. Säilytetään painotetut luokat!",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Olen toiminut eri luottamustehtävissä Helsingissä vuodesta 2001 alkaen: joukkoliikennelautakunnassa 2001-2008, kaupunginhallituksessa 2009-2017, kaupunginvaltuustossa 2009-2017, varavaltuutettuna 2017-, kaupunkiympäristölautakunnassa 2017-2022, HSL:n hallituksessa 2009-2012 sekä 2021-2022. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

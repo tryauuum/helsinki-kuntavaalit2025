@@ -1,0 +1,173 @@
+{
+  "id": 3228,
+  "first_name": "Sonja",
+  "last_name": "Kytökangas-Lahtela",
+  "election_number": 53,
+  "party_id": 9,
+  "image": "kuvat/akv2025/3228/269b3818-aa73-419d-8197-a473f7ae88be",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 48,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti oikealle",
+      "name_sv": "Långt till höger",
+      "name_en": "Strongly to the right",
+      "name_ru": "С самого правого края",
+      "name_sme": "Nannosit olgeš guvlui",
+      "name_ara": "أقصى اليمين",
+      "target_value": 3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Turvallisuus ja yhteisöllisyys: Ennaltaehkäisevää työtä rikollisuuden vähentämiseksi ja asuinalueiden yhteisöllisyyden vahvistamiseksi. Helsingin huumeongelmaan on puututtava.",
+      "se": null,
+      "en": "Safety and Community: Preventive measures to reduce crime and strengthen the sense of community in residential areas. Helsinki's drug problem must be addressed.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1974,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "ranska",
+        "se": "franska",
+        "en": "French",
+        "ru": "французский",
+        "sme": "fránskkagiella",
+        "ara": "الفرنسية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "1. Yhteisöllisyys – Uskon, että vahva ja välittävä yhteisö luo perustan turvalliselle ja hyvälle elämälle. Jokaisen tulee tuntea kuuluvansa osaksi yhteiskuntaa.\n\n2. Oikeudenmukaisuus – Kaikilla on oikeus tasa-arvoiseen kohteluun, reiluuteen ja mahdollisuuksiin elämässä, mutta niissä tulee kunnioittaa myös yksilöllisiä saavutuksia. Kova työ ja menestys ansaitsevat arvostuksen.\n\n3. Lähimmäisenrakkaus – Välittäminen ja toisten auttaminen ovat keskeisiä arvoja, joiden tulisi ohjata sekä yksilöiden että yhteiskunnan toimintaa. Toisista välittäminen ja auttaminen ovat perusarvoja, mutta tuen tulisi edistää itsenäisyyttä ja henkilökohtaista kasvua.\n\n4. Vastuullisuus – Jokaisella on vastuu itsestään, toisista ja ympäristöstä. Kaupunkia ja sen palveluita on kehitettävä kestävästi ja kauaskantoisesti.\n\n5. Turvallisuus – Jokaisella tulee olla oikeus elää ilman pelkoa, ja siksi turvallisuus on tärkeä arvo niin kaupunkisuunnittelussa kuin sosiaalisissa palveluissakin.",
+      "se": null,
+      "en": "My Core Values:\n\nCommunity – I believe that a strong and caring community is the foundation of a safe and fulfilling life. Everyone should feel like they belong.\n\nJustice – Fairness and equal opportunities are essential, but they should also respect individual achievements. Hard work and success deserve to be valued.\n\nCompassion – Caring for and helping others are fundamental values, but support should encourage independence and personal growth.\n\nResponsibility – We all have a duty to care for ourselves, others, and our environment. A well-functioning society balances social support with individual accountability.\n\nSafety – Everyone has the right to live without fear. Security must be prioritized in both urban planning and social policies.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Toimiva liikenne: Elinvoimainen keskusta tarvitsee helpon pääsyn ja liikkumismahdollisuuksia kaikille. Sujuva autoilu ja riittävät pysäköintimahdollisuudet myös keskustassa.",
+      "se": null,
+      "en": "Efficient Transportation: A lively city center requires accessible and convenient mobility for everyone, with smooth traffic flow and ample parking, even in the downtown area.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "municipality_fix": {
+      "fi": "Helsingin kehittämisessä on varmistettava turvallinen, terveellinen ja arvokas elämä kaikille. Rikollisuuden ja huumeongelman torjunta edellyttää ennaltaehkäiseviä toimia ja yhteisöllisyyden vahvistamista. Asuinalueiden viihtyisyyttä ja ihmisten kohtaamisia on tuettava, jotta syrjäytymistä voidaan ehkäistä.\n\nLiikenteen sujuvuus on tärkeää kaupungin elinvoimaisuudelle. Keskustan saavutettavuutta on parannettava tasapainoisesti huomioiden autoilijat, pyöräilijät ja jalankulkijat. Taloudellisen vastuullisuuden tulee ohjata kaupungin päätöksiä. Sosiaaliturvan on tuettava apua tarvitsevia mutta myös kannustettava yrittäjyyteen ja työntekoon.\n\nPeruspalveluiden, kuten koulutuksen, terveydenhuollon ja vanhustenhoidon, on oltava laadukkaita ja saavutettavia. Kun päätöksiä ohjaavat oikeudenmukaisuus, vastuullisuus ja yksilönvapauksien kunnioittaminen, Helsinki voi tarjota jokaiselle mahdollisuuden hyvään elämään.",
+      "se": null,
+      "en": "Helsinki's development must ensure a safe, healthy and dignified life for all. Combating crime and drug issues requires preventive measures and stronger community engagement. Improving residential areas and fostering social interaction are key to preventing social exclusion.\n\nEfficient transportation is vital for the city's vitality. Accessibility in the city center must be improved with a balanced approach that considers drivers, cyclists, and pedestrians alike. Financial responsibility should guide decision-making. Social welfare must support those in need while also encouraging entrepreneurship and employment.\n\nEssential services, such as education, healthcare, and elderly care, must remain high-quality and accessible. When policies are driven by justice, responsibility, and respect for individual freedoms, Helsinki can provide every resident with the opportunity for a good and meaningful life.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 6,
+      "background_info_id": 2,
+      "name_fi": "Konservatiivi",
+      "name_sv": "Konservativ",
+      "name_en": "Conservative",
+      "name_ru": "Консерватор",
+      "name_sme": "Konservatiiva",
+      "name_ara": "محافظ",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Perheiden ja ikäihmisten tukeminen: Kaikille oikeus sujuvaan arkeen ja tarvittaviin palveluihin. Tukea mielenterveysongelmien ehkäisyyn.",
+      "se": null,
+      "en": "Supporting families and the elderly: Everyone has the right to a smooth daily life and access to essential services. Providing support to prevent mental health issues.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

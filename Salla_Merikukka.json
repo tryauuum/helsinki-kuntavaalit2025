@@ -1,0 +1,197 @@
+{
+  "id": 12442,
+  "first_name": "Salla",
+  "last_name": "Merikukka",
+  "election_number": 763,
+  "party_id": 6,
+  "image": "kuvat/akv2025/12442/ea0846f6-93fe-4b3e-b552-59ce161025e8",
+  "constituency_id": 25,
+  "video": "1-73818587",
+  "video_aspect": "1:1",
+  "video_description_fi": "Moikka,\n\nMun mielestä Helsingin pitää olla kaupunki, joka pitää nuoristaan huolta.\n\nKymmenen vuotta nuorisoalalla työskennellessä opin, ettei politiikassa ole nuorten puolustajia yhtäkään liikaa.\n\nJuhlapuheissa moni kyllä muistaa nuoret, mutta kun tulee päätösten aika, on heiltä ilmeisesti helppo leikata. Se ei ole taloudellisesti eikä inhimillisesti järkevää.\n\nPäätin lähteä ehdolle puolustamaan nuorten palveluja ja sitä, että nuorten hyvinvointiin panostetaan. Se on meidän kaikkien etu.",
+  "video_description_sv": null,
+  "video_description_en": "Hi,\n\nI believe that Helsinki should be a city that takes care of its young people.\n\nAfter working in the youth work field for ten years, I’ve learned that there can never be too many advocates for young people in politics.\n\nMany politicians remember young people in speeches, but when it comes time to make decisions, it seems easy to make cuts affecting young people first. That is neither economically nor socially wise!\n\nI'm running for City Council to defend youth services and ensure that we invest in young people's well-being. It benefits us all.",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 44,
+      "background_info_id": 10,
+      "name_fi": "Hieman vasemmalle",
+      "name_sv": "Lite till vänster",
+      "name_en": "Slightly to the left",
+      "name_ru": "Немного слева",
+      "name_sme": "Vehá gurut guvlui",
+      "name_ara": "أميل إلى اليسار",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Tassuväki ansaitsee myös hauskan kaupungin. Koirapuistojen viihtyvyyteen ja virikkeellisyyteen tulee panostaa. Suunnitellaan kaupunkia myös koirien ehdoilla. ",
+      "se": null,
+      "en": "Our furry friends deserve a fun city too. We should invest in the comfort and stimulation of dog parks.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1988,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Yhdenvertaisuus\nTasa-arvo\nOikeudenmukaisuus\nAvoimuus\nLuotettavuus",
+      "se": null,
+      "en": "Equality\nEquity\nJustice\nOpenness\nReliability",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Nautitaan kestävästä kaupunkielämästä. Helsingin on oltava myös kaupunki, jossa jokainen voi elää riemukasta ja omannäköistään elämää kestävällä tavalla. Täällä tulee olla Suomen parhaat edellytykset yrittämiselle, kukoistavalle kaupunkikulttuurille ja yhdessä vietetylle ajalle ilman, että se tarkoittaa tavaroiden ostamista. ",
+      "se": null,
+      "en": "Enjoying sustainable urban culture. Helsinki has to also be a city, where everyone can live a joyful life (that’s suitable for themselves) in a sustainable way. This city should have the best conditions in Finland for entrepreneurship, a flourishing urban culture, as well as the well-being of four-legged friends.\n\nEnjoyable everyday life does not have to mean overspending – in sustainable urban life joy comes from culture, unique cafés and restaurants, verdant nature and the seaside, sharing services and goods, community spirit and from a vibrant urban space accessible to all.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://sallamerikukka.fi/",
+    "facebook_url": "https://www.facebook.com/profile.php?id=61568195285470",
+    "instagram_url": "https://www.instagram.com/sallamerikukka",
+    "tiktok_url": "https://www.tiktok.com/@sallamerikukka",
+    "municipality_fix": {
+      "fi": "Olen ehdolla kevään kuntavaaleissa ennen kaikkea siksi, että Helsinki pitäisi hyvää huolta nuoristaan – se on paitsi oikeudenmukaista nuoria kohtaan, myös välttämätöntä koko yhteiskunnan kannalta.\n\nKaupungistumisen myötä Helsinkiin tulee jatkuvasti lisää ihmisiä, ja erityisesti nuorten määrä kasvaa voimakkaasti. Jokaisesta heistä täytyy pitää hyvää huolta, ja nuoria tulee myös priorisoida päätöksenteossa – konkreettisesti tämä tehdään Helsingissä ennen kaikkea budjettineuvotteluissa.\n\nNuorisotyöhön, nuorten ennaltaehkäiseviin palveluihin ja hyvinvointiin panostaminen on välttämätöntä inhimillisesti, sillä nuoruus on itsessään arvokasta. Arvokkaita nuoret ovat myös koko yhteiskunnalle, ja niinpä meillä ei ole varaa sysätä yhtäkään nuorta syrjään. Helsingissä voimme pistää kampoihin hallituksen politiikalle, joka ajaa nuoria ahdinkoon.",
+      "se": null,
+      "en": "Important for me:\n\n1. Prioritizing young people in all decision-making in Helsinki.\n2. Enjoying sustainable urban culture.\n3. Ensuring a fun city for our furry friends too.\n\nRead more: sallamerikukka.fi",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Olen Vihreiden puoluehallituksen jäsen, Helsingin seurakuntayhtymän yhteisen kirkkovaltuuston jäsen sekä Paavalin seurakunnan seurakuntaneuvoston jäsen. Lisäksi toimin Helsingin vihreän seuran hallituksessa. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Priorisoidaan nuorten hyvinvointi. Se, miten Helsinki huolehtii nuorten hyvinvoinnista, on koko Suomen tulevaisuuden kysymys. Nuoria ja nuorten hyvinvointia pitää uskaltaa priorisoida kaikessa päätöksenteossa.",
+      "se": null,
+      "en": "Prioritizing the welfare of young people. The way Helsinki takes care of its young people is a crucial question for the future of Finland. We have to dare to prioritize young people and the welfare of young people in all decision-making.\n\nYoung people are mostly doing well but those that aren’t, are doing even worse than before. Helsinki should invest especially in the well-being of these young people.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Olen toiminut Vihreiden Helsingin piirin puheenjohtajana 2023–2024. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

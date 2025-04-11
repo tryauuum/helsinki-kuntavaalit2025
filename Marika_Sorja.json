@@ -1,0 +1,206 @@
+{
+  "id": 8364,
+  "first_name": "Marika",
+  "last_name": "Sorja",
+  "election_number": 451,
+  "party_id": 3,
+  "image": "kuvat/akv2025/8364/8d9b4700-a184-46c5-8a1e-7000f42c136a",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 47,
+      "background_info_id": 10,
+      "name_fi": "Oikealle",
+      "name_sv": "Till höger",
+      "name_en": "To the right",
+      "name_ru": "Справа",
+      "name_sme": "Olgeš guvlui",
+      "name_ara": "اليمين",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan pyrkiä omalta osaltani vaikuttaa siihen, että Helsinki on hyvä & turvallinen paikka syntyä, kasvaa, elää ja vanheta.  ISO EI esimerkiksi jättipäiväkodeille ja kielitaidottomille hoitajille niin lasten parissa kuin vanhusten. Kouluissa tulee olla turvallista keskittyä tulee olennaiseen, ei tuputtaa höpönlöpöjä kuten, että mies muka voi synnyttää. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1984,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      }
+    ],
+    "education": {
+      "id": 50,
+      "background_info_id": 16,
+      "name_fi": "ammattitutkinto",
+      "name_sv": "yrkesexamen",
+      "name_en": "Vocational degree",
+      "name_ru": "профессиональное училище",
+      "name_sme": "ámmátdutkkus",
+      "name_ara": "دبلوم مهني",
+      "target_value": 2,
+      "name_ukr": "професійне училище",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Perhe, turvallisuus, terveys, oikeudenmukaisuus ja isänmaallisuus. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lupaan pyrkiä omalta osaltani vaikuttamaan siihen, että huoltovarmuutta tulee parantaa entisestään ja varautumiseen panostaa. Tässä mm. Pelastustoimi ja vapaapalokunnat ovat tärkeitä!",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 23,
+      "background_info_id": 8,
+      "name_fi": "ruotsi",
+      "name_sv": "Svenska",
+      "name_en": "Swedish",
+      "name_ru": "шведский",
+      "name_sme": "ruoŧagiella",
+      "name_ara": "السويدية",
+      "target_value": null,
+      "name_ukr": "шведська",
+      "name_som": "af-Iswiidhish"
+    },
+    "homepage_url": "https://marikasorja.wordpress.com/",
+    "facebook_url": "https://www.facebook.com/marikasorjaps",
+    "instagram_url": "https://www.instagram.com/marikasorja/",
+    "X_url": "https://x.com/MarikaSorja",
+    "tiktok_url": "https://www.tiktok.com/@marikasorja",
+    "municipality_fix": {
+      "fi": "- Veroprosentin on pysyttävä ennallaan tai alennettava. Meillä ei ole varaa menettää veronmaksajia. Helsingin tulee olla houkutteleva veronmaksajille ja kaiken kokoisille yrityksille.\n- Koko maailman sosiaalitoimistona olemista meidän ei tule jatkaa, joten mm. siitä tehtävästä voisi leikata. Haitallista maahanmuuttoa ei saa houkutella enää yhtään.\n- Huoltovarmuutta ja varautumista tulee parantaa entisestään. \n- Luonto sopii ja kuuluu Helsinkiin ja helsinkiläisetkin tarvitsevat luontoaan. Ei pidä rakentaa asunnoiksi upeita metsiämme, kallioitamme ja viheralueita. Keskuspuisto, Lauttasaaren rannat, Malmin lentoasema ja moni muu korvaamaton luonto - ja historiakohde tulee jättää rauhaan. Helsingin ei tarvitse olla rakennettu täyteen. Stadin luontoa ja historiaa tulee arvostaa nykyistä enemmän, arvostus ja ylpeys näistä tulisi näkyä.\n- Kotimaisuutta tulee lisätä kaupungin hankinnoissa. \n- Yksityisautoilijoiden kiusaaminen pitää loppua.\n- Lasten kotihoitoa tulee tukea Helsinki-lisällä.\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Luottamustoimiani ovat mm. PerusNaiset Helsinki ry:n puheenjohtaja, Maanpuolustustiedotuksen suunnittelukunnan 1.varapuheenjohtaja, Saaristoasian neuvottelukunnan jäsen, HUS kansalliskielilautakunnan jäsen, tarkastuslautakunnan ja liikuntajaoston varajäsen.  ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 5,
+      "background_info_id": 2,
+      "name_fi": "Hieman konservatiivi",
+      "name_sv": "Ganska konservativ",
+      "name_en": "Slightly conservative",
+      "name_ru": "Слегка консерватор",
+      "name_sme": "Vehá konservatiiva",
+      "name_ara": "أميل إلى المحافظة",
+      "target_value": 1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Lupaan pyrkiä omalta osaltani vaikuttamaan siihen, että verorahat käytetään suomalaisten hyvinvoinnin, turvallisuuden ja varautumisen edistämiseen - ei esim. laittomasti maassa oleville tai vaikkapa sellaisille maahanmuuttajayhdistyksille, jotka edistävät toiminnallaan segregaatiota. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Poliittisesti aktiivinen olen ollut 2014 asti ja toiminut  mm.  Perussuomalaisten Nuorten pääsihteerinä, nuorisolautakunnan jäsenenä ja valtuustoryhmämme sihteerinä. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

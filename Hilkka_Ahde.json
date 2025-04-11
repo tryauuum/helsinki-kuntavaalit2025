@@ -1,0 +1,196 @@
+{
+  "id": 6333,
+  "first_name": "Hilkka",
+  "last_name": "Ahde",
+  "election_number": 827,
+  "party_id": 4,
+  "image": "kuvat/akv2025/6333/b6a7b94c-0825-4d14-b366-e0ae0e1f3acf",
+  "constituency_id": 25,
+  "video": "1-73818524",
+  "video_aspect": "1:1",
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 43,
+      "background_info_id": 10,
+      "name_fi": "Vasemmalle",
+      "name_sv": "Till vänster",
+      "name_en": "On the left",
+      "name_ru": "Слева",
+      "name_sme": "Gurut guvlui",
+      "name_ara": "اليسار",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan työskennellä sen puolesta, että Helsinki on hyvä työnantaja ja työnteon tukija\nKaupungin on oltava esimerkillinen ja luotettava työnantaja, jotta se saa työntekijöitä. Palkkakehitysohjelmaa sekä henkilöstöetujen kehittämistä tulee jatkaa motivoimaan työntekijöitä. Palkka tulee saada ajallaan ja oikein laskettuna. Kaupungin työntekijöitä ja heidän ammattitaitoaan tulee arvostaa eikä ulkoistaa heidän töitään. Työn ohella läheisiään hoitaville tulee taata tarpeeksi joustoja. Reiluun ja tasapuoliseen johtamiseen on kiinnitettävä huomiota ja työn kuormittavuutta tulee seurata. \n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1957,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 50,
+      "background_info_id": 16,
+      "name_fi": "ammattitutkinto",
+      "name_sv": "yrkesexamen",
+      "name_en": "Vocational degree",
+      "name_ru": "профессиональное училище",
+      "name_sme": "ámmátdutkkus",
+      "name_ara": "دبلوم مهني",
+      "target_value": 2,
+      "name_ukr": "професійне училище",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Tasa-arvo, oikeudenmukaisuus, solidaarisuus, suvaitsevaisuus ja sydämen sivistys.",
+      "se": "Tasa-arvo, solidaarisuus, oikeudenmukaisuus, suvaitsevaisuus, sydämen sivistys",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lupaan edistää turvallista ja laadukasta varhaiskasvatusta. Lastentarhanopettajana kannan huolta laadukkaasta päivähoidosta, sillä kelpoisesta henkilökunnasta on huutava pula. Jokaisella lapsella on oikeus laadukkaaseen, turvalliseen varhaiskasvatukseen pienessä ryhmässä lähellä kotia. Varhaiskasvatuksen henkilöstön tuesta ja palkkakehityksestä on huolehdittava eikä varhaiskasvatuslakia tule avata kelpoisuuksien osalta. Kaikkia ammattiryhmiä tarvitaan ja heidän saumaton yhteistyönsä on ensiarvoisen tärkeää lapsen kokonaisvaltaiselle kehitykselle.\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "facebook_url": "https://www.facebook.com/ahdehilkka    ",
+    "instagram_url": "https://www.instagram.com/hilkkaahde",
+    "X_url": "https://x.com/ahdehilkka",
+    "municipality_fix": {
+      "fi": "-Vanhusten inhimillinen hoito. Omaishoitajien riittäviin palveluihin, tukeen ja jaksamiseen on panostettava sekä huolehdittava laitospaikkojen riittävyydestä tehostetussa palveluasumisessa. Omaishoito saatava tasavertaiseksi palvelumuodoksi kotihoidon ja laitoshoidon rinnalle. Byrokratiaa on vähennettävä, tiedonkulku sosiaali- ja terveyspalvelujen sisällä ja välillä on saatava kuntoon ja hoitoon on päästävä tarvittaessa. Senioreille tulee tarjota maksuttomat uimahallivuorot naapurikuntien tavoin.\n\n-Varhaiskasvatukseen saatava kelpoinen henkilökunta, pienet ryhmäkoot ja päivähoitopaikka lähellä kotia. Varhaiskasvatuksen henkilöstön tuesta ja palkkakehityksestä on huolehdittava eikä varhaiskasvatuslakia tule avata kelpoisuuksien osalta.\n\n-Kaupungin tulee rakentaa riittävästi kohtuuhintaisia vuokra-asuntoja kaikkialle Helsinkiin ja vuokrat on myös pidettävä kohtuuhintaisina. Alueiden eriytymistä torjuttava asuntorakentamisen keinoin eli rakennettava vuokra- ja omistusasuntoja rinnakkain.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Kulttuuri- ja vapaa-aikalautakunnan jäsen, Uudenmaan maakuntavaltuuston jäsen, Oopperan hallintoneuvoston jäsen, Lastentautien tutkimussäätiön johtokunnan jäsen, Osuuskunta Tradekan hallituksen jäsen, Urheiluopistosäätiön valtuuskunnan jäsen, Kuljetusalan Demarien johtokunnan jäsen.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Lupaan edistää inhimillistä hoitoa ja turvallista arkea ikäihmisille sekä tukea omaishoitajille.\nToimittuani 10 vuotta omaishoitajana havahduin lukuisiin epäkohtiin ikäihmisten kohtelussa. Itsemääräämisoikeus sekä oikeus turvalliseen, arvokkaaseen vanhuuteen on ihmisoikeuskysymys. Omaishoitajien riittäviin palveluihin, tukeen ja jaksamiseen on panostettava sekä huolehdittava laitospaikkojen riittävyydestä tehostetussa palveluasumisessa. Byrokratiaa on vähennettävä, tiedonkulku sosiaali- ja terveyspalvelujen sisällä ja välillä on saatava kuntoon ja varmistettava, ettei kukaan eksy digipalvelujen viidakkoon. Ikäihmisten on päästävä hoitoon viipymättä ja kotiutumista sairaalasta on tuettava.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "kunnanvaltuutettu",
+        "se": "ledamot i kommunfullmäktige",
+        "en": "municipal councillor",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Olen toiminut kaupunginvaltuutettuna Oulussa, Vantaalla  ja Helsingissä. Olen tällä hetkellä varakansanedustaja",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "id": 2946,
+  "first_name": "Natalia",
+  "last_name": "Kallio",
+  "election_number": 117,
+  "party_id": 7,
+  "image": "kuvat/akv2025/2946/06da0ae6-0dec-43c7-8d34-897004e35f4f",
+  "constituency_id": 25,
+  "video": "1-73823567",
+  "video_aspect": "1:1",
+  "video_description_fi": "Hei, Mä olen Natalia Kallio ja mun tärkein tavoitteeni tulevalla valtuustokaudella on varmistaa, etteivät nuoret ole tulevaisuus, vaan tänään. \nNuorten paikka on kaikissa poliittisissa keskusteluissa ja päätöksissä. \nTällä hetkellä, Helsingissä päättäjän keski-ikä on 48 -vuotta ja viime kuntavaaleissa nuoret äänestivät kaikkia muita ikäryhmiä vähemmän. Muista siis äänestää! Ja äänestä mua vastavoimana hallituksen leikkauksille - päämääränä luoda yhdenvertainen, kulttuuriltaan rikas, luokkatietoinen ja rauhanomainen helsinki. \n\nÄänestämällä  vaikutat siihen miltä meidän Helsinki näyttää. \n",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 42,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti vasemmalle",
+      "name_sv": "Långt till vänster",
+      "name_en": "Strongly on the left",
+      "name_ru": "С самого левого края",
+      "name_sme": "Nannosit gurut guvlui",
+      "name_ara": "أقصى اليسار",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan edistää kulttuurisesti rikasta ja inhimillistä Helsinkiä vastavoimana hallituksen kurjistavalle leikkauspolitiikalle. Leikkaukset osuvat peruspalveluihin, kulttuuriin, mielenterveyspalveluihin ja ihmisten perusturvaan. Helsinki voi ja sen pitää tehdä toisin: panostaa saavutettavaan kulttuuriin, vahvoihin peruspalveluihin ja siihen, että jokainen helsinkiläinen voi elää turvassa ja arvokkaasti ilman pelkoa putoamisesta turvaverkkojen läpi.\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1996,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 54,
+      "background_info_id": 16,
+      "name_fi": "joku muu",
+      "name_sv": "någon annan examen",
+      "name_en": "Other",
+      "name_ru": "другое",
+      "name_sme": "muhtin eará",
+      "name_ara": "مستوى دراسي آخر",
+      "target_value": 6,
+      "name_ukr": "інше",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "1. Yhdenvertaisuus – Jokaisella on oikeus samoihin mahdollisuuksiin, taustasta riippumatta. Yhteiskunnan tehtävänä on aktiivisesti purkaa eriarvoisuutta.\n2. Sosiaalinen oikeudenmukaisuus – Hyvinvointia ja resursseja on jaettava reilusti, jotta jokainen saa tarvitsemansa tuen ja turvan. Ketään ei jätetä yksin.\n3. Kestävä kehitys – Tulevaisuutta ei voi rakentaa kestämättömälle pohjalle. Kaiken päätöksenteon on huomioitava ilmasto, luonto ja seuraavat sukupolvet.\n4. Demokratia – Päätöksenteon on oltava avointa, osallistavaa ja kaikkien saavutettavissa. Nuorten ja vähemmistöjen äänten tulee kuulua myös politiikassa.\n5. Vapaus – Vapaus tarkoittaa mahdollisuutta elää ilman syrjintää ja rajoitteita, mutta se vaatii myös rakenteita, jotka takaavat kaikille aidosti tasavertaiset ja turvalliset lähtökohdat.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lupaan edistää luokkatietoista Helsinkiä, jossa yhteiskuntaluokat tunnistetaan ja otetaan huomioon päätöksenteossa. Kaikilla helsinkiläisillä on oikeus arvokkaaseen elämään, riippumatta siitä, missä asuvat, paljonko tienaavat tai millaista työtä tekevät. Haluan, että Helsinki toimii yhdenvertaisesti ja oikeudenmukaisesti, eikä eriarvoisuus määritä sitä, kuka saa hoitoa ajoissa, kuka voi liikkua sujuvasti tai kenen lähiympäristöön panostetaan.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": null,
+    "facebook_url": null,
+    "instagram_url": "https://www.instagram.com/nataliakallio/",
+    "tiktok_url": "https://www.tiktok.com/@nataliakallio",
+    "municipality_fix": {
+      "fi": "Nuorten ääni kuuluviin:\nNuoret eivät ole tulevaisuus, vaan tänään, tämän päivän helsinkiläisiä. Helsinki tarvitsee päätöksentekoa, jossa nuorten hyvinvointiin panostetaan: koulutukseen, mielenterveyspalveluihin, maksuttomiin harrastuksiin ja edulliseen joukkoliikenteeseen.\nLuokkatietoinen ja yhdenvertainen Helsinki:\nHelsingin on tunnistettava yhteiskuntaluokat ja torjuttava segregaatiota. Jokaisella on oikeus palveluihin ajoissa ja yhdenvertaisesti. Eriarvoisuuden kasvu on poliittinen valinta, ja Helsinki voi valita toisin.\nKulttuuri ja peruspalvelut turvattava:\nHelsingin on oltava vastavoima hallituksen kurjistavalle leikkaus politiikalle. Leikkaukset iskevät peruspalveluihin, kulttuuriin, mielenterveyspalveluihin ja ihmisten perusturvaan. Helsinki voi ja sen pitää tehdä toisin: panostaa saavutettavaan kulttuuriin, vahvoihin peruspalveluihin ja siihen, ettei kukaan putoa turvaverkkojen läpi. Jokaisella on oikeus turvaan, hyvinvointiin ja elinvoimaiseen kaupunkiin.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Olen toiminut European Youth Forumin hallituksessa vuodesta 2023 ja tullut uudelleen valituksi toiselle kaudelle, joka päättyy kesällä 2026.\nKahden vuoden ajan olen työskennellyt sosiaalisen ja taloudellisen osallisuuden parissa, keskittyen muun muassa palkattomien harjoitteluiden kieltämiseen, nuorisotakuuseen, nuorten mielenterveyteen, alustatyöhön, työn tulevaisuuteen ja asumiseen. Lisäksi vastuullani on ollut nuorten oikeudet sekä yhteistyö YK:n kanssa.\nEnsimmäisellä kaudellani johdin myös European Youth Capital -projektia, joka edistää nuorten vaikuttamismahdollisuuksia ja kaupunkien nuorisopolitiikkaa eri puolilla Eurooppaa.\n\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Lupaan edistää nuorten asemaa ja ääntä kaupunginvaltuustossa. Nuoret eivät ole vain tulevaisuus, vaan he ovat tänään, tämän päivän helsinkiläisiä, joiden näkemykset ja kokemukset on otettava tosissaan päätöksenteossa. Haluan varmistaa, että Helsinki on kaupunki, jossa nuoret ovat osana toimivaa demokratiaa.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Järvenpään kaupungin nuorisovaltuutettu (2011-2012), Järvenpään kaupungin Rakennuslautakunnan nuorisovaltuutettu (2011-2012), IGLYO hallitus (2021-2022), European Youth Forum (2023-2026)",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

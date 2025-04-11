@@ -1,0 +1,179 @@
+{
+  "id": 6873,
+  "first_name": "Ester",
+  "last_name": "Dufva",
+  "election_number": 716,
+  "party_id": 6,
+  "image": "kuvat/akv2025/6873/91de09eb-9638-4e73-81be-926b2b7a16d1",
+  "constituency_id": 25,
+  "video": "1-73825426",
+  "video_aspect": "1:1",
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 44,
+      "background_info_id": 10,
+      "name_fi": "Hieman vasemmalle",
+      "name_sv": "Lite till vänster",
+      "name_en": "Slightly to the left",
+      "name_ru": "Немного слева",
+      "name_sme": "Vehá gurut guvlui",
+      "name_ara": "أميل إلى اليسار",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Teen Itä-Helsingistä houkuttelevamman.\n\nHaluan nostaa idän imagoa. Ongelmia on paikoittain, mutta suurimmassa osassa Itä-Helsinkiä on rauhallista ja turvallista, ja me itähelsinkiläiset viihdymme kotilähiöissämme. Meillä on luontoa, kulttuuria, tapahtumia, ostosmahdollisuuksia ja erinomaiset julkiset kulkuyhteydet. Tarvitsemme tänne lisää keskiluokkaisia ja hyvätuloisia asukkaita, ja heidän houkuttelemisekseen meidän on tehtävä kunnianhimoista kaupunkipolitiikkaa. Tarvitsemme rohkeaa rakentamista, joka kuitenkin säilyttää alueiden omaleimaisuuden, isoja tapahtumia, kulttuuria, urheilua ja lisää yrityksiä ja työpaikkoja. Samalla on turvattava nykyisten asukkaiden mahdollisuus pysyä alueella, asuntojen hinnat eivät saa karata heidän ulottumattomiinsa.",
+      "se": null,
+      "en": "I will strive to enhance the appeal of East Helsinki.\n\nI want to improve the image of East Helsinki. While we do have problem areas, the majority of East Helsinki is peaceful and safe, and we, the residents, enjoy living in our local neighbourhoods. We have nature, culture, events, shopping opportunities, and excellent public transport connections. We need more middle-class and high-income residents here, and to attract them, we must implement ambitious urban policies. We need bold construction projects that maintain the unique character of the areas, as well as large events, culture, sports, and more businesses and job opportunities. At the same time, we must ensure that current residents can stay in the area, with housing prices not becoming unaffordable for them. ",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1978,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Rehellisyys, oikeudenmukaisuus, empatia, rohkeus, ahkeruus.",
+      "se": null,
+      "en": "Honesty, fairness, empathy, courage, diligence.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Työskentelen alueellisen eriytymisen pysäyttämiseksi.\n\nItähelsinkiläisenä tunnen alueen ilot ja surut. Itä-Helsingissä asuu 25 % helsinkiläisistä ja alue on suuri, joten myös vaihtelua löytyy laidasta laitaan. Ongelmakohtiin on puututtava ja ennaltaehkäisy on siinä avainasemassa. Kouluihin on panostettava ja tehtävä niistä houkuttelevia, ei kartettavia. Painotus- ja kieliopintoihin on panostettava, ja annettava kouluille tarpeeksi resursseja sekä integroituun opetukseen että erityisluokkiin. Nuorisotyöhön tarvitaan lisää turvallisia aikuisia ja tiloja, joissa nuoret voivat viettää aikaa. Segregaation ehkäisyssä tärkeää on myös kaupunkisuunnittelu, julkisten tilojen kunnossapito, viranomaisten riittävät resurssit ja se, että myös itään tuodaan asioita, jotka houkuttelevat tulemaan tänne käymään muista kaupunginosista.",
+      "se": null,
+      "en": "I will work to prevent regional segregation. \n\nAs a resident of East Helsinki, I understand both the joys and struggles of people living in the area. East Helsinki is home to 25% of Helsinki’s population, and as a large region, there’s a lot of variation. We need to address problems, and prevention plays a key role. We must invest in schools and make them appealing to parents searching for a school for their children. More resources must be given to schools for integrated teaching and special education classes. Youth work also needs more safe adults and spaces where young people can spend time. Preventing segregation also requires thoughtful urban planning, the maintenance of public spaces, sufficient resources for authorities, and bringing events and attractions to the area that encourage visitors from other parts of the city.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://esterdufva.fi/",
+    "facebook_url": "https://www.facebook.com/esterdufvavihrea",
+    "instagram_url": "https://www.instagram.com/esterdufva/",
+    "tiktok_url": "https://www.tiktok.com/@esterdufva",
+    "municipality_fix": {
+      "fi": "Tällä hetkellä alueellinen tasa-arvo Helsingin sisällä ei toteudu. Ongelmia on esimerkiksi idän terveyskeskuksissa ja kouluissa. Asumisen korkea hinta on suuri ongelma, jonka suitsimiseksi kaupungin on rakennettava lisää kohtuuhintaista asumista. Helsingistä ei saa tulla vain rikkaiden kaupunki. Kaikilla suomalaisilla on oikeus valita asuinpaikkansa ja yhä useampi haluaa valita kotikaupungikseen Helsingin. Rakentaminen ja kaavoitus vaikuttavat kaupunkiin vuosikymmenten aikajanalla, ja ne on tehtävä harkiten, mutta rohkeasti. Vihreät ovat onnistuneet suojelemaan Helsingin luontoa, esimerkiksi Meri-Rastilaan saatiin Vihreiden ansiosta luonnonsuojelualue. Samaa työtä tulee jatkaa ja huomioida ilmastonmuutos ja luontoarvot kaikessa kaupunkikehityksessä.",
+      "se": null,
+      "en": "Currently, regional equality within Helsinki is not being realized. Problems are particularly evident in eastern health centres and schools. The high cost of housing is a major issue, and the city must build more affordable homes to address it. Helsinki must not become a city only for the wealthy. Every Finn has the right to choose their place of residence, and more people are choosing Helsinki as their home. Construction and urban planning shape the city for decades to come, so decisions must be made thoughtfully, yet boldly. The Greens have successfully protected Helsinki’s nature — for example, thanks to our efforts, a nature reserve was established in Meri-Rastila. This work must continue, keeping the climate change and environmental values as a starting point in all aspects of urban development, not just an afterthought.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Itä-Helsingin Vihreiden hallituksen jäsen.",
+      "se": null,
+      "en": "Member of the board with the East Helsinki Greens.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Edistän mikroyrittäjien toimintamahdollisuuksia.\n\n96 % Suomen yrityksistä on alle 10 työntekijän mikroyrityksiä, mutta ne ovat jääneet politiikassa paitsioon. Yritykset tuovat ympärilleen elämää, työtä ja liikettä, ja kipeästi kaivattua talouskasvua ja vaurautta. Kaupungin on huolehdittava yrittämisen edistämisestä kaavoituksen, neuvonnan, tuen ja työllistämisavun keinoin. Nyt huomio keskittyy alkaviin yrityksiin ja start-uppeihin. Sitä on ohjattava myös keskivaiheen yrityksiin, jotta ne pystyvät kehittämään toimintaansa ja selviävät ajoittain kohtaamistaan toimintaympäristön muutoksista. Ensimmäisen työntekijän työllistäminen on suuri askel yksinyrittäjälle ja erityisesti siihen tarvitaan kattavaa neuvontaa.\n\nSuunnittelin keskivaiheen yritysten tukemiseksi Stadibuusti-ohjelman, jossa yritysneuvoja kartoittaa ensin yhteistyössä yrittäjän kanssa yrityksen tilanteen, tutustuu toimintaan paikan päällä ja auttaa sen jälkeen yrittäjää löytämään ne vahvuudet, joita kehittämällä tämä voi menestyä parhaiten. Kolmen tapaamiskerran jälkeen yrittäjä voi tehdä toimintasuunnitelman laskelmineen ja hakea rahallista tukea. Tukea voisi saada 4 000 euroon asti, ja sitä maksettaisiin kuitteja vastaan 80 % alvittomasta hinnasta sellaisista tuotteista tai palveluista, joita on ostettu toiselta helsinkiläiseltä yritykseltä. Tuki olisi aina harkinnanvaraista ja edellyttäisi koko buustiputken läpikäymistä ja hyväksyttyä toimintasuunnitelmaa.",
+      "se": null,
+      "en": "I will promote opportunities for micro-entrepreneurs.\n\n96% of businesses in Finland are micro-enterprises with fewer than 10 employees, but they have been sidelined in politics. These businesses bring life and work around them, and are crucial for economic growth and prosperity. The city must support entrepreneurship through city planning, advisory services, and employment assistance. Currently, the focus is on start-ups and new businesses. Attention must also be directed to mid-stage companies, so they can grow and survive the challenges posed by changes in their operating environment. Hiring the first employee is a big step for a sole entrepreneur, and comprehensive guidance is essential for this process.\n\nI designed the Stadibuusti programme to support mid-stage businesses. In this programme, a business advisor first assesses the company's situation in collaboration with the entrepreneur, visits the business in person, and then helps the entrepreneur identify their strengths, which they can focus on to succeed. After three meetings, the entrepreneur can create an action plan with calculations and apply for financial support. The support can be up to 4,000 euros, paid against receipts for products or services purchased from another Helsinki-based business, at 80% of the pre-VAT price. Support is discretionary and requires completion of the entire support programme and an approved action plan.\n",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

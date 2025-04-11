@@ -1,0 +1,203 @@
+{
+  "id": 9399,
+  "first_name": "Sanna",
+  "last_name": "Kantola",
+  "election_number": 254,
+  "party_id": 19,
+  "image": "kuvat/akv2025/9399/353485e4-48c5-4680-89a9-a3b88e5faee8",
+  "constituency_id": 25,
+  "video": "1-73820118",
+  "video_aspect": "1:1",
+  "video_description_fi": "Moikka helsinkiläiset! Mä olen Sanna Kantola Helsingin Kruununhaasta. \n\nMun tärkein tavoite tulevalla valtuustokaudella on palauttaa Helsingin keskustan vetovoima. Me tarvitaan Helsingin keskustaan lisää ihmisiä: lisää asukkaita, lisää turismia, lisää yrittäjiä, lisää kahviloita, lisää popup-kauppoja.\n\nMulle tärkeitä arvoja ovat sivistys, suvaitsevaisuus, kulttuuri ja moninaisuus. \n\nTehdään Helsingistä Pohjoismaiden johtava luovan talouden pääkaupunki ja maailman paras paikka asua!\n",
+  "video_description_sv": "Hej helsingforsare! Jag är Sanna Kantola från Kronohagen, Helsingfors. \n\nMitt huvudmål under den kommande fullmäktigeperioden är att återställa Helsingfors centrums attraktivitet. Vi behöver fler människor i Helsingfors centrum: fler invånare, mer turism, fler företagare, fler kaféer, fler popup-butiker.\n\nVärderingar som är viktiga för mig är artighet, tolerans, kultur och mångfald. \n\nLåt oss göra Helsingfors till den ledande kreativa ekonomins huvudstad i Norden och till den bästa platsen att bo i världen!",
+  "video_description_en": "Hello Helsinki! I'm Sanna Kantola from Kruununhaka, Helsinki. \n\nMy main goal in the coming council term is to restore the attractiveness of the center of Helsinki. We need more people in the center of Helsinki: more residents, more tourism, more entrepreneurs, more cafes, more pop-up shops.\n\nValues ​​that are important to me are civility, tolerance, culture and diversity. \n\nLet's make Helsinki the leading creative economy capital of the Nordic countries and the best place to live in the world!",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 47,
+      "background_info_id": 10,
+      "name_fi": "Oikealle",
+      "name_sv": "Till höger",
+      "name_en": "To the right",
+      "name_ru": "Справа",
+      "name_sme": "Olgeš guvlui",
+      "name_ara": "اليمين",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan pitää huolta helsinkiläisten koulutuksesta ja siitä, ettei yhtään erityisluokkaa lakkauteta. Lupaan taistella segregaatiota vastaan.",
+      "se": "Jag lovar att ta hand om Helsingforsbornas utbildning och att inga specialklasser avskaffas. Jag lovar att kämpa mot segregationen.",
+      "en": "I promise to take care of the education of the people of Helsinki and that no special classes are abolished. I promise to fight against segregation.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1972,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "ranska",
+        "se": "franska",
+        "en": "French",
+        "ru": "французский",
+        "sme": "fránskkagiella",
+        "ara": "الفرنسية"
+      },
+      {
+        "fi": "espanja",
+        "se": "spanska",
+        "en": "Spanish",
+        "ru": "испанский",
+        "sme": "spánskkagiella",
+        "ara": "الإسبانية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "1. Kunnioitus kaikkia ihmisiä ja elämää kohtaan\n\nKaikki elämä on arvokasta. Kunnioitan kaikkia ihmisiä, eläimiä ja luontoa. Pyrin suojelemaan elämää. Kohtelen kaikkia tasa-arvoisesti.\n\n2. Vapaus\n\nUskon vapauteen. Vain vapaudessa voi kasvaa ja kukoistaa.\n\n3. Mahdollisuuksien tasa-arvo\n\nUskon koulutukseen, työhön, yrittäjyyteen ja vapaaseen markkinatalouteen, taustaan katsomatta.\n\n4. Yrittäminen ja optimismi\n\nVain yrittämällä saamme aikaan uutta. Yrittäminen vaatii uskoa ja kannustusta. Ilman toivoa ei ole tulevaisuutta, ja ilman tekoja ei ole toivoa.\n\n5. Luonnon ja monimuotoisuuden vaaliminen\n\nTalouskasvu ja yrittäminen ei ole kestävää, mikäli emme pidä huolta luonnon monimuotoisuuden vaalimisesta ja kestävästä kehityksestä. Olemme tämän velkaa tuleville sukupolville.\n\n",
+      "se": "1. Respekt för alla människor och livet\n\nAllt liv är värdefullt. Jag respekterar alla människor, djur och natur. Jag försöker skydda livet. Jag behandlar alla lika.\n\n2. Frihet\n\nJag tror på frihet. Endast i frihet kan du växa och blomstra.\n\n3. Lika möjligheter\n\nJag tror på utbildning, arbete, entreprenörskap och en fri marknadsekonomi, oavsett bakgrund.\n\n4. Strävan och optimism\n\nBara genom att försöka uppnå något nytt. Att försöka kräver tro och uppmuntran. Utan hopp finns det ingen framtid, och utan handling finns det inget hopp.\n\n5. Vårda naturen och mångfalden\n\nEkonomisk tillväxt och entreprenörskap är inte hållbart om vi inte tar hand om att vårda biologisk mångfald och hållbar utveckling. Vi är skyldiga kommande generationer detta.\n",
+      "en": "1. Respect for all people and life\n\nAll life is precious. I respect all people, animals and nature. I seek to protect life. I treat everyone equally.\n\n2. Freedom\n\nI believe in freedom. Only in freedom can you grow and flourish.\n\n3. Equality of opportunity\n\nI believe in education, work, entrepreneurship and a free market economy, regardless of background.\n\n4. Endeavor and optimism\n\nOnly by trying do we achieve something new. Trying requires faith and encouragement. Without hope there is no future, and without action there is no hope.\n\n5. Nurturing nature and diversity\n\nEconomic growth and entrepreneurship are not sustainable if we do not take care of nurturing biodiversity and sustainable development. We owe this to future generations.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lupaan palauttaa Helsingin keskustan vetovoiman panostamalla luovan talouden kasvuun, turismiin, tapahtumiin, keskusta-asumisen lisäämiseen sekä sujuvan liikenteen sallimiseen.",
+      "se": "Jag lovar att återställa Helsingfors centrums attraktionskraft genom att investera i tillväxten av den kreativa ekonomin, turism, evenemang, öka stadskärnan och tillåta smidig trafik.",
+      "en": "I promise to restore the attractiveness of downtown Helsinki by investing in the growth of the creative economy, tourism, events, increasing downtown living and allowing smooth traffic.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://sannakantola.kokoomus.net/",
+    "facebook_url": "https://www.facebook.com/sannakantolakuntavaalit/",
+    "instagram_url": "https://www.instagram.com/sannakantola/",
+    "X_url": "https://x.com/KantolaSanna",
+    "municipality_fix": {
+      "fi": "\n1. Helsingin keskustan vetovoiman palauttaminen\n\nHelsingin keskustan vetovoima tulee palauttaa ja yrittämisen edellytykset tulee laittaa kuntoon. Tarvitsemme keskustaan lisää ihmisiä, yrityksiä, kahviloita, ravintoloita, matkailijoita, asukkaita, työssäkävijöitä ja tapahtumia. \n\n2. Segregaation torjuminen ja koulutus\n\nKoulutuksessa tulee keskittyä olennaiseen eli oppimiseen. Painotettua opetusta tulee lisätä, ei vähentää.\n\n3. Kaupunkisuunnittelu\n\nHelsingin kaupunkisuunnittelu on ollut viime vuosina poukkoilevaa ja rahaa on tuhlattu päällekkäisiin toimintoihin. Kaupunkisuunnittelun tulee keskittyä olennaiseen ja kuunnella enemmän alueiden asukkaita ja yrittäjiä. \n\n4. Liikenne\n\nLiikenteen tulee mahdollistaa, ei rajoittaa. Joukkoliikenteen tulee olla sujuvaa ja kohtuuhintaista. Keskustan alue tarvitsee oman A-vyöhykkeen lipun. Autoilua ei tule rajoittaa, mutta keskustan kauttakulkuliikenne tulee ohjata keskustatunneliin. Pyöräilyverkostoa tulee kehittää. \n",
+      "se": "1. Återställande av Helsingfors centrums attraktivitet\n\nHelsingfors centrums attraktionskraft måste återställas och förutsättningarna för att göra affärer ska ordnas. Vi behöver fler människor, företag, caféer, restauranger, turister, invånare, företagsbesökare och evenemang i stadskärnan. \n\n2. Bekämpa segregation och utbildning\n\nUtbildning bör fokusera på det som är väsentligt, det vill säga lärande. Betonad undervisning bör ökas, inte minskas.\n\n3. Stadsplanering\n\nDe senaste åren har Helsingfors stadsplanering varit slumpartad och pengar har slösats bort på överlappande funktioner. Stadsplaneringen bör fokusera på det väsentliga och lyssna mer på invånarna och företagarna i regionerna. \n\n4. Trafik\n\nTrafiken ska aktiveras, inte begränsas. Kollektivtrafiken ska vara smidig och prisvärd. Centralområdet behöver en egen A-zonbiljett. Körningen bör inte begränsas, men genomfartstrafiken i centrum bör ledas till centrumtunneln. Cykelnätet måste utvecklas.",
+      "en": "1. Restoring the attractiveness of the center of Helsinki\n\nThe attractiveness of the center of Helsinki must be restored and the conditions for doing business must be put in order. We need more people, businesses, cafes, restaurants, tourists, residents, business visitors and events in the city center. \n\n2. Combating segregation and education\n\nEducation should focus on what is essential, i.e. learning. Emphasized teaching should be increased, not reduced.\n\n3. Urban planning\n\n Urban planning should focus on the essentials and listen more to the residents and entrepreneurs of the regions. \n\n4. Traffic\n\nTraffic should be enabled, not restricted. Public transport must be smooth and reasonably priced. The central area needs its own A-zone ticket. Driving should not be restricted, but city center transit traffic should be directed to the city center tunnel. The cycling network must be developed.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Helsingin kaupungin kulttuuri- ja vapaa-ajan lautakunnan kulttuuri- ja kirjastojaoston varajäsen.\n\nHelsingin Edistyskokoomus ry, hallityksen jäsen.\n\nFashion Finland ry, hallituksen jäsen.\n\nAkavalaiset Yrittäjät ry Valtuuston varajäsen.",
+      "se": "Suppleant i kultur- och biblioteksavdelningen i Helsingfors stads kultur- och fritidsnämnd.\n\nHelsinki Edistyskookomus ry, styrelseledamot.\n\nFashion Finland ry, styrelseledamot.\n\nAkavalaiset Yrittäjät ry Suppleant i fullmäktige.",
+      "en": "Deputy member of the culture and library department of the Culture and Leisure Board of the City of Helsinki.\n\nHelsinki Edistyskookomus ry, board member.\n\nFashion Finland ry, board member.\n\nAkavalaiset Yrittäjät ry Deputy member of the Council.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Lupaan pitää pienten yrittäjien puolia. Helsinki ja Suomi tarvitsevat nyt, enemmän kuin koskaan, kestävän kehityksen mukaista kasvua, toivoa ja optimistia. ",
+      "se": "Jag lovar att stödja småföretagare. Helsingfors och Finland behöver nu, mer än någonsin, hållbar tillväxt, hopp och optimism.",
+      "en": "I promise to support small entrepreneurs. Helsinki and Finland need now, more than ever, sustainable growth, hope and optimism.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

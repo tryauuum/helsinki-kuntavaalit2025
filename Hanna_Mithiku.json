@@ -1,0 +1,195 @@
+{
+  "id": 6728,
+  "first_name": "Hanna",
+  "last_name": "Mithiku",
+  "election_number": 154,
+  "party_id": 7,
+  "image": "kuvat/akv2025/6728/83177161-57ab-4b1b-8f9d-0e5b0cefb9a8",
+  "constituency_id": 25,
+  "video": "1-73819145",
+  "video_aspect": "1:1",
+  "video_description_fi": "Tärkein tavoitteeni tulevalla valtuustokaudella on edistää Helsingissä yhdenvertaisuutta ja osallisuutta, jotta kaikilla helsinkiläisillä on tasavertaiset mahdollisuudet elää hyvää elämää. Tavoitteeni on tehdä Helsingistä paikka, jossa jokainen voi kokea kuuluvansa joukkoon ja saada tarvitsemansa tuen. ",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 43,
+      "background_info_id": 10,
+      "name_fi": "Vasemmalle",
+      "name_sv": "Till vänster",
+      "name_en": "On the left",
+      "name_ru": "Слева",
+      "name_sme": "Gurut guvlui",
+      "name_ara": "اليسار",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Edullinen ja esteetön joukkoliikenne kaikille \nLupaan tehdä työtä sen eteen, että Helsingin joukkoliikenne on edullista, esteetöntä ja ympäristöystävällistä, jotta kestävä liikkuminen on mahdollista kaikille asukkaille.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1982,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Oikeudenmukaisuus\nYhdenvertaisuus\nSolidaarisuus\nRehellisyys\nVastuullisuus",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Yhdenvertaiset ja laadukkaat koulutusmahdollisuudet \nLupaan toimia sen puolesta, että Helsingin kouluissa jokainen lapsi ja nuori saa laadukasta opetusta turvallisessa ja syrjimättömässä ympäristössä, jossa moninaisuus nähdään voimavarana.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "facebook_url": "https://www.facebook.com/HMithiku/",
+    "instagram_url": "https://www.instagram.com/hannamithiku/",
+    "municipality_fix": {
+      "fi": "Helsingissä on tärkeää panostaa ennaltaehkäiseviin sosiaali- ja terveyspalveluihin, jotta voimme puuttua ongelmiin ajoissa ja vähentää raskaampien palveluiden tarvetta. Tämä edellyttää matalan kynnyksen palveluiden saatavuuden parantamista, mielenterveys- ja päihdepalveluiden resurssien lisäämistä sekä perheiden tukipalveluiden vahvistamista. Näin voimme edistää kaupunkilaisten hyvinvointia ja elämänlaatua sekä vähentää pitkän aikavälin kustannuksia",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Liikuntajaoston jäsen\nKirkolliskokouksen jäsen (1. varapuheenjohtaja)\nSateenkaaritanssijat ry., hallituksen jäsen",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Helsinki kaikille – yhdenvertaisuus ja osallisuus etusijalle\nLupaan edistää yhdenvertaisuutta ja monimuotoisuutta kaupungin päätöksenteossa ja palveluissa, jotta jokaisella asukkaalla on aidot mahdollisuudet osallistua ja vaikuttaa taustastaan riippumatta.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Olen toiminut yhden kauden varavaltuutettuna Helsingissä (2013-2017). HSL:n hallituksen jäsen olen ollut kaksi kautta (2013-2021). Kunnallispolitiikan lisäksi olen mukana ev.lut. kirkon päätöksenteossa. Olen toiminut mm. Helsingin yhteisen kirkkovaltuuston puheenjohtajana (2019-2022). Tällä hetkellä toimin kirkolliskokouksen ensimmäisenä varapuheenjohtajana.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "id": 712,
+  "first_name": "Touko",
+  "last_name": "Apajalahti",
+  "election_number": 710,
+  "party_id": 6,
+  "image": "kuvat/akv2025/712/69366a1f-fc9e-4a75-aa4e-20cbefeacd57",
+  "constituency_id": 25,
+  "video": "1-73814096",
+  "video_aspect": "1:1",
+  "video_description_fi": "Helsingin pitää olla parempi kaupunki ihan kaikenlaisille perheille. Meitä perheitä on moneksi, on ydinperheitä, bonusperheitä, yh-perheitä, monikkoperheitä, adoptioperheitä. Kaupungin palveluissa, neuvoloissa, päiväkodeissa, kouluissa, terveysasemilla, tulee paremmin tunnistaa perheiden erilaiset tilanteet. Tämä edellyttää, että palveluissa on riittävä osaaminen ja mahdollisuudet osaamisen kehittämiseen ja toisaalta, että henkilöstöllä on riittävästi resursseja ja aikaa erilaisten perheiden kohtaamiseen. Tämä ei ratkea resursseja kaatamalla, eivätkä toisaalta leikkaukset edesauta tavoitteen saavuttamista. Olennaista on toiminnan jatkuva kehittäminen niin, että kaikenlaisten perheiden tilanteet osataan kohdata.",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 45,
+      "background_info_id": 10,
+      "name_fi": "En vasemmalle enkä oikealle",
+      "name_sv": "Varken vänster eller höger",
+      "name_en": "Neither to the right or the left",
+      "name_ru": "Ни слева, ни справа",
+      "name_sme": "In gurut inge olgeš guvlui",
+      "name_ara": "لا إلى اليسار ولا إلى اليمين",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Edistän sitä, että helsinkiläisten elintavat voivat muuttua kestäviksi. Kestävien valintojen on oltava helppoja ja houkuttelevia. Lupaan pitää yllä keskustelua siitä, miten me helsinkiläiset voimme pienentää kulutuksemme vaikutuksia luontoon ja eläimiin.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1982,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "ranska",
+        "se": "franska",
+        "en": "French",
+        "ru": "французский",
+        "sme": "fránskkagiella",
+        "ara": "الفرنسية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Oikeudenmukaisuus, ekologisuus, ihmisten ja eläinten oikeudet, uteliaisuus, yhdenvertaisuus.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "On aika kehittää Itä-Helsinkiä reilusti. Täydennysrakentamiselle on tilaa, mutta jätetään luontokohteet rauhaan ja otetaan meidät alueen asukkaat paremmin mukaan suunnitteluun. Lupaan puolustaa Itä-Helsinkiä, sen luontoa ja sen asukkaita.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.toukoapajalahti.fi/",
+    "facebook_url": "https://www.facebook.com/apajalahti.touko/",
+    "instagram_url": "https://www.instagram.com/toukoapajalahti/",
+    "municipality_fix": {
+      "fi": "Helsingin pitää olla hyvä kaupunki kaikenlaisille perheille. Henkilökunnalla neuvoloista kouluihin ja päiväkodeista terveysasemille pitää olla mahdollisuudet osaamisen kehittämiseen ja aikaa perheiden monimuotoisuuden kohtaamiseen. Täydennysrakentamista tarvitaan lisää, mutta se ei saa tapahtua lähiluonnon kustannuksella. Itä-Helsingissä tämä tarkoittaa reilua lisärakentamista jo rakennetuille alueille, kuten esimerkiksi Itäkeskuksen ympäristöön. Helsinkiläisten ekologinen jalanjälki on edelleen liian suuri. Kaupungin omat päästöt ja luontovaikutukset on minimoitava, mutta myös meidän helsinkiläisten kulutustottumusten on muututtava kestäviksi. Helsinkiläisten suurimmat päästöt syntyvät lämmityksestä, ruoan ja tavaroiden kulutuksesta, sekä henkilöautoliikenteestä ja lentämisestä. Kestävä arki kuuluu kaikille, ja kaupunki voi osaltaan tehdä siitä houkuttelevaa ja helppoa.\n\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Haluan, että Helsinki on hyvä kaupunki kaikenlaisille perheille. Henkilöstöllä neuvoloista kouluihin tulee olla osaaminen ja resurssit perheiden moninaisuuden kohtaamiseen. Lupaan pitää erilaisten perheiden puolia.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

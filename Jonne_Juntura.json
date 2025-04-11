@@ -1,0 +1,252 @@
+{
+  "id": 12283,
+  "first_name": "Jonne",
+  "last_name": "Juntura",
+  "election_number": 864,
+  "party_id": 4,
+  "image": "kuvat/akv2025/12283/284f0a8b-c4c2-437a-9a17-c86bfee80069",
+  "constituency_id": 25,
+  "video": "1-73822078",
+  "video_aspect": "4:3",
+  "video_description_fi": null,
+  "video_description_sv": "Helsingfors har råd med bättre social- och hälsovårdstjänster. Vissa Helsingforsbor måste vänta mycket längre på att få träffa en läkare än andra. Det är inte rättvist. Jag kandiderar till stadsfullmäktige eftersom jag vill rätta till detta.",
+  "video_description_en": "Helsinki can afford better social and healthcare services. Some Helsinki residents have to wait much longer to see a doctor than others. This is not fair. I am running for the city council because I want to fix this.",
+  "video_description_ru": "Хельсинки может позволить себе лучшие социальные и медицинские услуги. Некоторые жители Хельсинки вынуждены ждать приема к врачу гораздо дольше, чем другие. Это несправедливо. Я баллотируюсь в городской совет, потому что хочу это исправить.",
+  "video_description_sme": "Helsinki sáhttá máksit buoret servodat- ja dearvvašvuođabálvalusaid. Muhtin helsinkiláččat fertet vuordit guhkebut go earáid ovdal go sáhttet beassat doaktárii. Dat ii leat vanhurskkas. Mun kandiderejin gielddastivrii, danne go mun háliidan divvut dán.",
+  "video_description_ara": "يمكن لهلسنكي تحمل نفقات خدمات اجتماعية وصحية أفضل. بعض سكان هلسنكي يضطرون للانتظار لفترة أطول بكثير لرؤية الطبيب مقارنةً بغيرهم. هذا ليس عادلاً. أترشح لعضوية مجلس المدينة لأنني أريد إصلاح هذا الوضع.",
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 43,
+      "background_info_id": 10,
+      "name_fi": "Vasemmalle",
+      "name_sv": "Till vänster",
+      "name_en": "On the left",
+      "name_ru": "Слева",
+      "name_sme": "Gurut guvlui",
+      "name_ara": "اليسار",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan tehdä tulevalla valtuustokaudella kaikkeni sen eteen, että Helsingissä otetaan käyttöön hoidon laadun ja jatkuvuuden mittareita, jotta niiden avulla voidaan kehittää kaupunkilaisille parempia palveluja. ",
+      "se": "Jag lovar att göra allt jag kan under den kommande mandatperioden för att införa indikatorer för vårdkvalitet och kontinuitet i Helsingfors, så att de kan användas för att utveckla bättre tjänster för invånarna.",
+      "en": "I promise to do everything in my power during the upcoming council term to introduce indicators for the quality and continuity of care in Helsinki, so that they can be used to develop better services for city residents.",
+      "ru": "Я обещаю сделать всё возможное в предстоящем сроке работы городского совета, чтобы в Хельсинки были введены показатели качества и непрерывности лечения, которые помогут развивать лучшие услуги для горожан.",
+      "sme": "Mun vuorjun dahkat visot maid veahkehit gohččunášši mielde boahtte gielddastivraáiggi, vai Helsinkis váldojuvvojit geahččaleamit buori ja jođánis buohccivuođa birra, vai dakkár geahččaleamit sáhttet ovddidit buoret bálvalusat gávpotlaš olbmuide.",
+      "ara": "أعدُ ببذل كل ما في وسعي خلال الفترة القادمة في المجلس لإدخال مؤشرات جودة واستمرارية الرعاية في هلسنكي، حتى يمكن استخدامها لتطوير خدمات أفضل لسكان المدينة.",
+      "ukr": "Я обіцяю зробити все можливе протягом наступної каденції міської ради, щоб у Гельсінкі було запроваджено показники якості та безперервності лікування, які допоможуть розвивати кращі послуги для мешканців міста.",
+      "som": "Waxaan ballanqaadayaa inaan sameeyo wax walba oo suurtagal ah inta lagu jiro xilliga xiga ee golaha si loo hirgeliyo tilmaamayaal tayada iyo joogtaynta daryeelka ee Helsinki, si ay gacan uga geystaan horumarinta adeegyo ka wanaagsan oo loogu talagalay dadka magaalada."
+    },
+    "age": 1991,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      },
+      {
+        "fi": "ranska",
+        "se": "franska",
+        "en": "French",
+        "ru": "французский",
+        "sme": "fránskkagiella",
+        "ara": "الفرنسية"
+      },
+      {
+        "fi": "venäjä",
+        "se": "ryska",
+        "en": "Russian",
+        "ru": "русский",
+        "sme": "ruoššagiella",
+        "ara": "الروسية"
+      },
+      {
+        "fi": "espanja",
+        "se": "spanska",
+        "en": "Spanish",
+        "ru": "испанский",
+        "sme": "spánskkagiella",
+        "ara": "الإسبانية"
+      },
+      {
+        "fi": "italia",
+        "se": "italienska",
+        "en": "Italian",
+        "ru": "итальянский",
+        "sme": "italiagiella",
+        "ara": "الإيطالية"
+      },
+      {
+        "fi": "kiina",
+        "se": "kinesiska",
+        "en": "Chinese",
+        "ru": "китайский",
+        "sme": "kiinnágiella",
+        "ara": "الصينية"
+      },
+      {
+        "fi": "joku muu",
+        "se": "något annat",
+        "en": "Other",
+        "ru": "другой",
+        "sme": "muhtin eará",
+        "ara": "لغة أخرى"
+      },
+      {
+        "fi": "arabia",
+        "se": "arabiska",
+        "en": "Arabic",
+        "ru": "арабский",
+        "sme": null,
+        "ara": "العربية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Läpinäkyvyys, käytännönläheisyys, yhdenvertaisuus, hyvinvointi ja oikeudenmukaisuus. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Kaupunkilaisilla on oikeus saada enemmän ja läpinäkyvästi tietoa sote-palvelujen tilanteesta, hoitojonoista ja kustannuksista. Kaupunginvaltuutettuna lupaan edistää tätä.",
+      "se": "Stadsbor har rätt att få mer och transparent information om situationen inom social- och hälsovårdstjänsterna, vårdköerna och kostnaderna. Som stadsfullmäktigeledamot lovar jag att främja detta.",
+      "en": "City residents have the right to receive more and transparent information about the state of social and healthcare services, treatment queues, and costs. As a city councilor, I promise to promote this.",
+      "ru": "Горожане имеют право получать больше прозрачной информации о состоянии социальных и медицинских услуг, очередях на лечение и расходах. Как член городского совета, я обещаю продвигать это.",
+      "sme": "Gávpotlaš olbmuin lea vuoigatvuohta oažžut eanet ja áibbas čielgas dieđu servodat- ja dearvvašvuođabálvalusaid dili birra, doavttirčalmmustaiguin ja stámmuid birra. Mun, gielddastivraáirras, vuorjun ovddidit dán.",
+      "ara": "يحق لسكان المدينة الحصول على مزيد من المعلومات الشفافة حول حالة الخدمات الاجتماعية والصحية، وقوائم الانتظار للعلاج، والتكاليف. بصفتي عضوًا في مجلس المدينة، أعد بتعزيز هذا الأمر.",
+      "ukr": "Мешканці міста мають право отримувати більше прозорої інформації про стан соціальних і медичних послуг, черги на лікування та витрати. Як член міської ради, я обіцяю сприяти цьому.",
+      "som": "Deganeyaashu waxay xaq u leeyihiin inay helaan macluumaad dheeraad ah oo daahfuran oo ku saabsan xaaladda adeegyada bulshada iyo caafimaadka, safafka daaweynta, iyo kharashaadka. Anigoo ah xubin golaha magaalada, waxaan ballanqaadayaa in aan horumariyo tan."
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://jonnejuntura.fi",
+    "facebook_url": "https://www.facebook.com/jonnejuntura1",
+    "instagram_url": "https://instagram.com/laakarijonnejuntura",
+    "X_url": null,
+    "tiktok_url": "https://tiktok.com/@laakarijonnejuntura",
+    "municipality_fix": {
+      "fi": "Helsingillä on varaa parempiin sote-palveluihin. Helsinki on kaupunkina edelläkävijä ja suunnannäyttäjä monessa asiassa, mutta terveyskeskuslääkärille pääsy on meillä maan hitainta, ja alueelliset erot hoitoon pääsyssä kaupungin sisällä merkittävät. Tämän haluan korjata.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Helsingillä on varaa parempiin sote-palveluihin. Osa helsinkiläisistä joutuu odottamaan lääkäriin pääsyä paljon pidempään kuin muut. Tämä ei ole reilua. Olen ehdolla kaupunginvaltuustoon, koska haluan korjata tämän. ",
+      "se": "Helsingfors har råd med bättre social- och hälsovårdstjänster. Vissa Helsingforsbor måste vänta mycket längre på att få träffa en läkare än andra. Det är inte rättvist. Jag kandiderar till stadsfullmäktige eftersom jag vill rätta till detta.",
+      "en": "Helsinki can afford better social and healthcare services. Some Helsinki residents have to wait much longer to see a doctor than others. This is not fair. I am running for the city council because I want to fix this.",
+      "ru": "Хельсинки может позволить себе лучшие социальные и медицинские услуги. Некоторые жители Хельсинки вынуждены ждать приема к врачу гораздо дольше, чем другие. Это несправедливо. Я баллотируюсь в городской совет, потому что хочу это исправить.",
+      "sme": "Helsinki sáhttá máksit buoret servodat- ja dearvvašvuođabálvalusaid. Muhtin helsinkiláččat fertet vuordit guhkebut go earáid ovdal go sáhttet beassat doaktárii. Dat ii leat vanhurskkas. Mun kandiderejin gielddastivrii, danne go mun háliidan divvut dán.",
+      "ara": "يمكن لهلسنكي تحمل نفقات خدمات اجتماعية وصحية أفضل. بعض سكان هلسنكي يضطرون للانتظار لفترة أطول بكثير لرؤية الطبيب مقارنةً بغيرهم. هذا ليس عادلاً. أترشح لعضوية مجلس المدينة لأنني أريد إصلاح هذا الوضع.",
+      "ukr": "Гельсінкі може дозволити собі кращі соціальні та медичні послуги. Деякі мешканці Гельсінкі змушені чекати набагато довше, щоб потрапити до лікаря, ніж інші. Це несправедливо. Я балотуюся до міської ради, тому що хочу це виправити.",
+      "som": "Helsinki waxay awood u leedahay adeegyo caafimaad iyo bulsho oo ka wanaagsan. Qaar ka mid ah dadka ku nool Helsinki waxay sugayaan muddo dheer si ay u arkaan dhakhtar marka loo eego kuwa kale. Tani ma aha cadaalad. Waxaan u tartamayaa golaha magaalada sababtoo ah waxaan rabaa in aan hagaajiyo tan."
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "HUSin tarkastuslautakunnan jäsen 6/2022-8/2024. HUSin psykiatrisen sairaanhoidon lautakunnan varajäsen 1/2022-11/2022",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

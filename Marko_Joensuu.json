@@ -1,0 +1,213 @@
+{
+  "id": 5088,
+  "first_name": "Marko",
+  "last_name": "Joensuu",
+  "election_number": 372,
+  "party_id": 3,
+  "image": "kuvat/akv2025/5088/6ba13a36-aa08-4edf-a9f9-8b609335408b",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 46,
+      "background_info_id": 10,
+      "name_fi": "Hieman oikealle",
+      "name_sv": "Lite till Till högerhöger",
+      "name_en": "SlightTo the rightly to the right",
+      "name_ru": "Немного справа",
+      "name_sme": "Vehá olgeš guvlui",
+      "name_ara": "أميل إلى اليمين",
+      "target_value": 1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Tulevaisuus\n\nTalouden ja turvallisuuden tavoiteorientoitumiset ovat keskeisiä avaimia Helsingin tulevaisuuden haasteiden ratkaisuissa. Oikein hoidettuna Helsingin talous ja turvallisuus luovat helsinkiläisille tervettä työllisyyttä, tuottavuuden kasvua, turvallisuutta ja tasa-arvoa poistamalla eriarvoisuutta. Vain talouden ja turvallisuuden oikea hoito takaavat Helsingin ja helsinkiläisten tulevaisuuden.",
+      "se": "Framtida\n\nEkonomiska och säkerhetsmässiga målinriktningar är centrala nycklar för att lösa Helsingfors framtida utmaningar. Om Helsingfors ekonomi och trygghet förvaltas på rätt sätt skapar sund sysselsättning, produktivitetstillväxt, trygghet och jämlikhet för helsingforsborna genom att eliminera ojämlikhet. Endast en korrekt förvaltning av ekonomin och säkerheten garanterar Helsingfors och dess invånares framtid.",
+      "en": "Future\n\nThe goal orientations of the economy and security are central keys in solving the challenges of the future of Helsinki. If managed correctly, Helsinki's economy and security will create healthy employment, productivity growth, security and equality for Helsinki residents by eliminating inequality. Only the correct management of the economy and security will guarantee the future of Helsinki and its residents.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1965,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      },
+      {
+        "fi": "ranska",
+        "se": "franska",
+        "en": "French",
+        "ru": "французский",
+        "sme": "fránskkagiella",
+        "ara": "الفرنسية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Itseohjautuvuus, vaihtelunhalu, yhdenmukaisuus, perinteisyys ja hyväntahtoisuus.",
+      "se": "Självstyrning, vilja till förändring, enhetlighet, traditionalism och välvilja.",
+      "en": "Self-direction, desire for change, uniformity, traditionalism and benevolence.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Turvallisuus\n\nHelsinkiläisten turvallisuus on taattava. Helsingin kaupungin asuinalueiden eriytymisessä täytyy huomioida kaavoitus ja hyvinvointi. Rikollisuus Helsingissä on saatava kuriin ja pois. Helsinkiläiset haluavat asua turvallisesti pelkäämättä väkivaltaa.",
+      "se": "Säkerhet\n\nHelsingforsbornas säkerhet måste garanteras. Differentieringen av bostadsområdena i Helsingfors stad måste ta hänsyn till planering och välbefinnande. Brottsligheten i Helsingfors måste fås under kontroll och elimineras. Helsingforsborna vill leva tryggt utan rädsla för våld.",
+      "en": "Security\n\nThe safety of Helsinki residents must be guaranteed. The differentiation of residential areas in the city of Helsinki must take into account planning and well-being. Crime in Helsinki must be brought under control and eliminated. Helsinki residents want to live safely without fear of violence.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://blogit.perussuomalaiset.fi/marko-joensuu/",
+    "facebook_url": "https://www.facebook.com/markojoensuups/",
+    "instagram_url": "https://www.instagram.com/marko65aj/",
+    "X_url": "https://x.com/joensuu_marko",
+    "municipality_fix": {
+      "fi": "Talous, turvallisuus ja tulevaisuus. \nHelsingin haasteet nyt ja tulevaisuudessa ratkaisee talouden ja turvallisuuden kokonaisvaltainen ja realistinen tavoitesuuntautuminen helsinkiläisten tasa-arvoisen hyvinvoinnin takaamiseksi.",
+      "se": "Ekonomi, säkerhet och framtida. \nHelsingfors utmaningar nu och i framtiden kommer att lösas genom en omfattande och realistisk målinriktning för ekonomin och säkerheten för att garantera helsingforsbornas lika välbefinnande.",
+      "en": "Finance, security and future. \nHelsinki's challenges now and in the future will be solved by a comprehensive and realistic goal orientation for the economy and security to guarantee the equal well-being of Helsinki residents.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Helsingin kaupungin vammaisneuvoston jäsen vuodesta 2021 saakka.",
+      "se": "Sedan 2021, den officiella ledamoten, Helsingfors stads handikappråd.",
+      "en": "Since 2021, The Official Member, The City of Helsinki Council on Disability.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 5,
+      "background_info_id": 2,
+      "name_fi": "Hieman konservatiivi",
+      "name_sv": "Ganska konservativ",
+      "name_en": "Slightly conservative",
+      "name_ru": "Слегка консерватор",
+      "name_sme": "Vehá konservatiiva",
+      "name_ara": "أميل إلى المحافظة",
+      "target_value": 1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Talous\n\nHelsingin kaupungin talous on oleellisinta kaikissa toiminnoissa ja ratkaisee sen mitä kaupunkilaiset saavat nyt ja tulevaisuudessa. Turhat menot pois ja rahat allokoidaan vain ja ainoastaan helsinkiläisille; sinne missä niitä todella tarvitaan, eikä turhuuksiin.",
+      "se": "Ekonomi\n\nHelsingfors stads ekonomi är den viktigaste av all verksamhet och avgör vad stadsborna får nu och i framtiden. Eliminera onödiga utgifter och fördela pengar endast till Helsingforsborna; där de verkligen behövs, och inte för fåfänga.",
+      "en": "Finance\n\nThe finances of the City of Helsinki are the most essential in all its activities and determine what the city's residents receive now and in the future. Unnecessary expenses must be eliminated and money will be allocated only to the residents of Helsinki; where they are really needed, and not to vanities.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "2024 Perussuomalainen Helsinki ry:n 2.vpj:nä. 2023 Perussuomalainen Helsinki ry:n 1.vpj:nä ensin & sitten pj:nä & Puoluevaltuuston jäsenenä.",
+      "se": "2024 Den 2. Vice ordförande och styrelseledamot i Finnspartiet Helsingfors rf. 2023 först den 1. Vice ordförande och styrelseledamot i Finnspartiet Helsingfors rf, därefter den ordföranden och styrelseledamoten i Finnspartiet Helsingfors rf och som ledamot i partifullmäktige.",
+      "en": "2024 The 2. Vice-Chairman and board member of The Finns Party Helsinki ry. 2023 first The 1. Vice-Chairman and board member of The Finns Party Helsinki ry, then The Chairman and board member of The Finns Party Helsinki ry and member of The Finns Party Council.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

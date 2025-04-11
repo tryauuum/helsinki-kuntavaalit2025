@@ -1,0 +1,203 @@
+{
+  "id": 23,
+  "first_name": "Jukka",
+  "last_name": "Mähönen",
+  "election_number": 577,
+  "party_id": 2,
+  "image": "kuvat/akv2025/23/258a1652-180a-44ff-9308-7a35fabc8408",
+  "constituency_id": 25,
+  "video": "1-73782826",
+  "video_aspect": "1:1",
+  "video_description_fi": "Tärkein tavoitteeni on lisää Helsinkiä ja lisää helsinkiläisiä. Meidän täytyy kaavoituksella ja rakentamismääräysten muuttamisella mahdollistaa lisärakentaminen ja rakentaminen ylöspäin. Mitä enemmän helsinkiläisiä on, sitä paremmat mahdollisuudet meillä on rakentaa yhteyksiä heidän välilleen, ja investoida liikenteeseen, niin kävelyyn, pyöräilyyn, erilaisiin julkisiin kuin autoihin. Mitä tehokkaammin rakennamme, erityisesti ylöspäin, sitä paremmin rakennuksiin mahtuu niin ihmiset, yritykset kuin heidän kulkuvälineensäkin. Lisää helsinkiläisiä, lisää hyvinvointia, myös tulevaisuudessa.",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 47,
+      "background_info_id": 10,
+      "name_fi": "Oikealle",
+      "name_sv": "Till höger",
+      "name_en": "To the right",
+      "name_ru": "Справа",
+      "name_sme": "Olgeš guvlui",
+      "name_ara": "اليمين",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Kaupungin näpit irti yritystoiminnasta. Kaupungin on luovuttava yrityksistään ja siirryttävää tehokkaisiin julkisiin hankintoihin markkinoilta, niin Helsingistä, muualta Suomesta kuin ulkomailtakin.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1963,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      },
+      {
+        "fi": "ranska",
+        "se": "franska",
+        "en": "French",
+        "ru": "французский",
+        "sme": "fránskkagiella",
+        "ara": "الفرنسية"
+      }
+    ],
+    "education": {
+      "id": 54,
+      "background_info_id": 16,
+      "name_fi": "joku muu",
+      "name_sv": "någon annan examen",
+      "name_en": "Other",
+      "name_ru": "другое",
+      "name_sme": "muhtin eará",
+      "name_ara": "مستوى دراسي آخر",
+      "target_value": 6,
+      "name_ukr": "інше",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Ihmisten tasa-arvoisuus. Ihmisten oikeus uskoa, mitä he haluavat. Ihmisten vapaus tehdä mitä haluavat, kunhan eivät vakavasti loukkaa toista. Demokratia. Oikeusvaltio.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Rohkeutta priorisoida myös Helsingin menot: kärjessä koulutus, terveys ja hyvinvointi. Rohkeutta priorisoida myös Helsingin tulot: verotuksessa maan tehottoman käytön verottamista ja vähemmän tulon verottamista, jotta kuntalaisille jää enemmän tuloistaan käytettäväksi helsinkiläisten työntekijöiden ja helsinkiläisten yritysten hyväksi.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://liberaalipuolue.fi/vaalit-2025/jukka-mahonen/",
+    "facebook_url": null,
+    "instagram_url": "https://www.instagram.com/jukkamahonen/",
+    "X_url": "https://x.com/jukka_mahonen",
+    "municipality_fix": {
+      "fi": "Rakentaminen ja kaavoitus. Infrastruktuuri. Koulutus.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Tieteellisten seurain valtuuskunnan hallituksen jäsen.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Lisää Helsinkiä Helsinkiin. Helsinki tarvitsee lisää helsinkiläisiä, ja he tarvitsevat asuntoja ja vapauden kulkea turvallisesti niin jalan, pyöräillen, sporalla ja muilla julkisilla kuin autoillakin. Puretaan kaavoitus- ja rakentamisrajoituksia, täydennysrakennetaan, rakennetaan ylöspäin. Maa käytetään asukkaiden ja yritysten, liikenteen, virkistäytymisen ja hyvän ilman ja ympäristön tarpeisiin, ei liikkumattomien autojen säilyttämiseen. Rakennetaan ylöspäin, niin autotkin mahtuvat.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

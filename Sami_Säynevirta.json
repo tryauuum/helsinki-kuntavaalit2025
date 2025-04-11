@@ -1,0 +1,188 @@
+{
+  "id": 3457,
+  "first_name": "Sami",
+  "last_name": "Säynevirta",
+  "election_number": 193,
+  "party_id": 7,
+  "image": "kuvat/akv2025/3457/b2b60c40-0533-4a37-bc50-53e201d0d9f7",
+  "constituency_id": 25,
+  "video": "1-73699070",
+  "video_aspect": "4:3",
+  "video_description_fi": "Haluan edistää kasvisruoan määrää Helsingin julkisissa palveluissa kuten kouluissa, päiväkodeissa, palvelutaloissa sekä työpaikoilla. Haluan lisäksi edistää luonnon arvostusta Helsingissä. Kaavoituksessa on otettava huomioon ensisijaisesti luontoarvot sekä luonnon monimuotoisuus olipa kyseessä lähimetsä, luonto- tai puistoalue. Luonnolla on itseisarvo ja se on tärkeä myös ihmisten hyvinvoinnille. Lisäksi haluan edistää kanssaihmisten inhimillistä kohtelua.",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 43,
+      "background_info_id": 10,
+      "name_fi": "Vasemmalle",
+      "name_sv": "Till vänster",
+      "name_en": "On the left",
+      "name_ru": "Слева",
+      "name_sme": "Gurut guvlui",
+      "name_ara": "اليسار",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Haluan edistää inhimillisiä arvoja kanssaihmisiä, eläimiä ja luontoa kohtaan. Eri taustaisten ihmisten arvostava kohtelu on mielestäni osoitus sivistyneestä yhteiskunnasta samoin kuin elämän kunnioittaminen muunlajisia eläimiä ja luontoa kohtaan. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1968,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Inhimillisyys, muiden lajien elämän kunnioitus, luonnonsuojelu, oikeudenmukaisuus, yhdenvertaisuus ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Haluan edistää lähiluonnon kuten metsien, puistojen, viheralueiden, kallioiden, kosteikoiden ja vesistöjen hyvinvointia. Tämä tarkoittaa sitä, että esimerkiksi kaavoituksessa asetetaan luontoarvot johdonmukaisesti etusijalle päätöksiä tehtäessä. Tämä on tärkeää ilmastonmuutoksen sekä luonto- ja lajikadon ehkäisemisen vuoksi. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "http://samisaynevirta.fi",
+    "facebook_url": "https://www.facebook.com/SamiSaynevirta/",
+    "instagram_url": "https://www.instagram.com/samisaynevirta",
+    "municipality_fix": {
+      "fi": "Julkisissa ruokapalveluissa kuten kouluissa, päiväkodeissa, palvelutaloissa sekä työpaikoilla on siirryttävä kasviperäiseen ruokailuun tai sitä on lisättävä huomattavasti. Se on tärkeää eläinten ja ympäristön kannalta. Tätä tavoitetta tukee myös nykyiset ravitsemussuositukset. Kaavoituksessa on huomioitava paremmin luontoarvot kuten lähimetsät, puisto-. ja viheralueet sekä muut luontoympäristöt. Ihmisten tasapuolista, yhdenvertaista ja kannustavaa kohtelua oli lisättävä erityisesti nuorten osalta. Päihde- ja mielenterveyspalveluiden pariin on päästävä mahdollisimman helposti. Muualta Suomeen muuttaneita on autettava ja kannustettava päästä osaksi suomalaista yhteiskuntaa ja turvaverkkoa. Pidän tärkeänä, että pidämme parempaa huolto ainutkertaisesta luonnosta, eläimistä ja kanssaihmisistä. Pidän lisäksi tärkeänä, että harrastumahdollisuudet ovat kaikkien saatavilla mahdollisimman helposti kulttuuria unohtamatta. Nämä tekevät Helsingistä vieläkin mukavamman paikan jokaiselle.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Eläinoikeusjärjestö Animalia: varapuheenjohtaja\nEurogroup for Animals: hallituksen jäsen\nHelsingin kaupunki: Kasvatuksen ja koulutuksen lautakunnan jäsen, Kasvatuksen ja koulutuksen lautakunnan jaoston jäsen\nVasemmistoliitto: Maatalouspoliiittisen työryhmän jäsen\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Haluan edistää eläinten parempaa asemaa yhteiskunnassamme lisäämällä kasviperäisen ruoan määrää julkisissa palveluissa kuten kouluissa, päiväkodeissa ja palvelutaloissa sekä työpaikoilla. Eläinten hyvinvointi ja oikeudet on otettava huomioon kaikessa päätöksenteossa.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Vasemmistoliiton eläinpoliittisen työryhmän puheenjohtaja (2020-2022)",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

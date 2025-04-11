@@ -1,0 +1,195 @@
+{
+  "id": 2520,
+  "first_name": "Amos",
+  "last_name": "Ahola",
+  "election_number": 344,
+  "party_id": 3,
+  "image": "kuvat/akv2025/2520/265d661a-bcbf-4044-903a-43c3feb0aca5",
+  "constituency_id": 25,
+  "video": "1-73811852",
+  "video_aspect": "1:1",
+  "video_description_fi": "Tärkein tavoitteeni on Turvallinen Helsinki – Helsingissä ei tule olla yhtäkään aluetta, jossa kukaan helsinkiläinen ei uskalla yksin kulkea, kellonaikaan katsomatta.",
+  "video_description_sv": null,
+  "video_description_en": "My most important goal is Safe Helsinki – there should not be a single area in Helsinki where no Helsinki resident dares to walk alone, regardless of the time of day.",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 48,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti oikealle",
+      "name_sv": "Långt till höger",
+      "name_en": "Strongly to the right",
+      "name_ru": "С самого правого края",
+      "name_sme": "Nannosit olgeš guvlui",
+      "name_ara": "أقصى اليمين",
+      "target_value": 3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Alempi kunnallisveroaste – Helsingin tulee kriittisesti käydä menopuolensa läpi, ja lopettaa tuhlaaminen. Kunnallisverotusta tulee laskea vastaavasti.",
+      "se": null,
+      "en": "Lower municipal tax rate – Helsinki needs to critically review its spending and stop wasting money. Municipal taxes need to be lowered accordingly.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1982,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Totuudenmukaisuus\nOnnellisuus / Hyvinvointi\nTehokkuus\nPitkä aikaväli\nValinnan vapaus",
+      "se": null,
+      "en": "Truthfulness\nHappiness / Well-being\nEfficiency\nLong-term\nFreedom of choice",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Valinnanvapaus – suunnitelmia siitä, että vanhemmat eivät saisi valita lapsensa koulua Helsingissä, ei tule toteuttaa.",
+      "se": null,
+      "en": "Freedom of choice – plans that would prevent parents from choosing their child's school in Helsinki should not be implemented.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://puheenvuoro.uusisuomi.fi/author/amosahola/",
+    "facebook_url": "https://www.facebook.com/Legioona",
+    "instagram_url": "https://www.instagram.com/Legioona",
+    "X_url": "https://x.com/AmosAhola",
+    "municipality_fix": {
+      "fi": "Turvallisuus, Helsingissä ei tule olla yhtäkään aluetta, jossa kukaan helsinkiläinen ei uskalla yksin kulkea, kellonaikaan katsomatta.",
+      "se": null,
+      "en": "Safety, there should be no area in Helsinki where no Helsinki resident dares to walk alone, regardless of the time of day.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Varavaltuutettu Helsingissä kaudella 2017-2021",
+      "se": null,
+      "en": "Deputy Commissioner in Helsinki for the period 2017-2021",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Turvallinen kaupunki – Helsingissä ei tule olla yhtäkään aluetta, jossa kukaan helsinkiläinen ei uskalla yksin kulkea, kellonaikaan katsomatta.",
+      "se": null,
+      "en": " A safe city – there should be no area in Helsinki where no Helsinki resident would dare to walk alone, regardless of the time of day.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,161 @@
+{
+  "id": 1045,
+  "first_name": "Jan",
+  "last_name": "Österberg",
+  "election_number": 215,
+  "party_id": 7,
+  "image": "kuvat/akv2025/1045/dbb4986d-7998-48ad-9987-b5c05e7c3615",
+  "constituency_id": 25,
+  "video": "1-73822886",
+  "video_aspect": "1:1",
+  "video_description_fi": "Tulevalla valtuustokaudella tulee tuoda työntekijöiden ääntä esiin kaikilla päätöksenteon asteilla, turvattava toimivat julkiset palvelut kaikille stadilaisille ja varmistaa, että ihmisillä on mahdollista elää tässä kaupungissa myös tulevaisuudessa.",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 42,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti vasemmalle",
+      "name_sv": "Långt till vänster",
+      "name_en": "Strongly on the left",
+      "name_ru": "С самого левого края",
+      "name_sme": "Nannosit gurut guvlui",
+      "name_ara": "أقصى اليسار",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan toimia laadukkaiden julkisten palveluiden puolesta kaupungissamme.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1991,
+    "language_skills": [],
+    "education": {
+      "id": 51,
+      "background_info_id": 16,
+      "name_fi": "ylioppilas",
+      "name_sv": "student",
+      "name_en": "High school graduate",
+      "name_ru": "выпускник лицея",
+      "name_sme": "studeanta",
+      "name_ara": "شهادة البكالوريا",
+      "target_value": 3,
+      "name_ukr": "випускник ліцею",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Oikeudenmukaisuus, solidaarisuus, tasa-arvo, ympäristöarvot ja turvallisuus.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lupaan puolustaa työntekijöiden asiaa niin valtuustossa kuin sen ulkopuolellakin.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.linktr.ee/janosterberg",
+    "facebook_url": "https://www.facebook.com/jpjosterberg",
+    "instagram_url": "https://www.instagram.com/keisaritatti/",
+    "municipality_fix": {
+      "fi": "Järkeä asumisen hintaan!\nTämä tarkoittaa julkista asuntotuotantoa, vuokrakaton selvittämistä ja kaupunkisuunnittelua asukkaiden, ei asuntosijoittajien ehdoilla. Rakentaessa tulee turvata lähiluonto ja kaupunkilaisten yhteiset viheralueet. Helsinki kuuluu meille kaikille, ei vain varakkaille!\n\nReilua työelämää!\nHelsingin kaupungin, kuten myös sen yhtiöiden ja liikelaitosten, tulee olla Suomen parhaita työpaikkoja. Panostetaan duunareiden työhyvinvointiin, oikeudenmukaiseen palkkaukseen ja toteutetaan kokeilu nelipäiväisestä työviikosta. Julkisella sektorilla on velvollisuus olla esimerkillinen työnantaja, eikä Stadi ole mitään ilman duunareitaan.\n\nPalvelut turvattava!\nToimivat ja laadukkaat palvelut ovat hyvinvoivan kaupungin elinehto. Helsingin tulee taata se, että niin terveyspalvelut, koulut, kuin julkinen liikennekin ovat kaikkien saavutettavissa. Peruspalvelut tulee järjestää riittävästi rahoitetun julkisen sektorin kautta ja välttää turhia yhtiöittämisiä ja yksityistämisiä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Tällä hetkellä minulla ei ole muita luottamustehtäviä, mutta aiemmin olen toiminut mm. varaluottamusmiehenä Pähkinärinteen postissa (2018-2019), Posti- ja logistiikka-alan unionin Helsingin osaston toimikunnassa 2019 ja Metropolian opiskelijakunnan Metkan edustajistossa 2022. Kunnallista luottamustoimikokemusta minulla on Helsingin ympäristölautakunnan ympäristö- ja lupajaostosta, jonka varajäsenenä toimin vuosina 2021-2023.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Lupaan edistää asumisen ja elämisen hinnan laskemista Helsingissä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

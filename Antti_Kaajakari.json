@@ -1,0 +1,171 @@
+{
+  "id": 7212,
+  "first_name": "Antti",
+  "last_name": "Kaajakari",
+  "election_number": 115,
+  "party_id": 7,
+  "image": "kuvat/akv2025/7212/f8167894-ecd9-41df-b607-7fce2390fbcf",
+  "constituency_id": 25,
+  "video": "1-73819681",
+  "video_aspect": "1:1",
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 42,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti vasemmalle",
+      "name_sv": "Långt till vänster",
+      "name_en": "Strongly on the left",
+      "name_ru": "С самого левого края",
+      "name_sme": "Nannosit gurut guvlui",
+      "name_ara": "أقصى اليسار",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Teen työtä sen puolesta, että myös pienipalkkaisella helsinkiläisellä on varaa asua kotikaupungissaan.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1981,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Tasa-arvo. Kaikki ihmiset ovat samalla viivalla, eikä ketään pidä kohdella eri tavalla heidän asemansa takia. Puhu työkaverillesi kuten pomollesi, kadulla kohtaamallesi asunnottomalle samoin, kuin presidentille.\n\nKunnioitus. Kaikkia ihmisiä pitää lähtökohtaisesti kohdella kunnioituksella, mutta kenenkään edessä ei pidä pokkuroida.\n\nInhimillisyys. Ihmiset ovat arvokkaita kaikkine puutteineen ja vikoineen. Virheet ja erehdykset ovat inhimillinen osa elämää, eivätkä ne saa määrittää ihmisen arvoa. Menneet teot eivät ole ihmisen mitta vaan se miten menneseen suhtautuu.\n\nYhteenkuuluvuus. Kukaan ei ole yksin luonut asemaansa vaan jokaisen meistä on riippuvainen muista ihmisistä ja ympäristönsä tuote. Vaikka emme pärjää ilman toisiamme, ei tämä saa tarkoittaa ulossulkevaa, hierarkkista ja tarkkaan normitettua yhteisöllisyyttä. Tarvitsemme kuitenkin toisiamme alusta loppuun.\n\nAvarakatseisuus. Annetaan tilaa erilaisuudelle, silloin kun sillä ei pyritä polkemaan muiden oikeuksia.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Tuon esiin niiden marginaaliryhmien ääntä, jotka eivät yleensä saa yhteiskunnassa ääntään kuuluviin. Asunnottomuus, päihde- ja mielenterveysongelmat pysyvät asialistan kärjessä myös vaalien jälkeen.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "http://anttikaajakari.fi",
+    "facebook_url": "https://www.facebook.com/kaajakari.antti/",
+    "instagram_url": "https://www.instagram.com/anttikaajakari/",
+    "tiktok_url": "https://tiktok.com/@anttikaajakari",
+    "municipality_fix": {
+      "fi": "Vakavaraisen Helsingin pitää toimia vastavoimana hallituksen kurjistavalle, hyvinvoinnin edellytyksiä tuhoavalle politiikalle. Helsingin pitää pystyä mahdollistamaan kohtuuhintainen asuntotuotanto ja vaikuttamaan julkisen liikenteen lipun hintoihin niin, että myös pienituloisella on varaa asua ja liikkua kotikaupungissaan.\n\nHelsingin on vastattava nopeasti lisääntyneeseen häätöjen määrään, esimerkiksi lisäämällä asumisneuvonnan resursseja, turvaamalla tuetun asumisen edellytykset ja perustamalla jälkihuollon nuorille oma asumisyksikkö.\n\nPeruspalveluiden riittävä rahoitus ei ole kulu, vaan investointi hyvinvoivaan tulevaisuuteen siinä missä rakennusinvestoinnitkin. Helsingin tulee huolehtia omalta osaltaan peruspalveluiden riittävästä rahoituksen turvaamisesta. Huonosti hoidetut peruspalvelut johtavat  kalliisiin erityispalveluihin ja tällä on kallis loppulasku.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Vasemmistoliiton Helsingin valtuustoryhmän varajäsen. HUS yhtymähallituksen varajäsen. HUS asunnot OY:n hallituksen jäsen.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Kamppailen palveluiden saavutettavuuden parantamiseksi. Palvelujärjestelmä ei saa olla rakennettu vain hyväjalkaisen digiosaajan tarpeista käsin.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

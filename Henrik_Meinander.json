@@ -1,0 +1,192 @@
+{
+  "id": 12304,
+  "first_name": "Henrik",
+  "last_name": "Meinander",
+  "election_number": 642,
+  "party_id": 8,
+  "image": "kuvat/akv2025/12304/49e51fed-331f-4a03-994e-50980b796f4f",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 46,
+      "background_info_id": 10,
+      "name_fi": "Hieman oikealle",
+      "name_sv": "Lite till Till högerhöger",
+      "name_en": "SlightTo the rightly to the right",
+      "name_ru": "Немного справа",
+      "name_sme": "Vehá olgeš guvlui",
+      "name_ara": "أميل إلى اليمين",
+      "target_value": 1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Haluan parantaa kaupungin korkeatasoisten kilpaurheilu- ja liikuntatilojen ja -ympäristöjen tarjontaa nostaakseni asukkaiden liikunnan intoa och kaupungin kaupallista urheilutoimintaa.",
+      "se": "Jag vill förbättra stadens utbud av högklassiga idrotts- och motionsutrymmen och miljöer för att locka invånarna att motionera mera och stödja dess kommersiella sportindustri.",
+      "en": "I want to improve Helsinki's supply of high-class sport facilities and environments to entice the citizens to exercise more and to support the urban sport industry.\n",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1960,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Laillisuus, tasa-arvo, suvaitsevuus, sivistys, itsekritiikki\n\n",
+      "se": "Laglydighet, jämlikhet, tolerans, bildning, självkritik",
+      "en": "Rule of law, equality, tolerance, Bildung, self-criticism",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Haluan terävöittää kaupungin profiilia historiallisesti kiehtovana ja monikielisenä ympäristönä yhteistyössä kaupallisten toimijoiden ja matkailualan kanssa. ",
+      "se": "Jag vill skärpa stadens profil som en historiskt fascinerande och mångspråkig miljö tillsammans med dess kommersiella aktörer och turistnäringar.\n",
+      "en": "I want to sharpen Helsinki's profile as an fascinating and multilingual town together with the commercial sector and turist industry.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 23,
+      "background_info_id": 8,
+      "name_fi": "ruotsi",
+      "name_sv": "Svenska",
+      "name_en": "Swedish",
+      "name_ru": "шведский",
+      "name_sme": "ruoŧagiella",
+      "name_ara": "السويدية",
+      "target_value": null,
+      "name_ukr": "шведська",
+      "name_som": "af-Iswiidhish"
+    },
+    "homepage_url": "https://henrikmeinander.com/",
+    "municipality_fix": {
+      "fi": "Kehittää kaupungin kansainvälistä mainetta, rakentaa keskustatunneli ja samalla ottaa tietulleja käyttöön, laajentaa lauttaliikenne Kruunuvuorenrantaan, satsata uusiin urheiluareenoihin.",
+      "se": "Förbättra stadens internationella renommé, bygga en centrumtunnel, införa vägtullar, utöka färjtrafiken till Kronbergsstranden, satsa på nya idrottsarenor.",
+      "en": "Improvement of the international reputation of the city, construction of a center tunnel och introduction traffic tolls, enlargement of the ferry traffic to Kruunuvuorenranta, investment in modern sports arenas.\n\n",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Helsingin yliopiston hallituksen jäsen \nElla och Georg Ehrnroothin säätiön puheenjohtaja ja hallituksen jäsen\n",
+      "se": "Medlem av Helsingfors universitets styrelse\nOrdförande och styrelsemedlem i Ella och Georg Ehrnrooths stiftelse",
+      "en": "Member of the University of Helsinki Board\nChair person and board member of Ella and Georg Ehrnrooth Foundation",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Haluan vahvistaa kaupungin mainetta kiinnostavana ja menestyksellisenä korkeakoulupaikkakuntana ja tutkimusympäristönä yhteistyössä opiskelijajärjestöjen ja korkeakoulujen kanssa.",
+      "se": "Jag vill utveckla stadens anseende som en attraktiv och framgångsrik högskoleort och forskningsmiljö tillsammans med dess studentorganisationer och högskolor.",
+      "en": "I want to strengthen the fame of Helsinki as an attractive and successful university town och research environment together with its student corporations and higher education sector.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

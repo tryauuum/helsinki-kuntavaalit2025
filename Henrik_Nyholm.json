@@ -1,0 +1,206 @@
+{
+  "id": 7199,
+  "first_name": "Henrik",
+  "last_name": "Nyholm",
+  "election_number": 165,
+  "party_id": 7,
+  "image": "kuvat/akv2025/7199/f0ae09e5-dee6-454b-baa7-ff614f7d2ccb",
+  "constituency_id": 25,
+  "video": "1-73821022",
+  "video_aspect": "16:9",
+  "video_description_fi": "Tärkeintä on muuttaa kaupungin suuntaa ja rakentaa oma polkumme miljoonakaupunkina. Polku jossa kaikilla on asuinpaikasta riippumatta palveluita, luontoa, virkistystä ja kulttuuria. Meillä on oikeus vaatia parempaa!",
+  "video_description_sv": "Det viktigaste är att ändra stadens riktning och bygga vår egen väg som en miljonstad. En stig där alla, oavsett var de bor, har tillgång till service, natur, rekreation och kultur. Vi har rätt att kräva bättre!",
+  "video_description_en": "The most important thing is to change the direction of the city and build our own path as a city of millions. A path where everyone, regardless of where they live, has access to services, nature, recreation and culture. We have the right to demand better!",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 43,
+      "background_info_id": 10,
+      "name_fi": "Vasemmalle",
+      "name_sv": "Till vänster",
+      "name_en": "On the left",
+      "name_ru": "Слева",
+      "name_sme": "Gurut guvlui",
+      "name_ara": "اليسار",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Stadissa on pystyttävä liikkumaan ketterästi (paitsi pyörillä myös autoilla) ja joukkoliikenne tarvitsee lisäpanostuksia pitääksemme lipunhinnat kohtuullisina. Esitän lisäksi yksittäisten matkalippujen voimassaolon pidentämistä kolmeen tuntiin.",
+      "se": "Det måste vara möjligt att röra sig smidigt i staden (inte bara med cykel utan också med bil) och kollektivtrafiken behöver ytterligare investeringar för att hålla biljettpriserna på en rimlig nivå. Jag föreslår också att giltighetstiden för enskilda biljetter förlängs till tre timmar.",
+      "en": "It must be possible to move nimbly around the city (not only by bicycle but also by car) and public transport needs additional investments to keep ticket prices reasonable. I also propose that the validity of individual tickets be extended to three hours.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1987,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Oikeudenmukaisuus, yhdenvertaisuus, hyväntahtoisuus, lojaalisuus ja rehellisyys.",
+      "se": "Rättvisa, jämlikhet, välvilja, lojalitet och ärlighet.",
+      "en": "Justice, equality, benevolence, loyalty and honesty.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Yleiskaava uusiksi! Ansaitsemme tarkkarajaisen yleiskaavan ja säilyttää mahdollisimman paljon ihmisten rakkaita luontoalueita Helsingissä. Jokaiselle kävelykeskustan ulkopuolella asuvalle helsinkiläiselle on taattava lähiluontokohde ja virikkeellinen virkistysalue. Lähiluontoa tulee säilyttää nykyistä enemmän, ja sen tulee olla myös metsää.",
+      "se": "En ny stadsplan! Vi förtjänar en tydlig generalplan för stadsplaneringen och måste bevara så mycket som möjligt av helsingforsarnas älskade naturområden. Alla helsingforsare som bor utanför promenadcentrumet skall garanteras ett närnaturmål och ett stimulerande rekreationsområde. Den lokala naturen måste bevaras mer än i dag, och den måste också vara skog.",
+      "en": "A new master zoning plan! We deserve a well-defined zoning plan and preserve as many of people's beloved natural areas in Helsinki as possible. Every Helsinki resident living outside the direct city centre must be guaranteed a local nature destination and a stimulating recreational area. Local nature must be preserved more than at present, and it must also be lush forest.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.henkkanyholm.fi/",
+    "facebook_url": "https://www.facebook.com/ihmisoikeudet",
+    "instagram_url": "https://www.instagram.com/easthelsinki",
+    "municipality_fix": {
+      "fi": "Helsingillä on edessään kriittiset vuodet, kun kaupunki kasvaa vauhdilla. Meidän tulee estää asuinalueiden eriytyminen ja ankea näivettyminen, jossa palvelut keskittyvät entisestään, häviävät tai tulevat liian kalliiksi. Ei unohdeta naapureita ja lähiöiden ääntä kaavoituksessa. Pidetään huolta turvallisuudesta ja turvallisuuden tunteesta. Jokaisen kokemusta Helsingissä määrittelee yhä enemmän missä asuu ja vaikka kokemus on aina kaikilla eri, on se yhä useammalla huono. Tilannetta vakavoittaa vihamielinen Orpon ja Purran hallitus häädöillänsä ja sote-leikkauksillaan.\n\nEmme voi odottaa väkivallan ja ahdingon kaappavan alueita Helsingistä eikä nuorten aseistautuminen saa tulla tavaksi. Hyvinvointipalvelut ovat lupaus olemassaolostamme ja rakennuspalikoita turvallisemmalle kaupungille. Panostus ihmisiin on tehtävä pikaisesti ja pysyvästi.\n\nHelsingin ominaispiirteet kuten luottamus, turva ja luonto; kalliot, rannat ja metsät on säilytettävä ja asukkaiden aito kuunteleminen toteutettava.",
+      "se": "Helsingfors står inför kritiska år när staden växer snabbt. Vi måste förhindra segregation och trist borttynande av bostadsområden, där tjänsterna blir koncentrerade, försvinner eller blir för dyra. Låt oss inte glömma grannarna och förortens röst i zonindelningen. Låt oss ta hand om säkerheten och känslan av trygghet. Allas upplevelse i Helsingfors bestäms i allt högre grad av var de bor, och även om allas upplevelser alltid är olika, är upplevelsen dålig för allt fler. Situationen förvärras av den fientliga Orpo- och Purra-regeringen med t.ex. nedskärningar i social- och hälsovården.\n\nVi kan inte förvänta oss att våld och nöd ska kapa områden och ungdomarna får inte ta för vana att beväpna sig. Välfärdstjänster är ett löfte om vår existens och byggstenar för en tryggare stad. Investeringar i människor måste göras snabbt och kontinuerligt. Helsingfors särdrag, såsom förtroende, säkerhet och natur; klipporna, stränderna och skogarna ska bevaras och man måste lyssna genuint på invånarna",
+      "en": "Helsinki is facing critical years as the city grows rapidly. We must prevent the segregation and dreary withering away of residential areas, where services have become even more concentrated, disappear or become too expensive. Let's not forget the neighbours and the voice of the suburbs in zoning. Let's take care of safety and the feeling of security. Everyone's experience in Helsinki is increasingly determined by where they live, and even though everyone's experience is always different, it is bad for more and more people. The situation is aggravated by the hostile Orpo and Purra government with its evictions and cuts to social welfare and health care.\n\nWe cannot expect violence and distress to hijack areas of Helsinki, and young people must not get a habit of arming themselves. Well-being services are a promise of our existence and building blocks for a safer city. Investments in people must be made quickly and permanently.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Noin kymmenen aktiivista, joista merkittävimmät ovat toimet Vasemmiston puoluehallituksessa, Työväen Urheiluliitossa 1. varapuheenjohtajana, Stadion-säätiössä, Kaupunkitilat Oy:ssä, Vartiokylän työväentalon osakeyhtiön puheenjohtajana, Reino Frin Urheilusäätiössä sekä Viljo ja Vieno Salon säätiössä. Kaikki nykyiset ja aiemmat luottamustoimeni löytyvät kotisivuiltani.",
+      "se": "Ett tiotal aktiva förtroendeuppdrag, av vilka de mest betydande är posterna i Vänsterns partistyrelse, 1:a vice ordförande för Arbetarnas Idrottsförbund, Stadionstiftelsen, Kaupunkitilat Oy, ordföranden för Botby arbetarehusets aktiebolag, Reino Fris Idrottsstiftelse och Viljo och Vieno Salos Stiftelse. Alla mina nuvarande och tidigare förtroendeuppdrag hittar du på min hemsida.",
+      "en": "About ten active positions of trust, the most significant of which are positions in the Left Alliance Party Board, the 1st Vice President of the Finnish Workers' Sports Federation, the Stadium Foundation, Kaupunkitilat Oy, the Chairman of the Vartiokylä Workers' House, the Reino Fri Sports Foundation and the Viljo and Vieno Salo Foundation. All my current and previous positions of trust can be found on my website.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": "Olen kaksikielinen ja käynyt kouluni ruotsiksi.",
+      "se": "Jag är tvåspråkig.",
+      "en": "Finnish and Swedish home languages.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": "Lupaan säilyttää Helsingin duunarien kaupunkina. Täällä on pystyttävä elämään ja nauttimaan elämästä alle kolmen tonnin palkalla. Minulla on tähän paitsi pitkäaikaisia tavoitteita myös heti toteutettavia konkreettisia ehdotuksia kuten Stadin palkkojen perusosan nosto vähintään 2200 euroon.",
+      "se": "Jag lovar att bevara Helsingfors som arbetarnas stad. Här måste du kunna leva och njuta av livet med en lön på mindre än tre tusen euro. Förutom långsiktiga mål har jag också konkreta förslag som kan genomföras omedelbart, till exempel en höjning av grunddelen av lönerna i Helsingfors till minst 2200 euro.",
+      "en": "I promise to keep Helsinki as a city for workers. Here you have to be able to live and enjoy life with a salary of less than three thousand euros. In addition to long-term goals, I also have concrete proposals that can be implemented immediately, such as raising the basic amount of salaries in Helsinki to at least 2200 euros.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Onhan sitä. Olen muun muassa toiminut pari aiempaa kautta varavaltuutettuna ja myös kaupunginhallituksessa.",
+      "se": "Jag har till exempel suttit ett par tidigare mandatperioder som suppleant i fullmäktige och även i stadsstyrelsen.",
+      "en": "Of course. For example, I have served a couple of previous terms as a deputy councillor and also in the city board.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

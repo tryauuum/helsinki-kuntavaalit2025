@@ -1,0 +1,187 @@
+{
+  "id": 6145,
+  "first_name": "Otto",
+  "last_name": "Meri",
+  "election_number": 281,
+  "party_id": 19,
+  "image": "kuvat/akv2025/6145/f899bf63-bc20-4ad6-9f37-24dd4638843f",
+  "constituency_id": 25,
+  "video": "1-73816434",
+  "video_aspect": "1:1",
+  "video_description_fi": "Olen Otto Meri, 35-vuotias asianajaja, kaupunginvaltuutettu ja perheenisä. Olen toiminut kahdeksan vuotta kaupunginvaltuutettuna ja alkanut hiljalleen ymmärtää, mitä Helsingissä pitäisi tehdä paremmin. Kaupunki on vuosikymmenien saatossa ottanut itselleen liikaa tehtäviä, mikä on samalla paisuttanut työntekijöiden määrää. Tällä hetkellä Helsingin kaupungilla on yli 38 000 työntekijää.\n\nSeuraavalla valtuustokaudella Helsingin pitää keskittyä ydintehtäviinsä ja karsia turhan rönsyt pois. Samalla on vähennettävä keski- ja ylemmän johdon määrää. Päiväkoteihin, kouluihin ja terveyskeskuksiin tarvitsemme lisää työntekijöitä. Sen sijaan erilaisia johtajia ja päälliköitä on tällä hetkellä liikaa.\n\nKeskitytään siis perusasioihin ja jätetään puuhastelu vähemmälle. Se on helsinkiläisten etu.",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 48,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti oikealle",
+      "name_sv": "Långt till höger",
+      "name_en": "Strongly to the right",
+      "name_ru": "С самого правого края",
+      "name_sme": "Nannosit olgeš guvlui",
+      "name_ara": "أقصى اليمين",
+      "target_value": 3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Keskityn kaupungin perustehtävien saamiseksi kuntoon.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1989,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 54,
+      "background_info_id": 16,
+      "name_fi": "joku muu",
+      "name_sv": "någon annan examen",
+      "name_en": "Other",
+      "name_ru": "другое",
+      "name_sme": "muhtin eará",
+      "name_ara": "مستوى دراسي آخر",
+      "target_value": 6,
+      "name_ukr": "інше",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Vapaus, perhe, sivistys, markkinatalous ja ympäristö",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Edistän keskustatunnelin käyttöönottoa.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "http://www.ottomeri.fi",
+    "facebook_url": "https://www.facebook.com/OttoMeriKokoomus",
+    "instagram_url": "https://www.instagram.com/ottomeri/",
+    "X_url": "https://x.com/OttoMeri",
+    "municipality_fix": {
+      "fi": "Helsingissä pitäisi ottaa käyttöön keskustatunneli, panostaa perusasioihin ja unohtaa muu puuhastelu sekä tehostaa kaupungin henkilöstöä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "kaupunkiympäristölautakunnan jäsen, kaupunginhallituksen varajäsen",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Lupaan puolustaa helsinkiläisiä veronmaksajia.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "kunnanvaltuutettu",
+        "se": "ledamot i kommunfullmäktige",
+        "en": "municipal councillor",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

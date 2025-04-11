@@ -1,0 +1,197 @@
+{
+  "id": 12880,
+  "first_name": "Feniks",
+  "last_name": "Willamo",
+  "election_number": 211,
+  "party_id": 7,
+  "image": "kuvat/akv2025/12880/e0f548f7-eb56-4b59-a4d4-2441e5216da6",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 42,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti vasemmalle",
+      "name_sv": "Långt till vänster",
+      "name_en": "Strongly on the left",
+      "name_ru": "С самого левого края",
+      "name_sme": "Nannosit gurut guvlui",
+      "name_ara": "أقصى اليسار",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Sitoudun tukemaan laadukkaita ja syrjimättömiä julkisia palveluita. Helsingissä jokaisella tulisi olla vaivaton pääsy hoitoon, oikeus riittävän toimeentuloon sekä asuntoon.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1992,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 51,
+      "background_info_id": 16,
+      "name_fi": "ylioppilas",
+      "name_sv": "student",
+      "name_en": "High school graduate",
+      "name_ru": "выпускник лицея",
+      "name_sme": "studeanta",
+      "name_ara": "شهادة البكالوريا",
+      "target_value": 3,
+      "name_ukr": "випускник ліцею",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Oikeudenmukaisuus\nTasa-arvo\nSuvaitsevaisuus\nAntifasismi\nAntirasismi",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Sitoudun ajamaan kunnianhimoista ilmastopolitiikkaa vallitsevan ilmastohätätilan edessä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://linktr.ee/fenikswillamo",
+    "facebook_url": "https://facebook.com/feniks.willamo",
+    "instagram_url": "https://instagram.com/fenikswillamo",
+    "tiktok_url": "https://tiktok.com/@fenikswillamo",
+    "municipality_fix": {
+      "fi": "Helsinki on vauras kunta, jolla olisi varaa tarjota kaikille asukkailleen nopea pääsy terveydenhuollon sekä mielenterveyspalveluiden pariin. Asunnottomuutta ei pitäisi kaltaisessamme sivistysvaltiossa enää esiintyä. Helsinkiin tarvitaan myös lisää ilmaisia ja matalan kynnyksen kulttuuritiloja sekä paikkoja, joissa järjestää live-keikkoja sekä muita tapahtumia. Ilmastoasioissa Helsingin pitäisi olla kansainvälinen edelläkävijä ja muuttaa kaikki ruokatarjoilu hallinnoimissaan tiloissa kasvipohjaiseksi. Julkinen liikenne on myös kallistunut kestämättömällä tavalla ja ilmaisen joukkoliikenteen mahdollisuudesta tulisi vakavasti otettavana vaihtoehtona keskustella.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Varavaltuutettu, Helsingin kaupunginvaltuusto\n\nHallituksen jäsen, Helsingin tapahtumasäätiö\n\nHallituksen jäsen, Suomen Ohjelmatoimistot ja Agentit ry",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Sitoudun edistämään elävää kaupunkikulttuuria ja sen edellytyksiä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Olen toiminut Helsingin Vasemmiston valtuustoryhmän varavaltuutettuna 2021-2025. Tämän lisäksi olen toiminut aktivismin parissa vuosikausia, järjestänyt mielenosoituksia sekä erilaisia tukitapahtumia.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "id": 13005,
+  "first_name": "Kristina",
+  "last_name": "Michelsson",
+  "election_number": 644,
+  "party_id": 8,
+  "image": "kuvat/akv2025/13005/42f7bab0-c14b-48d9-a6ed-c28eb3017dfd",
+  "constituency_id": 25,
+  "video": "1-73824083",
+  "video_aspect": "1:1",
+  "video_description_fi": "Helsinkiä kehitetään nyt tehokkuus edellä, mutta liian usein estetiikka ja viihtyisyys jäävät toissijaisiksi. Tämä ei ole vain esteettinen kysymys – kaupunkitila vaikuttaa suoraan mielenterveyteen, yhteisöllisyyteen ja kaupungin vetovoimaan.\nTarvitsemme päätöksiä, jotka varmistavat, että Helsingissä on kauniita julkisia tiloja, arkkitehtonisesti laadukkaita rakennuksia ja elävää kaupunkikulttuuria. Liian monet uudet asuinalueet tuntuvat persoonattomilta, tyhjät liiketilat rapistuvat ja hoivaympäristöissä kauneus unohdetaan.\n Kauneus ei ole luksusta, vaan hyvinvointia ja kestävää tulevaisuutta.\nTärkein tehtäväni ja tavoitteeni on huolehtia että kaupunkia rakennetaan paremmin ja kauniimmin. Turhia viheralueiden karsimisia on myös vältettävä. \nNyt on aika tehdä Helsingistä kaupunki, jossa ihmiset viihtyvät – ei vain tänään, vaan vielä sadan vuoden päästä. Yhdessä.",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 46,
+      "background_info_id": 10,
+      "name_fi": "Hieman oikealle",
+      "name_sv": "Lite till Till högerhöger",
+      "name_en": "SlightTo the rightly to the right",
+      "name_ru": "Немного справа",
+      "name_sme": "Vehá olgeš guvlui",
+      "name_ara": "أميل إلى اليمين",
+      "target_value": 1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "3. Kaksikielisyys on osa kansallista identiteettiämme etenkin pääkaupungissa - pidetään siitä kiinni\nKansalliskielet, suomi ja ruotsi, ovat perustuslaillinen oikeus ja osa pohjoismaista identiteettiämme. Lupaan olla pitämässä huolta, että julkiset palvelut toimivat aidosti kaksikielisinä – jotta jokainen, erityisesti heikompiosaiset voivat asioida omalla äidinkielellään ja myös että Suomen siteet muuhun Pohjolaan vahvistuvat.",
+      "se": "3. Tvåspråkighet är en del av vår nationella identitet – särskilt i huvudstaden – låt oss bevara den\n\nDe nationella språken, finska och svenska, är en konstitutionell rättighet och en del av vår nordiska identitet. Jag lovar att arbeta för att offentliga tjänster fungerar genuint tvåspråkigt – så att alla, särskilt de mest utsatta, kan uträtta sina ärenden på sitt modersmål och för att stärka Finlands band till övriga Norden.",
+      "en": "3. Bilingualism is Part of Our National Identity – Especially in the Capital – Let’s Preserve It\n\nThe national languages, Finnish and Swedish, are a constitutional right and an integral part of our Nordic identity. I promise to ensure that public services function genuinely bilingually – so that everyone, especially the most vulnerable, can handle matters in their mother tongue and so that Finland’s ties with the rest of the Nordic region are strengthened.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1970,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "ranska",
+        "se": "franska",
+        "en": "French",
+        "ru": "французский",
+        "sme": "fránskkagiella",
+        "ara": "الفرنسية"
+      },
+      {
+        "fi": "italia",
+        "se": "italienska",
+        "en": "Italian",
+        "ru": "итальянский",
+        "sme": "italiagiella",
+        "ara": "الإيطالية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "1.\nRehellisyys – Avoimuus, läpinäkyvyys ja johdonmukaisuus luovat luottamusta ja oikeudenmukaisuutta.\n\n2.\nVastuullisuus – Omien tekojen ja päätösten vaikutusten ymmärtäminen ja kantaminen, sekä yksilönä että yhteisön jäsenenä.\n\n3.\nYhteisöllisyys – Toisten huomioiminen, yhteistyö ja solidaarisuus vahvistavat yhteiskuntaa ja hyvinvointia.\n\n4.\nKunnioitus – Erilaisten ihmisten, kulttuurien ja mielipiteiden arvostaminen. \n\n5.\nHyvinvointi – Terveys, tasapaino ja elämänlaatu ovat keskeisiä sekä yksilöiden että yhteiskunnan menestykselle.",
+      "se": "1. Ärlighet – Öppenhet, transparens och konsekvens skapar förtroende och rättvisa.\n\n2.Ansvar – Att förstå och ta ansvar för konsekvenserna av sina handlingar och beslut, både som individ och som medlem av samhället.\n\n3.Gemenskap – Att visa omtanke, samarbeta och vara solidarisk stärker samhället och välmåendet.\n\n4. Respekt – Att värdesätta olika människor, kulturer och åsikter.\n\n5. Välbefinnande – Hälsa, balans och livskvalitet är centrala för både individers och samhällets framgång.\n",
+      "en": "\n1.Honesty – Openness, transparency, and consistency create trust and fairness.\n\n2. Responsibility – Understanding and taking responsibility for the impact of one's actions and decisions, both as an individual and as a member of society.\n\n3.Community – Consideration for others, collaboration, and solidarity strengthen society and well-being.\n\n4.Respect – Appreciating different people, cultures, and opinions.\n\n5. Well-being – Health, balance, and quality of life are essential for both individual and societal success.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "2. Kaunis ja kestävä kaupunki sitouttaa asukkaita\nEsteettisesti miellyttävä ja hyvin suunniteltu kaupunki lisää yhteisöllisyyttä, turvallisuutta ja ihmisten sitoutumista omaan ympäristöönsä. Panostamalla kaupunkikuvan laatuun luomme elinvoimaisempia ja viihtyisämpiä asuinalueita kaikille.",
+      "se": "2. En vacker och hållbar stad engagerar invånarna \n\nEn estetiskt tilltalande och välplanerad stad främjar gemenskap, trygghet och människors engagemang i sin omgivning. Genom att satsa på stadsmiljöns kvalitet skapar vi mer levande och trivsamare bostadsområden för alla.",
+      "en": "2. A Beautiful and Sustainable City Engages Its Residents\nAn aesthetically pleasing and well-designed city fosters community, safety, and people’s commitment to their environment. By investing in the quality of the urban landscape, we create more vibrant and enjoyable residential areas for everyone.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.kristinamichelsson.com",
+    "municipality_fix": {
+      "fi": "Mielestäni Helsingissä pitäisi parantaa ennenkaikkea rakentamisen laatua ; niin arkkitehtuurin kuin laadun ja ympäristön huomioimisen osalta. \nKauneus on elinvoimaa\nRakennetaan Helsinkiä, joka kestää aikaa, lisää hyvinvointia ja tekee arjesta parempaa – kaikille.\nHelsinkiä kehitetään nyt tehokkuus edellä, mutta liian usein estetiikka ja viihtyisyys jäävät toissijaisiksi. Liian monet uudet asuinalueet tuntuvat persoonattomilta, tyhjät liiketilat rapistuvat ja hoivaympäristöissä kauneus unohdetaan. Tämä ei ole vain esteettinen kysymys – kaupunkitila vaikuttaa suoraan mielenterveyteen, yhteisöllisyyteen ja kaupungin vetovoimaan.\nTarvitsemme päätöksiä, jotka varmistavat, että Helsingissä on kauniita julkisia tiloja, arkkitehtonisesti laadukkaita rakennuksia, lähiluontoa ja elävää kaupunkikulttuuria. Kauneus ei ole luksusta, vaan hyvinvointia ja kestävää tulevaisuutta.\nNyt on aika tehdä Helsingistä kaupunki, jossa ihmiset viihtyvät myös sadan vuoden päästä. \n",
+      "se": "Jag anser att vi framför allt bör förbättra byggkvaliteten i Helsingfors – både när det gäller arkitektur, material och hänsyn till miljön.\n\nSkönhet är livskraft\nLåt oss bygga ett Helsingfors som står emot tidens tand, främjar välbefinnande och gör vardagen bättre – för alla.\n\nHelsingfors utvecklas nu med fokus på effektivitet, men alltför ofta hamnar estetik och trivsel i skymundan. Många nya bostadsområden känns opersonliga, tomma affärslokaler förfaller och i vårdmiljöer glöms skönheten bort. Detta är inte enbart en estetisk fråga – den byggda miljön påverkar direkt människors mentala hälsa, gemenskap och stadens attraktionskraft.\n\nVi behöver beslut som säkerställer att Helsingfors har vackra offentliga rum, arkitektoniskt högkvalitativa byggnader, närnatur och en levande stadskultur. Skönhet är ingen lyx – det är välbefinnande och en hållbar framtid.\n\nNu är det dags att göra Helsingfors till en stad där människor trivs – inte bara idag, utan även om hundra år.",
+      "en": "I believe that in Helsinki, we should primarily improve the quality of construction – in terms of architecture, materials, and environmental considerations.\n\nLet’s build a Helsinki that stands the test of time, enhances well-being, and improves everyday life – for everyone.\n\nHelsinki is currently being developed with efficiency as the main priority, but too often, aesthetics and livability are overlooked. Too many new residential areas feel impersonal, empty commercial spaces deteriorate, and in care environments, beauty is forgotten. This is not just an aesthetic issue – urban space directly affects mental health, community spirit, and the city’s appeal.\n\nWe need decisions that ensure Helsinki has beautiful public spaces, architecturally high-quality buildings, and a vibrant urban culture. Beauty is not a luxury – it is well-being and a sustainable future.\nNow is the time to make Helsinki a city where people truly enjoy living – not just today, but for the next hundred years.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Olen kansalliskielilautakunnan jäsen, sekä olin Folktingetin kulttuuri ja media komitean puheenjohtaja tällä vaalikaudella sen lopettamiseen asti, edellisellä kaudella istuin kaupungin tukipalveluyrityksen, nykyisen Puro Oy:n hallituksessa. Lisäksi olen hallituksen jäsen Wäinö Aaltosen seurassa.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 3,
+      "background_info_id": 2,
+      "name_fi": "Hieman liberaali",
+      "name_sv": "Ganska liberal",
+      "name_en": "Slightly liberal",
+      "name_ru": "Слегка либерал",
+      "name_sme": "Vehá liberála",
+      "name_ara": "أميل إلى الليبرالية",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": "Suomi ja ruotsi",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": "1. Hyvinvointi alkaa ympäristöstä\nRakennettu ympäristö vaikuttaa suoraan ihmisten mielenterveyteen, jaksamiseen ja elämänlaatuun. Lupaan edistää kaupunkisuunnittelua, jossa estetiikka, luonnonläheisyys ja viihtyisyys ovat jokaisen oikeus – myös sairaaloissa, vanhustenhoidossa ja julkisissa tiloissa.",
+      "se": "1. Välbefinnande börjar med miljön \nDen byggda miljön påverkar direkt människors mentala hälsa, ork och livskvalitet. Jag lovar att främja stadsplanering där estetik, närhet till naturen och trivsel är en rättighet för alla – även i sjukhus, äldreomsorg och offentliga utrymmen. Detta är är min fokus Point nr 1",
+      "en": "The built environment directly affects people's mental health, endurance, and quality of life. I promise to promote urban planning where aesthetics, proximity to nature, and comfort are a right for everyone – including in hospitals, elderly care, and public spaces.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

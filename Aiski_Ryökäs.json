@@ -1,0 +1,221 @@
+{
+  "id": 10359,
+  "first_name": "Aiski",
+  "last_name": "Ryökäs",
+  "election_number": 789,
+  "party_id": 6,
+  "image": "kuvat/akv2025/10359/73c8d7cf-225f-40a0-b33e-c1db66f96e88",
+  "constituency_id": 25,
+  "video": "1-73823983",
+  "video_aspect": "1:1",
+  "video_description_fi": "Moikka! Tärkein tavoitteeni tulevalla vaalikaudella on varmistaa, että jokainen helsinkiläinen voi elää rikasta elämää tulotasosta riippumatta. \n\ntämänhetkinen köyhiä kurittava leikkauspolitiikka tekee monen arjesta todella tiukkaa. Tätä Helsingin pitää torjua muun muassa halvemmalla joukkoliikenteellä, kohtuuhintaisella asumisella, viihtyisillä ei-kaupallisilla tiloilla ja kulttuuripalveluilla. Terveyskeskusmaksuille me sanotaan ei.\n\nSen lisäksi mä tulen edistämään rohkeasti antirasistista Helsinkiä. Siellä natsit eivät kokoonnu kirjastoissa, ja kaupunki kukoistaa juuri siksi että sen monimuotoisuus näkyy ja kuuluu.\n\nTasa-arvo, ja feminismi on mun politiikan peruskivi ja siksi mä haluan paneutua myös kunniaan liittyvän väkivallan torjumiseen, esteettömän liikkumisen parantamiseen, ja naisten ja vähemmistöjen turvallisuuteen niin kaduilla kuin kodeissa.\n\nHyvät uutiset on se, että me voidaan tehdä tästä yhdessä totta! Tsekkaa lisää vaikka mun instagramista ja muista, että ääni mulle on ääni kurjistamispolitiikan vastavoimalle. Laita viestiä jos haluut jutella ja muista äänestää!",
+  "video_description_sv": "Hej, mitt namn är Aiski Ryökäs, och mitt viktigaste mål under den kommande mandatperioden är att säkerställa att varje Helsingforsbo kan leva ett rikt liv, oavsett inkomstnivå.\n\nJust nu är det så att den nedskärningspolitik som drabbar de med de minsta inkomsterna gör vardagen mycket svår för många. Detta måste motverkas med alla medel som staden har, det vill säga genom billigare kollektivtrafik, boende till ett vettigt pris, trivsamma icke-kommersiella utrymmen och kulturservice. Vi säger nej till hälsocentralsavgifter.\n\nUtöver detta kommer jag att modigt främja ett antirasistiskt Helsingfors, där nazister inte samlas i biblioteken, och staden blomstrar just för att dess mångfald syns och hörs.\n\nJämställdhet och feminism är grundstenarna i min politik, och därför vill jag också fokusera på att bekämpa hedersrelaterat våld, förbättra tillgängligheten i staden samt öka kvinnors och minoriteters trygghet – både på gatorna och i hemmen.\n\nDe goda nyheterna är att vi kan göra detta tillsammans! Kolla in mer på min Instagram och kom ihåg att en röst på mig är en röst mot nedskärningspolitiken. Skicka ett meddelande om du vill prata oc kom ihåg at rösta!",
+  "video_description_en": "Hey, my name is Aiski Ryökäs, and my main goal for the upcoming council term is to ensure that every Helsinki resident can live a rich life, regardless of their income level.\n\nThe current ruthless austerity policies are making everyday life incredibly tight for many. We must combat this with all the tools the city has—by lowering public transport fares, ensuring affordable housing, providing welcoming non-commercial spaces, and maintaining accessible cultural services. Health center fees? We say no.\n\nIn addition, I will boldly promote an anti-racist Helsinki. In my Helsinki, Nazis don’t gather in libraries, and the city thrives precisely because its diversity is visible and heard.\n\nEquality and feminism are the cornerstones of my politics. That’s why I also want to focus on combating honor-based violence, improving accessibility in movement, and ensuring the safety of women and minorities—both on the streets and in their homes.\n\nThe good news is that we can make this a reality together! Check out my Instagram for more, and remember that a vote for me is a vote against austerity. Drop me a message if you want to chat and remember to vote!",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 42,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti vasemmalle",
+      "name_sv": "Långt till vänster",
+      "name_en": "Strongly on the left",
+      "name_ru": "С самого левого края",
+      "name_sme": "Nannosit gurut guvlui",
+      "name_ara": "أقصى اليسار",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Tuon tasa-arvoa ja feminismiä päätöksentekoon. Helsingissä niin katujen kuin kotien täytyy olla turvallisia paikkoja kaikenlaisille naisille ja vähemmistöille, kunniaan liittyvän väkivallan tunnistamista ja torjuntaa täytyy parantaa, ja sekä lastenvaunuilla että rollaattoreilla täytyy pystyä liikkumaan ympäri vuoden esteettömästi. Pride-lippu on ja pysyy kaupungin liputuskalenterissa.",
+      "se": "Jag för in jämlikhet och feminism i beslutsfattandet. I Helsingfors måste både gator och hem vara trygga platser för alla typer av kvinnor och minoriteter, kunskapen om och bekämpningen av hedersrelaterat våld måste förbättras, och det måste vara möjligt att ta sig fram med både barnvagn och rollator utan hinder året runt. Pride-flaggan finns kvar i stadens flaggningskalender. ",
+      "en": "I bring more equality and feminism into decision-making. In Helsinki, both the streets and homes must be safe places for all women and minorities. The recognition and prevention of honor-based violence must be improved, and people must be able to move around year-round, whether with strollers or walkers, in an accessible environment. The Pride flag is and always will be in the city’s flag pole",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1988,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      },
+      {
+        "fi": "joku muu",
+        "se": "något annat",
+        "en": "Other",
+        "ru": "другой",
+        "sme": "muhtin eará",
+        "ara": "لغة أخرى"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "yhteisöllisyys, solidaarisuus, rakkaus, rohkeus, ilo",
+      "se": "Gemenskap, solidaritet, kärlek, mod, glädje",
+      "en": "Community, solidarity, love, courage, joy",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lupaan että edistän rohkeasti antirasistista Helsinkiä. Siellä natsit eivät kokoonnu kirjastoissa, paperittomien terveyspalvelut turvataan hallituksen heikennyksistä huolimatta, ja kaupunki kukoistaa juuri siksi että sen monimuotoisuus näkyy ja kuuluu.",
+      "se": "Jag lovar att modigt arbeta för ett antirasistiskt Helsingfors, där nazister inte samlas i biblioteken, papperslösas hälsovård tryggas trots regeringens försämringar, och där staden blomstrar just för att dess mångfald syns och hörs.",
+      "en": "I promise to boldly promote an anti-racist Helsinki. In my Helsinki, Nazis don’t gather in libraries, undocumented people’s healthcare services are safeguarded despite government setbacks, and the city thrives precisely because of its visible and audible diversity.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "instagram_url": "https://www.instagram.com/aiski.ryokas/",
+    "tiktok_url": "https://www.tiktok.com/@aiskiryokas",
+    "language_some_other": {
+      "fi": "unkari",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "municipality_fix": {
+      "fi": "Muun muassa julkisen liikenteen lippuhinnat, kohtuuhintaisen asumisen parempi saatavuus ja esteettömyys kaduilla vuoden ympäri. Sen lisäksi pitäisi korjata asenneilmasto, jotta rasismille ei olisi tilaa ja kaupunki voisi kukoistaa juuri siksi, että sen monimuotoisuus näkyy ja kuuluu! Avovastaukseni avaavat laajempia temaattisia kokonaisuuksia.",
+      "se": "Bland annat kollektivtrafikens biljettpriser, bättre tillgång till boende till ett vettigt pris och tillgänglighet på gatorna året runt. Dessutom behöver attitydklimatet förändras så att det inte finns utrymme för rasism och så att staden kan blomstra just för att dess mångfald syns och hörs! Mina öppna svar belyser bredare tematiska helheter.",
+      "en": "Among other things, lowering public transport fares, improving access to affordable housing, and ensuring year-round accessibility on the streets of Helsinki. In addition, we need to change attitudes so that there is no space for racism, and the city can flourish precisely because of its diversity being visible and audible! My open-ended responses provide broader thematic insights.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Naisjärjestöt yhteistyössä NYTKIS ryn hallituksen varajäsen; Vihreiden puoluevaltuuston jäsen, Vihreiden Eurooppa-työryhmän jäsen",
+      "se": "Suppleant i styrelsen för Kvinnoorganisationer i Samarbete NYTKIS rf; ledamot i De Grönas partifullmäktige, medlem i De Grönas Europaarbetsgrupp.",
+      "en": "The Coalition of Finnish Women’s Associations NYTKIS Deputy board member; Member of the Green Party Council; Member of the Greens’ European Affairs Working Group. ",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Lupaan tehdä töitä, jotta Helsinkiläiset voivat elää rikasta elämää tulotasosta riippumatta. Helsingin täytyy torjua köyhiä kurittavan leikkauspolitiikan vaikutuksia ihmisten arkeen: julkisen liikenteen lippuhintoja täytyy laskea, ja kohtuuhintaiseen asumiseen täytyy olla paremmat mahdollisuudet. Terveyskeskusmaksuja ei tule ottaa käyttöön. Kaupungissa on oltava riittävästi ei-kaupallisia tiloja ja saavutettavia kulttuuripalveluja kaikille.",
+      "se": "Jag lovar att arbeta för att Helsingforsbor ska kunna leva ett rikt liv, oavsett inkomstnivå. Helsingfors måste motverka effekterna av nedskärningspolitiken som drabbar låginkomsttagare i vardagen: kollektivtrafikens biljettpriser måste sänkas, och möjligheterna boende till ett vettigt pris måste förbättras. Hälsocentralsavgifter ska inte införas. Staden måste ha tillräckligt med icke-kommersiella utrymmen och tillgängliga kulturservice för alla.",
+      "en": "I promise to work so that Helsinki residents can live a rich life regardless of their income level. Helsinki must counteract the effects of governmental austerity policies that punish the poor: public transport fares must be lowered, and there must be better opportunities for affordable housing. Health center fees should not be introduced. The city must provide enough non-commercial spaces and accessible cultural services for everyone.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Asiantuntemukseni yhteiskunnallisista ja poliittisista teemoista on kertynyt mm. seuraavista kokemuksista: monitahoinen ihmisoikeustyö Unkarissa 2013-2019 turvapaikanhakijoiden oikeuksien puolesta; työ Helsinki Pride -yhteisössä 2019-2020; työ Vihreät naiset ry:ssä 2020-2023; vaikuttamistyö Naisasialiitto Unionilla 2023 lähtien",
+      "se": "Min expertis inom samhälleliga och politiska frågor har formats genom bland annat följande erfarenheter: omfattande människorättsarbete i Ungern 2013–2019 för asylsökandes rättigheter; arbete inom Helsinki Pride-gemenskapen 2019–2020; arbete hos Gröna Kvinnor rf 2020–2023; påverkansarbete hos Kvinnosaksförbundet Unionen från och med 2023.",
+      "en": "My expertise in societal and political themes has been shaped by the following experience: extensive human rights work in Hungary (2013–2019) advocating for asylum seekers’ rights; work at Helsinki Pride Community (2019–2020); work at Green Women’s Association (2020–2023); advocacy work at The Finnish Women’s Association Unioni (2023–present).",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

@@ -1,0 +1,200 @@
+{
+  "id": 5774,
+  "first_name": "Timo",
+  "last_name": "Jokela",
+  "election_number": 373,
+  "party_id": 3,
+  "image": "kuvat/akv2025/5774/00a2dbfa-02cf-4826-834e-710e7bad8269",
+  "constituency_id": 25,
+  "video": "1-73823075",
+  "video_aspect": "1:1",
+  "video_description_fi": "Lupaan omalta osaltani tuoda maalaisjärkeä pääkaupunkimme päätöksentekoon. Esimerkiksi energiantuotannossa suositaan toimivia ja edullisia ratkaisuja, kaupungissa pysyväisluontoisesti asuvilta edellytetään suomenkielen opettelua, perinteisen työrauhan palauttaminen kouluihin, vallitaan kristillistä perintöämme, liputetaan ainoastaan Suomen lippua.",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 47,
+      "background_info_id": 10,
+      "name_fi": "Oikealle",
+      "name_sv": "Till höger",
+      "name_en": "To the right",
+      "name_ru": "Справа",
+      "name_sme": "Olgeš guvlui",
+      "name_ara": "اليمين",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan edistää politiikkaa, joka antaa helsinkiläisille pitkäjänteistä edullista energiaa. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1953,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      },
+      {
+        "fi": "espanja",
+        "se": "spanska",
+        "en": "Spanish",
+        "ru": "испанский",
+        "sme": "spánskkagiella",
+        "ara": "الإسبانية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "- perinteiset kristilliset arvot\n- Suomessa päätöksentekijöiden pitää keskittyä suomalaisten etuihin\n- välttää tarpeetonta tuhlaamista\n- ihmisillä oma päävastuu elämästään\n- maalaisjärki",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lupaan pyrkiä edistämään perinteisiä arvoja Helsingin päätöksen teossa. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "X_url": null,
+    "municipality_fix": {
+      "fi": "- vähentää tarpeetonta veronmaksajien rahojen tuhlaamista\n- rajoittaa suomalaiseen kulttuuriin sopimatonta maahanmuuttoa\n- rajoittaa tiettyjen maahanmuuttajaryhmien erityispalveluja; palvelut tarjottava samoilla periaatteilla kuin suomalaisille\n- aidosti vihreää kaupunkisuunnittelua - ei ylitiivistä rakentamista\n- puuttua tiukasti häiriöitä aiheuttaviin jengeihin\n- enemmän perinteistä kuria kouluihin, oppimisrauha taattava",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Vastuullisissa luottamustehtävissä useissa yhdistyksissä. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 7,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti konservatiivi",
+      "name_sv": "Mycket konservativ",
+      "name_en": "Strongly conservative",
+      "name_ru": "В значительной степени консерватор",
+      "name_sme": "Nannosit konservatiiva",
+      "name_ara": "محافظ جدا",
+      "target_value": 3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Lupaan pyrkiä vähentämään helsinkiläisten veronmaksajien rahojen käyttämistä helsinkiläisten  kannalta epäoleellisiin asioihin. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

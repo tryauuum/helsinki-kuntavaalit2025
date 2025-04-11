@@ -1,0 +1,177 @@
+{
+  "id": 1576,
+  "first_name": "Aki",
+  "last_name": "Ahonen",
+  "election_number": 551,
+  "party_id": 2,
+  "image": "kuvat/akv2025/1576/46c3226a-ae63-4276-bbcc-f7a5652aa45f",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 48,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti oikealle",
+      "name_sv": "Långt till höger",
+      "name_en": "Strongly to the right",
+      "name_ru": "С самого правого края",
+      "name_sme": "Nannosit olgeš guvlui",
+      "name_ara": "أقصى اليمين",
+      "target_value": 3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Paras kannustin on matala veroaste.",
+      "se": "Den bästa incitamentet är en låg skattesats.",
+      "en": "The best incentive is a low tax rate.",
+      "ru": "Я надеюсь, что на территории России когда-нибудь будет надежное и честное государство.",
+      "sme": "Eanemusat geahččaleapmi lea unni vuoigatvuohta.",
+      "ara": "أفضل حافز هو معدل ضريبة منخفض.",
+      "ukr": "Найкращий стимул — це низька податкова ставка.",
+      "som": "Dhiirrigelinta ugu fiican waa heerka canshuurta oo hooseeya."
+    },
+    "age": 1983,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 51,
+      "background_info_id": 16,
+      "name_fi": "ylioppilas",
+      "name_sv": "student",
+      "name_en": "High school graduate",
+      "name_ru": "выпускник лицея",
+      "name_sme": "studeanta",
+      "name_ara": "شهادة البكالوريا",
+      "target_value": 3,
+      "name_ukr": "випускник ліцею",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Vapaus, tasa-arvo, oikeudenmukaisuus, innostuminen, uteliaisuus.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Julkiselle sektorille kuuluu vain perusturvallisuus ja lasten mahdollisuuksien varmistaminen.",
+      "se": "Den offentliga sektorn ska endast ansvara för grundläggande säkerhet och säkerställa barns möjligheter.",
+      "en": "The public sector should only be responsible for basic security and ensuring opportunities for children.",
+      "ru": "Я надеюсь, что на территории России когда-нибудь будет надежное и честное государство.",
+      "sme": "Almmolaš sektorii gullá dušše vuođđodearvvašvuohta ja mánáid vejolašvuođaid váldimin.",
+      "ara": "يجب أن يقتصر دور القطاع العام على الأمن الأساسي وضمان فرص الأطفال.",
+      "ukr": "Державний сектор повинен відповідати лише за базову безпеку та забезпечення можливостей для дітей.",
+      "som": "Waaxda dadweynaha waa inay kaliya mas'uul ka ahaataa nabadgelyada aasaasiga ah iyo hubinta fursadaha carruurta."
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "facebook_url": "http://facebook.com/LibAkiAhonen",
+    "instagram_url": "https://www.instagram.com/LibAkiAhonen",
+    "municipality_fix": {
+      "fi": "Kaupunginkin budjetista löytyy leikattavaa. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Reserviläisyhdistyksen hallitus ja taloyhtiön puheenjohtajuus.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Jokaisella toimintakykyisellä aikuisella tulee olla vastuu itsestään. Tämä toimii myös vapautena.",
+      "se": "Varje kapabel vuxen bör vara ansvarig för sina handlingar.",
+      "en": "Every capable adult should be responsible for their actions.",
+      "ru": "Я надеюсь, что на территории России когда-нибудь будет надежное и честное государство.",
+      "sme": "Juohke birgeheaddji rávisolmmoš galgá ovddidit iežaset daguid.",
+      "ara": "يجب أن يكون كل بالغ قادر مسؤولاً عن أفعاله.",
+      "ukr": "Кожен дієздатний дорослий повинен нести відповідальність за свої дії.",
+      "som": "Qof kasta oo qaangaar ah waa inuu mas'uul ka noqdaa ficilladiisa."
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

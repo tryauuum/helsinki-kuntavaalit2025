@@ -1,0 +1,210 @@
+{
+  "id": 12543,
+  "first_name": "Maria",
+  "last_name": "Moradzadeh",
+  "election_number": 766,
+  "party_id": 6,
+  "image": "kuvat/akv2025/12543/664dbc02-9317-4681-b39f-10fdc1de8c6f",
+  "constituency_id": 25,
+  "video": "1-73820306",
+  "video_aspect": "1:1",
+  "video_description_fi": "Tärkein tavoitteeni kuntavaaleissa on tehdä Helsingistä kestävämmän kehityksen ja tasa-arvon edelläkävijä. Tämä tarkoittaa:\n\n 1. Kohtuuhintaista asumista – Lisää edullisia asuntoja ja joustavampaa kaavoitusta, jotta kaikilla on varaa asua Helsingissä.\n 2. Toimivaa joukkoliikennettä – Edullisemmat HSL-liput, paremmat pyörätiet ja sujuvampi liikenne, jotta arki on helpompaa ja ekologisempaa.\n 3. Parempaa kotouttamista – Enemmän kielikoulutusta, työmahdollisuuksia ja tehokkaampaa palveluohjausta maahanmuuttajille, jotta jokainen voi osallistua yhteiskuntaan täysipainoisesti.\n 4. Ilmastotekoja – Fossiilivapaa Helsinki, enemmän viheralueita ja investointeja uusiutuvaan energiaan ja energiatehokkaaseen rakentamiseen.\n 5. Hyvinvointia ja turvallisuutta – Nuorten syrjäytymisen ehkäisy, paremmat mielenterveyspalvelut ja turvalliset lähiöt, joissa jokainen voi tuntea olonsa hyväksi.\n 6. Ikäihmisten palveluiden parantamista – Kotihoidon resurssien lisääminen, hoitajien työolojen parantaminen sekä enemmän yhteisöllisiä palveluja ja seniorikeskuksia, jotta ikäihmiset saavat tarvitsemansa tuen ja voivat elää arvokasta elämää.\nSloganini on: “Kestävä kehitys alkaa tasa-arvosta.”",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 46,
+      "background_info_id": 10,
+      "name_fi": "Hieman oikealle",
+      "name_sv": "Lite till Till högerhöger",
+      "name_en": "SlightTo the rightly to the right",
+      "name_ru": "Немного справа",
+      "name_sme": "Vehá olgeš guvlui",
+      "name_ara": "أميل إلى اليمين",
+      "target_value": 1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "KAIKKIEN HELSINKI – KUULUT JA KUULUT!\n Meidän Helsinki, meidän päätökset!\nSinun ääni kuuluu, sinun unelmat lasketaan. Rakennetaan yhdessä kaupunki, joka seisoo rinnallasi.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1981,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "1. Tasa-arvo ja oikeudenmukaisuus – Uskon, että kaikilla ihmisillä tulee olla yhtäläiset mahdollisuudet menestyä elämässä riippumatta taustasta, sukupuolesta tai kansalaisuudesta.\n 2. Kestävä kehitys – Haluan edistää ekologisesti ja sosiaalisesti kestävää yhteiskuntaa, jossa luonnonvaroja käytetään viisaasti ja jossa rakennamme pitkäjänteisesti paremman tulevaisuuden.\n 3. Yhteisöllisyys ja osallisuus – Uskon, että vahva ja toimiva yhteiskunta perustuu yhteistyöhön, avoimuuteen ja kaikkien ihmisten osallistamiseen päätöksentekoon.\n 4. Oppiminen ja kehitys – Jatkuva itsensä kehittäminen ja uusien asioiden oppiminen ovat avain sekä henkilökohtaiseen kasvuun että koko yhteiskunnan menestykseen.\n 5. Luotettavuus ja rehellisyys – Pidän tärkeänä, että ihmiset voivat luottaa minuun ja että toimin aina rehellisesti sekä omassa elämässäni että työssäni.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": " TURVALLISEMPI, ELOISA HELSINKI!\n Helsinki – kaupunki, jossa naapurisi hymyilee ja työpaikat kutsuvat!\nTurvallisuutta, elämää kuhisevia alueita ja mahdollisuuksia, jotka saavat koko kaupungin sykkimään energiaa. Elävä Helsinki on onnellinen Helsinki!\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 25,
+      "background_info_id": 8,
+      "name_fi": "jokin muu",
+      "name_sv": "något annat",
+      "name_en": "Other",
+      "name_ru": "другой",
+      "name_sme": "eará",
+      "name_ara": "لغة أخرى",
+      "target_value": null,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "homepage_url": null,
+    "facebook_url": "https://www.facebook.com/share/19zr1aXNuz/?mibextid=wwXIfr",
+    "instagram_url": "https://www.instagram.com/moradzadehmaria?igsh=azN5Y2k0aDNqdndm&utm_source=qr",
+    "X_url": "https://x.com/mariamoradzadeh?s=11",
+    "tiktok_url": "https://www.tiktok.com/@maria.moradzadeh",
+    "language_some_other": {
+      "fi": "persia-farsi ja arabia ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "municipality_fix": {
+      "fi": "1. Kohtuuhintainen asuminen – Asuntojen hinnat ovat liian korkeat. Tarvitaan lisää edullisia vuokra-asuntoja ja joustavampaa kaavoitusta.\n 2. Julkinen liikenne ja pyöräily – HSL-liput ovat monille liian kalliita. Pyöräteitä ja sujuvaa liikennettä on kehitettävä.\n 3. Kotouttaminen ja työllistyminen – Maahanmuuttajien kielikoulutusta ja työelämäyhteyksiä on vahvistettava, erityisesti naisten työllistymisen tukemiseksi.\n 4. Ilmastotoimet ja vihreä siirtymä – Fossiilivapaaseen energiaan siirtymistä on nopeutettava, ja viheralueita on suojeltava.\n 5. Turvallisuus ja hyvinvointi – Nuorten syrjäytymistä on ehkäistävä, ja mielenterveyspalveluiden saatavuutta parannettava.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Olen päätoimisesti opiskelija, opiskelen maisterintutkintoa tietotekniikassa ja automaatiossa diplomi-insinööriksi.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": "Persia-Farsi",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": "TASAPAINOISESTI KOHTI TULEVAISUUTTA!\n Ihmisen, talouden ja ympäristön tasapaino on minun kompassini!\nHelsingin täytyy olla paikka, jossa kaikki voivat kukoistaa – reilusti ja kestävästi. Tehdään yhdessä Helsingistä maailman paras esimerkki oikeudenmukaisesta kehityksestä.\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Olen työskennellyt Teheranin kaupungintalon kriisinhallintatoimistossa ja ollut Iranin liikenneministeriön sihteeristön johtaja. Suomessa olen osallistunut aktiivisesti kahteen presidentinvaaliin ja Euroopan parlamentin vaaleihin tukitiimissä suurella innolla.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

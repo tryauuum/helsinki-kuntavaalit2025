@@ -1,0 +1,190 @@
+{
+  "id": 9916,
+  "first_name": "Kimmo",
+  "last_name": "Niemelä",
+  "election_number": 20,
+  "party_id": 10,
+  "image": "kuvat/akv2025/9916/df656463-06b0-4186-bccd-bab3c274bafd",
+  "constituency_id": 25,
+  "video": "1-73823247",
+  "video_aspect": "1:1",
+  "video_description_fi": "Tärkein tavoitteeni valtuustokaudella on tehdä Helsingistä elinvoimaisempi ja toimivampi kaupunki. Tämä tarkoittaa vastuullista taloudenhoitoa, jotta palvelut toimivat ilman turhia veronkorotuksia. Hoitoon on päästävä ajoissa – erityisesti mielenterveyspalvelut on laitettava kuntoon. Helsingin keskustan ja yrittäjyyden elinvoima on turvattava, ja kaupungin kehityksen on oltava tasapainoista. Tämä tarkoittaa sujuvampaa kaavoitusta, riittävästi asuntoja ja lähiluonnon säilyttämistä. Haluan myös lisätä päätöksenteon avoimuutta ja vahvistaa kaupunkilaisten vaikutusmahdollisuuksia. Helsinki voi olla toimiva, turvallinen ja dynaaminen kaupunki – sen eteen haluan tehdä töitä.\n\n",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 47,
+      "background_info_id": 10,
+      "name_fi": "Oikealle",
+      "name_sv": "Till höger",
+      "name_en": "To the right",
+      "name_ru": "Справа",
+      "name_sme": "Olgeš guvlui",
+      "name_ara": "اليمين",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "3. Hyvinvointia, sujuvaa arkea ja kestävämpää kaupunkikehitystä\n\nLupaan edistää hyvinvointia ja sujuvaa arkea Helsingissä varmistamalla nopeamman hoitoon pääsyn sekä fyysisen että mielenterveyden palveluissa – jokaisen on saatava apua ajoissa ilman turhia viivytyksiä. Helsingin tulee kehittyä tasapainoisesti: järkevällä kaavoituksella, lähiluontoa ja viheralueita suojellen sekä huolehtien siitä, että kaupunkiin rakennetaan riittävästi asuntoja, jotta asuminen pysyy kohtuuhintaisena. Kaupungin palveluiden on oltava laadukkaita, sujuvia ja saavutettavia kaikille.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1976,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Oikeudenmukaisuus -  pyrin aina kohtelemaan ihmisiä reilusti ja tasapuolisesti. Uskon, että jokaisella on oikeus tulla kuulluksi ja kohdelluksi oikeudenmukaisesti.\n\nVapaus - tarkoittaa minulle sitä, että ihmiset voivat tehdä omat valintansa ja elää elämäänsä ilman tarpeetonta rajoittamista.\n\nLähimmäisenrakkaus - perheeni lisäksi haluan kohdata ihmiset empaattisesti ja auttaa heitä vaikeissa tilanteissa. Yhteisöllisyys tekee elämästä merkityksellistä.\n\nRehellisyys - pidän tärkeänä suoraselkäisyyttä ja sitä, että ihmiset voivat luottaa sanaani. En halua antaa katteettomia lupauksia.\n\nVastuullisuus - uskon, että jokaisen on kannettava vastuuta itsestään, läheisistään ja ympäristöstään. Päätösten on oltava kestäviä ja kauaskantoisia.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "2. Vastuullinen talous ja elinvoimainen Helsinki kaikille\n\nLupaan edistää Helsingin talouden vastuullista hoitamista – verovarat on käytettävä tehokkaasti ja kestävästi, jotta kaupungin investoinnit tukevat pitkäjänteistä kasvua ja kaupungin vetovoimaa. Haluan vahvistaa Helsingin elinvoimaa tekemällä siitä houkuttelevan paikan elää, työskennellä ja yrittää. Tämä tarkoittaa turvallista ja viihtyisää kaupunkiympäristöä sekä sujuvampia lupaprosesseja, jotka helpottavat yritystoimintaa ja innovaatioita. Pienyrittäjien ja kivijalkaliikkeiden toimintaa on edistettävä, ja kannatan innovaatiokeskusta, joka tukee yritysten kasvua ja hyödyntää osaamiskeskittymien synergiaetuja.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "http://kimmoniemela.fi; LinkedIn: https://www.linkedin.com/in/kimmoniemela/",
+    "facebook_url": "https://www.facebook.com/poliitikkokimmoniemela/",
+    "instagram_url": "https://www.instagram.com/kimmo_niemela/",
+    "X_url": "https://x.com/kimmoniemela",
+    "tiktok_url": "https://www.tiktok.com/@kimmoniemela",
+    "municipality_fix": {
+      "fi": "Helsingissä on monia vahvuuksia, mutta myös kehittämiskohteita. Suurimpana ongelmana on palveluiden saatavuus – erityisesti mielenterveyspalveluihin ja terveyskeskuksiin pääsy on liian hidasta, mikä heikentää ihmisten hyvinvointia ja kuormittaa erikoissairaanhoitoa. Lisäksi kaupungin elinvoima on haaste – keskustan näivettyminen näkyy tyhjinä liiketiloina ja saavutettavuuden heikentämisenä, vaikka sen pitäisi olla Helsingin sydän. Moni pienyrittäjä kohtaa turhaa byrokratiaa ja kankeita lupaprosesseja, jotka vaikeuttavat toimintaa. Asumisen kustannukset nousevat, mutta kaavoitus ei aina palvele kaupunkilaisten tarpeita – viheralueita on suojeltava, mutta samalla asuntotarjontaa on lisättävä fiksulla tavalla. Lisäksi päätöksentekoa on avattava enemmän kaupunkilaisille, sillä moni kokee, ettei heidän mielipiteellään ole vaikutusta kaupungin kehittämiseen. Talvella jalkakäytävien huono kunnossapito",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Olen Helsingin kaupunginvaltuuston varavaltuutettu, kulttuuri- ja vapaa-aikalautakunnan jäsen, sosiaali-, terveys- ja pelastuslautakunnan pelastusjaoston jäsen, tarkastuslautakunnan varajäsen sekä Kiinteistö-oy Parmaajanpuiston hallituksen jäsen.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "1. Avoimuutta ja vaikutusmahdollisuuksia kaupunkilaisille\n\nLupaan edistää avoimuutta ja läpinäkyvyyttä Helsingin päätöksenteossa sekä vahvistaa kaupunkilaisten vaikutusmahdollisuuksia. Asukkailla on oltava parempi pääsy tietoon ja todellisia keinoja osallistua päätöksentekoon, esimerkiksi lisäämällä suoria kuulemisia, osallistavaa budjetointia ja sähköisiä kyselyjä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Toimin aiemmin Liike Nyt Helsingin piirin puheenjohtajana ja nykyään hallituksen jäsenenä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

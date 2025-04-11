@@ -1,0 +1,194 @@
+{
+  "id": 20927,
+  "first_name": "Vinh",
+  "last_name": "Bui",
+  "election_number": 601,
+  "party_id": 8,
+  "image": "kuvat/akv2025/20927/037f1cd6-dd24-4780-b92d-c0302e3943f4",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 44,
+      "background_info_id": 10,
+      "name_fi": "Hieman vasemmalle",
+      "name_sv": "Lite till vänster",
+      "name_en": "Slightly to the left",
+      "name_ru": "Немного слева",
+      "name_sme": "Vehá gurut guvlui",
+      "name_ara": "أميل إلى اليسار",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan, että jokaisella helsinkiläisellä on aidosti yhtäläiset mahdollisuudet menestyä ja kukoistaa.",
+      "se": "Jag lovar att säkerställa att alla i Helsingfors har likvärdiga möjligheter att blomstra och utvecklas, med särskilt fokus på minoritetsgrupper.",
+      "en": "I am committed to ensuring that everyone in Helsinki has equal opportunities to thrive and prosper, with a particular focus on those with foreign backgrounds and minority groups.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1988,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Perhe - Oikeus - Vapaus - Kestävyys - Suvaitsevaisuus",
+      "se": "Familj - Rättvisa - Tolerans - Frihet - Hållbarhet",
+      "en": "Family - Justice - Freedom - Tolerance - Sustainability",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lupaan Helsinkiin toimivan kaupunkiympäristön, jossa helsinkiläisten arki on sujuvaa ja joka vaalii harmonista suhdetta yhteisön ja luonnon välillä.",
+      "se": "Jag lovar att arbeta för en balans mellan stadens utveckling och bevarandet av våra värdefulla naturområden.",
+      "en": "I am committed to prioritising reliable infrastructure and quality facilities that enhance everyday life in Helsinki while fostering a respectful and harmonious relationship between our community and the natural environment.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 25,
+      "background_info_id": 8,
+      "name_fi": "jokin muu",
+      "name_sv": "något annat",
+      "name_en": "Other",
+      "name_ru": "другой",
+      "name_sme": "eará",
+      "name_ara": "لغة أخرى",
+      "target_value": null,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "homepage_url": "https://val.sfp.fi/kommunalval/kandidater/vinh-bui/",
+    "municipality_fix": {
+      "fi": "Helsinki on upea kaupunki, ja voimme tehdä siitä entistä paremman, kun otamme jokaisen ihmisen voimavarat ja taidot käyttöön. Tämä koskee tietenkin myös maahanmuuttajia, jotka edustavat merkittävää, vielä täysimääräisesti hyödyntämätöntä työvoiman potentiaalia kaupunkimme työelämässä. Kotouttamisessa on vielä paljon tehtävää, jotta uudet asukkaat pääsevät täysillä osaksi suomalaista yhteiskuntaa. Kun onnistumme tässä, vapautamme heidän potentiaalinsa, vahvistamme yhteiskunnan hyvinvointia ja yhteenkuuluvuutta ja saamme taloudenkin pyörät pyörimään vauhdikkaammin.",
+      "se": "Helsingfors är en fantastisk stad, och vi kan göra den ännu bättre genom att ta tillvara på varje människas krafter och talanger. Detta inkluderar invandrare som en betydande arbetsstyrka. Det krävs dock avsevärt fler åtgärder för att integrera invandrare på fördelaktiga sätt. En välgenomförd integration kommer att frigöra nyanländas potential, stärka det sociala välbefinnandet och driva på ekonomisk tillväxt.",
+      "en": "Helsinki is a wonderful city, and we can make it even better by harnessing the potential and talents of every individual. That includes immigrants as a powerful workforce. However, much more work is needed to integrate newcomers fully into Finnish society in proper and beneficial ways. Successfully doing so will unlock new potential, strengthen society cohesion, and fuel economic growth.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "RKP:n ympäristötoimikunnan jäsen",
+      "se": "Medlem i SFPs Miljöutskott",
+      "en": "Member of SFP's Environment Committee",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": "Vietnam",
+      "se": "Vietnamesiska",
+      "en": "Vietnamese",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": "Lupaan, että ympäristöystävälliset vaihtoehdot ovat mukana ja niitä edistetään kaikessa päätöksenteossa.",
+      "se": "Jag lovar att miljövänliga alternativ alltid finns med i varje beslutsprocess.",
+      "en": "I am committed to introducing, promoting and supporting environmental-friendly options in every decision-making process.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

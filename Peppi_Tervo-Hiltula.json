@@ -1,0 +1,195 @@
+{
+  "id": 1386,
+  "first_name": "Peppi",
+  "last_name": "Tervo-Hiltula",
+  "election_number": 938,
+  "party_id": 4,
+  "image": "kuvat/akv2025/1386/c8f25b6e-f7a7-4e95-bc84-f1fb3c422f6b",
+  "constituency_id": 25,
+  "video": "1-73764092",
+  "video_aspect": "4:3",
+  "video_description_fi": "Tärkein tavoitteeni on tulevaisuuden rakentaminen ja palveluiden säilyttäminen niitä tarvitseville. \n\nTavoite saavutetaan puoluerajat ylittävällä yhteistyöllä, uusia ratkaisuja testaamalla ja huolehtimalla vastuullisesti taloudesta. \n\nRakennetaan tulevaisuus joka kantaa! #KoskaKaikenVoiTehdäReilummin",
+  "video_description_sv": "Mitt främsta mål är att bygga framtiden och behålla tjänster.\n\nMålet ska uppnås genom omfattande samarbete, testa nya idéer och säkerställa ekonomins hållbarhet.\n\nLåt oss bygga en framtid som håller! #MerRättvisaIAllt",
+  "video_description_en": "My main goal is to build sustainable future and retain needed services for those who need them.\n\nWe will achieve the goal by doing cooperation, testing new solutions and taking responsible care of the economy.\n\nLet's build a future that will last! #AFairerFinland",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 44,
+      "background_info_id": 10,
+      "name_fi": "Hieman vasemmalle",
+      "name_sv": "Lite till vänster",
+      "name_en": "Slightly to the left",
+      "name_ru": "Немного слева",
+      "name_sme": "Vehá gurut guvlui",
+      "name_ara": "أميل إلى اليسار",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Paras mahdollinen Helsinki rakennetaan yhteistyössä. Tasa-arvoinen, reilu kaikkien hyvinvoinnista huolehtiminen on kaikkien yhteinen etu.  ",
+      "se": "Bästa möjliga Helsingfors byggs genom samarbete. Lika och rättvis omsorg för allas välbefinnande ligger i allas gemensamma intresse.",
+      "en": "The best possible Helsinki will be built in co-operation. Equal, fair care for the well-being of all is in everyone's common interest.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1986,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Poliittista vaikutustyötäni ohjaavat yhteisöllisyys, tulevaisuuden rakentaminen vastuullisilla valinnoilla, mahdollisuuksien tunnistaminen ja mahdollistaminen sekä tasa-arvoisuus ja reiluus. ",
+      "se": null,
+      "en": "My political work is led by well-being in community, building the future with responsible choices, identifying and enabling opportunities, and equality and fairness.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Tehdään vastuullisia valintoja tulevaisuuden puolesta liikkumisessa, kuntatyönantajana sekä työllisyyden hoidossa.",
+      "se": "Jag gör ansvarsfulla val för framtiden inom mobilitet, när kommunen är arbetsgivare och sysselsättningsansvarig.",
+      "en": "I make responsible choices for the future in mobility, when the municipality is an employer and in charge of employment.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.peppitervo-hiltula.fi",
+    "facebook_url": "https://www.facebook.com/ptervohiltula",
+    "instagram_url": "https://www.instagram.com/tervohiltula/",
+    "tiktok_url": "https://tiktok.com/@tervohiltula",
+    "municipality_fix": {
+      "fi": "Moni asia on jo Helsingissä hyvin. Tärkeää on säilyttää hyvät palvelut mahdollisimman saavutettavina niille, jotka niitä tarvitsevat. Teemme valintoja, jotka vaikuttavat pitkälle tulevaisuuteen - omien lasten ja lastenlasten elinympäristöön. Perheiden hyvinvointi ja palvelut sekä hyvän ja turvallisen elinympäristön rakentaminen ja turvallisuus sekä sujuva liikkuminen pääkaupunkiseudulla tulee turvata tulevaisuudessakin. \n\nTeemme maamme suurimmassa kaupungissa valintoja, jotka vaikuttavat koko Suomeen. Olemme esimerkkinä, mutta myös mittatikkuna. Siksi palveluiden, toimintamallien ja rakenteiden pitää olla meillä kunnossa. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Sotepe-lautakunnan jaoston varajäsen 2021-2025\nHelsingin seurakuntayhtymä yhteisen kirkkovaltuuston jäsen 2022-\nPakilan seurakuntaneuvosto, varapuheenjohtaja 2022-\nEHYT ry:n valtuuston jäsen 2023- \nPakilan alakoulun johtokunnan puheenjohtaja 2021-\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 3,
+      "background_info_id": 2,
+      "name_fi": "Hieman liberaali",
+      "name_sv": "Ganska liberal",
+      "name_en": "Slightly liberal",
+      "name_ru": "Слегка либерал",
+      "name_sme": "Vehá liberála",
+      "name_ara": "أميل إلى الليبرالية",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Huolehditaan perheiden palveluiden kehittämisestä ja sosiaali- ja terveyspalveluiden saavutettavuudesta.",
+      "se": "Jag ser till att familjer får social- och hälsovård och att deras barn får en bra utbildning.",
+      "en": "I make sure that families receive social and health services and that their children have a good education.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

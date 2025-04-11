@@ -1,0 +1,201 @@
+{
+  "id": 5869,
+  "first_name": "Antti",
+  "last_name": "Vainionpää",
+  "election_number": 202,
+  "party_id": 7,
+  "image": "kuvat/akv2025/5869/f443bd32-8336-4664-b21f-f07e4d27b49a",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 43,
+      "background_info_id": 10,
+      "name_fi": "Vasemmalle",
+      "name_sv": "Till vänster",
+      "name_en": "On the left",
+      "name_ru": "Слева",
+      "name_sme": "Gurut guvlui",
+      "name_ara": "اليسار",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Minä lupaan pyrkiä kaikessa toiminnassani tasa-arvoon, yhdenvertaisuuteen ja oikeudenmukaisuuteen.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1986,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "viro",
+        "se": "estniska",
+        "en": "Estonian",
+        "ru": "эстонский",
+        "sme": "esttegiella",
+        "ara": "الإستونية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Hyväntahtoisuus, rehellisyys, perhe, vastuuntunto, luovuus",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lupaan edistää kunnallisten palveluiden saatavuutta ja laatua kaikille vauvasta vaariin. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "municipality_fix": {
+      "fi": "Paljon pitäisi laittaa kuntoon. Kaikessa pitäisi petrata ja parantaa. Ehkä se mikä kaipaa eniten paikkausta, olisi asenteen muutos politiikassa ja virkamieshallinnossa: me palvelemme kansalaisten parasta, emmekä juokse pelkästään numeroiden ja epämääräisten tilastollisten tavoitteiden perässä. Lautakunnissa virkamiehet marssittavat esiin samoja virkamies-asiantuntijoita, jotka kertovat aina samoja harmaita tarinoita. Numeroilla ja tilastoilla johdetaan - sokeat johtavat sokeita ilman kuulematta tavallisten kansalaisten, asiakkaiden tai palvelun käyttäjien näkemyksiä. Leikkauksia ja säästöjä perustellaan liian yksioikoisesti vaillinaisesti koottujen aineistojen perusteella.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Helsingin kaupungin kasvatus- ja koulutuslautakunta",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Minä lupaan parantaa maailmaa, niin että huoleton arki olisi itseoikeus kaikille helsinkiläisille - ei vain harvoille.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "• Helsingin Seudun Ympäristöpalvelu Oy:n tarkastuslautakunnan jäsen 2013 - 2021 • Helsingin kaupungin sosiaali- ja terveyslautakunnan jäsen 2018 - 2019 • Helsingin kaupungin sosiaali- ja terveyslautakunnan alaisen jaoston varajäsen 2017 - 2019 • Helsingin kaupungin asunnot Oy:n Jakomäen alueyhtiön hallituksen asukasjäsen 2016 - 2018 • Helsingin Kaupungin työllistämistoimikunnan varajäsen 2013 - 2017 • Helsingin Yliopiston opintotukilautakunnan varajäsen 2011 - 2014 • Helsingin Yliopiston opettajien pedagogisten opintojen valintatoimikunnan opiskelijaedustajan varajäsen 2010 - 2014 • HOAS Asukahallituksen valtuuston jäsen 2010 - 2015 • HOAS Asukahallituksen yhteistyöelimen jäsen ja varapj. 2009 - 2013 • Helsingin Yliopiston oikeusturvalautakunnan varajäsen 2011 - 2013 • HOAS Asukastoimikunnan puheenjohtaja ja määrärahavastaava 2008 - 2013 • Helsingin Yliopiston Politiikan ja talouden tutkimuksen laitoksen laitosneuvoston varajäsen 2010 - 2011 • Helsingin Yliopiston Valtiotieteellisen tiedekuntaneuvoston varajäsen 2010 - 2011 • Metropolian Opiskelijapalvelut Oy:n hallituksen jäsen ja varapuheenjohtaja 2010 - 2011 • Metropolian Opintotukilautakunnan jäsen 2010 - 2011 • Metropolian Tietotekniikka ja Viestintä klusterin johtoryhmän opiskelijaedustajan varajäsen 2010 - 2011",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

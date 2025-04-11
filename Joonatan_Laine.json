@@ -1,0 +1,203 @@
+{
+  "id": 10431,
+  "first_name": "Joonatan",
+  "last_name": "Laine",
+  "election_number": 507,
+  "party_id": 5,
+  "image": "kuvat/akv2025/10431/7012e2a9-7c0a-4fa2-9bf2-39e2ad6978de",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 44,
+      "background_info_id": 10,
+      "name_fi": "Hieman vasemmalle",
+      "name_sv": "Lite till vänster",
+      "name_en": "Slightly to the left",
+      "name_ru": "Немного слева",
+      "name_sme": "Vehá gurut guvlui",
+      "name_ara": "أميل إلى اليسار",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Kannatan huumeiden käyttöhuoneiden perustamista haittojen vähentämiseksi ja apua tarvitsevien tukemiseksi. Lisäksi Helsingin on parannettava hankintaprosessejaan. Hinta ei saa olla ainoa kriteeri päätöksenteossa – meidän on panostettava laatuun, kestävyyteen ja paikallisuuden huomioimiseen.",
+      "se": "Jag stödjer inrättandet av brukarrum för droger för att minska skador och ge stöd till dem som behöver hjälp. Dessutom måste Helsingfors förbättra sina upphandlingsprocesser. Priset får inte vara det enda kriteriet i beslutsfattandet – vi måste satsa på kvalitet, hållbarhet och att beakta det lokala.",
+      "en": "I support the establishment of drug consumption rooms to reduce harm and provide support to those in need. Additionally, Helsinki must improve its procurement processes. Price should not be the only criterion in decision-making – we must invest in quality, sustainability, and consideration of local factors.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1993,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "espanja",
+        "se": "spanska",
+        "en": "Spanish",
+        "ru": "испанский",
+        "sme": "spánskkagiella",
+        "ara": "الإسبانية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Vapaus\nLuottamus\nRauha\nMerkityksellisyys\nToivo",
+      "se": "Frihet\nFörtroende\nFred\nRelevans\nHoppas",
+      "en": "Freedom\nTrust\nPeace\nMeaningfulness\nHope",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Vaadin myös lisätä kohtuuhintaista asumista, kehittää sosiaali- ja terveyspalveluita sekä panostaa ympäristöystävällisiin ratkaisuihin. Helsinki pystyy parempaan, erityisesti päätöksentekijöiden osalta.",
+      "se": "Jag kräver också att det byggs mer prisvärt boende, att social- och hälsovårdstjänster utvecklas samt att miljövänliga lösningar prioriteras. Helsingfors kan göra bättre, särskilt när det gäller beslutsfattarna.",
+      "en": "I also demand more affordable housing, the development of social and healthcare services, and a greater focus on environmentally friendly solutions. Helsinki can do better, especially when it comes to decision-makers.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "facebook_url": "https://www.facebook.com/joonatan.laine/",
+    "instagram_url": "https://www.instagram.com/joonatanofficial/?hl=fi",
+    "municipality_fix": {
+      "fi": "Helsingissä on panostettava kohtuuhintaiseen asumiseen, jotta kaupunki pysyy elinvoimaisena ja kaikkien saavutettavissa. Sosiaali- ja terveyspalveluiden saatavuutta ja laatua on parannettava, erityisesti mielenterveyspalveluissa ja perusterveydenhuollossa. Lisäksi kaupunki voi tehdä enemmän ympäristöystävällisten ratkaisujen edistämiseksi ja liikenteen sujuvoittamiseksi eri liikkumismuotoja tasapainoisesti tukien.",
+      "se": "I Helsingfors måste man satsa på prisvärt boende för att staden ska förbli livskraftig och tillgänglig för alla. Tillgången till social- och hälsovårdstjänster, särskilt mentalvården och primärvården, måste förbättras. Dessutom kan staden göra mer för att främja miljövänliga lösningar och förbättra trafikflödet genom att stödja olika transportsätt på ett balanserat sätt.",
+      "en": "In Helsinki, affordable housing must be prioritized to keep the city vibrant and accessible to everyone. Access to social and healthcare services, particularly mental health services and primary healthcare, needs improvement. Additionally, the city should do more to promote environmentally friendly solutions and improve traffic flow while ensuring a balanced approach to different modes of transport.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Olen Helsingin keskustan hallituksessa ja keskustan tekoälytyöryhmän sihteeri",
+      "se": "Jag är styrelseledamot i Centern i Helsingfors och sekreterare för Centerpartiets arbetsgrupp för artificiell intelligens.",
+      "en": "I am a board member of the Centre Party in Helsinki and the secretary of the Centre Party's artificial intelligence working group.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Haluan tehdä Helsingistä turvallisemman, oikeudenmukaisemman ja kestävämmän kaupungin. Helsinki on minulle rakas koti ja haluan tuoda uutta näkemystä päätöksentekoon.",
+      "se": "Jag vill göra Helsingfors till en tryggare, rättvisare och mer hållbar stad. Helsingfors är mitt kära hem, och jag vill bidra med nya perspektiv till beslutsfattandet.",
+      "en": "I want to make Helsinki a safer, fairer, and more sustainable city. Helsinki is my beloved home, and I want to bring fresh perspectives to decision-making.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Olin kaksi vuotta Keskustaopiskelijoiden pääsihteeri.",
+      "se": "Jag var generalsekreterare för Centerstudenterna i två år.",
+      "en": "I was a secretary general of the Center Students Finland for two years.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

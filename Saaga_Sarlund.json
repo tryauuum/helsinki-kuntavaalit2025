@@ -1,0 +1,194 @@
+{
+  "id": 6702,
+  "first_name": "Saaga",
+  "last_name": "Sarlund",
+  "election_number": 533,
+  "party_id": 5,
+  "image": "kuvat/akv2025/6702/235d93c9-d594-43f3-a4d7-a5a647c3ef08",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 46,
+      "background_info_id": 10,
+      "name_fi": "Hieman oikealle",
+      "name_sv": "Lite till Till högerhöger",
+      "name_en": "SlightTo the rightly to the right",
+      "name_ru": "Немного справа",
+      "name_sme": "Vehá olgeš guvlui",
+      "name_ara": "أميل إلى اليمين",
+      "target_value": 1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Asumisen hinta\nHelsingin vuokra-asumisen hinta on karannut käsistä. Opiskelijoilla ja nuorilla aikuisilla tulee olla varaa muuhunkin kuin vuokran maksuun.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 2006,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "ranska",
+        "se": "franska",
+        "en": "French",
+        "ru": "французский",
+        "sme": "fránskkagiella",
+        "ara": "الفرنسية"
+      }
+    ],
+    "education": {
+      "id": 49,
+      "background_info_id": 16,
+      "name_fi": "peruskoulu",
+      "name_sv": "grundskola",
+      "name_en": "Primary school",
+      "name_ru": "средняя школа",
+      "name_sme": "vuođđoskuvla",
+      "name_ara": "المستوى الابتدائي",
+      "target_value": 1,
+      "name_ukr": "середня школа",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "yhdenvertaisuus, hyvät ihmissuhteet, vapaus, tasa-arvo, luonto",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Harrastustoimintaa kaikille\nHarrastukset pienetävät syrjäytymisen riskiä ja auttavat rakentamaan ystävyyssuhteita. Kaikilla helsinkiläisillä ei ole varaa yhteenkään harrastukseen, omaan tai lapsen harrastustukseen.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://keskusta.fi/kuntavaalit-2025/ehdokkaat/helsinki/saaga-sarlund/",
+    "instagram_url": "https://www.instagram.com/saaga.ellen/?next=%2Fanttiregelin%2F",
+    "tiktok_url": "https://www.tiktok.com/@saagaellen",
+    "municipality_fix": {
+      "fi": "Helsinkiläisten nuorten hyvinvointia pitää lisätä esimerkiksi varmistamalla vähintään yksi harrastus jokaiselle sekä tarvittaessa pääsy matalan kynnyksen mielenterveyspalveluiden pariin. Helsingin on lisättävä edullisten liikuntapalveluiden saatavuutta ja saavutettavuutta. Asumisen kulut eivät saa nousta kohtuuttomiksi.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Partiojohtaja, lukion oppilaskunnan hallituksen vpj",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Nuorten terveys, niin fyysinen kuin psyykkinen\nMonet nuoret sekterveys, niin fyysinen kuin psyykkinenä aikuiset kärsivät mielenterveysongelmista. Tavoitteena parantaa koulujen psykologien ja kuraattoreiden palveluita ja saatavuutta, lisätä ennaltaehkäisevää työtä, kuten matalan kynnyksen walk-in terapioita.\nNuorten yleinen fyysinen kunto on heikentynyt vuosien mittaan. Tehdään muutos ja tarjoamalla helppoja ja mielekkäitä liikkumisen muotoja kaikille.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

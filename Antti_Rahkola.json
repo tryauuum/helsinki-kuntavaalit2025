@@ -1,0 +1,206 @@
+{
+  "id": 13536,
+  "first_name": "Antti",
+  "last_name": "Rahkola",
+  "election_number": 23,
+  "party_id": 10,
+  "image": "kuvat/akv2025/13536/d83c1d44-78f0-458e-a1c2-a2b790445d15",
+  "constituency_id": 25,
+  "video": "1-73823641",
+  "video_aspect": "1:1",
+  "video_description_fi": "- Lääkäriin viikossa, ei kuukausissa. Oma -ja perhelääkärimalli toimii. \n- Koulukiusaamiseen stoppi: Erityishenkilö tulee koulu ulkopuolelta puuttumaan kaikkeen kiusaamiseen. \n- Liikkumattomuus aiheuttaa vuodessa noin 3-5 miljardin kulut Suomessa:\n  - Kouluihin joka päivä aktiivisuuten perustuvaa oppimista.\n  - Harrastusvelvoite kouluikäisille koulun yhteyteen.\n  - Työikäisille terveys-kuntotestit - kunta palkitsee pienemmällä kuntaverolla.\n- Eläkeläisille puoleen hintaan kaikki julkinen liikenne\n- Yksinäisyyteen ratkaisua. Nuorisotilojen avaaminen osittain sekä nuorille että ikäihmisille samaan aikaan. - Joku nuori voi saada itselle sieltä tärkeän mummo -tai pappakaverin. \n- Jos Helsinki hankaloittaa rakennustoimillaan yrityksien liiketoimintaa. Tulee kaupungin auttaa tässä ehkäisemään tulomenetykset tilanteeseen sopivalla tavalla.",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 46,
+      "background_info_id": 10,
+      "name_fi": "Hieman oikealle",
+      "name_sv": "Lite till Till högerhöger",
+      "name_en": "SlightTo the rightly to the right",
+      "name_ru": "Немного справа",
+      "name_sme": "Vehá olgeš guvlui",
+      "name_ara": "أميل إلى اليمين",
+      "target_value": 1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Työllisyys ja talous:\n\nHelsingin kaupungin tulee edistää yrityksien liiketoimintaa laajasti. Kaupunki ei saa vaikeuttaa toimintoja, vaan mahdollistaa ja etsiä ratkaisuja yhdessä eri toimijoiden kanssa siihen, että saamme elinvoimaisen kaupungin, jossa pidetään kuitenkin jatkossakin kulttuuri ja luontoarvot liikunta-alueineen tärkeänä. Nämä eivät ole ristiriidassa keskenään vaan edistää hyvinvointia ja viihtyisyyttä.\n\nHelsingin kaupunki tulee uudistua, tulevaisuuden kaupungiksi, jossa asukkailla on myös mahdollisuus vaikuttaa realiaikaisesti toimintojen sujuvuudessa. Tällä hetkellä oleva omastadi palvelua tulee jatkaa, sekä laajentaa sitä paremmin kuntalaisten vaikuttamiskanavaksi.\n\nTyöllisyys: \nSuurin osa työttömistä ihmisistä saa erilaisia tukia, jotta voisivat selviytyä. Tämä ei ole oikein tätä tervettä työtöntä kohtaan. Miksi me kannustamme yksinäisyyteen, toimettomuuteen, masennukseen, terveydellisiin ongelmiin ja siihen, että joku muu tekee työt ja maksaa kuluni. Haluamme kaikki olla hyödyllisiä, aktiivisia, osana yhteiskuntaa. Työntekemisen kautta saamme kaiken tämän ja lukuisia muita asioita. Meidän tulee ihmiset saada töihin kaikin mahdollisin tavoin: työharjoittelupaikat, työssäoppiminen ja lisäkouluttautuminen työnohessa yrityksiin, järjestöihin tai kunnalle. Työnhakijoita on moneksi ja osa tarvitsee alkuun enemmän tukea kuin toinen, koska valitettavasti pitkäaikaistyöttömyys on jo suuri ongelma. Korjausliike tulee tehdä nyt ja tulevaisuudessa meillä on kaikki työkykyiset tuottavassa työssä ja hyvinvointi paranee, jokaisella nykyisellä työttömällä. \n\nMikäli työtön on sairastunut. Sairaus tulee hoitaa ja tukea paranemisessa, ei olla työttömänä järjestelmissä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1983,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "1. Terveys: Ilman fyysistä ja henkistä hyvinvointia muut elämän osa-alueet voivat kärsiä. Hyvä terveys edistää pitkää ja miellyttävää elämää. \n2. Toisista välittäminen: rakkaus ja erilaiset ihmissuhteet. Mielestäni nämä tuovat onnellisuutta ja yhteiskunnan tulee edistää tätä. Yhteisöllinen yhteiskunta luo hyvän luomisen. \n3. Kaikki ovat tasa-arvoisia ja samanarvoisia. Ihmisillä on oltava yhtänäiset ihmisoikeudet. Kenenkään ei tulisi myöskään nostaa toista tärkeämmäksi kuin itseään. Kunnioittakaamme aina toisia. Noudatetaan sääntöjä ja lakeja sen mukaan kuin ne on yhdessä päätetty, kansanvaltaa.\n4. Elämällä on tarkoitus - Elämä: Tee elämästä hyvä. Sitä löytää työstä, harrastuksista, toisista ihmisistä, luonnosta, eri kulttuureista ja eri maista. Kehitä itseäsi ja elämäsi saa koko ajan lisää tarkoitusta.\n5. Huolehdi ympäröivästä maailmasta: maailma on upea paikka, joka tarjoaa eväitä kaikille. Käyttäkäämme siis ympäröivää maailmaa hyvin. Maailma kiittää, kun siitä huolehtii. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lasten ja nuorten hyvinvointi on valtavan tärkeä asia. Koulukiusaamiselle stoppi: Palkataan ulkopuolinen henkilö kouluun, joka takaa koulun kiusaamattomuuden. Hän tekee yhteistyötä kaikkien organisaatioiden kanssa ja kiusaamisen lopettamiseen on kaikki keinot olemassa!. Lasten ja nuorten yksinäisyys, liikkumattomuus ja pahoinvointi on kasvussa. Harrastustakuu: Koulupäivien yhteydessä jo toteutetaan harrastustoimintaa Helsingissä, mutta siihen ei velvoiteta. Onkin tärkeää, että tämä sisällytetään 1 luokasta alkaen osaksi koulussa tapahtuvaan toimintaan osana pakollista oppivelvollisuutta. Jokainen lapsi on oikeutettu myös tavoitteelliseen harrastamiseen. Mikäli perhe on köyhyysrajan alapuolella tulisi lapsen harrastusmaksu taata: max 50e/kk, mikäli harrastusmaksut ovat kalliimpia seura vastaa sen tavalla tai toisella (vastikkeellisuus, stipendit jne.) Lasten kodin ollessa turvaton, tulee lapsen päästä välittömästi turvalliseen kasvuympäristöön - tässä tulee varhaiskasvatus, koulu, koti ja sosiaalipalvelut olla tehokkaasti yhteistyössä. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://puheenvuoro.uusisuomi.fi/author/antti-rahkola/",
+    "facebook_url": "https://www.facebook.com/anttirahkolaliikenythelsinki",
+    "instagram_url": "https://www.instagram.com/anttirahkola_liikenyt_helsinki/",
+    "language_some_other": {
+      "fi": "Useista kielistä useita eri sanoja. Mielestäni on tärkeää osata mahdollisimman monesta kielestä ainakin vähintään muutama sana. Tämä auttaa monessa asiassa ja toisaalta on myös ystävällisyyden merkki siitä, että välittää ja kunnioittaa kyseistä maata ja ihmistä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "municipality_fix": {
+      "fi": "- Hoitoon viikossa - ei kuukausissa. Omalääkäri ja perhelääkäri malli, \n- Koulukiusaamiselle stoppi. Ulkopuolinen koulunvalvoja hoitamaan asiat kuntoon.\n- Jokainen lapsi tulee kuulua harrastusten piiriin. Tämä tulee sisällyttää osaksi koulutusohjelmaa 1 luokalta lähtien, eli on osa opinpolkua. Tällä ehkäistään, että nuori myöskin velvoitetaan harrastukseen eikä koti voi tätä estää (nykyisin tätä esiintyy, lapsen oikeudet)\n- Lisäksi harrastustakuu tavoitteellisen harrastamisen mahdollistamiseen tulee tarjota kaikille, tämän voi linkittää helposti koulussa aloitettuun harrastamisen aloittamiseen. Vähävaraisille tukea suoraan lapsen maksuun, mikäli tämä osoittautuisi muuten esteeksi.\n- Helsingistä yrittäjille hyvä kaupunki. Mikäli on esteitä, ne ratkotaan yhdessä siten - että oikea tapa yrittää löytyy. Mikäli kaupungin remontit tms. vaikeuttavat yrityksiä, tulee kaupungin tarjota vaihtoehtoisia tapoja normalisoida tilanne. Kaupungin tulee yhdessä rakentaa kaupunkia toimijoiden kanssa.\n\n- ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Tällä hetkellä olen taloyhtiöni hallituksessa. Hallituksessa olen toiminut useana vuotena, myöskin puheenjohtajana.\n\nAikaisemmin olen hankkinut kokemusta myöskin Akavan erityisalat, Nuoriso -ja liikunta alan asiantuntijat ry ammattijärjestön hallituksen jäsenenä, varapuheenjohtajana ja puheenjohtajana sekä opiskelijavastaavana. Opin täällä tuntemaan Akavan puolen työmarkkinaelämää. Nykyisin en toimi enään täällä, olen yrittäjänä ja tällä hetkellä kauppiaana Hakaniemen kauppahallissa.\n\nOlen myöskin ollut opiskelijana ollessani erilaisissa EU Youth in Action projekteissa mukana, jossa järjestettiin eri EU-maiden tai EU-kandinaattimaiden kanssa tapahtumia. Hyödyllistä nuorien aktiivisuutta, kehittymistä ja tietoisuutta lisäävää toimintaa oli tämä. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 3,
+      "background_info_id": 2,
+      "name_fi": "Hieman liberaali",
+      "name_sv": "Ganska liberal",
+      "name_en": "Slightly liberal",
+      "name_ru": "Слегка либерал",
+      "name_sme": "Vehá liberála",
+      "name_ara": "أميل إلى الليبرالية",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Hoitoon pitää päästä viikossa ei kuukausissa: \nLääkärit tekemään työtään tehokkaasti. Jos suomessa lääkäri pystyy ottamaan vastaan 5-6 potilasta päivässä ja Tanskassa 20-25 potilasta päivässä, on jotain isosti pielessä.\nOmalääkäri ja perhelääkäri malli tulee ottaa koko Helsingissä käyttöön.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Olin ehdolla ensimmäistä kertaa vuoden 2021 Helsingin kunnallisvaaleissa. Olen pienestä pitäen ollut kiinnostunut yhteiskunnallisista asioista ja nyt 40 vuoden ylittäneenä tieto-taitoni on siinä pisteessä, että pidän erittäin tärkeänä saada ääniä jotta pääsen luomaan Helsinkiin hyvinvointia. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "id": 8325,
+  "first_name": "Jenni",
+  "last_name": "Hjelt",
+  "election_number": 857,
+  "party_id": 4,
+  "image": "kuvat/akv2025/8325/efccd10b-29ba-4cfc-84d9-e8cd3236b6fc",
+  "constituency_id": 25,
+  "video": "1-73813398",
+  "video_aspect": "1:1",
+  "video_description_fi": "Minulle tärkein tavoite ensi valtuustokaudella on vaikuttaa siihen, että kaupungin sosiaali- ja terveyspalveluita pystytään kehittämään vielä paremmiksi niin, että helsinkiläisillä on käytössään toimiva, laadukkaat ja saavutettavat sote-palvelut. Pidetään terveyskeskuskäynnit maksuttomana, hoitotakuu edelleen vähintään 14 päivässä ja ympärivuorokautisen palveluasumisen hoitajamitoutus vähintään nykytasolla 0,65. \nNäihin asioihin pääsin vaikuttamaan jo päättyvällä valtuustokaudella ollessani viime syksynä mukana neuvottelemassa sosiaali-, terveys- ja pelastustoimialan ratkaisua kaupungin budjettineuvotteluissa. \n\nOn myös tärkeää vaikuttaa osaltaan siihen, että helsinkiläiset pääsevät sujuvasti myös erikoissairaanhoidon palveluiden piiriin sellaista tarvitessaan. ",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 43,
+      "background_info_id": 10,
+      "name_fi": "Vasemmalle",
+      "name_sv": "Till vänster",
+      "name_en": "On the left",
+      "name_ru": "Слева",
+      "name_sme": "Gurut guvlui",
+      "name_ara": "اليسار",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Helsingissä tulee huolehtia lähiluonnon säilymisestä ja saavutettavuudesta. Luontoa tulee suojella entistä tehokkaammin. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1974,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Oikeudenmukaisuus, tasa-arvo, yhdenvertaisuus, vapaus ja solidaarisuus.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Pidän esillä Helsingin vastuuta työnantajana. Suomen suurimman työnantajan on noudatettava hyvää henkilöstöpolitiikkaa ja olla myös palkkojen suhteen kilpailukykyinen. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "facebook_url": "https://www.facebook.com/hjeltinjenni",
+    "instagram_url": "https://www.instagram.com/jennihjelt/",
+    "tiktok_url": "https://tiktok.com/@jennihjelt",
+    "language_some_other": {
+      "fi": "Puhun jonkin verran ruotsia, mutta ymmärrän paremmin kuin puhun.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "municipality_fix": {
+      "fi": "- Sosiaali- ja terveydenhuollon palveluja tulee parantaa ja huolehtia pelastustoimen toimivuudesta. \n- Varhaiskasvatuksen paikkojen riittävyydestä lähellä kotia ja ammattitaitoisen henkilöstön riittävyydestä tulee huolehtia. Oppimisympäristö pitää kouluissa olla kunnossa niin tilojen kuin ryhmäkokojen ja yksilöllisen tuen osalta. \n- Lähiluonnon merkitys pitää huomioida aiempaa paremmin. \n- Helsingin henkilöstön palkkauksen kilpailukykyisyydestä tulee huolehtia ja parantaa henkilöstöpolitiikkaa ja johtamista. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "- Helsingin kaupunginvaltuuston sosialidemokraattisen valtuustoryhmän varajäsen ja valtuustoryhmän 2. varapuheenjohtaja\n- Helsingin kaupunkiympäristölautakunnan varajäsen\n- Sosialidemokraattisen puolueen puoluevaltuutettu",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Huolehdin osaltani siitä, että Helsingissä on jatkossa entistäkin paremmat sosiaali- ja terveydenhuollon palvelut. Myös pelastuspalvelujen riittävän hyvästä tasosta tulee huolehtia, hälytysten vasteaikojen pitää olla mahdollisimman lyhyitä. Teen työtä mm. sen eteen, että Helsingissä terveyskeskusmaksuja ei oteta jatkossakaan käyttöön, hoitotakuu pidetään maksimissaan 14 päivässä ja ympärivuorokautisen palveluasumisen henkilöstömitoitus pidetään vähintään nykyisellä tasolla (0,65). Ikääntyneille täytyy löytyä tarvetta vastaava asumismuoto ja palvelut. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

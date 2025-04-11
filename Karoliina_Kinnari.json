@@ -1,0 +1,169 @@
+{
+  "id": 16955,
+  "first_name": "Karoliina",
+  "last_name": "Kinnari",
+  "election_number": 500,
+  "party_id": 5,
+  "image": "kuvat/akv2025/16955/7ca2d649-7aee-4f4e-b647-70c804bc2a51",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 45,
+      "background_info_id": 10,
+      "name_fi": "En vasemmalle enkä oikealle",
+      "name_sv": "Varken vänster eller höger",
+      "name_en": "Neither to the right or the left",
+      "name_ru": "Ни слева, ни справа",
+      "name_sme": "In gurut inge olgeš guvlui",
+      "name_ara": "لا إلى اليسار ولا إلى اليمين",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Mielenterveyden edistäminen\n\nMielenterveys on avain hyvinvointiin ja toimivaan yhteiskuntaan. Haluan edistää mielenterveyspalveluiden saatavuutta Helsingissä, erityisesti matalan kynnyksen palveluita ilman pitkiä odotusaikoja. Tämä vaatii riittäviä resursseja ja yhteistyötä eri toimijoiden kesken. Panostukset mielenterveyteen ovat investointi tulevaisuuteen: hyvinvoivat ihmiset ovat aktiivisempia ja tuottavampia. Mielenterveysongelmat aiheuttavat yhteiskunnalle suuria kustannuksia, joten ennaltaehkäisy on taloudellisesti ja inhimillisesti kannattavampaa. Lisätään tietoisuutta mielenterveydestä, vähennetään stigmaa ja tarjotaan tukea eri ikäryhmille. Panostetaan ennaltaehkäisevään työhön kouluissa ja työpaikoilla, jotta Helsinki olisi entistäkin hyvinvoivempi.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1994,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Hyvinvointi, yhteenkuuluvuus, luonnonläheisyys, velvollisuus, kehittyminen",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Perheiden tulevaisuus\n\nHelsingin tulee olla kaupunki, jossa jokainen perhemuoto voi kukoistaa. Haluan edistää perheystävällisiä palveluita, jotka vastaavat monimuotoisten perheiden tarpeisiin ja ovat lähellä käyttäjiään. Tämä tarkoittaa joustavia päivähoitoratkaisuja, monipuolisia harrastusmahdollisuuksia ja tukea perheiden arkeen. On tärkeää, että kaikki perheet tuntevat olonsa arvostetuiksi ja tuetuiksi riippumatta perhemuodostaan. Kaupungin tuki perheille tulee rakentaa niin, että se mahdollistaa lapsen hankkimisen niille, jotka sitä toivovat, riippumatta heidän sosioekonomisesta taustastaan. Panostetaan ennaltaehkäisevään perhetyöhön ja tarjotaan tukea varhaisessa vaiheessa. Vahvistetaan yhteisöllisyyttä ja taataan tasapuolisesti kohtaamispaikkoja ja lähipalveluita Helsingin eri alueille. Väestönkehityksen tukeminen vaikuttaa pitkällä aikavälillä positiivisesti yhteiskunnan toimivuuteen ja talouden kestävyyteen.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "facebook_url": "https://www.facebook.com/karoliina.kinnari",
+    "instagram_url": "https://www.instagram.com/karomew?igsh=NTVpcmVvNG0zb201",
+    "municipality_fix": {
+      "fi": "Kokonaisvaltainen hyvinvointi: Helsingin on panostettava kaupunkiekologisesti kestävään suunnitteluun, jossa viheralueet ja luonnon monimuotoisuus ovat etusijalla, jotta kaupunkilaiset voivat nauttia puhtaasta ilmasta ja viihtyisästä ympäristöstä. Perheiden tukeminen joustavilla päivähoidoilla ja monipuolisilla harrastusmahdollisuuksilla on tärkeää, jotta Helsinki olisi kaupunki, jossa palvelut ovat ihmisiä lähellä. Mielenterveyspalveluiden saatavuutta on parannettava matalan kynnyksen palveluilla ja lyhyillä odotusajoilla. Ennaltaehkäisevään työhön on panostettava, jotta mielenterveysongelmat eivät pääse kehittymään vakaviksi. Yhteisöllisyyttä on vahvistettava ja tasapuolisia kohtaamispaikkoja tarjottava, jotta kaikki helsinkiläiset tuntevat olonsa osallisiksi. Väestönkehityksen tukeminen on olennaista kaupungin pitkän aikavälin toimivuuden ja talouden kannalta. Kaiken kaikkiaan hyvinvoiva ihminen on aktiivinen ja säteilee hyvää eteenpäin. Ylläpidetään jo hyvää Helsinkiä yhdessä!",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Keskustan sivistysverkoston jäsen.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 3,
+      "background_info_id": 2,
+      "name_fi": "Hieman liberaali",
+      "name_sv": "Ganska liberal",
+      "name_en": "Slightly liberal",
+      "name_ru": "Слегка либерал",
+      "name_sme": "Vehá liberála",
+      "name_ara": "أميل إلى الليبرالية",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Monimuotoinen kaupunkiympäristö\n\nHelsingin ainutlaatuinen luonto on arvokas voimavara. Haluan edistää kaupunkiekologisesti kestävää kaupunkisuunnittelua, jossa viheralueet, luonnon monimuotoisuus ja Itämeren suojelu ovat etusijalla. Panostamalla vihreään infrastruktuuriin, kuten puistoihin ja viherkattoihin, parannamme kaupunkilaisten viihtyvyyttä ja ilmanlaatua. Yhteistyöllä asukkaiden, tutkijoiden ja päättäjien kesken luomme vihreämmän ja elävämmän Helsingin. Luonnonsuojelubiologina ja ympäristötieteilijänä, takaan poliittisessa päätöksenteossa luonnonmonimuotoisuuden turvaamisen ja kaupunkiekologian erityispiirteiden huomioon ottamisen, jotta voimme elää tulevaisuudessakin ympäristövastuullisessa kaupungissa ja nauttia sen tarjoamista ekologisista palveluista.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

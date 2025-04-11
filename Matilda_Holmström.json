@@ -1,0 +1,173 @@
+{
+  "id": 22470,
+  "first_name": "Matilda",
+  "last_name": "Holmström",
+  "election_number": 623,
+  "party_id": 8,
+  "image": "kuvat/akv2025/22470/4e0437d3-d738-400b-a4d5-d2f21fd229f0",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 46,
+      "background_info_id": 10,
+      "name_fi": "Hieman oikealle",
+      "name_sv": "Lite till Till högerhöger",
+      "name_en": "SlightTo the rightly to the right",
+      "name_ru": "Немного справа",
+      "name_sme": "Vehá olgeš guvlui",
+      "name_ara": "أميل إلى اليمين",
+      "target_value": 1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Helsingin suurin vahvuus on meren läheisyys. Kaikkien Helsingissä vierailevien tulee voida nauttia saaristostamme ja luonnostamme – tämän varmistamme ylläpitämällä hyviä kulkuyhteyksiä ja virkistysalueita.",
+      "se": "Helsingfors största styrka är närheten till havet. Alla som besöker Helsingfors ska kunna njuta av vår skärgård och natur, detta gör vi genom att upprätthålla goda förbindelser och rekreationsområden. ",
+      "en": "Helsinki’s greatest strength is its proximity to the sea. Everyone visiting Helsinki should be able to enjoy our archipelago and nature – we ensure this by maintaining good connections and recreational areas.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1995,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Turvallisuus – Haluan elää yhteiskunnassa, jossa ihmiset tuntevat olonsa turvalliseksi omassa ympäristössään.\n\nVapaus – Yksilön oikeus tehdä omat päätöksensä.\n\nKulttuuri ja luovuus – Elävä yhteiskunta, jossa taide, musiikki, tapahtumat ja spontaanit aloitteet voivat kukoistaa.\n\nUsko ihmisiin ja yhteisöön – Avoin ja välittävä yhteiskunta, jossa pidämme huolta toisistamme ja uskomme ihmisten kykyyn tehdä hyvää.\n\nYhteisöllisyys & avoimuus – Uskon inklusiiviseen Helsinkiin, jossa kaikilla taustasta riippumatta on mahdollisuus osallistua ja tuntea itsensä tervetulleiksi.",
+      "se": "1. Trygghet – Jag vill leva i ett samhälle där människor känner sig trygga i sin omgivning\n\n2. Frihet – Individens rätt att fatta egna beslut.\n\n3. Kultur och kreativitet – Ett levande samhälle där konst, musik, evenemang och spontana initiativ får blomstra.\n\n4. Tron på människan och gemenskap – Ett öppet och omtänksamt samhälle där vi tar hand om varandra och tror på människors förmåga att göra gott.\n\n5. Gemenskap & öppenhet – Jag tror på ett inkluderande Helsingfors där alla, oavsett bakgrund, har möjlighet att bidra och känna sig välkomna.",
+      "en": "Safety – I want to live in a society where people feel safe and secure in their surroundings.\n\nFreedom – The individual’s right to make their own decisions.\n\nCulture and Creativity – A vibrant society where art, music, events, and spontaneous initiatives can thrive.\n\nFaith in People and Community – An open and caring society where we look after each other and believe in people’s ability to do good.\n\nCommunity & Openness – I believe in an inclusive Helsinki where everyone, regardless of background, has the opportunity to contribute and feel welcome.\n\n",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Tarvitsemme kaupunkiin tilaa elämälle ja spontaaniudelle. Helsinkiläiset itse luovat kaupunkikulttuurimme – eivät poliitikot tai virkamiehet! Vähentämällä sääntelyä ja byrokratiaa voimme antaa helsinkiläisille vapauden ja luovuuden kehittää julkisia tiloja. Paikat joissa kulttuuri kukoistaa spontaanisti, on säilytettävä, kuten Suvilahti.",
+      "se": "Vi behöver utrymme för liv och spontanitet i staden. Det är Helsingforsarna som skapar vår stadskultur: inte politiker eller tjänstemän! Genom att minska på reglerna och byråkratin kan vi låta Helsingforsarna fritt och kreativt utveckla det offentliga rummet. Utrymmen där kulturen spontant frodas måste bevaras, t.ex. Södervik. ",
+      "en": "We need space for life and spontaneity in the city. It is the people of Helsinki who create our urban culture – not politicians or officials! By reducing regulations and bureaucracy, we can allow Helsinki’s residents to freely and creatively develop public spaces. Spaces where culture thrives spontaneously must be preserved, such as Suvilahti.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 23,
+      "background_info_id": 8,
+      "name_fi": "ruotsi",
+      "name_sv": "Svenska",
+      "name_en": "Swedish",
+      "name_ru": "шведский",
+      "name_sme": "ruoŧagiella",
+      "name_ara": "السويدية",
+      "target_value": null,
+      "name_ukr": "шведська",
+      "name_som": "af-Iswiidhish"
+    },
+    "municipality_fix": {
+      "fi": "Helsinki on upea kaupunki asua ja vierailla – meidän ei tarvitse korjata sitä, mikä ei ole rikki. Panostamalla edelleen elävään keskustaan ja viheralueisiimme sekä luomalla edellytyksiä yrittäjillemme menestyä voimme jatkaa maailman viihtyisimmän pääkaupungin kehittämistä.",
+      "se": "Helsingfors är en jättefin stad att bo i och besöka - vi behöver inte fixa det som inte är sönder. Genom att fortsätta satsa på ett levande centrum och våra grönområden, och ge förutsättningar för våra företagare att lyckas kan vi fortsätta utveckla världens mest trivsamma  huvudstad.",
+      "en": "Helsinki is a wonderful city to live in and visit – we don’t need to fix what isn’t broken. By continuing to invest in a vibrant city center and our green spaces, and by creating the right conditions for our entrepreneurs to succeed, we can keep developing the world’s most pleasant capital.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Meidän on onnistuttava toteuttamaan kunnianhimoiset ilmastotavoitteemme: tämä tehdään kestävillä investoinneilla joukkoliikenteeseen ja fossiilivapaaseen energiaan sekä vastuullisella kaupunkisuunnittelulla.",
+      "se": "Vi måste lyckas förverkliga våra ambitiösa klimatmål: detta görs genom hållbara investeringar i kollektivtrafik och fossilfri energi, och genom ansvarsfull stadsplanering. ",
+      "en": "We must succeed in achieving our ambitious climate goals: this is done through sustainable investments in public transport and fossil-free energy, as well as responsible urban planning.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

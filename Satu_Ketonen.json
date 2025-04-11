@@ -1,0 +1,177 @@
+{
+  "id": 6858,
+  "first_name": "Satu",
+  "last_name": "Ketonen",
+  "election_number": 499,
+  "party_id": 5,
+  "image": "kuvat/akv2025/6858/7899f75a-6ca6-4217-a529-77265863402b",
+  "constituency_id": 25,
+  "video": "1-73903489",
+  "video_aspect": "1:1",
+  "video_description_fi": "Rakennetaan hyvä arki lapsille ja nuorille. Laadukas lähikoulu tai päiväkoti jokaiselle lapselle asuinalueesta riippumatta. Nuorille oltava tilaa toimia ja harrastaa.",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 46,
+      "background_info_id": 10,
+      "name_fi": "Hieman oikealle",
+      "name_sv": "Lite till Till högerhöger",
+      "name_en": "SlightTo the rightly to the right",
+      "name_ru": "Немного справа",
+      "name_sme": "Vehá olgeš guvlui",
+      "name_ara": "أميل إلى اليمين",
+      "target_value": 1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Terveellä pohjalla oleva talous luo kaupunkilaisille mahdollisuuksia nyt ja tulevaisuudessa. Käytetään siis yhteisiä varoja vastuullisesti.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1980,
+    "language_skills": [
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Lapset ja perhe, luonto, sivistys, rakkaus",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Vaalitaan kaupunkimetsiä ja panostetaan liikuntamahdollisuuksiin",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.facebook.com/share/satu.ketonen",
+    "facebook_url": "https://www.facebook.com/share/satu.ketonen",
+    "municipality_fix": {
+      "fi": "Helsinki on hieno kaupunki, jossa olen elänyt koko elämäni ja nähnyt kaupungin kehittyvän. Kehitys on ollut pääosin positiivista, mutta myös virheitä on tehty. Haluan, että jatkossa suojelemme lähimetsiä ja muuta lähiluontoa, emmekä esimerkiksi kaada lunta mereen.\n\nPäättäjänä haluan erityisesti varmistaa,  että jokaiselle lapselle löytyy laadukas lähikoulu ja päiväkoti. Koulujen ja päiväkotien tilaratkaisut pitää suunnitella niin, että ne palvelevat lasten hyvinvointia ja oppimista.\n\nNuorten hyvinvointiin tulee myös panostaa. Nuorilla tulee olla tiloja, joissa kokoontua ja harrastaa.\n\nHelsingin talous tulee olla nyt ja tulevaisuudessa vakaalla pohjalla, ja yhteisiä varoja on käytettävä hyvin vastuullisesti.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Kirkkovaltuuston jäsen, Helsingin seurakuntayhtymä\nSeurakuntaneuvoston jäsen, Oulunkylän seurakunta",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Laadukas lähikoulu tai päiväkoti jokaiselle lapselle",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

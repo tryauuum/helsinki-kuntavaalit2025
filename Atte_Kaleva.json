@@ -1,0 +1,201 @@
+{
+  "id": 10848,
+  "first_name": "Atte",
+  "last_name": "Kaleva",
+  "election_number": 252,
+  "party_id": 19,
+  "image": "kuvat/akv2025/10848/6117a2de-b06f-45d0-aee9-0682ea519fb0",
+  "constituency_id": 25,
+  "video": "1-73823123",
+  "video_aspect": "1:1",
+  "video_description_fi": "Helsingissä tarvitaan nyt tervettä järkeä yksipuolisen ideologian sijaan. Autoilun edellytysten ideologisen heikentämisen on loputtava eikä kaikkialle pidä täydennysrakentaa liian tiivistä ja korkeaa betoniviidakkoa. Helsinkiä pitää suunnitella täällä jo oleville, ei pelkästään tänne tulevaisuudessa muuttavien uusien asukkaiden näkökulmasta. Emme voi uhrata upeaa lähiluontoamme ja asuinalueiden hienoja erityispiirteitä liian kunnianhimoisen väestönkasvutavoitteen takia. Nyt tarvitaan järkeä ja malttia.",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 47,
+      "background_info_id": 10,
+      "name_fi": "Oikealle",
+      "name_sv": "Till höger",
+      "name_en": "To the right",
+      "name_ru": "Справа",
+      "name_sme": "Olgeš guvlui",
+      "name_ara": "اليمين",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Äänestän aina Malmin lentokentän ilmailukäytössä säilyttämisen puolesta. Lupasin tämän jo ensimmäisissä kuntavaaleissani 2015 ja olen lupaukseni myös pitänyt, kovaa ja ajoittain epäasiallistakin poliittista painetta vastaan.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1979,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      },
+      {
+        "fi": "arabia",
+        "se": "arabiska",
+        "en": "Arabic",
+        "ru": "арабский",
+        "sme": null,
+        "ara": "العربية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Koti - minulle oma perhe on kaikkein tärkein.\n\nUskonto - suomalainen elämäntapa ja kulttuuri perustuu juutalais-kristilliselle perinteelle. Meidän on uskallettava vaalia omaa, erinomaista kulttuuriamme ulkomaista haitallista vaikutusta vastaan.\n\nIsänmaa - Suomi on maailman paras maa ja Helsinki on Suomen pääkaupunki. Tätä maata minä haluan puolustaa ja edistän politiikassa aina isänmaan etua.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Vastustan autoilun edellytysten ideologista heikentämistä. Helsingissä tarvitaan toimiva julkinen liikenne ja hyvät kävely- ja pyöräily-yhteydet, mutta Helsingin keskustaan pitää jatkossakin päästä myös omalla autolla. Katutöitä pitää nopeutta, haitta asukkaille minimoida, eikä kadunvarsipysäköintiä saa enää heikentää tai tehdä kalliimmaksi.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "http://www.attekaleva.fi/",
+    "facebook_url": "https://facebook.com/attekaleva",
+    "instagram_url": "https://instagram.com/attekaleva",
+    "X_url": "https://x.com/attekaleva",
+    "municipality_fix": {
+      "fi": "Olen suoraselkäinen turvallisuuden ammattilainen. Tuon valtuustoon asiantuntemukseni ja kokemukseni myötä johtajuutta, jota tarvitaan uusien uhkien torjunnassa ja haasteisiin vastaamisessa. Edistän järkevää maahanmuuttopolitiikkaa ja riittäviä resursseja poliisille ja muille viranomaisille maahanmuuton ikävien lieveilmiöiden torjumiseksi. Vastustan jatkossakin määrätietoisesti laittomasti täällä oleskeleville tarjottavia palveluja. Haluan löytää ja edistää kannustimia osaajien houkuttelemiseksi Helsinkiin.  Hyvinvointivaltiota ei voi olla ilman vastuullista julkista taloutta. Työnteon pitää aina kannattaa, kannustinloukut purkaa ja yrittäjyyteen kannustaa. Samalla meidän on pidettävä hyvää huolta senioreistamme, panostettava koulutukseen ja sivistykseen ja suojeltava luontoa.  Päätöksentekoon on tuotava tervettä järkeä ideologisen kaupunkisuunnittelun tilalle. On nostettava järki, maltti ja harkinta kunniaan. Hyvä kaupunki suunnitellaan asukaslähtöisesti, ei ideologia edellä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 6,
+      "background_info_id": 2,
+      "name_fi": "Konservatiivi",
+      "name_sv": "Konservativ",
+      "name_en": "Conservative",
+      "name_ru": "Консерватор",
+      "name_sme": "Konservatiiva",
+      "name_ara": "محافظ",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Puolustan helsinkiläisten oikeutta turvalliseen elämään kaikkialla, niin kaduilla kulkiessa kuin kouluissakin. Jokaisen pitää voida tuntea olonsa turvalliseksi. Hallitsemattomalle humanitaariselle maahantulolle pitää laittaa stoppi. Maassa maan tavalla tai maasta pois.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "kansanedustaja",
+        "se": "riksdagsledamot",
+        "en": "MP",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      },
+      {
+        "fi": "kunnanvaltuutettu",
+        "se": "ledamot i kommunfullmäktige",
+        "en": "municipal councillor",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "id": 14524,
+  "first_name": "Eeva",
+  "last_name": "Kärkkäinen",
+  "election_number": 504,
+  "party_id": 5,
+  "image": "kuvat/akv2025/14524/98f34578-46b5-4d62-a911-14eb3cf3848c",
+  "constituency_id": 25,
+  "video": "1-73823813",
+  "video_aspect": "1:1",
+  "video_description_fi": "Tärkein tavoitteeni on helsinkiläisten, erityisesti helsinkiläisten lasten ja nuorten hyvinvoinnin lisääminen. Kaupunkipolitiikalla voidaan vaikuttaa asiaan paljon. Helsingin pitää asettaa tavoitteeksi, että meillä on Suomen parhaat koulut ja päiväkodit. Tämä vaatii muun muassa riittävästi pysyviä aikuisia kouluihin ja päiväkoteihin, riittävän pieniä ryhmäkokoja sekä yhteistyötä perheiden kanssa, sillä lapsen hyvinvointiin vaikuttaa aina koko perheen tilanne. ",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 45,
+      "background_info_id": 10,
+      "name_fi": "En vasemmalle enkä oikealle",
+      "name_sv": "Varken vänster eller höger",
+      "name_en": "Neither to the right or the left",
+      "name_ru": "Ни слева, ни справа",
+      "name_sme": "In gurut inge olgeš guvlui",
+      "name_ara": "لا إلى اليسار ولا إلى اليمين",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Edistän päätöksilläni sitä, että Helsinki on parempi kaupunki yrittää, työllistää ja tehdä töitä.\n\nHelsingin on asetettava tavoitteeksi, että tulevalla valtuustokaudella yrittäjien tyytyväisyys Helsingin kaupungin yrittäjälähtöisyyteen tuplataan nykyisestä 9 prosentista 20 prosenttiin. (Suomen Yrittäjien tekemän Yrittäjäbarometrin mukaan Helsinki on tällä hetkellä viimeisenä yrittäjälähtöisyydessä, kun verrataan 21 suurinta kaupunkia)\n\nTyöttömyyden osalta tavoitteena tulee olla työttömyyden kääntäminen laskuun. Erityishuomio tulee kohdistaa maahanmuuttajien työttömyyden vähentämiseen. (Elokuussa 2024 Helsingissä työttömyysaste oli 11,7%, nuorisotyöttömyys 10,4% ja maahanmuuttajien työttömyys 23,8%).",
+      "se": "Jag jobbar för att Helsingfors ska bli en bättre stad att företaga, sysselsätta och arbeta i.\n\nHelsingfors ska sätta ett mål att företagarnas nöjdhet med Helsingfors stads företagarinriktning ska fördubblas från nuvarande 9 procent till 20 procent. (Enligt Företagarbarometern som Företagarna i Finland låtit göra ligger Helsingfors för närvarande sist i fråga om företagarorientering om man jämför de 21 största städerna)\n\nGällande arbetslösheten målet borde vara att arbetslösheten vändas nedåt med särskilt fokus på att minska arbetslösheten bland invandrare (i augusti 2024 var arbetslöshetsgraden i Helsingfors 11,7 %, ungdomsarbetslösheten 10,4 % och arbetslösheten bland invandrare 23,8 %).",
+      "en": "I work for a Helsinki that is a better city to do business, employ and work.\n\nHelsinki should set a target that entrepreneurs' satisfaction with the entrepreneurial orientation of the City of Helsinki is doubled from the current 9 per cent to 20 per cent during the coming council period.  (According to the Entrepreneur Barometer conducted by the Federation of Finnish Enterprises, Helsinki is currently last in terms of entrepreneurial orientation when comparing the 21 largest cities).\n\nAnother key goal should be to turn unemployment downwards with a special focus on reducing unemployment among immigrants. (In August 2024, the unemployment rate in Helsinki was 11.7%, youth unemployment was 10.4% and unemployment among immigrants was 23.8%)",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1989,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "- Yhteys läheisiin ihmisiin\n- Luonnosta nauttiminen ja luonnon vaaliminen\n- Utelias asenne elämää ja toisia ihmisiä kohtaan, ihmisenä kehittyminen\n- Vaikuttaminen paremman maailman puolesta, se että kantaa kortensa kekoon yhteisen hyvän eteen\n- Armollisuus itseä ja muita kohtaan",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Puolustan lähiluontoa. Lähiluonto on olennainen osa asukkaiden hyvinvointia ja luonnon monimuotoisuutta. Kaikkialle Helsinkiin tarvitaan lisää puita ja vehreyttä.\n\nTulevalla valtuustokaudella Helsingin tulee asettaa tavoitteeksi vehreyden lisääminen kaikkialla kaupungissa. Kaupungin tulee tavoitella 30% latvustopeittävyyttä kun rakennetaan uusia tai kaavoitetaan vanhoja asuinalueita. (Latvustopeittävyys on Helsingissä vähentynyt 15% vuodesta 1970 vuoteen 2010 ja on osalla alueista vain 4%. Kaupunginosien latvustopeittävyydelle on asetettu kansainvälinen suositus 30 prosenttia)",
+      "se": "Jag försvarar den närnaturen. Närnaturen är en väsentlig del av invånarnas välbefinnande och biologiska mångfald. Det behövs mer träd och grönska överallt i Helsingfors.\n\nUnder den kommande fullmäktigeperioden Helsingfors måste sätta ett mål att öka grönskaden i hela staden och i princip 30 procent av trädkronorna när man bygger nytt eller planlägger gamla bostadsområden. (Trädkronorna i Helsingfors har minskat med 15 procent från 1970 till 2010 och är i vissa områden endast 4 procent. En internationell rekommendation är på 30 procent för trädkronorna i stadsdelar.)",
+      "en": "I defend nature. Nature is an essential part of residents' well-being and biodiversity. More trees and greenery are needed everywhere in Helsinki.\n\nDuring the upcoming council term, Helsinki must set a goal to increase greenery throughout the city. Starting point should be 30% canopy coverage when building new or zoning old residential areas. (Canopy cover in Helsinki has decreased by 15% from 1970 to 2010 and is only 4% in some areas. An international recommendation of 30 per cent has been set for the canopy cover of city districts).",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://eevakarkkainen.fi",
+    "facebook_url": "https://facebook.com/epekoo",
+    "instagram_url": "https://www.instagram.com/eevakarkkainen_",
+    "municipality_fix": {
+      "fi": "Helsingin pitää asettaa selkeät tavoitteet, joihin se pyrkii tulevalla valtuustokaudella. Minusta Helsingin pitää pyrkiä siihen, että:\n\n1. Helsingissä on Suomen parhaat koulut ja päiväkodit\n2. Helsinkiläisten hyvinvointi lisääntyy (tämä vaatii toimivien sote-palveluiden lisäksi yhteisöllisyyttä, kulttuuria ja liikuntaa)\n3. Lähiluonnon tila paranee ja vehreys Helsingissä lisääntyy\n4. Helsinki on entistä parempi kaupunki yrittää\n5. Työllisyys Helsingissä paranee kaikissa väestöryhmissä",
+      "se": "Helsingfors ska ställa upp tydliga mål som man strävar efter i all sin verksamhet under den kommande fullmäktigeperioden och följa upp hur målen uppnås. Jag anser att Helsingfors bör sträva efter att:\n\n1. Helsingfors har de bästa skolorna och daghemmen i Finland. \n2. Helsingforsbornas välfärd ökar (utöver fungerande social- och hälsovårdstjänster krävs gemenskap och kultur samt idrott)\n3. Närnaturens tillstånd förbättras och grönskan ökar i Helsingfors\n4. Helsingfors är en ännu bättre stad att sysselsätta och arbeta som företagare i\n5. Sysselsättningen i Helsingfors förbättras i alla befolkningsgrupper",
+      "en": "Helsinki must set clear goals that it will strive for in all its activities during the upcoming council term and monitor the achievement of these goals. In my opinion, Helsinki should strive towards following goals:\n\n1. Helsinki has the best schools and daycare centres in Finland\n2. The well-being of Helsinki residents will increase (in addition to well-functioning social and health care services, this requires a sense of community, culture and sports)\n3. The state of local nature will improve and greenery will increase in Helsinki\n4. Helsinki is an even better city to employ and work as an entrepreneur\n5. Employment in Helsinki improves in all population groups",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Olen varavaltuutettu Helsingin kaupunginvaltuustossa sekä Helsingin kulttuuri- ja vapaa-aikalautakunnan jäsen.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Teen töitä sen eteen, että helsinkiläiset lapset ja nuoret voivat hyvin, luottavat tulevaisuuteensa ja voivat tavoitella unelmiaan.\n\nYhdeksi koko Helsingin kaupungin yhteisistä tavoitteista tulee asettaa, että valtuustokauden lopussa 98% helsinkiläisistä nuorista saa toisen asteen päättötodistuksen (nykyään joka kymmenes Helsingissä syntynyt nuori jää ilman peruskoulun jälkeistä tutkintoa).",
+      "se": "Jag arbetar för att barn och unga i Helsingfors ska må bra, ha tilltro till sin framtid och kunna förverkliga sina drömmar.\n\nEtt av Helsingfors stads gemensamma mål bör vara att 98 procent av de unga i Helsingfors får avgångsbetyg på andra stadiet i slutet av valperioden (för närvarande saknar var tionde ung som är född i Helsingfors examen efter grundskolan).",
+      "en": "I work to ensure that children and young people in Helsinki feel well, have confidence in their future and can pursue their dreams.\n\nCity of Helsinki should set a target for the entire organisation that at the end of the council term, 98 per cent of young people in Helsinki will receive an upper secondary school leaving certificate (at present, one in ten young people born in Helsinki will not have a post-comprehensive school qualification).",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Ennen nykyistä työtäni olen työskennellyt politiikassa muun muassa ministerin erityisavustajana. Lisäksi ollut mukana poliittisessa puoluetoiminnassa sekä nuorisojärjestötoiminnassa.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

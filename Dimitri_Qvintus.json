@@ -1,0 +1,216 @@
+{
+  "id": 635,
+  "first_name": "Dimitri",
+  "last_name": "Qvintus",
+  "election_number": 915,
+  "party_id": 4,
+  "image": "kuvat/akv2025/635/5b685fe2-532a-486d-a849-9985b41a6833",
+  "constituency_id": 25,
+  "video": "1-73827291",
+  "video_aspect": "1:1",
+  "video_description_fi": "Kevään kuntavaaleissa on tärkeää valita Helsingin valtuustoon sellaisia päättäjiä, jotka tutustuvat tutkittuun tietoon, jotka huomioivat sen ja tekevät päätöksiä tutkitun tiedon pohjalta. Omia keskeisiä teemojani ovat: \n1) Lasten ja nuorten tulevaisuudella ei pidä leikkiä. Tarvitaan lisää panostuksia koulutukseen ja osaamiseen, lasten ja nuorten hyvinvointiin, mielenterveyteen ja harrastusmahdollisuuksiin.\n2) Nopeammin parempaan hoitoon. Kukaan meistä ihmisistä ei parane jonoissa.\n3) Arjen turvallisuus ja toimivuus. Asumisen ja joukkoliikeenteen hintaa pitää saada alas. Tavoitteena on oltava maksuton joukkoliikenne opiskelijoille, työttömille ja pienituloisille eläkeläisille.",
+  "video_description_sv": "I vårens kommunalval är det viktigt att välja beslutsfattare till Helsingfors kommunfullmäktige som tar hänsyn till forskad information och fakta, och som fattar beslut enligt fakta. Mina egna centrala teman är:\n1) Barns och ungas framtid är inget man leker med. Det behövs mer investeringar i utbildning och kunskap, barns och ungas välbefinnande, psykisk hälsa och hobbymöjligheter.\n2) Snabbare till bättre vård. Ingen av oss människor blir frisk i en kö.\n3) En tryggare vardag. Kostnaderna för boende och kollektivtrafik måste sänkas. Målet ska vara gratis kollektivtrafik för studerande, arbetslösa och pensionärer med låga inkomster.",
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 44,
+      "background_info_id": 10,
+      "name_fi": "Hieman vasemmalle",
+      "name_sv": "Lite till vänster",
+      "name_en": "Slightly to the left",
+      "name_ru": "Немного слева",
+      "name_sme": "Vehá gurut guvlui",
+      "name_ara": "أميل إلى اليسار",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Tavoitteena on oltava maksuton joukkoliikenne opiskelijoille, työttömille ja eläkeläisille. Liikenteen päästöjä on vähennettävä.",
+      "se": "Målet ska vara gratis kollektivtrafik för studerande, arbetslösa och pensionärer. Trafikens utsläpp ska minskas.",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1987,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Empaattisuus, nöyryys, tasa-arvo, oikeudenmukaisuus, vapaus",
+      "se": "Empati, ödmjukhet, jämställdhet, rättvisa, frihet",
+      "en": "Empathy, humbleness, equality, social justice, liberty/freedom",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lyhyemmät jonot, parempaa sosiaali- ja terveydenhuoltoa. Helsinkiläisten hoitoonpääsyä on parannettava, ihmiset pois jonoista.",
+      "se": "Kortare köer, snabbare vård. Vård och omsorg snabbare, människor bort från köerna.",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.dimitriqvintus.fi/",
+    "facebook_url": "https://www.facebook.com/DimitriQvintus2017",
+    "instagram_url": "https://www.instagram.com/dimitriqvintus/?hl=fi",
+    "X_url": "https://x.com/DimitriQvintus",
+    "tiktok_url": "https://www.tiktok.com/@dimitriqvintus",
+    "language_some_other": {
+      "fi": "Äidinkieleni on suomi, kotikielenä ruotsi, työkielinä englanti ja saksa. ",
+      "se": "Jag är tvåspråkig: modersmål är finska, hemmaspråk svenska. Jag talar flytande engelska och tyska.",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "municipality_fix": {
+      "fi": "Lisää resursseja koulutukseen ja oppimistuloksiin. Hoitoonpääsyä pitää vauhdittaa. Lasten ja nuorten hyvinvointiin ja harrastusmahdollisuuksiin lisäpanostuksia. Joukkoliikenteen hintaa pitää saada alas – esim. opiskelijoille, työttömille ja eläkeläisille pitäisi olla maksuton joukkoliikenne.",
+      "se": "Mer resurser i utbildning. Bättre och snabbare social- och hälsovård. Barns och ungas välmående och hobbymöjligheter behöver mer resurser. Kollektivtrafiken är för dyrt – målet ska vara gratis kollektivtrafik för studerande, arbetslösa och pensionärer. ",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "SDP:n puoluehallituksen jäsen, SDP:n piirijohtaja, Kaapelitalo Oy:n hallituksen jäsen, Svenska Teaternin hallituksen jäsen",
+      "se": "Medlem i SDP:s partistyrelse, ordförande för Finlands Svenska Socialdemokrater, styrelsemedlem i Svenska Teatern och Kaapelitalo Oy",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Lasten ja nuorten tulevaisuudella ei leikitä. Koulutukseen sekä lasten ja nuorten hyvinvointiin pitää panostaa. Varhaiskasvatuksen ja koulujen ryhmäkokoja on pienennettävä.",
+      "se": "Barnens och ungdomarnas framtid är inget man leker med. Vi måste satsa på utbildning och barns och ungas välbefinnande. Gruppstorlekarna i skolor och daghem måste begränsas.",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Olen SDP:n puoluehallituksen jäsen ja piirin puheenjohtaja (FSD). Olen toiminut 10 vuotta keskeisissä avustajatehtävissä: mm. kahden pääministerin erityisavustajana, kolmen muun ministerin erityisavustajana ja eduskunnan puhemiehen erityisavustajana.",
+      "se": "Jag är partistyrelsemedlem och distriktordförande (Finlands Svenska Socialdemokrater). Jag har jobbat 10 år i centrala roller bland annat som specialmedarbetare till två statsministrar, tre andra ministrar och riksdagens talman.",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

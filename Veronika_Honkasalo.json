@@ -1,0 +1,221 @@
+{
+  "id": 8151,
+  "first_name": "Veronika",
+  "last_name": "Honkasalo",
+  "election_number": 112,
+  "party_id": 7,
+  "image": "kuvat/akv2025/8151/f39fd4a8-8b2b-4a14-a4a3-4ebca26f0553",
+  "constituency_id": 25,
+  "video": "1-73819183",
+  "video_aspect": "1:1",
+  "video_description_fi": "Kaupunkien merkitys epävarmassa maailmanpoliittisessa tilanteessa korostuu entisestään. Helsingin tulee esimerkiksi olla suunnannäyttäjä ilmastopolitiikassa. Tämän lisäksi Helsingin tulee olla vastavoima Orpon oikeistohallituksen kurjistamispolitiikalle. Helsingillä on varaa pitää huolta ihmisten sosiaali- ja terveyspalveluista, työntekijöiden asemasta ja palkkauksesta, lapsista, nuorista ja vanhuksista. Tämän me voimme hoitaa yhdessä yli puoluerajojen jos tahtoa on. Ja sitä minulla on!",
+  "video_description_sv": "I en osäker världspolitisk situation framhävs städernas betydelse ännu mer. Helsingfors måste t.ex. vara en föregångare i klimatpolitiken. Dessutom måste Helsingfors vara en motkraft till den Orpo-ledda högerregeringens eländespolitik. Helsingfors har råd att ta hand om människors social- och hälsovårdstjänster, arbetarnas arbestvillkor och löner, barnens, ungdomarnas och de äldres ställning. Vi kan göra detta tillsammans över partigränserna om vi vill. Och den viljan har jag!",
+  "video_description_en": "In an uncertain world political situation, the importance of cities is even more highlighted. For example, Helsinki must be a pioneer in climate policy. In addition to this, Helsinki must be a counterforce to the Orpo-led right-wing government's policy of misery. Helsinki can afford to take care of people's social and health services, the conditions and pay of workers, children, young people and the elderly. We can do this together across party lines if we want to. That is my goal!",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 42,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti vasemmalle",
+      "name_sv": "Långt till vänster",
+      "name_en": "Strongly on the left",
+      "name_ru": "С самого левого края",
+      "name_sme": "Nannosit gurut guvlui",
+      "name_ara": "أقصى اليسار",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan puolustaa lähiluontoa ja ilmastoa. Helsingin on kaavoitettava asuntorakentaminen niin, että helsinkiläisille rakkaat lähiluonto- ja virkistysalueet säilyvät myös siellä, jossa ihmisillä ei ole resursseja ja jaksamista puolustaa omaa asuinaluettaan. Helsingin on tehtävä töitä, jotta päästöt laskevat. Tämä tarkoittaa muun muassa panostamista kattavaan ja huokeaan julkiseen liikenteeseen.",
+      "se": "Jag lovar att försvara närmiljön och klimatet. Helsingfors måste planera bostadsbyggandet så att den närnatur och de rekreationsområden som helsingforsarna älskar bevaras även i områden där människor inte har resurser och ork att försvara sina egna grannskap. Helsingfors måste arbeta för att minska utsläppen. Detta innebär bland annat att satsa på en heltäckande och prisvärd kollektivtrafik.",
+      "en": "I promise to defend the local nature and climate. Helsinki must plan housing development in such a way that the local nature and recreation areas that Helsinki residents love are preserved even in areas where people do not have the resources and stamina to defend their own neighbourhoods. Helsinki must work to reduce emissions. This means, among other things, investing in comprehensive and affordable public transport.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1975,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "ranska",
+        "se": "franska",
+        "en": "French",
+        "ru": "французский",
+        "sme": "fránskkagiella",
+        "ara": "الفرنسية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Yhtäläinen ihmisarvo, rakkaus, vapaus, yhdenvertaisuus, antirasismi.",
+      "se": "Lika värdighet, kärlek, frihet, jämställdhet, antirasism.",
+      "en": "Equal dignity, love, freedom, equality, anti-racism.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lupaan tehdä sen eteen töitä, että Helsinki on vastavoima Orpon oikeistohallituksen kurjistamispolitiikalle. Helsinki on rikas kaupunki, jolla on varaa huolehtia kattavista sosiaali- ja terveyspalveluista, varhaiskasvatuksesta, koulutuksesta ja kohtuuhintaisesta asumisesta. ",
+      "se": "Jag lovar att arbeta för att Helsingfors ska vara en motkraft till den Orpo-ledda högerregeringens eländespolitik. Helsingfors är en rik stad som har råd att erbjuda omfattande social- och hälsovårdstjänster, småbarnspedagogik, utbildning och bostäder till rimligt pris. ",
+      "en": "I promise to work to ensure that Helsinki is a counterweight to the Orpo-led right-wing government's policy of misery. Helsinki is a rich city that can afford to provide comprehensive social and health services, early childhood education, education and affordable housing.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "http://veronikahonkasalo.fi/",
+    "facebook_url": "https://facebook.com/honkasaloveronika/",
+    "instagram_url": "https://instagram.com/veronikahonkasalo",
+    "X_url": "https://twitter.com/veronikahonka",
+    "municipality_fix": {
+      "fi": "Helsingissä pitäisi resurssoida sosiaali- ja terveyspalvelut tarpeiden mukaan, huolehtia laadukkaasta varhaiskasvatuksesta ja koulutuksesta, panostaa kohtuuhintaiseen asumiseen, pitää hyvää huolta kaupungin työntekijöistä myös palkkauksen suhteen ja panostaa lähiluontoon. ",
+      "se": "Helsingfors bör se till att social- och hälsovårdstjänsterna motsvarar behoven, erbjuda småbarnspedagogik av hög kvalitet, investera i bostäder till rimliga priser, ta väl hand om stadens anställda, inklusive deras löner, och investera i den lokala miljön. ",
+      "en": "Helsinki should resource social and health services according to needs, provide early childhood education and education of high quality, invest in affordable housing, take good care of city employees, including their salaries, and invest in the local environment.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Hok-Elanto, edustajisto, jäsen\nPohjoismaiden neuvosto, jäsen\nHallintoneuvoston jäsen, Finnfund\nHanasaaren hallitus, Suomen jaosto, varajäsen",
+      "se": "Hok-Elanto, fullmäktige\nNordiska rådet, ledamot\nStyrelseledamot, Finnfund\nHanaholmens regering, finska sektionen, suppleant",
+      "en": "Hok-Elanto Council, member\nNordic Council, Member\nMember of the Governing Board, Finnfund\nHanasaari Government, Finnish Section, alternate member",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": "Olen kaksikielinen ja puhun ruotsia äidinkielentasoisesti. ",
+      "se": "Jag är tvåspråkig och talar flytande svenska. ",
+      "en": "I am bilingual and speak fluent Swedish.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": "Lupaan jatkaa ahkeraa työtäni Helsingin kaupunginvaltuustossa ja puolustaa kaupunkilaisten palveluita, työntekijöiden asemaa ja reilua palkkausta. Lupaan kamppailla sen puolesta, jotta jokainen helsinkiläinen voi elää ihmisarvoista elämää taustasta riippumatta lapsuudesta vanhuuteen. ",
+      "se": "Jag lovar att fortsätta mitt hårda arbete i Helsingfors stadsfullmäktige och försvara tjänsterna för alla stadsbor, de anställdas ställning och rättvisa löner. Jag lovar att kämpa för att alla Helsingforsbor ska kunna leva ett värdigt liv, oavsett bakgrund, från barndom till ålderdom. ",
+      "en": "I promise to continue my hard work in the Helsinki City Council, defending the services of the city's citizens, the status of its employees and fair wages. I promise to fight to ensure that every Helsinki resident can live a life of dignity, regardless of background, from childhood to old age. ",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "kansanedustaja",
+        "se": "riksdagsledamot",
+        "en": "MP",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      },
+      {
+        "fi": "kunnanvaltuutettu",
+        "se": "ledamot i kommunfullmäktige",
+        "en": "municipal councillor",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      },
+      {
+        "fi": "aluevaltuutettu",
+        "se": "ledamot i välfärdsområdesfullmäktige",
+        "en": "county councillor",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

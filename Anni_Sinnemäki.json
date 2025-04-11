@@ -1,0 +1,212 @@
+{
+  "id": 12924,
+  "first_name": "Anni",
+  "last_name": "Sinnemäki",
+  "election_number": 800,
+  "party_id": 6,
+  "image": "kuvat/akv2025/12924/a8c59c24-7dc4-4bca-a072-5940ade0a8ef",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 44,
+      "background_info_id": 10,
+      "name_fi": "Hieman vasemmalle",
+      "name_sv": "Lite till vänster",
+      "name_en": "Slightly to the left",
+      "name_ru": "Немного слева",
+      "name_sme": "Vehá gurut guvlui",
+      "name_ara": "أميل إلى اليسار",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Teen parhaani siinä, että Helsinki on elinvoimainen kaupunki, jossa menestyvien yritysten ja työpaikkojen luominen onnistuu. \n\nKaupungin rooli on tässä ennen kaikkea hyvien olosuhteiden luomisessa, siinä, että kaupunkiin on helppo muuttaa töihin kun asunto löytyy, että Helsingissä on helppo liikkua ja tehdä se kestävästi, että kaupunkiin on helppo muuttaa ulkomailta ja saada käytännön asiat kuntoon niin että voi keskittyä itselleen tärkeisiin asioihin. \n\nLupaan myös toteuttaa tätä lupaustani kuten kahta muutakin yhteistyössä, eri puolueiden ja asiantuntijoiden näkemyksiä kuunnellen ja erilaisia näkemyksiä yhteen sovittaen. Teen oman osani, jotta Helsingin päätöksenteko on poikkeus tässä vastakohtia korostavassa maailmassa. Toimin sen puolesta, että olemme paikka, jossa ratkaisut ja asioiden edistyminen on mahdollista. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1973,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "venäjä",
+        "se": "ryska",
+        "en": "Russian",
+        "ru": "русский",
+        "sme": "ruoššagiella",
+        "ara": "الروسية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Tulevaisuutta kohti orientoituminen, uteliaisuus, vahva ympäristövastuu, empaattisuus ja tutkitun tiedon arvostaminen. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Teen parhaani, jotta Helsinki on maailman paras kaupunki lapsille. Kaupunki, jossa kaikille lapsille taustasta riippumatta aukeaa polku omaan hyvään elämään. Haluan, että Helsinki on kaupunki, jossa investoidaan koulutukseen aina varhaiskasvatuksesta peruskoulun kautta toiselle asteelle.\n\nHaluan, että liikenne huomioi lapset ja että kaikki lapset voivat kävellä ja pyöräillä turvallisesti kaupungissa ja että liikenteen saasteet eivät heikennä lasten terveyttä. \n\nToimin sen puolesta että kauniit ja vanhat metsät säilyvät lapsille kaupungissamme.\n\nToimin sen puolesta, että asuntomarkkinat eivät olisi este toisen tai kolmannen lapsen hankkimiselle ja että Helsingissä kasvaneet nuoret voivat löytää täältä asunnon ja halutessaan jatkaa elämäänsä kotikaupungissa. \n\nHaluan puolustaa hyvää terveydenhuoltoa, luottamusta synnytyksiin ja neuvoloihin, haluan että vanhemmuutta pohtivilla olisi vahva luottamus kaupunkiimme. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://annisinnemaki.net/",
+    "language_some_other": {
+      "fi": "Osaan ranskaa jonkin verran ja pikkuisen tshekkiä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "municipality_fix": {
+      "fi": "Helsingin tulee huolehtia vahvasti siitä, että saavutamme ilmastotavoitteemme vuodelle 2040. Niin olemme osa globaalin kriisin ratkaisua, emme osa ongelmaa. Luonnon monimuotoisuuden säilymisestä ja vahvistumisesta tulee huolehtia. Tämä tarkoittaa uusia luonnonsuojelualueita ja sen varmistamista että luonto on kaikille kaupungissa lähellä.\n\nJoukkoliikenteen hintataso tulisi saada kuntoon, nyt se on liian korkea. Jalkakäytävien ja pyöräväylien talvikunnossapidossa on vieläkin parantamisen varaa. \n\nUsein kaupunkia kannattaa katsoa lasten näkökulmasta ja pohtia, miten asiat toimisivat parhaiten lapsille. Silloin ne yleensä toimivat muillekin. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Toimin valtuutetun tehtävän lisäksi apulaispormestarina ja Helsingin kaupunginhallituksen ensimmäisenä varapuheenjohtajana. Apulaispormestari on täysipäiväinen luottamustehtävä osana kaupungin johtoa. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Teen parhaani sen puolesta, että Helsinki tekee oman osansa ilmastokriisin ja luontokadon torjumiseksi. \n\nTyöskentelen valtuustossa, jotta Helsinki olisi ilmaston ja luonnon kannalta osa ratkaisua eikä osa ongelmaa. Toimin niin, että voisimme myös toimia esimerkkinä ja innostuksen lähteenä muille kaupungeille ja kunnille, samalla kun totta kai voimme oppia muilta. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "kunnanvaltuutettu",
+        "se": "ledamot i kommunfullmäktige",
+        "en": "municipal councillor",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Minulla on laaja ja pitkä kokemus kansanedustajan, ministerinä ja totta kai valtuutettuna. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

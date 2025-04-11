@@ -1,0 +1,184 @@
+{
+  "id": 8458,
+  "first_name": "Sandra",
+  "last_name": "Väisänen",
+  "election_number": 952,
+  "party_id": 4,
+  "image": "kuvat/akv2025/8458/61bf0a20-0416-4460-a94a-d5ac57993af2",
+  "constituency_id": 25,
+  "video": "1-73819261",
+  "video_aspect": "1:1",
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 44,
+      "background_info_id": 10,
+      "name_fi": "Hieman vasemmalle",
+      "name_sv": "Lite till vänster",
+      "name_en": "Slightly to the left",
+      "name_ru": "Немного слева",
+      "name_sme": "Vehá gurut guvlui",
+      "name_ara": "أميل إلى اليسار",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Tuen kestävää kehitystä ja pidän huolta, että Helsinki on jatkossakin luontorikas kaupunki.",
+      "se": "Jag stöder hållbar utveckling och jobbar för att Helsingfors förblir en naturik stad. ",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 2000,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Tasa-arvo, oikeudenmukaisuus, yhdenvertaisuus, ihmisoikeudet, solidaarisuus",
+      "se": "Jämställdhet, jämlikhet, mänskliga rättigheter, rättvisa, solidaritet",
+      "en": "Gender equality, justice, human rights, ",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Satsataan varhaiskasvatukseen ja koulutukseen molemmilla kotimaisilla kielillä. Huolehditaan siitä, että lapset pystyvät keskittymään koulussa ja ryhmäkoot pidetään riittävän pieninä. ",
+      "se": "Satsa på skolning och dagvård på båda inhemska språken. Det är viktigt att vi tar hand om att barnen kan koncentrera sig i skolan och att klasserna inte är för stora. ",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 23,
+      "background_info_id": 8,
+      "name_fi": "ruotsi",
+      "name_sv": "Svenska",
+      "name_en": "Swedish",
+      "name_ru": "шведский",
+      "name_sme": "ruoŧagiella",
+      "name_ara": "السويدية",
+      "target_value": null,
+      "name_ukr": "шведська",
+      "name_som": "af-Iswiidhish"
+    },
+    "homepage_url": null,
+    "municipality_fix": {
+      "fi": "Terveydenhuolto, vanhustenhoito, lasten ja nuorten ja muiden mielenterveyspalvelut.  ",
+      "se": "Social- och hälsovårdstjänsterna ",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": null,
+      "se": "Ersättare i utbildningsnämndens svenska sektion.\nStyrelsemedlem i FSD:s arbetarföreningen\n",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Varmistetaan laadukkaat sosiaali- ja terveyspalvelut kaikille. Pidetään huolta, että mielenterveyspalvelut  ovat saatavilla kaikille jotka niitä tarvitsevat, ja että ihmiset saavat hoitoa ajoissa. ",
+      "se": "Alla skall ha tillgång till yrkesmässig sjukvård. För att ha ett fungerande samhälle måste vi satsa på människors välmående. Det är viktigt att trygga vården för alla och se till att alla får vård i tid. ",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

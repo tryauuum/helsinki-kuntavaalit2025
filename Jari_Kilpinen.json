@@ -1,0 +1,161 @@
+{
+  "id": 3965,
+  "first_name": "Jari",
+  "last_name": "Kilpinen",
+  "election_number": 380,
+  "party_id": 3,
+  "image": "kuvat/akv2025/3965/880cc308-52d6-4de9-964b-6b42662a9708",
+  "constituency_id": 25,
+  "video": "1-73762637",
+  "video_aspect": "4:3",
+  "video_description_fi": "Hyvät helsinkiläiset,\non aika antaa potkut valtuutetuille, jotka ovat hyväksyneet järjettömiä päätöksiä!\n\nTeillä on valta vaikuttaa kaupunkimme tulevaisuuteen. \nÄänestäkää huhtikuussa viisaamman ja vastuullisemman valtuuston puolesta.\n\nHelsingin ei pidä olla monikulttuurinen eikä monikielinen.\nHelsingin ei pidä kasvaa eikä varsinkaan elintasopakolaisilla.\nHelsinkiä ei pidä rakentaa sumppuun.\nViime vuosina kaupunkia on rakennettu liian tiiviisti, ja vanhoille asuinalueille on ahdettu liikaa uudisrakentamista.\nSamoin uudet ratikkareitit ovat vähentäneet puistoalueita, nakertamalla niistä osia sieltä ja täältä.\n\nKaupungin kehityksen tulisi olla tasapainoista ja kestävää, ei tehdä slummia!\nMalmin kenttää ei tule rakentaa.",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 46,
+      "background_info_id": 10,
+      "name_fi": "Hieman oikealle",
+      "name_sv": "Lite till Till högerhöger",
+      "name_en": "SlightTo the rightly to the right",
+      "name_ru": "Немного справа",
+      "name_sme": "Vehá olgeš guvlui",
+      "name_ara": "أميل إلى اليمين",
+      "target_value": 1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "#PelastetaanHelsinki\n\nPolttomoottoriautojen kielto torpattiin Helsingissä – oikea päätös! On kuitenkin selvää, että kaupungissa on jo liian kauan harjoitettu autoiluvihamielistä politiikkaa. Katuja on kavennettu, pysäköintipaikkoja vähennetty ja nopeusrajoituksia alennettu. Liikenteen sumputtaminen saa riittää!\n\nOn muistettava, että ihmisillä on autoja, ja niitä tarvitaan arjessa. Uusia taloja ei voi rakentaa ilman riittävää määrää parkkipaikkoja, ja myös vierailijoiden autoilun tarpeet on otettava huomioon.\n\nEi enää yhtään surkuhupaista Esplanadin kokeilua, joka on aiheuttanut turhia kustannuksia veronmaksajille ja hankaloittanut liikkumista. Keskustan on pysyttävä elinvoimaisena, ja autoilijoiden pitää päästä ostoksille helposti. Jos autoilua rajoitetaan liikaa, autoilijat siirtyvät kehäteiden varsille, mikä heikentää keskustan vetovoimaa.\n\nHelsingin liikennepolitiikan tulisi olla tasapainoinen ja huomioida kaikkien kaupunkilaisten tarpeet. Äänestäkää autoilijoiden puolesta ja tukekaa kaupunkia, jossa liikkuminen on helppoa ja keskusta elää!",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1964,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      }
+    ],
+    "education": {
+      "id": 51,
+      "background_info_id": 16,
+      "name_fi": "ylioppilas",
+      "name_sv": "student",
+      "name_en": "High school graduate",
+      "name_ru": "выпускник лицея",
+      "name_sme": "studeanta",
+      "name_ara": "شهادة البكالوريا",
+      "target_value": 3,
+      "name_ukr": "випускник ліцею",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Minulle tärkeitä arvoja turvallisuus, järjestys  ja  oikeudenmukaisuus.\nOlen huolissani yhteiskunnan tilasta, erityisesti maahanmuuton ja rikollisuuden aiheuttamista lieveilmiöistä, ja haluan nähdä konkreettisia toimia näiden ongelmien ratkaisemiseksi.\n\nVahva oikeudentaju ja puolustaa yhteiskunnan heikommassa asemassa olevia lapsia, nuoria ja vanhuksia.\n\nMinulla on myös kansallinen identiteetti ja perinteiden arvostus: koti, uskonto ja isänmaa",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Suuri ei ole aina kaunista! Helsingin tavoitteena ei saa olla jättimäiset päiväkodit, koulut tai terveysasemat. Julkisten rakennusten ja palveluiden on palveltava paremmin arjen tarpeita.\n\nKoulujen tulisi olla oppimista tukevia tiloja, ei akvaariomaisia rakennelmia. Luokkahuoneissa tulee olla seinät, ei ikkunoita käytäville, jotta opetukseen voidaan keskittyä rauhassa. Päiväkodeissa jokaisen ryhmän tulisi olla oma sisäänkäynti, erilliset tilat ja piha, jossa kaikki lapset voivat turvallisesti leikkiä ja jossa on suojaa auringolta.\n\nLähipalvelut on säilytettävä! Asukkaat haluavat palveluita lähelle kotiinsa ja pieniä, ihmisläheisiä yksiköitä, jotka tuntevat heidän tarpeensa.\n\nHyvät helsinkiläiset, äänestäkää lähipalveluiden ja pienempien yksiköiden puolesta! \nTeillä on valta vaikuttaa kaupungin kehitykseen – käyttäkää äänenne ja tukekaa Helsinkiä, joka panostaa asukkaidensa arkeen ja hyvinvointiin!\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.facebook.com/PS.Jari.Kilpinen/",
+    "facebook_url": "https://www.facebook.com/Jari.E.Kilpinen",
+    "instagram_url": "https://www.instagram.com/jari.kilpinen.ps/",
+    "X_url": "https://x.com/JariKilpinen",
+    "municipality_fix": {
+      "fi": "Ratikkainfran rakentaminen tauolle.\nMiksi toteuttaa ylimitoitettuja raitiotieinvestointeja? \nMiksi hukata miljardeja Kruunuvuorensiltojen ja raiteiden rakentamiseen? \nSelviämme ilman näitä kalliita hankkeita.\nKuka todella haluaa kustantaa nämä suurisuuntaiset investoinnit?\nJos kaikki suunnitelmat toteutetaan, HSL:n lippujen hinnat nousevat huomattavasti.\nEn kannata tasahintaa \nTasahinta tarkoittaa että helsinkiläiset taas maksaa muiden matkoja.\nKun otettiin vyöhykemalli käyttöön, niin helsinkiläisten matkojen hinta nousi.\nNytkin hinnat yleensä nousee helsinkiläisillä ja muiden hinnat laskee.\n\nLiha ja maito palautettava joukkoruokailuun - lihansyöntiä ei tule ideologisesti estää. \n\nHelsingin liikene politiikkaan pitää palauttaa autoilun tarpeellisuus eikä estetä liikkumista.\nPolttomoottoriautoilla ja nastarenkailla pitää voida ajella  joka puolella kaupunkia\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 7,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti konservatiivi",
+      "name_sv": "Mycket konservativ",
+      "name_en": "Strongly conservative",
+      "name_ru": "В значительной степени консерватор",
+      "name_sme": "Nannosit konservatiiva",
+      "name_ara": "محافظ جدا",
+      "target_value": 3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Helsingin tulisi säilyttää identiteettinsä ja välttää monikulttuurisuuden ja monikielisyyden liiallista korostamista. Kaupungin kasvun tulisi olla hallittua, eikä sen tule perustua elintasopakolaisuuteen. Helsinkiä ei pidä rakentaa liian tiiviisti, sillä viime vuosina vanhoille asuinalueille on ahdettu liikaa uudisrakentamista, mikä heikentää viihtyisyyttä ja ympäristön laatua.\n\nUudet ratikkareitit ovat vähentäneet puistoalueita, ja meren täyttäminen rantarakentamisen laajentamiseksi uhkaa Helsingin kauneutta ja elinvoimaa. Kaupungin vihreys ja avoimet rannat ovat sen tärkeimpiä arvoja, eikä niitä tulisi uhrata rakentamisen alttarilla.\n\nKaupungin kehityksen tulisi olla tasapainoista ja kestävää – emme tarvitse slummeja. Malmin kenttää ei tule rakentaa. \nHelsinki on säilytettävä viihtyisänä ja elinvoimaisena kaupunkina tuleville sukupolville.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

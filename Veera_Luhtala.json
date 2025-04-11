@@ -1,0 +1,188 @@
+{
+  "id": 17630,
+  "first_name": "Veera",
+  "last_name": "Luhtala",
+  "election_number": 146,
+  "party_id": 7,
+  "image": "kuvat/akv2025/17630/ae623774-b23c-46b4-a77f-de9782ba4ab5",
+  "constituency_id": 25,
+  "video": "1-73854764",
+  "video_aspect": "1:1",
+  "video_description_fi": "Haluan järjestää rahoituksen kaikille Vasemmistoliiton hyville idiksille - eli haluan että tulevaisuudessa pääomatuloista maksetaan kuntaveroa ihan samalla tavoin kuin palkoista. Me ansaitaan Helsingissä liputon joukkoliikenne ja hyvinresursoidut ja ylläpidetyt kulttuurikeskukset ja liikuntakohteet - vaivattomasti palvelevista terveyskeskuksista ja sosiaalipalveluista puhumattakaan. Tähän kaikkeen menee rahaa, ja raha kannattaa ottaa sieltä missä sitä one - eli pääomatuloista - joista ei nyt makseta kunnan kassaan pennin latia.",
+  "video_description_sv": "Jag vill ordna finansiering för alla bra idéer från oss: Vänsterförbundet – alltså.\n\nJag vill att kommunalskatt i framtiden ska betalas även av kapitalinkomster – på samma sätt som den utvinns från lönerna. Vi förtjänar biljettfri kollektivtrafik i Helsingfors och välbevarade och välskötta kulturhus och idrottsanläggningar – för att inte tala om hälsocentraler och socialtjänst. Allt detta kostar pengar, och det är värt att ta pengarna där en del kan hittas - det vill säga från kapitalinkomster. För närvarande betalas inte ett öre av det till kommunkassan, och detta måste åtgärdas efter brådska.",
+  "video_description_en": "I want to arrange funding for all the good ideas from us: The Left Alliance - that is.\n\nI want municipal tax to be paid in the future also from capital income - in the same way as it is extracted from salaries. We deserve ticket-free public transport in Helsinki and well-resourced and maintained cultural centers and sports facilities - not to mention health centers and social services. All of this costs money, and it's worth taking the money from where some can be found - that is, from capital income. Currently not a penny of it is paid towards the municipal treasury, and this must be fixed post haste.",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 42,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti vasemmalle",
+      "name_sv": "Långt till vänster",
+      "name_en": "Strongly on the left",
+      "name_ru": "С самого левого края",
+      "name_sme": "Nannosit gurut guvlui",
+      "name_ara": "أقصى اليسار",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan edistää syitä käyttää liputonta julkista liikennettä. Kyllä, 15 minuutin kaupunki - eli ajatus siitä että kaikkialle pääsisi alle vartin kävelyllä on oikein sympaattinen. Mutta me kaupunkilaiset asutaan kaupungeissa koska me halutaan muutakin kuin vain ojankaivuuta ja yksi naapuri: elävä kulttuuri on itseisarvo. Stoan riennot ovat minulle kävelymatkan päässä, mutta ite en työpäivän jälkeen lähde huvikseni Malmitalolle tai vaikka Caisaan jalan - jos haluan tehdä päivän aikana muutakin kuin vain kävellä.\n\nLiputtoman julkisen liikenteen jälkeen seuraava luonnollinen askel onkin sitten liputtomat kaupungin kulttuuripalvelut: kulttuurialan ihmisiä on rankaistu tarpeeksi. Suomen suurimmalle työnantajalle Helsingille ei ole homma eikä mikään työllistää jengiä jotta henkihieveriin säästetyt kulttuurikeskukset taas täyttyisivät yleisöistä.",
+      "se": "Biljettfri kollektivtrafik är inte bara för din pendling: det är också en förutsättning för att invånarna fritt ska kunna njuta av ett pulserande kulturliv över hela staden. Ja, den 15-minuter-stad-idén - att kunna gå överallt på mindre än en kvart - är värt strävan - men fördelen med att bo i Finlands största stad ligger också i bekvämligheten av att kunna åka med lokaltrafik till flera olika omgivningar och till exempel de tidigare nämnda kulturcentrumen.\n\nEfter biljettfri kollektivtrafik är nästa naturliga steg biljettfria stadskulturtjänster: människor inom kultursektorn har straffats tillräckligt. Finlands största arbetsgivare, Helsingfors, har en roll att spela här: vi borde anställa kulturarbetare för att åter fylla kulturcentrumen från det våda som inte bara orsakats av pandemin utan otaliga år av slantar.",
+      "en": "Ticket-free public transport is not just for your commute: it's also the prerequisite for residents to freely enjoy a vibrant cultural life all over the city. Yes, the 15-minute city idea - of being able to walk everywhere in less than a quarter of an hour - is worth the pursuit - but the benefit of living in the largest city in Finland is also in the convenience of being able to travel by local traffic to multiple different environs and for instance the aforementioned cultural centers.\n\nAfter ticket-free public transport, the next natural step is ticket-free city cultural services: people in the cultural sector have been punished enough. Finland's largest employer, Helsinki, has a role to play here: we ought to hire cultural workers to again fill the culture centers from the torpor effected by not only the pandemic but countless of years of penny-pinching.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1981,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Reiluus: tätä voi kutsua intersektionaaliseksi feminismiksi, tasa-arvoaatteeksi tai vaikka woketukseksi mutta kyse on lopulta ihan tavallisesta reiluudesta. Ei kusta muiden muroihin eikä itse suostuta mäyssäämään kusisia muroja.\n\nRehellisyys ja avoimuus: tässä kohden esimerkiksi se että ruma sana sanotaan niin kuin se on. Osaan viestiä monessa eri rekisterissä mutta minulle luontevampaa on puhua muiden muroihin kusemisesta kuin vaikkapa heikko-osaisten sorsimisesta. Reilua, rehellistä ja avointa on tuoda tämä tässä vaiheessa esille.\n\nAuttaminen: olen itse sekä auttanut muita että ollut avun kohteena, ja olen tullut sekä siihen tulokseen että haluan auttaa ja olla hyödyksi muille ihmisille - mutta myös että ei ole aina täysin selvää se, millainen apu parhaiten auttaa.\n\nVastuullisuus: tästä johtuen onkin parasta olla valmis kantamaan vastuunsa onnistumisten lisäksi myös silloin kun kaikki ei mene täysin putkeen.",
+      "se": null,
+      "en": "Reiluus: tätä voi kutsua feminismiksi, tasa-arvoaatteeksi tai vaikka woketukseksi mutta kyse on lopulta ihan tavallisesta reiluudesta.\n\nRehellisyys: \n\nAvoimuus\n\nAuttaminen\n\nVastuullisuus. itsenäisyys",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lupaan edistää liputonta joukkoliikennettä Helsinkiin.\n\nHSL:n uusi linjaus siviiliasuisista tarkastajista on sekä tarkastajien että matkustajien turvallisuuden kannalta vihoviimeinen idea.\n\nLupaan että jos se vain on minusta kiinni, ulotamme kuntaveron kaikkiin Helsingin maksukykyisiin ja tarjoamme vastineeksi liputtoman julkisen liikenteen.\n\nJos pelkkä pääomatulon kuntaverolle saattaminen ei riitä, on kulut kattava veronkorotus niin maltillinen että valtaosa kuitenkin voittaa joko valmiiksi maksetuista matkoista - tai tyhjemmistä teistä joilla yksityisautoilla. Liikenteen päästötavoitteetkin ovat sitten yhden hyvin yksinkertaisen askeleen lähempänä.",
+      "se": "Jag lovar att främja biljettlös kollektivtrafik i Helsingfors.\n\nHRT:s nya avsiktförklarning at de vill använda civilklädda kontrollanter är en fruktansvärd idé för både kontrollanternas _och_ passagerarnas säkerhet.\n\nJag lovar att om det beror på mig så kommer vi att utöka kommunalskatten till alla invånare i Helsingfors som kan betala – och erbjuda biljettlös kollektivtrafik i gengäld.\n\nOm de höjda kommunala skatterna från kapitalinkomster inte räcker är en generell skattehöjning som täcker kostnaderna för kollektivtrafiken för alla helsingforsbor så måttlig att en stor majoritet av invånarna fortfarande kommer att dra nytta av antingen förbetalda resor – eller av tommare vägar för privatbilar. Som en extra bonus kommer utsläppsmålen från transporter också att vara ett steg närmare.",
+      "en": "I promise to promote ticketless public transport in Helsinki.\n\nHSL's new policy of plainclothes inspectors is a terrible idea for the safety of both inspectors _and_ passengers.\n\nI promise that if it is up to me, we will extend the municipal tax to all residents of Helsinki who can pay - and offer ticketless public transport in return.\n\nIf the increased municipal taxes from capital income are not enough, a general tax increase that covers the costs of public transport for all Helsinki residents is so moderate that a great majority of residents will still benefit from either pre-paid trips - or from emptier roads for private cars. As an added bonus, transport emissions targets will also be one step closer.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.threads.net/@vasurilla_veera",
+    "facebook_url": "https://www.facebook.com/poliitikkoveeraluhtala/",
+    "instagram_url": "https://instagram.com/vasurilla_veera",
+    "X_url": "Https://twitter.com/elon_muskin_roskispalo_on_nolo_kellä_enää_ees_on_tvintter?",
+    "tiktok_url": "https://tiktok.com/@vasuri_veera",
+    "municipality_fix": {
+      "fi": "Haluan vähemmän Helsingin markkinointia, ja enemmän jo aikaansaatujen saavutusten (kirjastot! kulttuuritalot! uimahallit ja muut urheilutilat!) kunnossapitoa ja panostuksia niihin.\n\nKaupungin kasvava väkimäärä selittää uudet hienoudet: esimerkiksi keskustakirjasto Oodi on upea. Mutta lähiöiden kulttuuritalojen pitäisi kaikkien olla yhtä hyvässä tikissä - ja kaikki uudet asukkaat eivät ramppaa päivittäin keskustassa, eli tarvitaan lisää korttelikulttuuria halki Helsingin.",
+      "se": "Jag vill ha mindre marknadsföring av Helsingfors, och mer underhåll och resurser för det samhällskapital vi redan har byggt upp (bibliotek! kulturhus! simhallar och andra idrottsanläggningar!).\n\nStadens växande befolkning kräver mer av dessa prestationer: till exempel är centralbiblioteket Oodi underbart. Men kulturhusen i förorterna borde alla vara i lika bra skick – och byggas mer i takt med växande befolkningen.",
+      "en": "I want less marketing of Helsinki, and more maintenance and resources for the societal capital we already have (libraries! cultural centers! swimming pools and other sports facilities!).\n\nThe city's growing population requires more of these achievements: for example, the central library Oodi is wonderful. But the cultural centers in the suburbs should all be in equally good shape - and more built as the population grows.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Olen Vasemmistoliiton puoluevaltuuston jäsen ja Puotinkylän-Marjaniemen työväenyhdistyksen hallituksen jäsen.",
+      "se": "Jag är en medlem av Vänsterförbundets partiråd ovh en medlem i styrelsen av fackföreningen i Botby-Marudd.",
+      "en": "I am a member of the Left party council and board member of the Puotinkylä-Marjaniemi workers' association",
+      "ru": "Я являюсь членом совета Левой партии и членом правления профсоюза рабочих Пуотинкюля-Марьяниеми.",
+      "sme": "",
+      "ara": "أنا عضو في مجلس الحزب اليساري وعضو مجلس إدارة جمعية عمال بوتنكيلا-مارجانييمي",
+      "ukr": "Я член ради лівої партії та член правління асоціації робітників Puotinkylä-Marjaniemi",
+      "som": "Waxaan ahay xubin ka tirsan golaha xisbiga Vänsterpartiet iyo xubin guddiga sare ee ururka shaqaalaha Puotinkylä-Marjaniemi"
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Lupaan nostaa tikun nokkaan pääomatulot: niistä ei makseta kunnallisveroa pennin latia. Tämä on vääryys joka on ensi tilassa korjattava: mun pirtaan ei käy se että me piffataan hiekoitushiekat parempien perheiden alueelle jossa osa ei pane yhteiseen kassaan muuta kuin kätensä.",
+      "se": "Vi behöver ha en kommunal skatt på kapitalinkomster: löner beskattas, kapitalinkomster inte. Denna orättvisa måste rättas till så snart som möjligt: det handlar verkligen inte om att en årlig lönecheck på 18 000 betyder att du kommer att betala skatten som täcker infrastruktur över hela staden - även i de områden där kapitalinkomsttagare slutar delta i det allmänna bästa.",
+      "en": "We need to have a municipal tax on capital income: salaries are taxed, capital income is not. This injustice needs to be corrected as soon as possible: it certainly is not on that a yearly paycheck of 18000 means that you will be paying the tax that covers infrastructure all over the town - also in the areas where capital income earners ditch participating in the common good.",
+      "ru": "Мне жаль, что у меня не было возможности выучить этот язык.\n\nЯ не хочу заполнять это поле, например, переводом Google, так как я не знаю, был ли перевод неверным, но я надеюсь, что использование какой-либо формы автоматического перевода будет для вас вариантом, если вам интересны мои взгляды.",
+      "sme": "Ándagassii, muhto in máhte dán giela. Mun in hálit geavahit Google Translate dáppe eanet go dan suorggis go in sahte diehtit lea go boaðus boastut, nu ahte ándagassii dán ovddas.",
+      "ara": "أنا آسف لأنني لم أتمكن من تعلم هذه اللغة.\n\nلا أريد ملء هذا الحقل بترجمة جوجل مثلًا لأنني لن أعرف ما إذا كانت الترجمة غير صحيحة، ولكنني آمل أن يكون استخدام أحد أشكال الترجمة الآلية خيارًا متاحًا لك إذا كنت مهتمًا بآرائي.",
+      "ukr": "Мені шкода, що я не мав можливості вивчити цю мову.\n\nЯ не хочу заповнювати це поле напр. Google переклад, тому що я б не знав, чи переклад був неправильним, але я сподіваюся, що використання певної форми автоматичного перекладу є варіантом для вас, якщо ви зацікавлені в моїх поглядах.",
+      "som": "Waan ka xumahay inaanan fursad u helin inaan barto luqaddan.\n\nMa rabo in aan ku buuxiyo goobtan tusaale ahaan. google turjumaada maadaama aanan garaneyn in turjumaada ay qaldan tahay, laakiin waxaan rajeynayaa isticmaalka nooc ka mid ah turjumaada tooska ah waa ikhtiyaar adiga haddii aad xiisaynayso aragtidayda."
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

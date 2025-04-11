@@ -1,0 +1,185 @@
+{
+  "id": 8282,
+  "first_name": "Liese",
+  "last_name": "Jokiperä",
+  "election_number": 561,
+  "party_id": 2,
+  "image": "kuvat/akv2025/8282/f2bce65d-4e84-4778-b099-3a054e8ae3e2",
+  "constituency_id": 25,
+  "video": "1-73814869",
+  "video_aspect": "1:1",
+  "video_description_fi": "Tärkein tavoitteeni on vaikuttaa varhaiskasvatuksen ja perusopetuksen resursseihin. Perusopetus tarvitsee fyysisiä koulukirjoja sekä hallitummat luokkakoot. Varhaiskasvatuksessa on pidettävä huolta pienistä varhaiskasvatusyksiköistä useiden satojen lasten varhaiskasvatusyksikön sijaan.",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 46,
+      "background_info_id": 10,
+      "name_fi": "Hieman oikealle",
+      "name_sv": "Lite till Till högerhöger",
+      "name_en": "SlightTo the rightly to the right",
+      "name_ru": "Немного справа",
+      "name_sme": "Vehá olgeš guvlui",
+      "name_ara": "أميل إلى اليمين",
+      "target_value": 1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Tehdä parhaani, jotta lapsiperheet saavat hyvän tuen arkeen. Nykyajan vanhemmuus voi olla hyvin kuormittavaa ja nykyaikana koko kylä ei enää kasvata. Haluan, että Helsinki kaupunkina on mukana kasvattamassa ja tukemassa lasten sekä vanhempien hyvinvointia.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1993,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "joku muu",
+        "se": "något annat",
+        "en": "Other",
+        "ru": "другой",
+        "sme": "muhtin eará",
+        "ara": "لغة أخرى"
+      }
+    ],
+    "education": {
+      "id": 51,
+      "background_info_id": 16,
+      "name_fi": "ylioppilas",
+      "name_sv": "student",
+      "name_en": "High school graduate",
+      "name_ru": "выпускник лицея",
+      "name_sme": "studeanta",
+      "name_ara": "شهادة البكالوريا",
+      "target_value": 3,
+      "name_ukr": "випускник ліцею",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Perhe\nItsensä kehittäminen\nVaikuttaminen\nLempeys\nHyvinvointi",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Haluan, että Helsinki arvostaa varhaiskasvatuksen ja perusopetuksen henkilökuntaa. Käytännössä se tarkoittaa esimerkiksi sitä, että opettajille kuuluu kesäajan palkka ja varhaiskasvatuksessa työvaatteet mukaanlukien ulkoiluvaatteet kuuluvat työnantajalle.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "instagram_url": "https://www.instagram.com/liesejokipera/#",
+    "tiktok_url": "https://www.tiktok.com/@liesejokipera",
+    "language_some_other": {
+      "fi": "Tagalog",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "municipality_fix": {
+      "fi": "Varhaiskasvatus ja perusopetus. Olen isoja satojen lasten päiväkoteja vastaan. Mielestäni ihanteellinen varhaiskasvatusympäristö ovat pienemmät päiväkotiyksiköt, jotka ovat hyvin johdettuja. Näin henkilökunta ja lapset viihtyvät paremmin. \n\nPerusopetuksessa tarvitsemme kouluja, jossa on perinteiset luokat seinineen! On tärkeää saada resursseja kohtuullisiin luokkakokoihin sekä erityisopetukseen. On oltava resursseja myös eriyttää opetusta ylöspäin eli myös nopeat oppivat saavat jatkuvat sopivaa haastetta opiskeluihin. Opiskeluvälineisiin on tärkeää saada budjettia. Fyysiset koulukirjat ovat saatava takaisin käyttöön.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Varhaiskasvatukseen ja perusopetukseen lisää resursseja. Haluan huolehtia esimerkiksi siitä, että fyysiset koulukirjat palaavat perusopetukseen. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,217 @@
+{
+  "id": 8292,
+  "first_name": "Nawal",
+  "last_name": "Mohamud",
+  "election_number": 156,
+  "party_id": 7,
+  "image": "kuvat/akv2025/8292/fff9a5d2-3bf2-4700-a700-47925320afb2",
+  "constituency_id": 25,
+  "video": "1-73821816",
+  "video_aspect": "1:1",
+  "video_description_fi": "1) Nuorten hyvinvoinnin kehittäminen paikallisemmaksi, ja yhteisölliseksi sekä tukiverkostojen parantaminen.\n\n2) Helsinki apartheid vapaaksi.\n\n3) Joukkoliikenne opiskelijoille maksuton.",
+  "video_description_sv": null,
+  "video_description_en": "1)Developing youth well-being at a local level, fostering community support, and improving support networks.\n\n2)Making Helsinki an apartheid-free city.\n\n3)Free public transportation for students.",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 42,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti vasemmalle",
+      "name_sv": "Långt till vänster",
+      "name_en": "Strongly on the left",
+      "name_ru": "С самого левого края",
+      "name_sme": "Nannosit gurut guvlui",
+      "name_ara": "أقصى اليسار",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Nuorten hyvinvoinnin kehittäminen paikallisemmaksi ja yhteisölliseksi sekä tukiverkostojen parantaminen. ",
+      "se": null,
+      "en": "Making youth well-being more local and community-based and improving support networks",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": "Sidoo kale waxaan hormarin doonaa Kobcinta wanaaga dhalinyarada si ay u noqdaan kuwo ka hela taagero buuxdo deegaankooda iyo mid bulshadeedba."
+    },
+    "age": 1988,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "somali",
+        "se": "somaliska",
+        "en": "Somali",
+        "ru": "сомалийский",
+        "sme": null,
+        "ara": "الصومالية"
+      }
+    ],
+    "education": {
+      "id": 50,
+      "background_info_id": 16,
+      "name_fi": "ammattitutkinto",
+      "name_sv": "yrkesexamen",
+      "name_en": "Vocational degree",
+      "name_ru": "профессиональное училище",
+      "name_sme": "ámmátdutkkus",
+      "name_ara": "دبلوم مهني",
+      "target_value": 2,
+      "name_ukr": "професійне училище",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Oikeudenmukaisuus, tasa-arvo, kulttuuri, eläin-oikeudet, ilmastonmuutos",
+      "se": null,
+      "en": "Justice, Equality, Culture, Animal rights, Climate change",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": "Xaq, sinaanta, Dhaqan, Xuquuqda xayawaanka, isbeddelka cimilada"
+    },
+    "election_promise_2": {
+      "fi": "Apartheid vapaa Helsinki",
+      "se": null,
+      "en": "Apartheid free Helsinki",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": "Waxaan ka shaqeyndoonaa  hadii la i doorto aan guuleysto in magaalada Helsinki ey u ekaato,noqoto mid aan kala sooc lahayn."
+    },
+    "language": {
+      "id": 25,
+      "background_info_id": 8,
+      "name_fi": "jokin muu",
+      "name_sv": "något annat",
+      "name_en": "Other",
+      "name_ru": "другой",
+      "name_sme": "eará",
+      "name_ara": "لغة أخرى",
+      "target_value": null,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "homepage_url": null,
+    "facebook_url": "https://www.facebook.com/profile.php?id=61573232201233",
+    "instagram_url": "https://www.instagram.com/nawal.siad/",
+    "tiktok_url": "https://www.tiktok.com/@nawalspeaks",
+    "language_some_other": {
+      "fi": "Suomi ,Englanti ja Somalia ",
+      "se": null,
+      "en": "Suomi ,Englanti ja Somalia ",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": "Suomi ,Englanti ja Somalia "
+    },
+    "municipality_fix": {
+      "fi": "Helsingin kaupungin tulisi irtautua apartheid politiikasta, julkisen liikenteen hinta, väestösuhteiden parantaminen, monikielisille parempia työmahdollisuuksia",
+      "se": null,
+      "en": "The City of Helsinki should disengage from apartheid policies, The price of public transportation more affordable, Improving population relations, Better job opportunities for multilingual individuals.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "JHL 141 hallituksen jäsen",
+      "se": null,
+      "en": "JHL 141 board member",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": "Ururka shaqaalaha JHL"
+    },
+    "liberal_conservative_axis": {
+      "id": 3,
+      "background_info_id": 2,
+      "name_fi": "Hieman liberaali",
+      "name_sv": "Ganska liberal",
+      "name_en": "Slightly liberal",
+      "name_ru": "Слегка либерал",
+      "name_sme": "Vehá liberála",
+      "name_ara": "أميل إلى الليبرالية",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": "Somalia",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": "Somalia"
+    },
+    "election_promise_1": {
+      "fi": "Opiskelijoille ilmainen joukkoliikenne",
+      "se": null,
+      "en": "Free public transport for students",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": "Waxaan balanqaadaayaa hadii la idoorto aan soo baxo inaan u ololeeynaayo in ardayda isticmaasho gaadiidka dadweyne guud in ardayda looga dhigi lacag la'aan ama bilaash."
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "ei ole",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

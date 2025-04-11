@@ -1,0 +1,213 @@
+{
+  "id": 1169,
+  "first_name": "Martin",
+  "last_name": "Aalto",
+  "election_number": 700,
+  "party_id": 6,
+  "image": "kuvat/akv2025/1169/9194a421-1dec-44fc-ac3a-8803aeae7345",
+  "constituency_id": 25,
+  "video": "1-73823020",
+  "video_aspect": "1:1",
+  "video_description_fi": "Taloudellisesti ja ympäristöllisesti kestävä Helsinki kaikille. Talouden tasapainossa pitäminen, työperäisen maahanmuuton lisääminen, Helsingin houkuttelevuuden lisääminen kesvuhakuisten yritysten näkökulmasta. Ympäristön kestävyydessä lähiluonnon ja luontoalueiden lisääminen ilmastoriskien torjumiseksi sekä hajautetumpi ja ilmastoneutraalimpi energian tuotanto.",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 46,
+      "background_info_id": 10,
+      "name_fi": "Hieman oikealle",
+      "name_sv": "Lite till Till högerhöger",
+      "name_en": "SlightTo the rightly to the right",
+      "name_ru": "Немного справа",
+      "name_sme": "Vehá olgeš guvlui",
+      "name_ara": "أميل إلى اليمين",
+      "target_value": 1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": null,
+      "se": "Ett mer ekonomiskt och miljömässigt hållbart Helsingfors",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1987,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      },
+      {
+        "fi": "viro",
+        "se": "estniska",
+        "en": "Estonian",
+        "ru": "эстонский",
+        "sme": "esttegiella",
+        "ara": "الإستونية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Tasa-arvo, vapaus, reiluus, innovatiivisuus, eteenpäin pyrkiminen",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": null,
+      "se": null,
+      "en": "A more economically and environmentally sustainable Helsinki",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://www.martinaalto.fi/",
+    "facebook_url": "https://www.facebook.com/martinaaltovihreat",
+    "instagram_url": "https://www.instagram.com/aaltomartin/",
+    "tiktok_url": "https://www.tiktok.com/@aaltomartin",
+    "municipality_fix": {
+      "fi": "Tärkeintä on pitää ydinasiat kuten sote-, kasvatus- ja koulutusasiat Helsingissä Suomen parhaimpina, vaikka valtakunnallisesti näillä aloitta tapahtuu valtavasti muutoksia, ja valitettavasti myös isoja heikennyksiä.\nHelsingin olisi lisäksi tärkeää saada taloutensa ja elinvoimansa parempaan kuntoon ja muuttaa kaupunki houkuttelevammaksi erilaiselle liiketoiminnalle ja kansainvälisille työntekijöille ja sijoittajille tai yrityksille.\nToisena tärkeänä asiana on valmistautua ilmastonmuutkosen ja turvallisuustilanteen tuomiin muutoksiin kaupungin rakenteessa ja suunnittelussa. Tähän kuuluu mm. ilmastoriskeihin varautumista, energiantuotannon hajauttamista ja lähiluonnon entistä vahvempaa suojelua.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Helsingin kaupungin rakennusten ja yleisten alueiden jaoston jäsen",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": "Viro",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": "Taloudellisesti ja ympäristöllisesti kestävämpää Helsinkiä",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

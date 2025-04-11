@@ -1,0 +1,210 @@
+{
+  "id": 22103,
+  "first_name": "Ulla",
+  "last_name": "Ukkola",
+  "election_number": 338,
+  "party_id": 19,
+  "image": "kuvat/akv2025/22103/7bc01c7d-9036-4049-b766-68a3f94ef9c9",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 47,
+      "background_info_id": 10,
+      "name_fi": "Oikealle",
+      "name_sv": "Till höger",
+      "name_en": "To the right",
+      "name_ru": "Справа",
+      "name_sme": "Olgeš guvlui",
+      "name_ara": "اليمين",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "\n3. Merellinen Helsinki kuuluu kaikille!\n\nHelsinki on merikaupunki, ja sen on hyödynnettävä tätä vahvuuttaan. Merellinen Helsinki -strategian toteutumisesta ei saa tinkiä – meri ja saaristo ovat kaupungin sydän. Rantojen ja vesistöjen tulee olla kaikkien saavutettavissa ja niiden virkistyskäyttöä on edistettävä.\n\nOlen asunut monessa maassa ja nähnyt, miten kaupunkeja voidaan kehittää paremmin. Helsinki voisi olla edelläkävijä merellisenä, elinvoimaisena ja kansainvälisenä pääkaupunkina.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1967,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      },
+      {
+        "fi": "ranska",
+        "se": "franska",
+        "en": "French",
+        "ru": "французский",
+        "sme": "fránskkagiella",
+        "ara": "الفرنسية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Olen teknologiateollisuuden kasvatti ja pitkän linjan yrittäjä, joka on tottunut etsimään ratkaisuja ja rakentamaan parempaa tulevaisuutta. Nykyisin työskentelen nuorten parissa, opettaen ja ohjaten heitä kohti onnistumisia. Kuunteleva, osallistuva ja ratkaisukeskeinen – näillä arvoilla toimin niin työssä kuin politiikassakin.\n\nKolmen lapsen äitinä tunnen hyvin kasvattajan roolin haasteet ja nuorten arjen. Haluan rakentaa Helsinkiin kaupungin, jossa jokaisella on mahdollisuus hyvään elämään, koulutukseen ja turvalliseen tulevaisuuteen.\n\nHarrastukset: Metsästys ja uinti – erityisesti avantouinti.\n\n✅ Pitkä yrittäjyystausta ja kokemusta työllisyyden ja kansainvälisyyden edistämisestä\n✅ Vahva visio koulutuksen ja opetuksen parantamisesta\n✅ Arvostaa kestävää kehitystä – taloudellinen, sosiaalinen ja ympäristöllinen kätkevyys ohjaavat toimintaa\n✅ Innostunut ja aktiivinen – ratkaisukeskeinen vaikuttaja, joka ei tyydy vain puhumaan, vaan myös tekemään.\n\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "2. Jokaisella on oikeus hyvään elämään!\n\nHyvinvointivaltio tarvitsee vahvan veropohjan. Ilman työtä ja yrittäjyyttä ei ole hyvinvointia. Kaupungin tulee panostaa työllisyyden ja yrittäjyyden tukemiseen, sillä verovaroilla tuotettavat palvelut edellyttävät kestävän talouden.\n\nTalouden peruslasku on yksinkertainen:\n\nTulot 2e ja menot 1e = 1e jää palveluihin.\n\nTulot 1e ja menot 2e = -1e, jolloin palveluja on karsittava.\n\nTalous tulee hoitaa vastuullisesti, jotta voimme tarjota kaikille laadukkaita palveluita myös tulevaisuudessa. Apua on tarjottava niille, jotka sitä todella tarvitsevat, mutta samalla on kannustettava työhön ja yrittäjyyteen.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "tiktok_url": "https://tiktok.com/@ullaukkola",
+    "municipality_fix": {
+      "fi": ". Jokaisella on oikeus maan pääkielen osaamiseen, jokaisella on oikeus hyvään elämään! Helsinki on merikaupunki, ja sen on hyödynnettävä tätä vahvuuttaan. Merellinen Helsinki -strategian toteutumisesta ei saa tinkiä – meri ja saaristo ovat kaupungin sydän. Rantojen ja vesistöjen tulee olla kaikkien saavutettavissa ja niiden virkistyskäyttöä on edistettävä.\n\nOlen asunut monessa maassa ja nähnyt, miten kaupunkeja voidaan kehittää paremmin. Helsinki voisi olla edelläkävijä merellisenä, elinvoimaisena ja kansainvälisenä pääkaupunkina.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "\nLasten terveys ja nuorison tukeminen ja innostaminen kehittävään ja hyödylliseen opinto- ja muuhun harrastustoimintaan - Snellman\n\nVaikuttavuusseura:  edistää vaikuttavuusperustaisuutta Suomen sosiaali- ja terveydenhuollossa.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 3,
+      "background_info_id": 2,
+      "name_fi": "Hieman liberaali",
+      "name_sv": "Ganska liberal",
+      "name_en": "Slightly liberal",
+      "name_ru": "Слегка либерал",
+      "name_sme": "Vehá liberála",
+      "name_ara": "أميل إلى الليبرالية",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "1. Jokaisella on oikeus vahvaan Suomen kielen osaamiseen!\n\nKielen hallinta on perusta kaikelle oppimiselle ja elämän hallinnalle. Jokaisen peruskoululaisen tulee oppia Suomen tai Ruotsin kieli sujuvasti. Monikielisyys on vahvuus, mutta ensisijaisesti on varmistettava, että kaikki lapset ja nuoret hallitsevat maan pääkielet.\n\nErityisoppilaille on palautettava erityisopetus – oppimisen haasteet eivät ratkea hankkeilla ja koordinaatiolla, vaan opettajien on päästävä opettamaan. Nuorista on saatava esiin parhaat puolet, jotta he voivat menestyä tulevaisuudessa.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Snellman: lapset ja nuoret",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

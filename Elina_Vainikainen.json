@@ -1,0 +1,204 @@
+{
+  "id": 7113,
+  "first_name": "Elina",
+  "last_name": "Vainikainen",
+  "election_number": 201,
+  "party_id": 7,
+  "image": "kuvat/akv2025/7113/295a4fbb-9464-44e3-860b-7b4d3fedcc4d",
+  "constituency_id": 25,
+  "video": "1-73814889",
+  "video_aspect": "1:1",
+  "video_description_fi": "Tärkein tavoitteeni on se, että Helsingin päätöksenteossa otetaan nykyistä paremmin huomioon, miten päätökset vaikuttavat erilaisiin ihmisryhmiin. On tarkasteltava, miten ne vaikuttavat esimerkiksi eri alueilla asuviin, eri tulotasojen ihmisiin, vammaisiin, eri ikäisiin ja erilaisiin vähemmistöihin, kuten maahanmuuttajiin ja seksuaali- ja sukupuolivähemmistöihin. Haluan, että Helsinki on hyvä kaupunki asua ihan kaikenlaisille ihmisille, ja tämän on oltava lähtökohta kaikessa kaupungin toiminnassa. Meidän on esimerkiksi nykyistä paremmin varmistettava, että kaikkialla kaupungissa on saatavana laadukkaita lähipalveluita ja että kaupungin työntekijät esimerkiksi sotessa ja kasvatuksessa osaavat kohdata erilaisia vähemmistöjä kunnioittavasti. ",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 42,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti vasemmalle",
+      "name_sv": "Långt till vänster",
+      "name_en": "Strongly on the left",
+      "name_ru": "С самого левого края",
+      "name_sme": "Nannosit gurut guvlui",
+      "name_ara": "أقصى اليسار",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Demokraattinen Helsinki: aion panostaa siihen, ettei Helsingin päätöksenteossa kuuluisi ainoastaan varakkaimpien, koulutetuimpien ja verkostoituneimpien ääni. Haluaisin lisätä erilaisia alueellisen demokratian kokeiluja, kuten kansalaispaneeleja, sekä vahvistaa nuorten osallisuutta päätöksentekoon.  Helsinkiläisen on voitava vaikuttaa kaupungin kehittämiseen muutenkin kuin vaaliuurnilla, ja näistä vaikutusmahdollisuuksista on tiedotettava selkeästi.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1979,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "oikeudenmukaisuus, yhdenvertaisuus, solidaarisuus, sivistys, vapaus",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Koulutusmyönteinen Helsinki: teen parhaani, että Helsinki jatkossakin panostaa kasvatukseen, koulutukseen ja sivistykseen. Peruskoulutukseen ja varhaiskasvatukseen satsataan lisää, ja erityisesti tuetaan sosioekonomisesti hauraampien alueiden oppilaitoksia ja oppilaita. Ammatillisen opetuksen lähiopetuksesta ei tingitä, ja vapaata sivistystyötä on tarjolla edullisesti kaikkialla kaupungissa. Kasvatus, koulutus ja sivistys kuuluvat kaikille taaperosta senioriin!",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://elinavainikainen.fi",
+    "facebook_url": "https://www.facebook.com/vainikainenelina",
+    "instagram_url": "https://www.instagram.com/elina_vainikainen/",
+    "municipality_fix": {
+      "fi": "Päätöksenteossa tulisi ottaa paremmin huomioon erilaisten ihmisryhmien erilaiset tarpeet. Tämä tarkoittaa esimerkiksi sitä, että myös vähävaraisten on saatava tarvitsemiaan sote-palveluita nopeasti ja läheltä, että kaupungin tapahtumat ja tilat ovat esteettömiä ja että kaikessa toiminnassa huomioidaan erilaiset vähemmistöt, kuten sateenkaarikansa ja maahanmuuttajat. Päätöksiä ei saa tehdä vain äänekkäimpien, varakkaimpien ja verkostoituneimpien ehdoilla, vaan kaikilla kaupunkilaisilla tulisi olla oikeus vaikuttaa kaupungin kehitykseen muutenkin kuin neljän vuoden välein äänestyskopilla.  ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Vasemmistoliiton puoluevaltuutettu, tasa-arvo- ja yhdenvertaisuustyöryhmän puheenjohtaja\nHelsingin kaupungin liikuntajaoston varajäsen",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Yhdenvertainen Helsinki: teen kaikkeni sen eteen, että kaupungissa huomioidaan erilaisten ihmisten tarpeet ja oikeudet ja että päätöksiä tehtäessä tarkastellaan, miten ne vaikuttavat eri ihmisryhmiin. Erityisesti soten sekä kasvatuksen ja koulutuksen työntekijöitä koulutetaan erilaisten vähemmistöryhmien, kuten maahanmuuttajien, sateenkaarikansan sekä vammaisten kunnioittavaan ja syrjimättömään kohtaamiseen. Kaupungin viestinnässä panostetaan selko- ja monikielisyyteen. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Helsingin kaupungin yhdenvertaisuustoimikunnan varajäsen 2018-2021, toimeentulotukiasioita käsittelevän jaoston varajäsen 2015-2017, Helsingin Vasemmiston piirihallituksen jäsen useita vuosia, kaukana muinaisuudessa luottamustoimia Tampereen yliopiston ylioppilaskunnassa (mm. hallituksen jäsen 2004, edustajiston puheenjohtaja 2006)",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "id": 14515,
+  "first_name": "Aino",
+  "last_name": "Ezzat-Agha",
+  "election_number": 609,
+  "party_id": 8,
+  "image": "kuvat/akv2025/14515/6cafbb28-965c-4bfd-afbb-0e2fd5e537f2",
+  "constituency_id": 25,
+  "video": "1-73823687",
+  "video_aspect": "1:1",
+  "video_description_fi": null,
+  "video_description_sv": "Småbarnspedagogik är inte bara undervisning- det handlar om att lbygga grunden för empati, nyfikenhet och förståelse. Våra barn är framtidens medborgare och de lär sig av oss- av våra handlingar, ord och attityder. Därför är personalens välmående så viktigt. När vi ger våra pedagoger rätt förutsättning, arbetsvillkor, fortbildning och möjlighet till återhämtning skapar vi en arbetsmiljö där de kan vara den bästa förebilden för våra barn. När vi investerar i vår personal så investerar vi direkt i våra barn. En hållbar småbarnspedagogik är en pedagogik som främjar barnets välmående, där lek och lärande går hand i hand. \nLåt oss tillsammans skapa en framtid där varje barn får växa u trygghet och med kunskap om sin plats i världen. Låt oss skapa en pedagogik som inte bara är hållbar för oss alla.",
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 45,
+      "background_info_id": 10,
+      "name_fi": "En vasemmalle enkä oikealle",
+      "name_sv": "Varken vänster eller höger",
+      "name_en": "Neither to the right or the left",
+      "name_ru": "Ни слева, ни справа",
+      "name_sme": "In gurut inge olgeš guvlui",
+      "name_ara": "لا إلى اليسار ولا إلى اليمين",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": null,
+      "se": "-",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1977,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": null,
+      "se": "Familj\nJämlikhet\nJämställdhet\nRättvisa\nHållbarhet",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": null,
+      "se": "Jag vill jobba för en kvalitativ och hållbar småbarnspedagogik för personalen på våra daghem.",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 23,
+      "background_info_id": 8,
+      "name_fi": "ruotsi",
+      "name_sv": "Svenska",
+      "name_en": "Swedish",
+      "name_ru": "шведский",
+      "name_sme": "ruoŧagiella",
+      "name_ara": "السويدية",
+      "target_value": null,
+      "name_ukr": "шведська",
+      "name_som": "af-Iswiidhish"
+    },
+    "homepage_url": null,
+    "facebook_url": null,
+    "instagram_url": "https://instagram.com/ainoezzatagha",
+    "X_url": null,
+    "tiktok_url": null,
+    "language_some_other": {
+      "fi": null,
+      "se": "-",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "municipality_fix": {
+      "fi": null,
+      "se": "Småbarnspedagogiken bör vara en trygg plats för våra barn så det kan finna lyckan i att lära sig och bli sitt bästa jag. Den bör vara en trygg plats så att föräldrarna lugnt kan vara på sina arbetsplatser. \nSmåbarnspedagogiken bör också vara hållbar. Personalen bör ha möjlighet till rätta arbetsredskap samt få göra sina arbetsuppgifter med rätt resursering. ",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": null,
+      "se": "-",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 4,
+      "background_info_id": 2,
+      "name_fi": "En liberaali enkä konservatiivi",
+      "name_sv": "Varken liberal eller konservativ",
+      "name_en": "Neither liberal or conservative",
+      "name_ru": "Ни либерал, ни консерватор",
+      "name_sme": "In liberála inge konservatiiva",
+      "name_ara": "لا ليبرالي ولا متحفظ",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": null,
+      "se": "-",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": null,
+      "se": "Jag vill jobba för en hållbar och kvalitativ småbarnspedagogik för barn och familjer i Helsingfors.",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": null,
+      "se": "-",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

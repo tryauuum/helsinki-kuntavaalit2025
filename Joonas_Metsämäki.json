@@ -1,0 +1,194 @@
+{
+  "id": 3753,
+  "first_name": "Joonas",
+  "last_name": "Metsämäki",
+  "election_number": 896,
+  "party_id": 4,
+  "image": "kuvat/akv2025/3753/90e288e7-a329-455d-a1bc-72f01a13e558",
+  "constituency_id": 25,
+  "video": "1-73895860",
+  "video_aspect": "1:1",
+  "video_description_fi": "Tärkein tavoitteeni ja asia jonka eteen aion kääriä hihat ja tehdä töitä on kaupunkilaisten turvallisuus sen kaikissa eri muodoissa, kattaen kaikenikäiset kaupunkilaiset, aikuiset ja lapset, kaikissa kaupunginosissa ja kaikissa elämäntilanteissa.\n\nYksi kunnallispolitikan tärkeimmistä osa-alueista tähän liittyen on nuorten terveyden ja hyvinvoinnin tukeminen, työ nuorten rikosten ja päihteiden estämiseksi sekä nuorten mukana pitäminen yhteiskunnassa ylipäänsä.",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 43,
+      "background_info_id": 10,
+      "name_fi": "Vasemmalle",
+      "name_sv": "Till vänster",
+      "name_en": "On the left",
+      "name_ru": "Слева",
+      "name_sme": "Gurut guvlui",
+      "name_ara": "اليسار",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Helsingin sosiaali- ja terveyspalvelut tulee laittaa kuntoon. Saatavuus ja palvelukokemus sekä laatu on oltava vähintään hyvällä tasolla.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1987,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "ranska",
+        "se": "franska",
+        "en": "French",
+        "ru": "французский",
+        "sme": "fránskkagiella",
+        "ara": "الفرنسية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Oikeudenmukaisuus\nTurvallisuus\nYhteiskunnnan antama apu ihmisille vaikeissa tilanteissa\nSinnikkyys\nUsko tulevaisuuteen",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Kaupungin turvallisuutta ja nuorten tilannetta tulee edistää. Nuoria on tuettava kouluttautumisessa ja työllistymisessä ja ehkäistävä syrjäytymistä ja rikoksiin sekä päihteisiin ajautumista.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://fi.linkedin.com/in/joonas-metsamaki",
+    "facebook_url": "https://www.facebook.com/share/1HMfoCYzmM/?mibextid=wwXIfr",
+    "instagram_url": "https://www.instagram.com/metsamakijoonas?igsh=NHF1eHRsbGw1bnZz&utm_source=qr",
+    "municipality_fix": {
+      "fi": "Sosiaali- ja terveyspalvelut tulee laittaa kuntoon. Myös nuorten ajautuminen rikoksiin ja päihteisiin tulee estää ja sitä kautta poliisin resursseihin on satsattava.\nVarhaiskasvatus ja koulunkäynti on oltava laadukasta ja turvallista. Ryhmäkokojen on oltava pieniä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Taloyhtiön hallituksen puheenjohtaja",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 3,
+      "background_info_id": 2,
+      "name_fi": "Hieman liberaali",
+      "name_sv": "Ganska liberal",
+      "name_en": "Slightly liberal",
+      "name_ru": "Слегка либерал",
+      "name_sme": "Vehá liberála",
+      "name_ara": "أميل إلى الليبرالية",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Varhaiskasvatukseen ja koulunkäyntiin tulee panostaa. Ryhmäkoot tulee pitää pieninä ja jokaisen tulee saada laadukasta ja turvallista varhaiskasvatusta ja koulutusta.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

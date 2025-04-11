@@ -1,0 +1,197 @@
+{
+  "id": 8157,
+  "first_name": "Joonas",
+  "last_name": "Pulliainen",
+  "election_number": 310,
+  "party_id": 19,
+  "image": "kuvat/akv2025/8157/7fb3ca39-c7cc-4276-8543-efed88d0c948",
+  "constituency_id": 25,
+  "video": "1-73818805",
+  "video_aspect": "1:1",
+  "video_description_fi": "Minulle tärkeintä on, että Koillis-Helsinkiin ja muihin lähiöihin panostetaan nykyistä enemmän, ja että autoilijoiden kiusaamiselle laitetaan stoppi. Haluan Helsingin, jossa pientaloalueille ja lähiluonnolle on myös tulevaisuudessa tilaa.",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 47,
+      "background_info_id": 10,
+      "name_fi": "Oikealle",
+      "name_sv": "Till höger",
+      "name_en": "To the right",
+      "name_ru": "Справа",
+      "name_sme": "Olgeš guvlui",
+      "name_ara": "اليمين",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Pientaloalueille ja lähiluonnolle täytyy olla tilaa myös tulevaisuudessa. Pientaloalueella Puistolassa kasvaneena ja nykyään Tapanilassa asuvana haluan varmistaa, ettei näitä alueita pilata jatkuvan rakentamispaineen seurauksena. Kiinteistöveroa ei saa korottaa. Mahdollinen täydennysrakentaminen pitää tehdä kaupunkikuvaa ja alueiden omaleimaisuutta kunnioittaen, laatu eikä määrä edellä. Omakotitalon viereen ei pidä rakentaa 10-kerroksisia rakennuksia. Monipuolinen lähiluonto tekee Helsingistä uniikin muihin Euroopan pääkaupunkeihin verrattuna. Tästä valttikortista on pidettävä kiinni myös jatkossa.\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1996,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Vapaus ja vastuu. Ihmisillä pitää olla mahdollisuus elää omannäköistä elämää, mutta tarvitsemme nykyistä enemmän vastuuta omista päätöksistämme ja niiden seurauksista.\n\nYhteisöllisyys. Koillis-Helsingissä kasvaneena oman naapuruston, kaupunginosan ja alueen asukkaiden tunteminen on valtavan tärkeää. Kaupunkipolitiikka toimisi paremmin, jos ihmiset ja erityisesti poliitikot tuntisivat alueensa ihmiset.\n\nUteliaisuus. Haluan ymmärtää maailmaa, sen ilmiöitä ja tapahtumia sekä sen ihmisiä, ilman valmista lukkiutumista tiettyyn näkökulmaan.\n\nPerinteiden kunnioittaminen. Nykyaikana asioita halutaan muuttaa muuttamisen ilosta. Uskon perinteisiin ja vanhoihin tekemisen tapoihin. Muutos vain muutoksen takia ei ole kannatettavaa.\n\nIsänmaallisuus. Haluan Helsingin lisäksi edistää Suomen ja suomalaisten asiaa. Yhä sekavammalta vaikuttavassa maailmassa tämän merkitys korostuu.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Koillis-Helsinkiin ja muihin lähiöihin pitää panostaa enemmän. Koillisessa asuu yli 100 000 helsinkiläistä, mutta alue on hyvin aliedustettuna kaupunginvaltuustossa. Ei siis mikään ihme, ettei investointeja tule ja alueen asukkaiden mielipide jätetään päätöksenteossa toistuvasti huomioimatta, kuten kävi Malmin lentokentän tapauksessa. Laitetaan asemanseudut kuntoon, panostetaan turvallisuuteen ja huolehditaan siitä, että alueella riittää palveluita. Haluan laajentaa pääradan meluaitaa, peruskorjata koillisen juna-asemat, ottaa Puistolan kansakoulun rakennuksen takaisin käyttöön ja varmistaa, että mahdollinen uusi rakentaminen alueelle tehdään laatu eikä määrä edellä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://joonaspulliainen.fi/",
+    "facebook_url": "https://www.facebook.com/PulliainenJ/",
+    "instagram_url": "https://www.instagram.com/joonas.v.pulliainen/",
+    "X_url": "https://x.com/PulliainenJ",
+    "municipality_fix": {
+      "fi": "Helsingin liikenteen toimivuutta tärvellään ideologisista syistä, välittämättä seurauksista liikenteen sujuvuudelle tai yritystoiminnan edellytyksille. Uudet asuinalueet kohoavat sieluttomina: asukkaiden toiveista ei välitetä, lähiluontoa ja kulttuurihistoriallisesti arvokkaita maisemia jyrätään. Samalla lähiöihin kasautuu ongelmia: jengiväkivaltaa, rauhattomia kouluja, ilkivaltaa, häiriökäyttäytymistä julkisilla (ja yksityisillä) paikoilla sekä lisääntyvää segregaatiota. Työskentelen näiden ongelmien ratkaisemiseksi.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Olen toiminut Kokoomuksen puoluevaltuuston jäsenenä ja muissa tehtävissä puolueyhteisössä. Opiskeluaikoinani olin aktiivinen opiskelijajärjestöissä, toimin esimerkiksi Helsingin yliopiston ylioppilaskunnan hallituksessa. Tällä hetkellä toimin Helsingin työllisyyspalveluliikelaitoksen johtokunnan varajäsenenä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 5,
+      "background_info_id": 2,
+      "name_fi": "Hieman konservatiivi",
+      "name_sv": "Ganska konservativ",
+      "name_en": "Slightly conservative",
+      "name_ru": "Слегка консерватор",
+      "name_sme": "Vehá konservatiiva",
+      "name_ara": "أميل إلى المحافظة",
+      "target_value": 1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Autoilijoiden kiusaamiselle täytyy laittaa stoppi. Autoilun edellytyksiä ei saa enää heikentää. Sanotaan kyllä keskustatunnelille. Sanotaan ei ruuhkamaksuille, polttomoottorikiellolle, Kaivokadun sulkemiselle ja muille älyttömyyksille. Nämä ovat puhdasta kiusantekoa, jotka hankaloittavat liikennejärjestelmän toimivuutta ja tuhoavat kaupungin elinvoimaa. Toimivasta liikenteestä hyötyy jokainen.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Työskentelen kokoomuksen kansainvälisten asioiden sihteerinä missä vastaan puolueen kansainvälisestä toiminnasta. Aiemmin olen työskennellyt eduskunnassa. Tunnen politiikan niin kunta-, valtio- kuin EU-tasolla.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

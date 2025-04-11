@@ -1,0 +1,194 @@
+{
+  "id": 5613,
+  "first_name": "Lotta",
+  "last_name": "Staffans",
+  "election_number": 190,
+  "party_id": 7,
+  "image": "kuvat/akv2025/5613/3cdb536d-94ba-4bd9-a0b2-3f9a963da5ac",
+  "constituency_id": 25,
+  "video": "1-73819081",
+  "video_aspect": "4:3",
+  "video_description_fi": "Suomessa ja maailmalla vallalla oleva näköalaton leikkauspolitiikka lisää eriarvoisuutta ja epäluottamusta. Ensi valtuustokaudella on tehtävä kovasti työtä sen eteen, etteivät alueet eriydy toisistaan ja että jokainen voi löytää oman paikkansa Helsingissä. Panostetaan siis lähipalveluihin, lähiluontoon ja lähikulttuuriin! Helsingillä on varaa pitää huolta ihan jokaisen hyvinvoinnista. \n",
+  "video_description_sv": "Politiken såväl i Finland som ute i världen är väldigt dyster just nu. Regeringens nedskärningar ökar inkomstklyftorna. Under nästa fullmäktigeperiod är det viktigt att jobba hårt för att alla människor och områden i Helsingfors ska må bra och blomstra. Vi ska satsa på närtjänster, närnatur och närkultur! Helsingfors har råd att ta hand om alla som behöver det. ",
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 42,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti vasemmalle",
+      "name_sv": "Långt till vänster",
+      "name_en": "Strongly on the left",
+      "name_ru": "С самого левого края",
+      "name_sme": "Nannosit gurut guvlui",
+      "name_ara": "أقصى اليسار",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan olla helposti lähestyttävä ja vastata kaupunkilaisten viesteihin. Minusta on tärkeää, että ihmisillä on mahdollisuus vaikuttaa oman asuinalueensa asioihin ja kokea kaupunki omakseen. Esimerkiksi lähiluontoa pitää suojella ja lähiöostareita vaalia. ",
+      "se": "Jag lovar vara lättillgänglig. Det är viktigt att människor har en möjlighet att påverka beslut som berör deras näromgivning. ",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1983,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "ranska",
+        "se": "franska",
+        "en": "French",
+        "ru": "французский",
+        "sme": "fránskkagiella",
+        "ara": "الفرنسية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Oikeudenmukaisuus: Minulle kaikkein keskeisin arvo on oikeudenmukaisuus. Haluan omalta osaltani olla mukana rakentamassa Helsinkiä, Suomea ja maailmaa, jossa jokaisella on mahdollisuus elää huoletonta arkea ja omannäköistä elämää. \n\nVapaus: Oikeudenmukaisuuden rinnalla kulkee vapaus. Oikeudenmukaisessa yhteiskunnassa jokainen voi olla turvallisesti oma itsensä. \n\nPlaneetan rajat: Haluan elää ja toimia niin, että planeetan rajat asettavat raamit kaikelle tekemiselle. \n\nYstävällisyys: Ystävällisyys jää liian helposti kilpailuyhteiskunnan ja some-algoritmien jalkoihin. Ystävällisyys kunniaan! \n\nAvoimuus: Avoimuus niin omassa elämässä kuin päätöksenteossa lisää luottamusta, mikä on hyvinvoivan yhteiskunnan perusta. \n",
+      "se": "Rättvisa\nFrihet\nPlaneten\nVänlighet\nÖppenhet",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lupaan tehdä kovasti töitä sen eteen, että helsinkiläisten peruspalveluista pidetään huolta. Tällä hetkellä esimerkiksi mielenterveyspalveluihin on kohtuuttomat jonot. Helsingillä on varaa panostaa ihan jokaisen hyvinvointiin. ",
+      "se": "Jag lovar jobba hårt för att staden ska ta hand om välfärdstjänsterna. För tillfället är det till exempel alltför långa köer till mentalvården. Helsingfors har råd att satsa på allas välmående. \n",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 23,
+      "background_info_id": 8,
+      "name_fi": "ruotsi",
+      "name_sv": "Svenska",
+      "name_en": "Swedish",
+      "name_ru": "шведский",
+      "name_sme": "ruoŧagiella",
+      "name_ara": "السويدية",
+      "target_value": null,
+      "name_ukr": "шведська",
+      "name_som": "af-Iswiidhish"
+    },
+    "homepage_url": "https://www.lottastaffans.fi/",
+    "facebook_url": "https://www.facebook.com/profile.php?id=61572219805792",
+    "instagram_url": "https://www.instagram.com/lottastaffans",
+    "municipality_fix": {
+      "fi": "Helsingin suurimpia haasteita on asumisen korkeat kustannukset. Kun rakennusala on vaikeuksissa ja hallitus on vaikeuttanut kohtuuhintaisten vuokra-asuntojen rakentamista, on kaupungin tehtävä kaikkensa asuntotuotannon vauhdittamiseksi mm. lisäämällä omakustanneperiaatteella rakennettuja asuntoja. On tärkeää, että kaikilla on mahdollisuus löytää itselleen koti Helsingistä. \n\nHelsingillä on myös varaa panostaa ihan jokaisen hyvinvointiin. Vaikka sosiaali- ja terveyspalveluiden rahoitus tulee nykyään valtiolta, on Helsingin oltava valmis rahoittamaan toimintoja myös omilla verotuloillaan, jos hallituksen leikkauslinja jatkuu. Esimerkiksi mielenterveyspalveluihin ei tällä hetkellä pääse niin nopeasti kuin pitäisi. \n\nKaupungin tulee myös aiempaa paremmin kuunnella asukkaita, kun rakentamista suunnitellaan. Esimerkiksi lähiluonnosta on pidettävä huolta ja lähiöitä uudistaa niin, että myös asukkaat ja yrittäjät pääsevät prosessiin mukaan jo aikaisessa vaiheessa.\n",
+      "se": "En av Helsingfors största utmaningar är de höga levnadskostnaderna. När byggbranschen är i kris och regeringen gjort det svårt att bygga hyrebostäder till rimliga priser måste staden göra allt för att få fart på bostadsproduktionen, t.ex. genom att bygga lägenheter till självkostnadspris. Det är viktigt att alla har möjlighet att hitta ett hem i Helsingfors. \n\nHelsingfors har också råd att satsa på allas välmående. Även om social- och hälsovården i dag finansieras av staten måste Helsingfors vara redo att finansiera verksamheter även med egna skatteintäkter, om regeringen fortsätter med sina nedskärningar. Till exempel inom mentalvården är köerna idag alltför långa.\n\nStaden borde också bli bättre på att lyssna på invånarna när byggen planeras. Till exempel i frågor om att skydda närnaturen och i utvecklingen av förorterna ska invånare och företagare ha möjlighet att engagera sig i processen i ett tidigt skede.\n\n",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Tradeka-Yhtiöt Oy:n hallituksen jäsen\nKontulan Vasemmiston johtokunnan varajäsen\nVasemmistoliiton puoluevaltuuston varajäsen",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Lupaan perehtyä asioihin ja punnita päätöksiä erityisesti siitä näkökulmasta, lisäävätkö ne tasa-arvoa ja siten kaupunkilaisten luottamusta toisiinsa ja kaupunkiin. ",
+      "se": "Jag lovar sätta mig in i saker och överväga beslut särskilt ur jämlikhetsperspektiv.  ",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

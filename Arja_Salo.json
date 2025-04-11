@@ -1,0 +1,210 @@
+{
+  "id": 1716,
+  "first_name": "Arja",
+  "last_name": "Salo",
+  "election_number": 927,
+  "party_id": 4,
+  "image": "kuvat/akv2025/1716/3da2e243-2180-41d3-83a4-d8c1cf4949c3",
+  "constituency_id": 25,
+  "video": "1-73814321",
+  "video_aspect": "1:1",
+  "video_description_fi": "Hei, Olen Arja Salo ja ehdokkaana Itä-Helsingin Myllypurossa. Sosialidemokraattien listoilla.Tärkein tavoitteeni on, että ensi vaalikaudella Itä-Helsinkiin rakennetaan oma maauimala. Se palvelisi asukkaita vauvasta vaariin. Lisäksi haluan, että Helsingin asioita hoidetaan yhdessä sopien ja neuvotellen, ei repien ja raastaen. Koska kaiken voi tehdä reilummin!",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 43,
+      "background_info_id": 10,
+      "name_fi": "Vasemmalle",
+      "name_sv": "Till vänster",
+      "name_en": "On the left",
+      "name_ru": "Слева",
+      "name_sme": "Gurut guvlui",
+      "name_ara": "اليسار",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Helsinkiin pitää luoda oma aikuiskoulutuksen tukimalli. Näin voimme jatkaa aiemmin erinomaiseksi havaittua toimintaa. Aikuiskoulutustuella pystymme uudelleenkouluttamaan työntekijöitä aloille joilla on työvoimapulaa. Aion edistää aloitetta Helsingin aikuiskoulutustuesta!",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1962,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 50,
+      "background_info_id": 16,
+      "name_fi": "ammattitutkinto",
+      "name_sv": "yrkesexamen",
+      "name_en": "Vocational degree",
+      "name_ru": "профессиональное училище",
+      "name_sme": "ámmátdutkkus",
+      "name_ara": "دبلوم مهني",
+      "target_value": 2,
+      "name_ukr": "професійне училище",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Yhdenvertaisuus, oikeudenmukaisuus, vapaus, solidaarisuus, suvaitsevaisuus",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Itä-Helsinki tarvitsee oman maauimalan, se tarjoaisi palvelua kaikille asukkaille lapsista vanhuksiin. Aion tehdä asiasta aloitteen ensitöikseni. Uinti ulkona puhtaassa vedessä on myös Itä-Helsinkiläisten oikeus. Uimahalleja meillä on mukavasti ja niiden käyttöaste on korkea, yksi terveysteko lisää on rakentaa maauimala. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": null,
+    "facebook_url": null,
+    "instagram_url": null,
+    "X_url": null,
+    "tiktok_url": null,
+    "language_some_other": {
+      "fi": "ei",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "municipality_fix": {
+      "fi": "Pitää rakentaa kohtuuhintaisia asuntoja. \nVarmistaa, että kaupunki omilla toimilla jatkaa nuorten ja vaikeasti työllistyvien työllistämistukea, sekä etsii yhteiskunnan ulkopuolelle pudonneet nuoret esim. Hämeenlinnan mallin mukaan.\nHuumenuorten tukeminen ja hoitoonohjaaminen ja sen estäminen etteivät he joudu rikoksen tielle.\nItä-Helsingin siisteys, Puhoksen parkkipaikka on kuin kaatopaikka ja metroradan varret samoin. Vaikka kuinka yritämme talkoilla siivota Myllypuroa ja kulmia, niin kyllä siihen tarvitaan kiinteistöjen huoltajiakin. \nPaljon on tehtävää!",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Toimin harrastutoiminnan kautta muutamassa yhdistyksessä, mm. Myllypuron demareiden johtokunta ja Hason asumisoikeus kotitaloni asukatoimikunnan puheenjohtajana, sekä kesämajayhdistyksen hallituksessa.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": "ei",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": "Haluan olla mukana vaikuttamassa Helsingin asuntopolitiikkaan. Niin, että jokaisella tavallisella työntekijällä ja pienyrittäjällä on mahdollisuus asua Helsingissä. Tarvitaan kaikenlaisia asumismuotoja, että voidaan estää alueiden eriytymistä. Rakentamisessa pitää aina huomioida luontoarvot. Metsät ja puistot lisäävät asukkaiden viihtyvyttä.  ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Olen Hyvinkäältä kotoisin ja ollut mukana kaikenlaisessa yhdistystoiminnassa nuoresta lähtien. Ensimmäinen luottamustoimeni oli Hyvinkään liikunta- ja nuorisolautakunta. 1990 muutin Viljakkalaan ja siellä toimin useamman kauden kunnanvaltuutettuna, perusturvalautakunnan varapuheenjohtajana ja myös kunnanhallituksessa ja teknisessä lautakunnassa. Olen koko ikäni toiminut erilaisissa yhdistyksissä, puheenjohtajana ja rivijäsenenä.  Valtuuston edellisellä kaudella olin Helsingin kaupungin tarkastuslautakunnan varajäsen. Teen järjestötyötä myös ammatikseni.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

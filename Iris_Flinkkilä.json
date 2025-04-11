@@ -1,0 +1,189 @@
+{
+  "id": 12290,
+  "first_name": "Iris",
+  "last_name": "Flinkkilä",
+  "election_number": 718,
+  "party_id": 6,
+  "image": "kuvat/akv2025/12290/50da9706-7fb0-446f-b219-d71486b04e61",
+  "constituency_id": 25,
+  "video": "1-73825476",
+  "video_aspect": "1:1",
+  "video_description_fi": "Tulevalla valtuustokaudella on ehdottomasti tärkeintä helsinkiläisten nuorten hyvinvointierojen kasvun torjuminen.\n\nLisäksi on tärkeää että helsinkiläiset päättäjät ymmärtää sen, että kun valtio leikkaa esimerkiksi kulttuurista, meidän on Helsingissä mahdollisuus ja velvollisuus paikata niitä leikkauksia.\n\nKolmas asia on se, että pidetään huoli siitä että julkisella rahalla tehtävät hankinnat on sekä ekologisesti että eettisestä näkökulmasta kestäviä.",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 42,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti vasemmalle",
+      "name_sv": "Långt till vänster",
+      "name_en": "Strongly on the left",
+      "name_ru": "С самого левого края",
+      "name_sme": "Nannosit gurut guvlui",
+      "name_ara": "أقصى اليسار",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Ekologisesti ja eettisesti kestävä Helsinki.\n\nLuontokadon pysäyttäminen ja ilmastotavoitteisiin yltäminen ovat päättäjien merkittävimpiä tehtäviä ensi valtuustokaudella.\n\nJulkisen liikenteen lippujen hinnat on saatava alas, sillä suurin osa Helsingin päästöistä tulee autoista, ja nykyiset hinnat tekevät sporalla, metrolla tai bussilla kulkemisen täysin mahdottomaksi isolle osalle helsinkiläisistä.\n\nKaupungin julkiset ruokapalvelut on järjestettävä niin, että vegaaniruoka on lähtökohta, ei erityisruokavalio ja hankinnoissa on investoitava eläinystävällisiin ratkaisuihin.",
+      "se": "Ett Ekologiskt och Etiskt Hållbart Helsingfors.\n\nAtt stoppa förlusten av biologisk mångfald och nå klimatmålen är bland de viktigaste uppgifterna för beslutsfattarna under nästa fullmäktigeperiod.\n\nPriserna på kollektivtrafikbiljetter måste sänkas, eftersom majoriteten av Helsingfors utsläpp kommer från bilar, och de nuvarande biljettpriserna gör det helt omöjligt för en stor del av Helsingforsborna att resa med spårvagn, metro eller buss.\n\nStadens offentliga måltidstjänster måste ordnas så att vegansk mat är utgångspunkten, inte en specialdiet, och upphandlingarna måste prioritera djurvänliga lösningar.",
+      "en": "An Ecologically and Ethically Sustainable Helsinki.\n\nHalting biodiversity loss and achieving climate goals are among the most significant responsibilities of decision-makers in the next council term.\n\nPublic transport ticket prices must be lowered, as the majority of Helsinki’s emissions come from cars, and current fares make traveling by tram, metro, or bus completely inaccessible for a large portion of Helsinkians.\n\nThe city's public food services must be organized so that vegan food is the default, not a special diet, and procurement must prioritize animal-friendly solutions.\n",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1993,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 50,
+      "background_info_id": 16,
+      "name_fi": "ammattitutkinto",
+      "name_sv": "yrkesexamen",
+      "name_en": "Vocational degree",
+      "name_ru": "профессиональное училище",
+      "name_sme": "ámmátdutkkus",
+      "name_ara": "دبلوم مهني",
+      "target_value": 2,
+      "name_ukr": "професійне училище",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Solidaarisuus, yhdenvertaisuus, ympäristön ja eläinten kunnioittaminen, estetiikantaju, periksiantamattomuus.\n\nKaikkien mahdollisuus elää turvallisesti ja hyvää elämää ovat elämänarvojeni ytimessä. Estetiikantaju saattaa jonkun mielestä kuulostaa toissijaiselta asialta, mutta jos emme kunnioita ympäristöämme ja halua rakentaa siitä kaunista, myös ihmisten hyvinvointi heikkenee. Periksiantamattomuuteen ja solidaarisuuteen liittyy, että olen valmis taistelemaan reilumman yhteiskunnan puolesta.",
+      "se": "Solidaritet, jämlikhet, respekt för miljön och djuren, känsla för estetik, uthållighet.\n\nMöjligheten för alla att leva tryggt och ha ett gott liv är kärnan i mina värderingar. En känsla för estetik kan för vissa låta som en sekundär fråga, men om vi inte respekterar vår omgivning och strävar efter att göra den vacker, försämras också människors välmående. Uthållighet och solidaritet innebär att jag är beredd att kämpa för ett rättvisare samhälle.",
+      "en": "Solidarity, equality, respect for the environment and animals, a sense of aesthetics, perseverance.\n\nThe opportunity for everyone to live safely and have a good life is at the core of my values. A sense of aesthetics might seem secondary to some, but if we do not respect our environment and strive to make it beautiful, people's well-being will also deteriorate. Perseverance and solidarity mean that I am ready to fight for a fairer society.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Kaupungin on oltava turvallinen ja saavutettava kaikille.\n\nPanostetaan eriarvoisuuden purkamiseen asumisessa, koulutuksessa ja työelämässä. Nuorten hyvivointierot ovat kasvussa Helsingissä, se suunta on pysäytettävä. Lisätään nuorten vaikutusmahdollisuuksia kaupungin päätöksenteossa, taataan maksuttomat ja saavutettavat mielenterveyspalvelut ja tehdään tilaa harrastuksille ja oleskelulle.",
+      "se": "Staden måste vara trygg och tillgänglig för alla.\n\nLåt oss satsa på att minska ojämlikhet inom boende, utbildning och arbetsliv. Välfärdsskillnaderna bland unga ökar i Helsingfors, och den utvecklingen måste stoppas. Vi ska stärka ungas möjligheter att påverka stadens beslut, garantera avgiftsfria och tillgängliga mentalvårdstjänster samt skapa mer utrymme för fritidsaktiviteter och umgänge.",
+      "en": "The city must be safe and accessible for everyone.\n\nLet’s invest in dismantling inequality in housing, education, and working life. Well-being disparities among young people are increasing in Helsinki, and that trend must be stopped. We must enhance youth participation in city decision-making, guarantee free and accessible mental health services, and create more spaces for hobbies and social activities.\n",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "http://www.irisflinkkila.fi",
+    "facebook_url": "https://www.facebook.com/irisflinkkila2021",
+    "instagram_url": "https://www.instagram.com/iristuulevi",
+    "tiktok_url": "https://www.tiktok.com/@iristuulevi",
+    "language_some_other": {
+      "fi": "Suoriudun mallikkaasti käytännön tilanteista ja small talkista myös ranskaksi ja ruotsiksi.",
+      "se": "Jag klarar mig utmärkt i praktiska situationer och småprat på både franska och svenska.",
+      "en": "I handle practical situations and small talk excellently in both French and Swedish.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "municipality_fix": {
+      "fi": "Hengailtavaan kaupunkiin ilman kulutuspakkoa pitää panostaa. Nuorten kasvaneisiin hyvinvointieroihin on puututtava. Julkisen liikenteen lippujen hintoja on ihan pakko saada alas. Kaupunkisuunnittelun on oltava feminististä — eli esimerkiksi niin, että vaunujen tai pyörätuolin kanssa kulkeminen ei olisi niin hankalaa kuin tällä hetkellä. Helsingin on oltava turvallinen, saavutettava ja toimiva kaikille — ei vain normi-ihmisenä pidetylle, terveelle, työssäkäyvälle miehelle, vaan myös naisille, lapsille, ikäihmisille, vammaisilleRavintola- ja tapahtuma-alaa on kuultava aiempaa paremmin päätöksenteossa, ilman sitä kaupunkikulttuuri ei kukoista. Elävässä kaupungissa asioita tapahtuu muulloinkin kuin päiväsaikaan!",
+      "se": "Vi måste satsa på en stad där man inte tvingas konsumera för att kunna vara en del av den. De växande välfärdsskillnaderna bland unga måste åtgärdas. Priserna på kollektivtrafikens biljetter måste helt enkelt sänkas. Stadsplaneringen måste vara feministisk – det vill säga att det exempelvis inte ska vara så svårt att ta sig fram med barnvagn eller rullstol som det är nu. Restaurang- och evenemangsbranschen måste få en starkare röst i beslutsfattandet; utan dem kan stadskulturen inte blomstra. En levande stad är aktiv även utanför kontorstid!",
+      "en": "We must invest in a city where you don't have to consume to exist. The growing well-being disparities among young people must be addressed. Public transport ticket prices simply have to come down. Urban planning must be feminist – meaning, for example, that moving around with a stroller or a wheelchair shouldn’t be as difficult as it is now. The restaurant and event industries need to be heard better in decision-making; without them, urban culture cannot thrive. A vibrant city doesn’t only come alive during the daytime!",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Olen toiminut kuluvalla kaudella Helsingin kaupungin tasa-arvo- ja yhdenvertaisuustoimikunnassa varsinaisena jäsenenä.",
+      "se": "Jag har varit ordinarie ledamot i Helsingfors stads jämställdhets- och likabehandlingskommitté under den pågående mandatperioden.",
+      "en": "I have been a full member of the Helsinki City Equality and Non-Discrimination Committee during the current term.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Kulttuuria, osallisuuden tunnetta ja viihtyisämpää kaupunkia!\n\nOnnelliseen elämään tarvitaan tapahtumia ja kulttuurielämää. Helsingin keskustan näivettyminen ei suinkaan johdu siitä ettei sinne pääse autolla, vaan siitä, ettei tapahtuma- ja ravintola-aloja ole kuultu päättävissä pöydissä tarpeeksi. Lupaan puolustaa Helsingin monimuotoista ja vapaata kulttuurikenttää, jossa niin pienet tekijät kuin suuret instituutiot voivat kukoistaa. Lisää resursseja ja tiloja ruohonjuuritason toimijoille — keikkapaikoille, taidekollektiiveille ja vapaille työtiloille.",
+      "se": "Kultur, delaktighet och en trivsammare stad!\n\nFör ett lyckligt liv behövs evenemang och ett levande kulturliv. Helsingfors innerstads nedgång beror inte på att man inte kan ta sig dit med bil, utan på att evenemangs- och restaurangbranscherna inte har fått tillräckligt med utrymme i beslutsfattandet. Jag lovar att försvara Helsingfors mångsidiga och fria kulturliv, där både små aktörer och stora institutioner kan blomstra. Fler resurser och utrymmen för gräsrotsverksamheter – konsertlokaler, konstkollektiv och fria arbetsutrymmen.",
+      "en": "Culture, a sense of belonging, and a more vibrant City!\n\nA happy life needs events and cultural experiences. The decline of Helsinki’s city center is not due to a lack of car access but rather because the voices of the event and restaurant industries have not been heard enough in decision-making. I promise to stand up for Helsinki’s diverse and free cultural scene, where both small creators and major institutions can thrive. More resources and spaces for grassroots operators — music venues, art collectives, and independent workspaces.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

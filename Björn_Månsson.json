@@ -1,0 +1,223 @@
+{
+  "id": 16548,
+  "first_name": "Björn",
+  "last_name": "Månsson",
+  "election_number": 649,
+  "party_id": 8,
+  "image": "kuvat/akv2025/16548/de218560-5c5c-4ba6-bc9e-7dc1262e5830",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 45,
+      "background_info_id": 10,
+      "name_fi": "En vasemmalle enkä oikealle",
+      "name_sv": "Varken vänster eller höger",
+      "name_en": "Neither to the right or the left",
+      "name_ru": "Ни слева, ни справа",
+      "name_sme": "In gurut inge olgeš guvlui",
+      "name_ara": "لا إلى اليسار ولا إلى اليمين",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": null,
+      "se": "Jag gör mitt bästa för att bevara och stärka Helsingfors som en tvåspråkig stad, öppen för olika kulturer och därmed mångfald. Det handlar förutom om identitet och trivsel ocksä om konkurrenskraft då det gäller att locka investeringar och den arbetskraft vi behöver.",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1952,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      }
+    ],
+    "education": {
+      "id": 51,
+      "background_info_id": 16,
+      "name_fi": "ylioppilas",
+      "name_sv": "student",
+      "name_en": "High school graduate",
+      "name_ru": "выпускник лицея",
+      "name_sme": "studeanta",
+      "name_ara": "شهادة البكالوريا",
+      "target_value": 3,
+      "name_ukr": "випускник ліцею",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Liberaali, demokraatti, sosiaalinen, humaani, perhekeskeinen",
+      "se": "Liberal, demokrat, social, human, familjeorienterad",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": null,
+      "se": "Att göra mitt bästa för att staden ska kunna erbjuda den service invånarna behöver, såsom dagvård i mindre grupper och daghem, kvalitativt högtstående undervisning i skolor med egna klassrum, ett rikt kulturutbud för alla åldrar och olika smaker, en fungerande och förmånlig kollektvtrafik i harmoni med en smidig privatbilstrafik utan onödiga förbud, en fungerande hälso- och sjukvård utan orimligt köande och en heltäckande äldrevård för alla, från hemservice till en mänsklig dygnetruntvård för dem som behöver den. Och allt självfallet på bägge nationalspråken finska och svenska, och vid behov andra språk.",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 23,
+      "background_info_id": 8,
+      "name_fi": "ruotsi",
+      "name_sv": "Svenska",
+      "name_en": "Swedish",
+      "name_ru": "шведский",
+      "name_sme": "ruoŧagiella",
+      "name_ara": "السويدية",
+      "target_value": null,
+      "name_ukr": "шведська",
+      "name_som": "af-Iswiidhish"
+    },
+    "homepage_url": "http://bjornmansson.fi",
+    "facebook_url": "https://www.facebook.com/bjorn.mansson.3",
+    "language_some_other": {
+      "fi": null,
+      "se": "lite ryska, efter två års studier vid Hanken",
+      "en": null,
+      "ru": "lite ryska, efter två års studier vid Hanken",
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "municipality_fix": {
+      "fi": "Katso vaalilupaukseni!",
+      "se": "Se mina vallöften!",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": null,
+      "se": "Ordförande för stadens naionalspråksnämnd med rätt att delta i stadsstyrelsens möten då social-, hälsovårds- och räddningsärenden behandlas, medlem av social-, hälsovårds- och räddningsnämnden, medlem av Helsingfors regiontrafiks styrelse, medlem av Kommunförbundets förbundsfullmäktige och svenska delegation, medlem av Nylads landskapsfullmäktige. Tidigare bl.a. medlem av styrelsen för HUS.",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": null,
+      "se": "Finska genom äktenskap..",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": null,
+      "se": "Att göra mitt bästa för att bevara så mycket som möjligt av Helsingfors karaktär som en trivsam stad för alla invånare, genom att bevara parker, naturområden, öppna platser och byggda kulturmiljöer. Vi får inte bygga hela staden full med bostads- och kontorshus, inte riva gamla byggnader som kan bevaras och inte fördärva stadsdelarnas prägel och karaktär genom ohejdat kompletteringsbyggande.",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "kunnanvaltuutettu",
+        "se": "ledamot i kommunfullmäktige",
+        "en": "municipal councillor",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": null,
+      "se": "Gen.sekr. för Svenska riksdagsguppen 2009-2013",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

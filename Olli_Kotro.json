@@ -1,0 +1,232 @@
+{
+  "id": 11442,
+  "first_name": "Olli",
+  "last_name": "Kotro",
+  "election_number": 86,
+  "party_id": 15,
+  "image": "kuvat/akv2025/11442/1979e0df-9bc2-4d40-a256-98bf7e3d71b9",
+  "constituency_id": 25,
+  "video": "1-73824241",
+  "video_aspect": "1:1",
+  "video_description_fi": "Tärkeimmät tavoitteeni ovat: turvallisempi, toimivampi ja läpinäkyvämpi Helsinki. Se tarkoittaa, että \n1) graffiteihin ja sotkuihin puututaan kovalla kädellä ja tekijät saatetaan edesvastuuseen\n2) toimivampaa raideliikennettä (raitiolinjojen nopeuksia nostettava ja tarvitaan toinen metrolinja)\n3) kaupungissa on kuultava asukkaiden ääntä, erilaiset hyväveli- ja vapaamuurariverkostot eivät voi päättää asioista meidän ylitsemme.",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 45,
+      "background_info_id": 10,
+      "name_fi": "En vasemmalle enkä oikealle",
+      "name_sv": "Varken vänster eller höger",
+      "name_en": "Neither to the right or the left",
+      "name_ru": "Ни слева, ни справа",
+      "name_sme": "In gurut inge olgeš guvlui",
+      "name_ara": "لا إلى اليسار ولا إلى اليمين",
+      "target_value": 0,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Ajan perinteisiä arvoja ja kannatan kaupunkia, jossa opettajien arvovalta nostetaan arvoon, kouluissa on tiukka kuri, häiriköt on eristetty tarkkailuluokille ja koulutus on turvallista eivätkä opettajat joudu pelkäämään. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1982,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      },
+      {
+        "fi": "ranska",
+        "se": "franska",
+        "en": "French",
+        "ru": "французский",
+        "sme": "fránskkagiella",
+        "ara": "الفرنسية"
+      },
+      {
+        "fi": "venäjä",
+        "se": "ryska",
+        "en": "Russian",
+        "ru": "русский",
+        "sme": "ruoššagiella",
+        "ara": "الروسية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "-Isänmaallisuus\n-Perhekeskeisyys ja läheisistä välittäminen\n-Täsmällisyys ja tarkkuus\n-Pyrkimys ymmärtää maailmaa monipuolisesti\n-Maltillisuus taloudessa\n\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Haluan ajaa politiikkaa, jossa kaupunki keskittyy ydinasioihin ja harjoittaa vastuullista taloudenpitoa. Siihen kuuluu myös rankka karsiminen maahanmuuttajien palveluista, sillä koulutettu moniosaaja ei sellaisia tarvitse. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": null,
+    "facebook_url": "https://www.facebook.com/OlliKotroPolitiikkasivu/",
+    "instagram_url": null,
+    "X_url": "https://x.com/OlliKotro",
+    "tiktok_url": "https://www.tiktok.com/@ollikotro",
+    "municipality_fix": {
+      "fi": "Helsingin pitäisi jo nykyisellä asukasmäärällä ymmärtää, että se tarvitsee tehokkaan joukkoliikenteen. Ymmärrykseni mukaan bussien ajattaminen keskustaan on pitkällä tähtäimellä tehotonta. Helsinki ja pk-seutu tarvitsisivat vähintään yhden uuden metrolinjan pohjoiseen, lentoasemalle asti (\"Töölön metro\"). Raitiovaunujen matkanopeuksia tulisi nostaa (kuten on vuosikausia suunniteltu kampaviinerikokouksissa) ja samalla varmistaa, ettei autoilua haitata enempää. Liikennekysymykset siis tärkeitä.\n\nSamalla Helsingin tulee keskittyä ydintoimintoihinsa, vaalia vanhaa rakennuskantaa (on törkeää, että Hietalahdenkadun puutalon sai purkaa tai Marian sairaalan puutalot, puhumattakaan valtioneuvoston painotalosta).\n\nHelsingin tulee olla toimiva, houkutteleva, suomalaisten pääkaupunki, emme tarvitse sosiaaliperäistä maahanmuuttoa ulkomailta.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Ei mitään.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 7,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti konservatiivi",
+      "name_sv": "Mycket konservativ",
+      "name_en": "Strongly conservative",
+      "name_ru": "В значительной степени консерватор",
+      "name_sme": "Nannosit konservatiiva",
+      "name_ara": "محافظ جدا",
+      "target_value": 3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": "ei muuta",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": "Teen kaikkeni hyväveli- ja vapaamuurariverkostojen vallan estämiseksi ja avoimen päätöksenteon puolesta. Tulen ajamaan Stop Töhryille-ohjelman palauttamista, on kestämätöntä, että kaupungissa laittomien töhryjen määrä kasvaa meluseinissä, tunneleissa ja asemilla. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Ehdokkuus eurovaaleissa 2019.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

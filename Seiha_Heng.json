@@ -1,0 +1,208 @@
+{
+  "id": 9923,
+  "first_name": "Seiha",
+  "last_name": "Heng",
+  "election_number": 240,
+  "party_id": 19,
+  "image": "kuvat/akv2025/9923/2fb74fe3-f6ec-4eb9-a185-d2ee08231d8b",
+  "constituency_id": 25,
+  "video": "1-73823265",
+  "video_aspect": "1:1",
+  "video_description_fi": "Moi! Mä oon Seiha Heng 19-vuotias opiskelija ja asun Helsingin Pihlajistossa. Mulle tärkein tavoite ensi valtuustokaudella on parantaa nuorten mielenterveyspalveluita.\n\nAvun saamisessa kestää aivan liian kauan ja siinä odottelussa monen tilanne saattaa pahentua. Meidän täytyy panostaa nuorten mielenterveyspalveluihin, lisätä enemmän matalan kynnyksen palveluita ja meillä pitää olla lyhyemmät jonot.\n\nNuoret pitää ottaa mukaan päätöksentekoon. Ja kun me kuunnellaan heitä eli meitä nuoria, niin teemme Helsingistä paremman paikan ja parempia päätöksiä jotka koskettavat meitä nuoria.\n\nJos sä haluat että nuorten äänet otetaan tosissaan ja tuodaan esille, niin suosittelen että äänestät mua. Kiitos!\n\n",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 47,
+      "background_info_id": 10,
+      "name_fi": "Oikealle",
+      "name_sv": "Till höger",
+      "name_en": "To the right",
+      "name_ru": "Справа",
+      "name_sme": "Olgeš guvlui",
+      "name_ara": "اليمين",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Edistän kestävää kehitystä, houkuttelen vihreän siirtymän investointeja ja kehitän julkista liikennettä.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 2005,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "joku muu",
+        "se": "något annat",
+        "en": "Other",
+        "ru": "другой",
+        "sme": "muhtin eará",
+        "ara": "لغة أخرى"
+      }
+    ],
+    "education": {
+      "id": 49,
+      "background_info_id": 16,
+      "name_fi": "peruskoulu",
+      "name_sv": "grundskola",
+      "name_en": "Primary school",
+      "name_ru": "средняя школа",
+      "name_sme": "vuođđoskuvla",
+      "name_ara": "المستوى الابتدائي",
+      "target_value": 1,
+      "name_ukr": "середня школа",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Yhteisöllisyys: Haluan kuunnella ihmisiä ja ottaa kaikki mukaan päätöksentekoon\n\nVastuullisuus: Kannatan järkevää taloudenpitoa, toimivia palveluita ja kestävää kehitystä\n\nRehellisyys ja avoimuus: Olen suora, helposti lähestyttävä ja haluan rakentaa luottamusta ihmisten välille\n\nYhdenvertaisuus: Korostan sitä, että kaikkien hyvinvointi on tärkeää ja jokainen ansaitsee tasavertaiset mahdollisuudet\n\nVälittäminen: Haluan auttaa muita, kuunnella ihmisiä ja tehdä päätöksiä, jotka parantavat heidän arkeaan\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lupaan kuunnella kaikkia – nuorista ikäihmisiin ja tehdä päätöksiä, jotka parantavat helsinkiläisten arkea.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 25,
+      "background_info_id": 8,
+      "name_fi": "jokin muu",
+      "name_sv": "något annat",
+      "name_en": "Other",
+      "name_ru": "другой",
+      "name_sme": "eará",
+      "name_ara": "لغة أخرى",
+      "target_value": null,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "homepage_url": "https://www.instagram.com/mr_presidentti/profilecard/?igsh=MWNvNDVhdnpxZmFycQ==",
+    "facebook_url": "https://www.facebook.com/seiha.heng.146",
+    "instagram_url": "https://www.instagram.com/mr_presidentti/profilecard/?igsh=MWNvNDVhdnpxZmFycQ==",
+    "X_url": "https://x.com/seihaheng1",
+    "tiktok_url": "https://www.tiktok.com/@mr_presidentti",
+    "language_some_other": {
+      "fi": "khmer",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "municipality_fix": {
+      "fi": "Nuorten hyvinvointi Helsingissä kaipaa konkreettisia tekoja, jotta jokainen nuori saa tarvitsemansa tuen ja mahdollisuuden hyvään elämään. Ennaltaehkäisevä tuki koulussa ja vapaa-ajalla on tärkeää. Kouluissa on oltava riittävästi aikuisia tukemassa oppilaita, ja nuorisotalojen on tarjottava mielekästä tekemistä jokaiselle. Harrastusmahdollisuuksia on kehitettävä niin, että jokaiselle nuorelle löytyy mahdollisuus osallistua harrastuksiin varallisuudesta riippumatta. \n\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": "Äidinkielenä puhun kahta kieltä suomea ja khmeriä",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": "Lupaan tuoda nuorten näkökulmat esille päätöksenteossa ja varmistaa, että nuorten hyvinvointi ja mielenterveyspalvelut ovat etusijalla.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Helsingin nuorisoneuvoston jäsen 2022-2023, Helsingin kasvatus- ja koulutuslautakunnan jäsen 2022-2023",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

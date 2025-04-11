@@ -1,0 +1,229 @@
+{
+  "id": 6024,
+  "first_name": "Kirsi",
+  "last_name": "Aaltonen",
+  "election_number": 89,
+  "party_id": 7,
+  "image": "kuvat/akv2025/6024/effbc4d3-0906-4fc7-ae1c-cf026d10db62",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 42,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti vasemmalle",
+      "name_sv": "Långt till vänster",
+      "name_en": "Strongly on the left",
+      "name_ru": "С самого левого края",
+      "name_sme": "Nannosit gurut guvlui",
+      "name_ara": "أقصى اليسار",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Kulttuurilla on merkittävä rooli kaupungin hengen luomisessa ja ylläpitämisessä. Taide ja kulttuuri ovat kaupungin sydän ja ne ovat myös osa kaupungin sielua; kulttuuritarjonnasta riippuu pitkälti se, miten viihtyisänä koemme kotikaupunkimme. Kulttuuri edistää ihmisten keskinäistä vuorovaikutusta. Se on tärkeä henkireikä ja elämysten mahdollistaja ja sitä kautta myös mielenterveyden sekä terveyden edistäjä ja ylläpitäjä arjen puurtamisen keskellä. Kulttuuri lisää sekä inklusiivisuutta että osallistamista ja sitä kautta hyvinvointia, tasa-arvoa ja ymmärrystä kaikkien kaupunkilaisten kesken. Mitä olisi arkemme ilman elokuvia, teatteria, elävää musiikkia, tanssia, balettia, oopperaa, kuunnelmia, konsertteja, kirjoja ja kirjastoja - jos ne kaikki poistettaisiin, mitä jäisi jäljelle? Siksi kulttuuria on tuettava niin, että taiteilijoilla ja kulttuurin tuottajilla olisi mahdollisuus keskittyä taiteen tekemiseen ja antaa luovuuden kukkia yhteiseksi iloksemme, jotta me kaikki helsinkiläiset voisimme päästä osallisiksi taide- ja kulttuurielämyksistä ja saisimme nauttia niistä kollektiivisesti! Lupaan edistää kulttuurikentän tukemista kaikin käytettävissäni olevin keinoin. Kulttuuria on tuettava määrärahoin, jotta pääsylippujen hinnat eri kulttuuritapahtumiin säilyisivät kohtuullisina ja jotta kulttuuritarjonta olisi tarkoitettu kaikille helsinkiläisille - ei vain harvoille!",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1963,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      },
+      {
+        "fi": "espanja",
+        "se": "spanska",
+        "en": "Spanish",
+        "ru": "испанский",
+        "sme": "spánskkagiella",
+        "ara": "الإسبانية"
+      },
+      {
+        "fi": "joku muu",
+        "se": "något annat",
+        "en": "Other",
+        "ru": "другой",
+        "sme": "muhtin eará",
+        "ara": "لغة أخرى"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Oikeudenmukaisuus \nTasa-arvo\nLuonto \nTaide \nKiitollisuus",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lähiluonnon puolustaminen ja ympäristönsuojelu ovat minulle sydämenasioita. En hyväksy luonnon uhraamista helsinkiläisten viihtyvyyden ja virkistysmahdollisuuksien kustannuksella. Asuntorakentamisessa on otettava huomioon tarpeenmukaisuus, luontoarvot, ekologisuus ja eettisyys. Helsinkiläisille arvokkaita puistoja tai lehtometsiä ei saa uhrata rakentamiselle. Aion mm. sinnikkäästi puolustaa Kumpulanmäen arvokasta ja valtakunnallisestikin ainutlaatuista jalopuumetsää asuntorakentamiselta. Myös Stansvikin monimuotoinen metsä on viime kädessä säästettävä kaavoitukselta. Länsisataman satamatunnelihanke ei saa vahingoittaa Lapinlahden puiston kulttuurihistoriallisesti arvokasta kaupunkikuvaa. Kaupunkisuunnittelussa on otettava huomioon erilaiset liikuntarajoitteet; kaupungin tulee olla esteetön ja hyvin saavutettava kaikille sen asukkaille, myös niin, että tämä huomioidaan julkisen liikenteen reittien suunnittelussa ja lippujen hinnoissa. HSL:n tariffien nostamiselle on tultava stoppi! Kaupungin on pystyttävä tarjoamaan helsinkiläisille edulliset julkisen liikenteen maksut, jolloin yksityisautoilu vähenee ja Helsingin ilmanlaatu paranee.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "facebook_url": "https://www.facebook.com/cereza.olita",
+    "instagram_url": "https://instagram.com/kirsicereza",
+    "language_some_other": {
+      "fi": "Katalaani ja ranskan alkeet",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "municipality_fix": {
+      "fi": "Koululuokkien kokoja ei tulisi kasvattaa, opettajia tulisi palkata lisää, eikä jättipäiväkoteja tai -kouluja tulisi perustaa enää ollenkaan. Kaupungin palkkauksen tulisi olla tasa-arvoinen. Peruspalveluiden tulisi säilyä kaupungilla eikä niitä saisi ulkoistaa yksityisille toimijoille kilpailutuksin. Julkisen terveydenhuollon alasajo on estettävä ja hoitohenkilökuntaa tulisi palkata lisää, potilasturvallisuuden ja hoidon tason turvaamiseksi. Asuntorakentamisessa tulisi ottaa huomioon lähiluonnon ja puistojen säilyminen, tarpeenmukaisuus, eettisyys ja ekologisuus. Kaupunkisuunnittelussa tulee turvata esteettömyys ja saavutettavuus kaikille asukkaille, myös julkisen liikenteen suunnittelussa ja hinnoittelussa. Ihmisillä tulisi olla oikeus kohtuulliseen asumistukeen ja sosiaaliturvaan, esim. työttömyyden tai sairauden osuessa kohdalle. Vammaisten ja vanhusten palvelut sekä mielenterveyspalvelut on turvattava. Kulttuuria on tuettava määrärahoin; kulttuuri on kaikille, ei vain harvoille.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": "Koululuokkien kokoa ei tulisi kasvattaa, vaan pienentää ja opettajia tulisi palkata lisää (myös varhaiskasvatukseen), eikä jättipäiväkoteja tulisi perustaa enää ollenkaan. Palkkauksen tulisi olla kaikilla kaupungin työntekijöillä tasa-arvoinen, oikeudenmukainen ja yhdenvertainen. Asuntorakentamisessa tulisi ottaa huomioon luontoarvot, lähiluonnon säilyminen, ympäristönsuojelu ja tarpeenmukaisuus. Kaupunkisuunnittelussa tulisi aina ottaa huomioon esteettömyys ja saavutettavuus. Hyvinvointiyhteiskunnan romuttaminen on estettävä. Jokaiselle sitä tarvitsevalle on turvattava riittävä asumistuki ja muu sosiaaliturva esim. työttömyyden tai sairauden osuessa kohdalle. Julkisen terveydenhuollon alasajo on niinikään estettävä. Hoitohenkilökuntaa on palkattava lisää hoitotakuun ja potilasturvallisuuden takaamiseksi. Kulttuuria on tuettava määrärahoin, jotta kulttuurin kuluttaminen olisi mahdollista kaikille, ei vain harvoille. ",
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Tällä hetkellä minulla ei ole muita luottamustehtäviä.\nOpiskeluaikoinani olen toiminut HOAS:n asukaskohteen hallituksessa.\nOlen Ylioppilasteatterin kunniajäsen.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": "Olen suorittanut Espanjassa asuessani. englanninkielen TOEFL-kielikokeen, josta sain tulokseksi \"natiivi\".\nPuhun erittäin sujuvasti espanjaa asuttuani 15 vuotta Barcelonassa.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": "Tasa-arvon, oikeudenmukaisuuden, yhdenvertaisuuden ja demokratian edistäminen ja sen toteutuminen kotikaupungissani Helsingissä on tavoitteeni ja ohjenuorani. Kaikilla helsinkiläisillä tulee olla yhdenvertainen mahdollisuus koulutukseen, hyvään asumiseen ja kohtuulliseen, tasa-arvoiseen palkkaan tehdystä työstä. Jokaisella on yhtäläiset perusoikeudet ja ihmisoikeudet, niin terveillä, vammaisilla kuin sukupuoli- tai muihin vähemmistöihin kuuluvilla. Rasismille, syrjinnälle ja vihapuheelle ei tule antaa minkäänlaista jalansijaa. Kaupungin on tarjottava kattava turvaverkko, jos arki ei kanna, ja sosiaaliturvan tulee olla riittävä. Julkisen terveydenhuollon alasajo on estettävä; terveyspalvelujen ulkoistaminen yksityisille toimijoille rokottaa erityisesti kaikkein heikoimmassa asemassa olevia helsinkiläisiä, eikä sitä voi sallia. Jokaisen on päästävä tarvittaessa viikon tai kahden sisällä yleislääkärille, mielenterveyspalveluja on lisättävä kysyntää vastaaviksi ja erikoissairaanhoidon poliklinikkamaksuja on kohtuullistettava. Tiedän omakohtaisesti, mihin julkisen terveydenhuollon säästöt, supistukset ja hoitohenkilökunnan vähäisyys voivat johtaa; olen kävelevä hoitovirhe-esimerkki.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

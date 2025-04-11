@@ -1,0 +1,197 @@
+{
+  "id": 2478,
+  "first_name": "Robert",
+  "last_name": "Ellmén",
+  "election_number": 717,
+  "party_id": 6,
+  "image": "kuvat/akv2025/2478/d5e8d499-22d6-44ab-b5b9-73ab191a22ed",
+  "constituency_id": 25,
+  "video": "1-73695792",
+  "video_aspect": "3:4",
+  "video_description_fi": "Tärkein tavoitteeni on tuoda näkemystä että Helsinki on paljon muutakin kuin pelkkä kantakaupunki. Haluan kehittää lähiöiden palveluita, liikenneyhteyksiä, yhteisöllisyyttä ja turvallisuutta.",
+  "video_description_sv": "Mitt viktigaste mål är att påminna beslutsfattarna att Helsingfors är mycket mera än bara centrum. Jag vill utveckla förorternas service, säkerhet och gemenskap.",
+  "video_description_en": "My goal is to remind people that Helsinki is much more than just the city centre. My pledge to you, the voters, is that I want to improve services, safety and the sense of community in the suburbs.",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 43,
+      "background_info_id": 10,
+      "name_fi": "Vasemmalle",
+      "name_sv": "Till vänster",
+      "name_en": "On the left",
+      "name_ru": "Слева",
+      "name_sme": "Gurut guvlui",
+      "name_ara": "اليسار",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Helsinkiin maailman toimivin julkinen liikenne ja Helsingistä maailman paras paikka liikkua omin voimin!",
+      "se": "Världens bästa kollektivtrafik till Helsingfors, och göra Helsingfors till den bästa staden att ta sig runt i till fots eller cykel!",
+      "en": "The world's best public transit, and make Helsinki the best place in the world for pedestrians and cyclists!",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1994,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "Empaattisuus, uteliaisuus, rohkeus, edistysmielisyys ja optimismi",
+      "se": "Empati, nyfikenhet, mod, progressivitet och optimism",
+      "en": "Empathy, curiosity, courage, progressivism and optimism",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Kauniimpi kaupunki, Helsinkiin pitää saada rakentaa myös uusvanhaa arkkitehtuuria",
+      "se": "En vackrare stad, vi måste låta bygga även nygammal arkitektur i Helsingfors",
+      "en": "A more beautiful city, we need to allow the building of new classical architecture in Helsinki",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 23,
+      "background_info_id": 8,
+      "name_fi": "ruotsi",
+      "name_sv": "Svenska",
+      "name_en": "Swedish",
+      "name_ru": "шведский",
+      "name_sme": "ruoŧagiella",
+      "name_ara": "السويدية",
+      "target_value": null,
+      "name_ukr": "шведська",
+      "name_som": "af-Iswiidhish"
+    },
+    "homepage_url": "https://linktr.ee/robert_ellmen",
+    "instagram_url": "https://www.instagram.com/ellmenos",
+    "X_url": null,
+    "tiktok_url": "https://www.tiktok.com/@ellmenos",
+    "municipality_fix": {
+      "fi": "Segregaatiokehitys pitää pysäyttää. Edes-takaisin politikointia vähentää. Rehellisempää dialogia kaupungin ja asukkaiden välillä. Palveluihin pitää panostaa.",
+      "se": "Segregationsutvecklingen måste stoppas. Minska politiskt käbbel i beslutsfattandet. Ärligare dialog mellan staden och dess invånare. Vi måste satsa mera på service som kommunen bjuder på.",
+      "en": "We have to end socio-economic segregation in Helsinki. Reduce political back-and-forth. We need more open and honest communication between the public sector and the citizens. More resources to the public services.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Länsi-Helsingin vihreiden puheenjohtaja",
+      "se": "Ordförande för de gröna i västra helsingfors",
+      "en": "Chairperson for greens in western Helsinki",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": null,
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": "Asuinalueiden eriytymisen ehkäiseminen",
+      "se": "Kämpa mot segregation ",
+      "en": "Fight against the socio-economic segregation of Helsinki",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

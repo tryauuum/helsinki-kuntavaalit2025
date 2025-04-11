@@ -1,0 +1,223 @@
+{
+  "id": 5400,
+  "first_name": "Raisa",
+  "last_name": "Lehtomäki",
+  "election_number": 969,
+  "party_id": 58,
+  "image": "kuvat/akv2025/5400/e7a6c7bd-5157-491a-81af-2b162a41d0dc",
+  "constituency_id": 25,
+  "video": "1-73763702",
+  "video_aspect": "4:3",
+  "video_description_fi": "Yhteistyötä enemmän, lähidemokratiaa vahvistettava vs. pormestarimalli, \"taseet töihin\" eli ylijäämä plus muu tileillä makaava raha (n. 1,6 miljardia) hyvinvointia lisäämään, ettei ihmisten tarvitse elää stressissä riittääkö raha vuokraan, ruokaan, lääkkeisiin... Helsingistä asukkaiden kaupunki!",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 43,
+      "background_info_id": 10,
+      "name_fi": "Vasemmalle",
+      "name_sv": "Till vänster",
+      "name_en": "On the left",
+      "name_ru": "Слева",
+      "name_sme": "Gurut guvlui",
+      "name_ara": "اليسار",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Kyllä lähipalveluille, ei jättikeskuksille",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1958,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Ihminen on luonteeltaan yhteisöllinen\nJokaiselta kykyjensä mukaan, jokaiselle tarpeensa mukaan\nRakasta lähimmäistäsi niin kuin itseäsi\nValtio tai kaupunki on ihmisiä varten eikä ihmiset niitä varten\nHyvinvoinnin perusta on investoida ihmisiin, niin bisneksessä kuin yhteiskunnassa\n",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Asuminen on ihmisoikeus eikä sijoituskohde",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "facebook_url": null,
+    "instagram_url": null,
+    "language_some_other": {
+      "fi": "venäjää vähän",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "municipality_fix": {
+      "fi": "Pois valtaa keskittävä pormestarimalli, asukkaiden ääni oikeasti kuuluviin, ihmisille kohtuuhintaisia koteja, omaishoitajien asemaa parannettava, vammaisille ja ikäihmisille oikein räätälöidyt julkiset palvelut ja lopetetaan jo näiden jättikeskusten rakentaminen niin sosiaali- ja terveyspalveluissa kuin kaupan alalla.\nLuontoarvot kunniaan, lisää puita kuten Pariisissa, kaupungin viilentämiseksi kesäisin, samalla paranee myös ilmanlaatu",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "TA-asunnot Oy:n Postipuistossa sijaitsevan taloyhtiön asukastoimikunnan puheenjohtaja, Helsingin seudun sairaus- ja tapaturmainvalidit ry:n sihteeri",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": "suomi",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": "Kestävää bisnestä on investoida ihmisiin",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Ulkoparlamentaarisen Joukkovoima-verkoston jäsen, vammaisaktiivi: kamppailemassa hyvinvointivaltion puolesta",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

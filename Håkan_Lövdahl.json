@@ -1,0 +1,197 @@
+{
+  "id": 18687,
+  "first_name": "Håkan",
+  "last_name": "Lövdahl",
+  "election_number": 641,
+  "party_id": 8,
+  "image": "kuvat/akv2025/18687/c4f221e0-29d9-4ef9-8952-0b30f458371e",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 46,
+      "background_info_id": 10,
+      "name_fi": "Hieman oikealle",
+      "name_sv": "Lite till Till högerhöger",
+      "name_en": "SlightTo the rightly to the right",
+      "name_ru": "Немного справа",
+      "name_sme": "Vehá olgeš guvlui",
+      "name_ara": "أميل إلى اليمين",
+      "target_value": 1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "On aika alkaa rakentaa työpaikkoja sen sijaan, että kaikkialla olisi pelkästään asuntoja. Joulukuussa 2024 Helsingissä oli 45 000 työttömiä. Helsingin rakentamisen tulee tapahtua niin, että säilytetään olemassa olevia työpaikkoja ja luodaan myös uusia.",
+      "se": "Det är dags att börja bygga arbetsplatser istället för enbart en massa bostäder överallt. I december 2024 fanns det 45.000 arbetslösa i Helsingfors. Byggnationen i Helsingfors skall ske på ett sätt som bevarar de arbetsplatser som finns, samt även skapar nya.",
+      "en": "It is time to start building workplaces instead of just a lot of housing everywhere. In December 2024, there were 45,000 unemployed in Helsinki. The construction in Helsinki must take place in a way that preserves the existing workplaces, as well as creating new ones.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1978,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 19,
+      "background_info_id": 6,
+      "name_fi": "mies",
+      "name_sv": "man",
+      "name_en": "man",
+      "name_ru": "Мужской",
+      "name_sme": "almmái",
+      "name_ara": "رجل",
+      "target_value": null,
+      "name_ukr": "Чоловіча",
+      "name_som": "nin"
+    },
+    "lifevalues": {
+      "fi": "1. Totuus\n2. Uskommisuus\n3. Myötätuntoa\n4. Halu tehdä töitä\n5. Halu ajatella",
+      "se": "1. Sanning\n2. Lojalitet\n3. Medkänsla\n4. Arbetsvilja\n5. Viljan att tänka",
+      "en": "1. Truth \n2. Loyalty \n3. Compassion \n4. Willingness to work \n5. The will to think",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Jättimäisten päiväkotien rakentaminen on saatava loppumaan, joissa lapset joutuvat syömään outoina aikoina ja tiukoina aikatauluina, koska ruokasalin jakaa reilusti yli sata lasta. Joinakin päivinä he eivät saa mennä ulos resurssien puutteen vuoksi kuivauskaapeilla ja vastaavilla. Päiväkodin pihoja ei saa missään tapauksessa pienentää entisestään, vaan niitä tulee suurentaa, jotta lapsille jää tilaa leikkiä.",
+      "se": "Byggandet av gigantiska daghem måste upphöra, där barn måste äta under konstiga tider och enligt strikta scheman, eftersom långt över hundra barn delar matsalen. Vissa dagar får de inte vara utomhus på grund av resursbrist med torkskåp och liknande. Under inga omständigheter bör dagisgårdarna göras mindre, utan de bör istället göras större för att ge barnen utrymme att leka.",
+      "en": "The construction of giant daycare centers must stop, where children have to eat at odd times and on strict schedules, because there are well over a hundred children sharing the dining room. On some days, they are not allowed to go outside due to lack of resources, with drying cabinets and the like. In no case should the daycare yards be made smaller, but rather enlarged to allow children to play.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 23,
+      "background_info_id": 8,
+      "name_fi": "ruotsi",
+      "name_sv": "Svenska",
+      "name_en": "Swedish",
+      "name_ru": "шведский",
+      "name_sme": "ruoŧagiella",
+      "name_ara": "السويدية",
+      "target_value": null,
+      "name_ukr": "шведська",
+      "name_som": "af-Iswiidhish"
+    },
+    "homepage_url": "https://www.hakanlovdahl.fi",
+    "facebook_url": "https://www.facebook.com/hakanlovdahl/",
+    "instagram_url": "https://www.instagram.com/hakanlovdahl",
+    "X_url": "https://x.com/hakanlovdahl",
+    "municipality_fix": {
+      "fi": "- Paikkojen jakaminen päiväkotiin, jotta sisarukset eivät päädy eri päiväkotiin. \n- Toimiva lentokenttä, jonne pienemmätkin lentokoneet voivat laskeutua ja pysäköidä. \n- Loputtomien tietöiden loppu.",
+      "se": "- Antagningen till daghemmen, så att inte syskon hamnar på olika daghem.\n- Ett fungerande flygfält där även mindre plan har möjlighet att landa och parkera.\n- Slut på de oändliga vägarbetena.",
+      "en": "- Admission to day care centers, so that siblings do not end up in different day care centers. \n- A functioning airfield where even smaller planes can land and park. \n- End of the endless road works.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "- Malmin lentoaseman ystävät ry:n puheenjohtaja\n- Itä-Helsingin RKP:n puheenjohtaja\n- Helsingin käräjäoikeus, lautamies",
+      "se": "- Ordförande för Malms flygplats vänner rf\n- Ordförande för Svenska folkpartiet i östra Helsingfors rf\n- Nämndeman vid Helsingfors tingsrätt",
+      "en": "Malmin lentoaseman ystävät ry, chairman \nSvenska folkpartiet i östra Helsingfors rf, chairman\nHelsinki district court, lay judge \n",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 5,
+      "background_info_id": 2,
+      "name_fi": "Hieman konservatiivi",
+      "name_sv": "Ganska konservativ",
+      "name_en": "Slightly conservative",
+      "name_ru": "Слегка консерватор",
+      "name_sme": "Vehá konservatiiva",
+      "name_ara": "أميل إلى المحافظة",
+      "target_value": 1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Toimiva infrastruktuuri. \n- Malmin lentokentän on tarkoitus olla jatkossa sähkölentokoneiden käytössä. Alueen kehittämisen tulee tapahtua ilmailun ehdoilla. \n- Tietyöt kestävät Helsingissä aivan liian kauan. Ne on tehtävä paljon nopeammin.\n- Marinat ja venesatamat ovat tärkeä osa helsinkiläistä tunnelmaa ja niitä tulee säilyttää ja kehittää.",
+      "se": "Fungerande infrastruktur.\n- Malms flygfält skall användas av el-flygplan i framtiden. Områdets utveckling skall ske på flygets villkor.\n- Vägarbeten tar allt för länge i Helsingfors. De måste utföras mycket snabbare.\n- Småbåtshamnar och båtplatser är en viktig del av Helsingfors-känslan och måste bevaras och utvecklas.",
+      "en": "Functioning infrastructure.\n- The Malmi airfield is to be used by electric aircraft in the future. The development of the area must take place on the terms of aviation. \n- Road works take far too long in Helsinki. They need to be done much faster. \n- Marinas and boat harbours are an important part of the Helsinki feel and must be preserved and developed.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": null,
+      "se": "Mångårig erfarenhet av att leda möten",
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

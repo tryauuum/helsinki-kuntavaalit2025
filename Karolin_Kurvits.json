@@ -1,0 +1,221 @@
+{
+  "id": 1267,
+  "first_name": "Karolin",
+  "last_name": "Kurvits",
+  "election_number": 266,
+  "party_id": 19,
+  "image": "kuvat/akv2025/1267/f3985248-21ba-4ab9-96f0-eeade356b4e1",
+  "constituency_id": 25,
+  "video": null,
+  "video_aspect": null,
+  "video_description_fi": null,
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 47,
+      "background_info_id": 10,
+      "name_fi": "Oikealle",
+      "name_sv": "Till höger",
+      "name_en": "To the right",
+      "name_ru": "Справа",
+      "name_sme": "Olgeš guvlui",
+      "name_ara": "اليمين",
+      "target_value": 2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Kestävä talous turvaa tulevaisuuden – Kaupungin ja valtion talous on laitettava kestävälle pohjalle, jotta hyvinvointipalvelut voidaan turvata myös tulevaisuudessa ilman jatkuvaa velkaantumista.",
+      "se": "Hållbar ekonomi tryggar framtiden – Stadens och statens ekonomi måste sättas på en hållbar grund så att välfärdstjänster kan tryggas också i framtiden utan ständig skuldsättning.",
+      "en": "Sustainable economy secures the future – The city and state finances must be put on a sustainable foundation to ensure that welfare services remain available in the future without continuous debt accumulation.",
+      "ru": "Устойчивая экономика – залог будущего – Городская и государственная экономика должна быть устойчивой, чтобы гарантировать доступ к социальным услугам в будущем без постоянного увеличения долга.",
+      "sme": null,
+      "ara": null,
+      "ukr": "Стійка економіка – запорука майбутнього – Міська та державна економіка мають бути стабільними, щоб соціальні послуги залишалися доступними у майбутньому без постійного зростання боргу.",
+      "som": null
+    },
+    "age": 2004,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "venäjä",
+        "se": "ryska",
+        "en": "Russian",
+        "ru": "русский",
+        "sme": "ruoššagiella",
+        "ara": "الروسية"
+      },
+      {
+        "fi": "viro",
+        "se": "estniska",
+        "en": "Estonian",
+        "ru": "эстонский",
+        "sme": "esttegiella",
+        "ara": "الإستونية"
+      },
+      {
+        "fi": "ukraina",
+        "se": "ukrainska",
+        "en": "Ukrainian",
+        "ru": "украинский",
+        "sme": null,
+        "ara": "الأكرانية"
+      }
+    ],
+    "education": {
+      "id": 51,
+      "background_info_id": 16,
+      "name_fi": "ylioppilas",
+      "name_sv": "student",
+      "name_en": "High school graduate",
+      "name_ru": "выпускник лицея",
+      "name_sme": "studeanta",
+      "name_ara": "شهادة البكالوريا",
+      "target_value": 3,
+      "name_ukr": "випускник ліцею",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Vapaus\nYritteliäisyys\nKoulutus ja sivistys\nKestävä talous\nKansainvälisyys",
+      "se": "Frihet\nEntreprenörskap\nUtbildning och bildning\nHållbar ekonomi\nInternationalism",
+      "en": "Freedom\nEntrepreneurship\nEducation and knowledge\nSustainable economy\nInternationalism",
+      "ru": "Свобода\nПредпринимательство\nОбразование и просвещение\nУстойчивая экономика\nИнтернационализм",
+      "sme": null,
+      "ara": null,
+      "ukr": "Свобода\nПідприємливість\nОсвіта та просвіта\nСтабільна економіка\nІнтернаціоналізм",
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Mielenterveyspalvelut kuntoon – Opiskelijoiden mielenterveyspalvelut ovat nykyisellään ruuhkautuneet. Haluan varmistaa, että apua saa ajoissa ja matalalla kynnyksellä.",
+      "se": "Mentalvårdstjänster i skick – Studenternas mentalvårdstjänster är överbelastade. Jag vill säkerställa att hjälp fås i tid och med låg tröskel.",
+      "en": "Mental health services must be improved – Student mental health services are currently overloaded. I want to ensure that help is available on time and with low thresholds.",
+      "ru": "Психиатрическая помощь должна быть доступной – В настоящее время службы психического здоровья студентов перегружены. Я хочу гарантировать, что помощь можно получить вовремя и без лишних барьеров.",
+      "sme": null,
+      "ara": null,
+      "ukr": "Психічне здоров'я студентів потребує покращення – Наразі послуги з психічного здоров'я студентів перевантажені. Я хочу забезпечити, щоб допомогу можна було отримати вчасно та без зайвих бар’єрів.",
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://karolinkurvits.kokoomus.net/",
+    "facebook_url": "https://www.facebook.com/Karolin.Kurvits/",
+    "instagram_url": "https://www.instagram.com/karolinkurvits/",
+    "tiktok_url": "https://www.tiktok.com/@karolinkurvits",
+    "municipality_fix": {
+      "fi": "Kotikunnassani on varmistettava, että palvelut säilyvät maantieteellisesti kattavasti myös reuna-alueilla, jotta kaikilla asukkailla on tasa-arvoiset mahdollisuudet hyvään arkeen. Koulutuksen ja sivistyksen tulee olla laadukasta ja saavutettavaa, ja harrastustoiminnan monipuolisuuteen on panostettava, jotta jokaisella lapsella ja nuorella on mahdollisuus kehittää itseään. Lisäksi turvallisuuteen on investoitava, jotta jokainen voi liikkua ja elää kotikunnassaan ilman pelkoa.",
+      "se": "I min hemkommun måste vi se till att tjänster finns tillgängliga över hela området, även i ytterområdena, så att alla invånare har lika möjligheter till ett gott liv. Utbildning och bildning ska vara av hög kvalitet och tillgänglig för alla, och fritidsverksamheten måste vara mångsidig för att ge varje barn och ungdom möjlighet att utvecklas. Dessutom måste vi satsa på trygghet, så att alla kan röra sig och leva i sin hemkommun utan rädsla.",
+      "en": "In my home municipality, we must ensure that services remain geographically accessible, including in the outskirts, so that all residents have equal opportunities for a good life. Education and knowledge should be of high quality and accessible to everyone, and diverse recreational activities should be supported so that every child and young person has the opportunity to develop. Additionally, investments in safety are crucial to ensure that everyone can move freely and live in their municipality without fear.",
+      "ru": "В моем родном муниципалитете необходимо обеспечить доступность услуг на всей территории, включая окраины, чтобы у всех жителей были равные возможности для достойной жизни. Образование и просвещение должны быть качественными и доступными, а также следует поддерживать разнообразные возможности для досуга, чтобы каждый ребенок и молодой человек могли развиваться. Кроме того, необходимо инвестировать в безопасность, чтобы все могли свободно передвигаться и жить в своем районе без страха.",
+      "sme": null,
+      "ara": null,
+      "ukr": "У моїй рідній громаді потрібно забезпечити доступність послуг на всій території, включно з околицями, щоб усі мешканці мали рівні можливості для гідного життя. Освіта та просвіта мають бути якісними та доступними, а також слід підтримувати різноманітні можливості для дозвілля, щоб кожна дитина і молода людина могли розвиватися. Крім того, необхідно інвестувати в безпеку, щоб усі могли вільно пересуватися і жити у своїй громаді без страху.",
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Toimin Helsingin Kokoomusopiskelijoiden hallituksessa tapahtumavastaavana sekä Helsingin yliopiston kandiohjelman opiskelijaedustajistossa.",
+      "se": "Jag är evenemangsansvarig i styrelsen för Helsingfors Samlingspartiets studenter och studentrepresentant i kandidatprogrammets studentråd vid Helsingfors universitet.",
+      "en": "I serve as the event coordinator on the board of Helsinki's National Coalition Party students and as a student representative in the bachelor's program student council at the University of Helsinki.",
+      "ru": "Я являюсь ответственным за мероприятия в правлении студенческого отделения Национальной коалиционной партии в Хельсинки, а также студентским представителем у бакалаврській програмі в Хельсинкском университете.",
+      "sme": null,
+      "ara": null,
+      "ukr": "Я є відповідальним за організацію заходів у правлінні студентського відділення Національної коаліційної партії в Гельсінкі, а також студентським представником у студентській раді бакалаврської програми Гельсінського університету.",
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 3,
+      "background_info_id": 2,
+      "name_fi": "Hieman liberaali",
+      "name_sv": "Ganska liberal",
+      "name_en": "Slightly liberal",
+      "name_ru": "Слегка либерал",
+      "name_sme": "Vehá liberála",
+      "name_ara": "أميل إلى الليبرالية",
+      "target_value": -1,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "language_other": {
+      "fi": "Puhun viroa ja venäjää erinomaisella tasolla, hyvää englantia ja ruotsia sekä hallitsen ukrainan alkeet.",
+      "se": "Jag talar estniska och ryska på utmärkt nivå, bra engelska och svenska samt har grundläggande kunskaper i ukrainska.",
+      "en": "I speak Estonian and Russian at an excellent level, good English and Swedish, and have basic knowledge of Ukrainian.",
+      "ru": "Я свободно владею эстонским и русским, хорошо говорю по-английски и по-шведски, а также имею базовые знания украинского.",
+      "sme": null,
+      "ara": null,
+      "ukr": "Я вільно володію естонською та російською мовами, добре знаю англійську та шведську, а також маю базові знання української.",
+      "som": null
+    },
+    "election_promise_1": {
+      "fi": "Enemmän joustavuutta opintoihin ja työntekoon – Haluan edistää opiskelijoiden mahdollisuuksia yhdistää opinnot ja työ joustavammin, jotta jokaisella on mahdollisuus rakentaa itselleen sopiva opiskelupolku.",
+      "se": "Mer flexibilitet i studier och arbete – Jag vill främja studenters möjligheter att kombinera studier och arbete mer flexibelt så att alla kan bygga en studieväg som passar dem.",
+      "en": "More flexibility in studies and work – I want to promote students' ability to combine studies and work more flexibly, allowing everyone to create a study path that suits them.",
+      "ru": "Больше гибкости в учёбе и работе – Я хочу способствовать тому, чтобы студенты могли более гибко совмещать учёбу и работу, создавая удобный для себя образовательный путь.",
+      "sme": null,
+      "ara": null,
+      "ukr": "Більше гнучкості в навчанні та роботі – Я хочу сприяти тому, щоб студенти могли більш гнучко поєднувати навчання та роботу, створюючи для себе оптимальний освітній шлях.",
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

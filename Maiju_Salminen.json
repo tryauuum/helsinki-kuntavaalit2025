@@ -1,0 +1,179 @@
+{
+  "id": 2133,
+  "first_name": "Maiju",
+  "last_name": "Salminen",
+  "election_number": 184,
+  "party_id": 7,
+  "image": "kuvat/akv2025/2133/ca067d54-acfc-4976-8042-7fb5aa327652",
+  "constituency_id": 25,
+  "video": "1-73763724",
+  "video_aspect": "1:1",
+  "video_description_fi": "Haluan ensi valtuustokaudella päästä valtuustoon tekemään konkreettista, ihmisläheistä politiikkaa, jolla parannetaan kaikkien kaupunkilaisten oloa. Helsingistä pitää tehdä kaupunki, jossa on kaikkien hyvä asua, olla, ja tehdä töitä. ",
+  "video_description_sv": null,
+  "video_description_en": "In the next municipal-council term, I want to be on the council to make concrete, people-oriented policies that improve the well-being of all city residents. Helsinki must be made a city where everyone feels good about living, being, and working.\n",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 42,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti vasemmalle",
+      "name_sv": "Långt till vänster",
+      "name_en": "Strongly on the left",
+      "name_ru": "С самого левого края",
+      "name_sme": "Nannosit gurut guvlui",
+      "name_ara": "أقصى اليسار",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Helsingistä saavutettava kaupunki",
+      "se": null,
+      "en": "Helsinki becomes an attainable city",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1995,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 52,
+      "background_info_id": 16,
+      "name_fi": "alempi korkeakoulututkinto",
+      "name_sv": "lägre högskoleexamen",
+      "name_en": "Bachelors degree",
+      "name_ru": "первая ступень высшего образования (бакалавриат)",
+      "name_sme": "vuolit allaskuvladutkkus",
+      "name_ara": "درجة البكالوريوس",
+      "target_value": 4,
+      "name_ukr": "перший ступінь вищої освіти (бакалаврат)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Reiluus, tasa-arvo, solidaarisuus, oikeudenmukaisuus ja periksiantamattomuus.",
+      "se": null,
+      "en": "Fairness, equality, solidarity, justice and perseverance.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Helsingistä mahdollistava kaupunki",
+      "se": null,
+      "en": "Helsinki becomes an enabling city",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://maijusalminen.fi",
+    "facebook_url": "https://www.facebook.com/profile.php?id=61564612846755",
+    "instagram_url": "https://www.instagram.com/maiju_salminen/",
+    "tiktok_url": "https://www.tiktok.com/@maiju_salminen",
+    "municipality_fix": {
+      "fi": "Helsingin pitäisi olla ihmisten kaupunki. Helsingin tulee olla aidosti reilu työnantaja, kaupungin töissä pitää olla riittävä henkilöstömitoitus, ja vakituisia työsuhteita pitää priorisoida. Kaupungin rahoilla tai kaupungin töissä ei saa olla työperäistä hyväksikäyttöä. Kaupungissa pitäisi olla edullisia vuokra-asuntoja, täällä asuminen pitää olla mahdollista kaikenlaisten tulotasojen ja taustojen omaaville ihmisille. Joukkoliikenteen tulisi olla ilmaista. Kaupunkiluonto ja lähiympäristön monimuotoisuus pitää turvata. Kaupungissa pitää olla huumeiden käyttöhuoneita. Ammatilliseen koulutukseen pitää panostaa. Kaupunki-infraa ja -tilaa pitää suunnitella huomioiden ihmiset. ",
+      "se": null,
+      "en": "Helsinki should be a city for the people. Helsinki should be a genuinely fair employer, city workers should have sufficient staffing levels, and permanent employment relationships should be prioritized. There should be no labor-based exploitation with city money or in city work. The city should have affordable rental housing, and living here should be possible for people of all income levels and backgrounds. Public transport should be free. The city's nature and the diversity of the local environment should be protected. The city should have drug use rooms. Investment should be made in vocational training. City infrastructure and space should be designed with people in mind.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Vasemmistonuorten 2. varapuheenjohtaja\nVasemmistonuorten työmarkkinapoliittisen työryhmän puheenjohtaja\nKSL-Opintokeskus / Kansan Sivistystyön liitto KSL ry:n hallituksen jäsen\nNuorisoasuntoliitto ry:n (NAL) hallituksen jäsen",
+      "se": null,
+      "en": "Left Youth of Finland, 2nd vice-chairperson\nLeft Youth of Finland, labor market policy working group, chairperson\nThe KSL Study Centre, member of the board\nThe Finnish Youth Housing Association NAL, member of the board",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 1,
+      "background_info_id": 2,
+      "name_fi": "Vahvasti liberaali",
+      "name_sv": "Mycket liberal",
+      "name_en": "Strongly liberal",
+      "name_ru": "В значительной степени либерал",
+      "name_sme": "Nannosit liberála",
+      "name_ara": "ليبرالي جدا",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Helsingistä työväen kaupunki",
+      "se": null,
+      "en": "Helsinki becomes a working-class city",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "id": 13197,
+  "first_name": "Johanna",
+  "last_name": "Sydänmaa",
+  "election_number": 808,
+  "party_id": 6,
+  "image": "kuvat/akv2025/13197/c92b9d20-0816-434b-ab29-ba5473f2b293",
+  "constituency_id": 25,
+  "video": "1-73820498",
+  "video_aspect": "1:1",
+  "video_description_fi": "Tärkein tavoitteeni on edistää koulujen ja opetuksen riittäviä resursseja. Pienemmät ryhmäkoot, riittävästi oppimisen tukipalveluita ja seinät luokkiin, jotta voimme taata työrauhan ja jokaisen oppiminen mahdollistuu.\n\nLasten ja nuorten hyvinvointi on minulle ollut aina poliittisen päätöksenteon tärkeä tavoite. Meidän pitää huolehtia muun muassa mielenterveyspalveluiden oikea-aikaisesta saannista ja mahdollisuudesta päästä erikoissairaanhoidon palveluihin tarvittaessa. ",
+  "video_description_sv": null,
+  "video_description_en": null,
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 43,
+      "background_info_id": 10,
+      "name_fi": "Vasemmalle",
+      "name_sv": "Till vänster",
+      "name_en": "On the left",
+      "name_ru": "Слева",
+      "name_sme": "Gurut guvlui",
+      "name_ara": "اليسار",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": "Lupaan edistää elävää kaupunkikulttuuria, tukea kulttuuritoimijoiden työn edellytyksiä ja pitää huolta matalan kynnyksen liikuntapalvelujen saatavuudesta.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1971,
+    "language_skills": [
+      {
+        "fi": "suomi",
+        "se": "finska",
+        "en": "Finnish",
+        "ru": "финский",
+        "sme": "suomagiella",
+        "ara": "الفنلندية"
+      },
+      {
+        "fi": "ruotsi",
+        "se": "svenska",
+        "en": "Swedish",
+        "ru": "шведский",
+        "sme": "ruoŧagiella",
+        "ara": "السويدية"
+      },
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      },
+      {
+        "fi": "saksa",
+        "se": "tyska",
+        "en": "German",
+        "ru": "немецкий",
+        "sme": "duiskkagiella",
+        "ara": "الألمانية"
+      }
+    ],
+    "education": {
+      "id": 53,
+      "background_info_id": 16,
+      "name_fi": "ylempi korkeakoulututkinto",
+      "name_sv": "högre högskoleexamen",
+      "name_en": "Masters degree",
+      "name_ru": "вторая ступень высшего образования (магистратура)",
+      "name_sme": "bajit allaskuvladutkkus",
+      "name_ara": "درجة الماجستير",
+      "target_value": 5,
+      "name_ukr": "другий ступінь вищої освіти (магістратура)",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "Perhe, ystävät, terveys, itsensä kehittäminen, merkityksellinen työ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "Lupaan edistää lasten ja nuorten hyvinvointipalveluja, mielenterveyspalvelujen saatavuutta sekä vanhemmuuden ja pienperheiden tukipalveluja. Pyrin ehkäisemään syrjäytymistä ja asuinalueiden eriarvoistumista.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "facebook_url": "https://facebook.com/johannasydanmaa1",
+    "instagram_url": "https://instagram.com/johannasydanmaa",
+    "municipality_fix": {
+      "fi": "Koulutilat, opetuksen resurssit, opetuksen ja varhaiskasvatuksen ryhmäkoot, oppimisen tuen palvelut sekä perheiden palvelut sosiaalitoimen puolella. Lasten ja nuorten hyvinvointi edellä. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Olen Vihreiden kolmas varavaltuutettu, kulttuuri- ja kirjastojaoston varapuheenjohtaja, kulttuuri- ja vapaa-aikalautakunnan varajäsen sekä Mäkelänrinteen uintikeskuksen hallituksen puheenjohtaja. ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "Lupaan edistää opetuksen ja varhaiskasvatuksen resurssien riittävyyttä, ryhmäkokojen pienentämistä ja työrauhan saamista kouluihin lisäämällä oppimisen tuen palveluita. Vastustan avokonttorikouluja! ",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "kunnanvaltuutettu",
+        "se": "ledamot i kommunfullmäktige",
+        "en": "municipal councillor",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ],
+    "political_experience": {
+      "fi": "Olen toiminut kaupunginvaltuutettuna tai varavaltuutettuna ja 20 vuoden ajan Helsingissä ja kaikkina vaalikausina luottamustehtäväni ovat olleet liikunta-, nuoriso- tai kulttuuri- ja kirjastolautakunnassa. Olen myös toiminut Helsingin opettajien ammattiyhdistyksen hallituksen jäsenenä ja OAJ:n valtuuston varavaltuutettuna.",
+      "se": null,
+      "en": null,
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    }
+  }
+}

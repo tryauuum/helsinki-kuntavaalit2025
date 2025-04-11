@@ -1,0 +1,172 @@
+{
+  "id": 3604,
+  "first_name": "Jenny",
+  "last_name": "Kasongo",
+  "election_number": 120,
+  "party_id": 7,
+  "image": "kuvat/akv2025/3604/781a55fc-fc86-411f-b8c6-0441a0fe949c",
+  "constituency_id": 25,
+  "video": "1-73815342",
+  "video_aspect": "1:1",
+  "video_description_fi": "Olen Helsingin kuntavaaleissa ehdolla, jotta Helsinki olisi kaikkien, ei vain hyväosaisten ja rikkaiden. Tulevana valtuustokautena tavoitteena olisi rakennuttaa enemmän kohtuuhintaisia asuntoja, kehittää terveydenhuoltoa luotettavammaksi ja luoda Helsingistä yhdenvertaisempi.",
+  "video_description_sv": null,
+  "video_description_en": "I am a candidate in the Helsinki municipal elections to make Helsinki a place for everyone, not just the well-off and the rich. In the coming council term, the aim should be to build more affordable housing, make health care more reliable and create a more equitable Helsinki.",
+  "video_description_ru": null,
+  "video_description_sme": null,
+  "video_description_ara": null,
+  "candidate_hidden": null,
+  "info": {
+    "left_right_axis": {
+      "id": 42,
+      "background_info_id": 10,
+      "name_fi": "Vahvasti vasemmalle",
+      "name_sv": "Långt till vänster",
+      "name_en": "Strongly on the left",
+      "name_ru": "С самого левого края",
+      "name_sme": "Nannosit gurut guvlui",
+      "name_ara": "أقصى اليسار",
+      "target_value": -3,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "election_promise_3": {
+      "fi": " 3. Lupaan edistää yhdenvertaisuutta.",
+      "se": null,
+      "en": " 3. I pledge to promote equity.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "age": 1995,
+    "language_skills": [
+      {
+        "fi": "englanti",
+        "se": "engelska",
+        "en": "English",
+        "ru": "английский",
+        "sme": "eaŋgalsgiella",
+        "ara": "الإنجليزية"
+      }
+    ],
+    "education": {
+      "id": 51,
+      "background_info_id": 16,
+      "name_fi": "ylioppilas",
+      "name_sv": "student",
+      "name_en": "High school graduate",
+      "name_ru": "выпускник лицея",
+      "name_sme": "studeanta",
+      "name_ara": "شهادة البكالوريا",
+      "target_value": 3,
+      "name_ukr": "випускник ліцею",
+      "name_som": null
+    },
+    "gender": {
+      "id": 18,
+      "background_info_id": 6,
+      "name_fi": "nainen",
+      "name_sv": "kvinna",
+      "name_en": "woman",
+      "name_ru": "Женский",
+      "name_sme": "nisson",
+      "name_ara": "امرأة",
+      "target_value": null,
+      "name_ukr": "Жіноча",
+      "name_som": "naag"
+    },
+    "lifevalues": {
+      "fi": "1. Ihmisoikeudet\n2. Yhdenvertaisuus\n3. Perhe\n4. Terveys\n5. Luonnon hyvä kohtelu",
+      "se": null,
+      "en": "1. Human rights\n2. Equality\n3. Family\n4. Health\n5. Treating nature well",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "election_promise_2": {
+      "fi": "2. Lupaa edistää luotettavaa ja parempaa terveydenhuoltoa.",
+      "se": null,
+      "en": "2. A pledge to promote reliable and better healthcare.",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "language": {
+      "id": 22,
+      "background_info_id": 8,
+      "name_fi": "suomi",
+      "name_sv": "Finska",
+      "name_en": "Finnish",
+      "name_ru": "финский",
+      "name_sme": "suomagiella",
+      "name_ara": "الفنلندية",
+      "target_value": null,
+      "name_ukr": "фінська",
+      "name_som": "af-finnish"
+    },
+    "homepage_url": "https://jennykasongo.fi/",
+    "facebook_url": "https://www.facebook.com/share/1BJy2a7FGg/?mibextid=wwXIfr",
+    "instagram_url": "https://www.instagram.com/jennykasongo9",
+    "X_url": "https://x.com/jenny_kasongo?s=21",
+    "tiktok_url": "https://www.tiktok.com/@jenny.kasongo",
+    "municipality_fix": {
+      "fi": "Helsingissä tulee olla enemmän kohtuuhintaisia asuntoja, parempaa terveydenhuoltoa ja yhdenvertaisuutta. Helsingissä täytyy selvittää vuokrasääntelyn toteuttamista ja investoida lisärakentamiseen. Julkisesta terveydenhuollosta tulee huolehtia, eikä asiakasmaksuja voi nostaa loputtomiin. \n \nYhdenvertaisuutta tarvitaan aikana, kun vihaa lietsotaan eri ihmisryhmiä kohtaan. Yhdenvertaisuutta edistetään muun muassa parantamalla kotoutumis- ja työllisyyspalveluiden, puuttumalla koulutussegregaatioon ja aktiivisesti vastustamalla rasismia. ",
+      "se": null,
+      "en": "Helsinki must have more affordable housing, better healthcare and equality. Helsinki needs to look at implementing rent regulation and investing in more construction. Public health care must be taken care of, and customer fees cannot be raised indefinitely. \n \nEquality is needed at a time when hatred is being stirred up against different groups of people. Promoting equality includes improving integration and employment services, tackling educational segregation and actively combating racism. ",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative_other": {
+      "fi": "Toimin Helsingin yliopiston ylioppilaskunnan edustajana sekä vasemmistoliiton rasisminvastaisen työryhmän puheenjohtajana. ",
+      "se": null,
+      "en": "I am a representative of the Student Union of the University of Helsinki and chair of the Left Alliance's anti-racism working group. ",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "liberal_conservative_axis": {
+      "id": 2,
+      "background_info_id": 2,
+      "name_fi": "Liberaali",
+      "name_sv": "Liberal",
+      "name_en": "Liberal",
+      "name_ru": "Либерал",
+      "name_sme": "Liberála",
+      "name_ara": "ليبرالي",
+      "target_value": -2,
+      "name_ukr": null,
+      "name_som": null
+    },
+    "municipality": "091",
+    "election_promise_1": {
+      "fi": "1. Lupaan edistää kohtuuhintaista omistus- ja vuokra-asumista. \n",
+      "se": null,
+      "en": "1. To promote affordable owner-occupied and rental housing. ",
+      "ru": null,
+      "sme": null,
+      "ara": null,
+      "ukr": null,
+      "som": null
+    },
+    "representative": [
+      {
+        "fi": "ei mikään näistä",
+        "se": "inget av dessa",
+        "en": "none of the above",
+        "ru": null,
+        "sme": null,
+        "ara": null
+      }
+    ]
+  }
+}
