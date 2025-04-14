@@ -18,25 +18,27 @@ echo "Read the git commit history to understand how the list was constructed" >>
 echo "" >> "$OUTPUT_FILE"
 
 # Create table header
-echo "| Name | Party | Yle Candidate Page |" >> "$OUTPUT_FILE"
-echo "|------|-------|-------------------|" >> "$OUTPUT_FILE"
+echo "| Name | Party | Yle Candidate Page | Votes | Result Page |" >> "$OUTPUT_FILE"
+echo "|------|-------|--------------------|-------|-------------|" >> "$OUTPUT_FILE"
 
 # this weirdness to sort by party id
-for x in *.json; do echo $x | grep -q candidates.json || { echo "$x $(cat $x | jq .party_id)"; }; done | sort -k2 -V  | awk '{print $1}' | while read -r json_file; do
+for x in *_*.json; do echo "$x $(cat $x | jq .party_id)";  done | sort -k2 -V  | awk '{print $1}' | while read -r json_file; do
     # Extract candidate information using jq
     id=$(jq -r '.id' "$json_file")
     first_name=$(jq -r '.first_name' "$json_file")
     last_name=$(jq -r '.last_name' "$json_file")
     party_id=$(jq -r '.party_id' "$json_file")
-    
+    election_id=$( jq -r '.election_number' "$json_file")
+    total_votes=$( grep -rFw '"caid": '${election_id}',' .results.json -B5 | grep -m 1 totalVotes | grep -oP '[0-9]+' )
+
     # Get party name from the mapping
     party_name="${PARTY_NAMES[$party_id]:-Unknown Party}"
-    
+
     # Build the Yle URL
     yle_url="https://vaalit.yle.fi/vaalikone/kuntavaalit2025/25/ehdokkaat/$id"
-    
+
     # Add a row to the table
-    echo "| $first_name $last_name | $party_name | [Profile]($yle_url) |" >> "$OUTPUT_FILE"
+    echo "| $first_name $last_name | $party_name | [Profile]($yle_url) | $total_votes | [Result](https://vaalit.yle.fi/kv2025/tulospalvelu/en/municipalities/91/candidates/?caid=${election_id}) |" >> "$OUTPUT_FILE"
 done
 
 echo "Generated markdown table in $OUTPUT_FILE"
